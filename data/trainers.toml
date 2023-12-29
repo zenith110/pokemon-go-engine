@@ -1,0 +1,14 @@
+[elite4]
+name = "terry"
+sprite = ""
+id = 1
+
+[elite4.terry.battle.1.pokemon]
+species = "Blastoise"
+level = 100
+
+[elite4.terry.battle.1.pokemon]
+species = "Giratina"
+level = 100
+
+

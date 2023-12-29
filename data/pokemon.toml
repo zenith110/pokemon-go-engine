@@ -1,0 +1,12 @@
+[dex]
+name = "test"
+id = 1
+stats = {hp = 1, speed = 1, defense = 1, specialAtk = 1, specialDef = 1}
+evolution = { level = 15, name = "test2", id = 2}
+sprite = ""
+baseRate = 1
+types = { type1 = dragon, type2 = steel}
+sprites = { front = "", back = "", icon = ""}
+cry = ""
+ability1 = ["test", "test2"]
+ability2 = ["test", "test2"]

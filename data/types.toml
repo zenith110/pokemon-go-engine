@@ -1,0 +1,7 @@
+[type]
+name = "fire"
+weakTo = ["water", "flying"]
+superEffectiveTo = [ "grass" ]
+
+[type]
+name = "steel"
