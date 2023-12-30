@@ -1,14 +1,7 @@
-[elite4]
+[trainer]
 name = "terry"
 sprite = ""
 id = 1
-
-[elite4.terry.battle.1.pokemon]
-species = "Blastoise"
-level = 100
-
-[elite4.terry.battle.1.pokemon]
-species = "Giratina"
-level = 100
-
-
+pokemon1 = {species = Blastoise, level = 100, moves = ["Hydro Pump", "Shell Shock"] heldItem = "Oran Berry"}
+pokemon2 = {species = Blastoise, level = 100, moves = ["Hydro Pump", "Shell Shock"]}
+classType = elite4

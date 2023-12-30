@@ -25,6 +25,7 @@ return(
     <label>Next Battle: </label>
     <p>{nextFightId}</p>
     </p>
+    <PokemonStats pokemonData={pokemonData} />
     </>
 )
 }
