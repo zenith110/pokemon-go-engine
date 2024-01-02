@@ -1,0 +1,6 @@
+[[trainer]]
+name = "terry"
+sprite = ""
+id = 1
+pokemons = [{species = "Blastoise", level = 100, moves=["Hydro Pump"], heldItem = "oran barry"}]
+classType = "elite4"

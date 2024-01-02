@@ -1,7 +1,0 @@
-[trainer]
-name = "terry"
-sprite = ""
-id = 1
-pokemon1 = {species = Blastoise, level = 100, moves = ["Hydro Pump", "Shell Shock"] heldItem = "Oran Berry"}
-pokemon2 = {species = Blastoise, level = 100, moves = ["Hydro Pump", "Shell Shock"]}
-classType = elite4
