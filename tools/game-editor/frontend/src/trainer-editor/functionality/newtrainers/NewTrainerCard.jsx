@@ -11,7 +11,7 @@ const NewTrainerCard = ({ setNewTrainer }) => {
     const [visibleSprites, setVisibleSprites] = useState(false)
     const [pokemonSpecies, setPokemonSpecies] = useState([])
     const [pokemonCount, setPokemonCount] = useState(0)
-    const [pokemon, setPokemons] = useState([])
+    const [pokemons, setPokemons] = useState([])
     const [heldItemsList, setHeldItemList] = useState([])
     useEffect(() => { 
         const fetchClassTypes = () => {
@@ -38,7 +38,8 @@ const NewTrainerCard = ({ setNewTrainer }) => {
             "name": name,
             "sprite": "yo",
             "classType": "yo",
-            "id": uuidv4()
+            "id": uuidv4(),
+            "pokemons": pokemons
         }
         CreateTrainerData(data)
         setNewTrainer(false)

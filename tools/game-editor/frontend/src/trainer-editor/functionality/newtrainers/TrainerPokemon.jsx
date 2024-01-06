@@ -1,13 +1,11 @@
-import { useState } from "react"
+import { useState, useEffect} from "react"
 
 import PokemonStats from "./pokemon/PokemonStats"
-const TrainerPokemon = ({ setPokemons, pokemonSpeciesList, heldItemsList, pokemonIndex }) => {
+const TrainerPokemon = ({ setPokemons, pokemonSpeciesList, heldItemsList, pokemonIndex, setPokemonIndex }) => {
     const [currentlySelectedPokemon, setCurrentlySelectedPokemon] = useState({})
     const SetData = (e) => {
         const pokemon = pokemonSpeciesList.find((pokemon) => pokemon.Name === e.target.value)
-        console.log(pokemon)
         setCurrentlySelectedPokemon(pokemon)
-        console.log(currentlySelectedPokemon)
     }
     return(
         <>
@@ -18,7 +16,7 @@ const TrainerPokemon = ({ setPokemons, pokemonSpeciesList, heldItemsList, pokemo
                 <option value={pokemon.Name} key={pokemon.Name}>{pokemon.Name}</option>
             )}
         </select>
-        {currentlySelectedPokemon.length >= 1 ? <PokemonStats currentlySelectedPokemon={currentlySelectedPokemon}/> : <></>}
+        {Object.keys(currentlySelectedPokemon).length >= 1 ? <PokemonStats currentlySelectedPokemon={currentlySelectedPokemon} heldItemsList={heldItemsList}/> : <></>}
         </>
     )
 }

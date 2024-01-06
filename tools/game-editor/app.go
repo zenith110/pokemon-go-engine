@@ -136,6 +136,7 @@ func (a *App) ParsePokemonData() []PokemonTrainerEditor {
 			Speed:          pokemons.Pokemon[pokemon].Stats.Speed,
 			SpecialDefense: pokemons.Pokemon[pokemon].Stats.SpecialDef,
 			Moves:          pokemons.Pokemon[pokemon].LevelUpMoves,
+			Attack:         pokemons.Pokemon[pokemon].Stats.Attack,
 		}
 		trainerEditorPokemons = append(trainerEditorPokemons, trainerEditorPokemon)
 	}

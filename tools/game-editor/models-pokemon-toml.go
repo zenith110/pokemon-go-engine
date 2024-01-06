@@ -9,6 +9,7 @@ type Stats struct {
 	Defense    int `toml:"defense"`
 	SpecialAtk int `toml:"specialAtk"`
 	SpecialDef int `toml:"specialDef"`
+	Attack     int `toml:"attack"`
 }
 type Evolution struct {
 	Level int    `toml:"level"`
@@ -54,5 +55,6 @@ type PokemonTrainerEditor struct {
 	SpecialAttack  int
 	Speed          int
 	SpecialDefense int
+	Attack         int
 	Moves          []LevelUpMoves
 }
