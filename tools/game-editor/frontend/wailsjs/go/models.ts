@@ -4,6 +4,12 @@ export namespace main {
 	export class PokemonJson {
 	    species: string;
 	    level: number;
+	    hp: number;
+	    attack: number;
+	    defense: number;
+	    speed: number;
+	    specialAttack: number;
+	    specialDefense: number;
 	    moves: string[];
 	    heldItem: string;
 	
@@ -15,11 +21,16 @@ export namespace main {
 	        if ('string' === typeof source) source = JSON.parse(source);
 	        this.species = source["species"];
 	        this.level = source["level"];
+	        this.hp = source["hp"];
+	        this.attack = source["attack"];
+	        this.defense = source["defense"];
+	        this.speed = source["speed"];
+	        this.specialAttack = source["specialAttack"];
+	        this.specialDefense = source["specialDefense"];
 	        this.moves = source["moves"];
 	        this.heldItem = source["heldItem"];
 	    }
 	}
-	
 	
 	
 	export class TrainerJson {

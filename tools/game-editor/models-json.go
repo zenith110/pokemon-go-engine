@@ -1,10 +1,16 @@
 package main
 
 type PokemonJson struct {
-	Species  string   `json:"species"`
-	Level    int      `json:"level"`
-	Moves    []string `json:"moves"`
-	HeldItem string   `json:"heldItem"`
+	Species        string   `json:"species"`
+	Level          int      `json:"level"`
+	HP             int      `json:"hp"`
+	Attack         int      `json:"attack"`
+	Defense        int      `json:"defense"`
+	Speed          int      `json:"speed"`
+	SpecialAttack  int      `json:"specialAttack"`
+	SpecialDefense int      `json:"specialDefense"`
+	Moves          []string `json:"moves"`
+	HeldItem       string   `json:"heldItem"`
 }
 
 type TrainerJson struct {

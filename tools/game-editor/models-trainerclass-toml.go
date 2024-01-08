@@ -1,6 +1,6 @@
 package main
 
-type TrainerClass struct {
+type TrainerClasses struct {
 	Data []Data `toml:"data"`
 }
 type Data struct {

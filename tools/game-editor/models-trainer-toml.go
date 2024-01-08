@@ -1,18 +1,24 @@
 package main
 
 type TrainerToml struct {
-	Trainers []Trainer `toml:"trainer"`
+	Trainers []Trainers `toml:"trainers"`
 }
 type Pokemons struct {
-	Species  string   `toml:"species"`
-	Level    int      `toml:"level"`
-	Moves    []string `toml:"moves"`
-	HeldItem string   `toml:"heldItem"`
+	Species        string   `toml:"species"`
+	Level          int      `toml:"level"`
+	Moves          []string `toml:"moves"`
+	HeldItem       string   `toml:"heldItem"`
+	HP             int      `toml:"hp"`
+	Attack         int      `toml:"attack"`
+	Defense        int      `toml:"defense"`
+	Speed          int      `toml:"speed"`
+	SpecialAttack  int      `toml:"specialAttack"`
+	SpecialDefense int      `toml:"specialDefense"`
 }
-type Trainer struct {
+type Trainers struct {
 	Name      string     `toml:"name"`
 	Sprite    string     `toml:"sprite"`
 	ID        string     `toml:"id"`
-	Pokemons  []Pokemons `toml:"pokemons"`
 	ClassType string     `toml:"classType"`
+	Pokemons  []Pokemons `toml:"pokemon"`
 }

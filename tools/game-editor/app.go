@@ -49,47 +49,58 @@ func (a *App) startup(ctx context.Context) {
 
 }
 
-func (a *App) LoadTrainerToml() Trainer {
-	file, err := os.Open("trainers.toml")
-	if err != nil {
-		panic(err)
-	}
-	defer file.Close()
-	var trainers Trainer
-	bytes, err := io.ReadAll(file)
-	if err != nil {
-		panic(err)
-	}
-	err = toml.Unmarshal(bytes, &trainers)
-	if err != nil {
-		panic(err)
-	}
+// func (a *App) LoadTrainerToml() Trainer {
+// 	file, err := os.Open("trainers.toml")
+// 	if err != nil {
+// 		panic(err)
+// 	}
+// 	defer file.Close()
+// 	var trainers Trainer
+// 	bytes, err := io.ReadAll(file)
+// 	if err != nil {
+// 		panic(err)
+// 	}
+// 	err = toml.Unmarshal(bytes, &trainers)
+// 	if err != nil {
+// 		panic(err)
+// 	}
 
-	return trainers
-}
+// 	return trainers
+// }
 
 func (a *App) CreateTrainerData(trainerJson TrainerJson) {
 
 	var pokemons []Pokemons
 	for index := range trainerJson.Pokemons {
 		pokemon := Pokemons{
-			Species:  trainerJson.Pokemons[index].Species,
-			Level:    trainerJson.Pokemons[index].Level,
-			Moves:    trainerJson.Pokemons[index].Moves,
-			HeldItem: trainerJson.Pokemons[index].HeldItem,
+			Species:        trainerJson.Pokemons[index].Species,
+			Level:          trainerJson.Pokemons[index].Level,
+			Moves:          trainerJson.Pokemons[index].Moves,
+			HeldItem:       trainerJson.Pokemons[index].HeldItem,
+			HP:             trainerJson.Pokemons[index].HP,
+			Defense:        trainerJson.Pokemons[index].Defense,
+			Attack:         trainerJson.Pokemons[index].Attack,
+			SpecialAttack:  trainerJson.Pokemons[index].SpecialAttack,
+			SpecialDefense: trainerJson.Pokemons[index].SpecialDefense,
+			Speed:          trainerJson.Pokemons[index].Speed,
 		}
 		pokemons = append(pokemons, pokemon)
 	}
-	// config := SetupConfig()
-	trainer := Trainer{
+	var trainers []Trainers
+
+	trainer := Trainers{
 		Name:      trainerJson.Name,
 		Sprite:    trainerJson.Sprite,
 		ID:        trainerJson.Id,
 		Pokemons:  pokemons,
 		ClassType: trainerJson.ClassType,
 	}
-
-	data, err := toml.Marshal(trainer)
+	fmt.Print(trainer)
+	trainers = append(trainers, trainer)
+	trainerConfig := TrainerToml{
+		Trainers: trainers,
+	}
+	data, err := toml.Marshal(trainerConfig)
 	if err != nil {
 		panic(fmt.Errorf("Error had occured while creating trainer data!\n%v", err))
 	}
@@ -143,14 +154,13 @@ func (a *App) ParsePokemonData() []PokemonTrainerEditor {
 	return trainerEditorPokemons
 }
 
-func (a *App) ParseTrainerClass() TrainerClass {
-	config := SetupConfig()
-	file, err := os.Open(fmt.Sprintf("%s/trainerclasses.toml", config.dataDirectory))
+func (a *App) ParseTrainerClass() TrainerClasses {
+	file, err := os.Open("trainerclasses.toml")
 	if err != nil {
 		panic(err)
 	}
 	defer file.Close()
-	var trainerclasses TrainerClass
+	var trainerclasses TrainerClasses
 	bytes, err := io.ReadAll(file)
 	if err != nil {
 		panic(err)
@@ -159,6 +169,7 @@ func (a *App) ParseTrainerClass() TrainerClass {
 	if err != nil {
 		panic(err)
 	}
+
 	return trainerclasses
 }
 

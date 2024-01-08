@@ -1,7 +1,7 @@
 import { useState } from "react";
 import TrainerPokemon from "./TrainerPokemon"
-const Generator = ({ setPokemons, pokemonSpeciesList, heldItemsList, pokemonsCount}) => {
-    const [pokemonIndex, setPokemonIndex] = useState(0)
+const Generator = ({ pokemonSpeciesList, heldItemsList, pokemonsCount, dictData, setDictData}) => {
+    const [pokemonIndex, setPokemonIndex] = useState(1)
     const divStyle={
         overflowY: 'scroll',
         border:'1px solid red',
@@ -15,7 +15,7 @@ const Generator = ({ setPokemons, pokemonSpeciesList, heldItemsList, pokemonsCou
     return(
         <>
         <div style={divStyle}> 
-            <TrainerPokemon setPokemons={setPokemons} pokemonSpeciesList={pokemonSpeciesList} heldItemsList={heldItemsList} key={x} pokemonIndex={pokemonIndex} setPokemonIndex={setPokemonIndex} />
+            <TrainerPokemon  pokemonSpeciesList={pokemonSpeciesList} heldItemsList={heldItemsList} key={pokemonIndex} pokemonIndex={pokemonIndex} setPokemonIndex={setPokemonIndex} pokemonsCount={pokemonsCount} dictData={dictData} setDictData={setDictData}/>
         </div>
         <br/>
         <br/>

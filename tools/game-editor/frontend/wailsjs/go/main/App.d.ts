@@ -4,10 +4,8 @@ import {main} from '../models';
 
 export function CreateTrainerData(arg1:main.TrainerJson):Promise<void>;
 
-export function LoadTrainerToml():Promise<main.Trainer>;
-
 export function ParseHeldItems():Promise<Array<main.HeldItem>>;
 
 export function ParsePokemonData():Promise<Array<main.PokemonTrainerEditor>>;
 
-export function ParseTrainerClass():Promise<main.TrainerClass>;
+export function ParseTrainerClass():Promise<main.TrainerClasses>;

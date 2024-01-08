@@ -1,12 +1,13 @@
-import { useState, useEffect} from "react"
+import { useState} from "react"
 
 import PokemonStats from "./pokemon/PokemonStats"
-const TrainerPokemon = ({ setPokemons, pokemonSpeciesList, heldItemsList, pokemonIndex, setPokemonIndex }) => {
+const TrainerPokemon = ({ pokemonSpeciesList, heldItemsList, pokemonIndex, setPokemonIndex, pokemonsCount, dictData, setDictData}) => {
     const [currentlySelectedPokemon, setCurrentlySelectedPokemon] = useState({})
     const SetData = (e) => {
         const pokemon = pokemonSpeciesList.find((pokemon) => pokemon.Name === e.target.value)
         setCurrentlySelectedPokemon(pokemon)
     }
+
     return(
         <>
         <p>Pokemon #{pokemonIndex}</p>
@@ -16,7 +17,8 @@ const TrainerPokemon = ({ setPokemons, pokemonSpeciesList, heldItemsList, pokemo
                 <option value={pokemon.Name} key={pokemon.Name}>{pokemon.Name}</option>
             )}
         </select>
-        {Object.keys(currentlySelectedPokemon).length >= 1 ? <PokemonStats currentlySelectedPokemon={currentlySelectedPokemon} heldItemsList={heldItemsList}/> : <></>}
+        {Object.keys(currentlySelectedPokemon).length >= 1 ? <PokemonStats currentlySelectedPokemon={currentlySelectedPokemon} heldItemsList={heldItemsList} setPokemonIndex={setPokemonIndex} pokemonsCount={pokemonsCount} pokemonIndex={pokemonIndex} dictData={dictData} setDictData={setDictData}/> : <></>}
+        <br/>
         </>
     )
 }

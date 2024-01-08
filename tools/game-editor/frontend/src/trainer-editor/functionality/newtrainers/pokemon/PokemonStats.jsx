@@ -1,17 +1,76 @@
-import { useState } from "react"
-const PokemonStats = ({ currentlySelectedPokemon, heldItemsList}) => {
-    const [move1, setMove1] = useState("")
-    const [move2, setMove2] = useState("")
-    const [move3, setMove3] = useState("")
-    const [move4, setMove4] = useState("") 
-    const [heldItem, setHeldItem] = useState("")
-    const [hp, setHp] = useState(0)
-    const [attack, setAttack] = useState(0)
-    const [defense, setDefense] = useState(0)
-    const [specialAtk, setSpecialAtk] = useState(0)
-    const [specialDef, setSpecialDef] = useState(0)
-    const [speed, setSpeed] = useState(0)
+import { useState} from "react"
+import { CreateTrainerData } from "../../../../../wailsjs/go/main/App"
+import { v4 as uuidv4 } from 'uuid';
+const PokemonStats = ({ currentlySelectedPokemon, heldItemsList, setPokemonIndex, pokemonsCount, pokemonIndex, dictData}) => {
+    const [move1, setMove1] = useState(currentlySelectedPokemon.Moves[0].Name)
+    const [move2, setMove2] = useState(currentlySelectedPokemon.Moves[0].Name)
+    const [move3, setMove3] = useState(currentlySelectedPokemon.Moves[0].Name)
+    const [move4, setMove4] = useState(currentlySelectedPokemon.Moves[0].Name) 
+    const [heldItem, setHeldItem] = useState(heldItemsList[0].Name)
+    const [hp, setHp] = useState(currentlySelectedPokemon.HP)
+    const [attack, setAttack] = useState(currentlySelectedPokemon.Attack)
+    const [defense, setDefense] = useState(currentlySelectedPokemon.Defense)
+    const [specialAtk, setSpecialAtk] = useState(currentlySelectedPokemon.SpecialAttack)
+    const [specialDef, setSpecialDef] = useState(currentlySelectedPokemon.SpecialDefense)
+    const [speed, setSpeed] = useState(currentlySelectedPokemon.Speed)
     const [level, setLevel] = useState(0)
+    
+    const createData = () => {
+        console.log(`Added ${currentlySelectedPokemon.Name}`)
+        console.log(`on pokemon ${pokemonIndex}`)
+        const moves = []
+        moves.push(move1)
+        moves.push(move2)
+        moves.push(move3)
+        moves.push(move4)
+        const data = {
+            "species": currentlySelectedPokemon.Name,
+            "heldItem": heldItem,
+            "moves": moves,
+            "hp": hp,
+            "defense": defense,
+            "specialAttack": specialAtk,
+            "specialDefense": specialDef,
+            "attack": attack,
+            "speed": speed,
+            "level": parseInt(level)
+        }
+        setPokemonIndex(pokemonIndex + 1)
+        dictData.pokemons.push(data)
+    }
+    const submitData = () => {
+        console.log(`on pokemon ${pokemonIndex}`)
+        console.log(`Added ${currentlySelectedPokemon.Name}`)
+        const moves = []
+        moves.push(move1)
+        moves.push(move2)
+        moves.push(move3)
+        moves.push(move4)
+        const data = {
+            "species": currentlySelectedPokemon.Name,
+            "heldItem": heldItem,
+            "moves": moves,
+            "hp": hp,
+            "defense": defense,
+            "specialAttack": specialAtk,
+            "specialDefense": specialDef,
+            "attack": attack,
+            "speed": speed,
+            "level": parseInt(level)
+        }
+        
+        dictData.pokemons.push(data)
+        let finalData = {
+            "name": dictData.name,
+            "sprite": "yo",
+            "classType": dictData.classType,
+            "id": uuidv4(),
+            "pokemons": dictData.pokemons
+        }
+        
+        CreateTrainerData(finalData)
+        dictData.setNewTrainer(false)
+    }
     return(
         <>
         <br/>
@@ -86,6 +145,9 @@ const PokemonStats = ({ currentlySelectedPokemon, heldItemsList}) => {
             <option value={item.Name} key={item.Name}>{item.Name}</option> 
         )}
         </select>
+        <br/>
+        {pokemonIndex < pokemonsCount ? <button onClick={() => createData()}>Next</button> : <></>}
+        {pokemonIndex == pokemonsCount ? <button onClick={() => submitData()}>Finish</button> : <></>}
         </>
     )
 }

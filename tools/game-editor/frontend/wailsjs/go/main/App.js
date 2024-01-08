@@ -6,10 +6,6 @@ export function CreateTrainerData(arg1) {
   return window['go']['main']['App']['CreateTrainerData'](arg1);
 }
 
-export function LoadTrainerToml() {
-  return window['go']['main']['App']['LoadTrainerToml']();
-}
-
 export function ParseHeldItems() {
   return window['go']['main']['App']['ParseHeldItems']();
 }
