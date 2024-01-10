@@ -1,9 +1,14 @@
 
 import NewTrainerCard from "./trainer-editor/functionality/newtrainers/NewTrainerCard"
 import { useState } from "react"
+import { SetDataFolder } from "../wailsjs/go/main/App"
 function App() {
     const [newTrainer, setNewTrainer] = useState(false)
     const [editTrainers, setEditTrainers] = useState(false)
+    const OptionsMenu = async() => {
+        let data = await SetDataFolder()
+        console.log(data)
+    }
     return (
         <>
            <button onClick={() => setNewTrainer(true)}>Create new trainer</button>
@@ -12,6 +17,7 @@ function App() {
            {
             newTrainer ? <NewTrainerCard setNewTrainer={setNewTrainer}/> : <></>
            }
+           <button onClick={() => OptionsMenu()}>Select Folder</button>
         </>
     )
 }

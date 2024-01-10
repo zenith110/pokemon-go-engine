@@ -1,3 +1,6 @@
-[class]
+[[data]]
 name = "elite4"
+music = "elite4.ogg"
+[[data]]
+name = "elite-trainer"
 music = "elite4.ogg"

@@ -20,3 +20,7 @@ type TrainerJson struct {
 	Pokemons  []PokemonJson `json:"pokemons"`
 	ClassType string        `toml:"classType"`
 }
+
+type OptionsConfig struct {
+	DataDirectory string `json:"dataDirectory"`
+}

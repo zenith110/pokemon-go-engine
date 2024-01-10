@@ -9,3 +9,5 @@ export function ParseHeldItems():Promise<Array<main.HeldItem>>;
 export function ParsePokemonData():Promise<Array<main.PokemonTrainerEditor>>;
 
 export function ParseTrainerClass():Promise<main.TrainerClasses>;
+
+export function SetDataFolder():Promise<void>;

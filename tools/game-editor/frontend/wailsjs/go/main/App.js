@@ -17,3 +17,7 @@ export function ParsePokemonData() {
 export function ParseTrainerClass() {
   return window['go']['main']['App']['ParseTrainerClass']();
 }
+
+export function SetDataFolder() {
+  return window['go']['main']['App']['SetDataFolder']();
+}
