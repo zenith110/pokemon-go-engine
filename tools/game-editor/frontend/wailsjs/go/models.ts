@@ -12,6 +12,7 @@ export namespace main {
 	    specialDefense: number;
 	    moves: string[];
 	    heldItem: string;
+	    id: number;
 	
 	    static createFrom(source: any = {}) {
 	        return new PokemonJson(source);
@@ -29,6 +30,7 @@ export namespace main {
 	        this.specialDefense = source["specialDefense"];
 	        this.moves = source["moves"];
 	        this.heldItem = source["heldItem"];
+	        this.id = source["id"];
 	    }
 	}
 	

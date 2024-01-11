@@ -11,6 +11,7 @@ type PokemonJson struct {
 	SpecialDefense int      `json:"specialDefense"`
 	Moves          []string `json:"moves"`
 	HeldItem       string   `json:"heldItem"`
+	ID             int      `json:"id"`
 }
 
 type TrainerJson struct {
@@ -23,4 +24,19 @@ type TrainerJson struct {
 
 type OptionsConfig struct {
 	DataDirectory string `json:"dataDirectory"`
+}
+
+type PokemonTrainerEditor struct {
+	Name           string
+	FrontSprite    string
+	BackSprite     string
+	Icon           string
+	HP             int
+	Defense        int
+	SpecialAttack  int
+	Speed          int
+	SpecialDefense int
+	Attack         int
+	Moves          []LevelUpMoves
+	ID             int
 }

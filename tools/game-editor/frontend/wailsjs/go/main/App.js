@@ -18,6 +18,10 @@ export function ParseTrainerClass() {
   return window['go']['main']['App']['ParseTrainerClass']();
 }
 
+export function ParseTrainers() {
+  return window['go']['main']['App']['ParseTrainers']();
+}
+
 export function SetDataFolder() {
   return window['go']['main']['App']['SetDataFolder']();
 }

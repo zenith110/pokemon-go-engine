@@ -16,8 +16,6 @@ const PokemonStats = ({ currentlySelectedPokemon, heldItemsList, setPokemonIndex
     const [level, setLevel] = useState(0)
     
     const createData = () => {
-        console.log(`Added ${currentlySelectedPokemon.Name}`)
-        console.log(`on pokemon ${pokemonIndex}`)
         const moves = []
         moves.push(move1)
         moves.push(move2)
@@ -33,14 +31,13 @@ const PokemonStats = ({ currentlySelectedPokemon, heldItemsList, setPokemonIndex
             "specialDefense": specialDef,
             "attack": attack,
             "speed": speed,
-            "level": parseInt(level)
+            "level": parseInt(level),
+            "id": currentlySelectedPokemon.ID
         }
         setPokemonIndex(pokemonIndex + 1)
         dictData.pokemons.push(data)
     }
     const submitData = () => {
-        console.log(`on pokemon ${pokemonIndex}`)
-        console.log(`Added ${currentlySelectedPokemon.Name}`)
         const moves = []
         moves.push(move1)
         moves.push(move2)
@@ -56,7 +53,8 @@ const PokemonStats = ({ currentlySelectedPokemon, heldItemsList, setPokemonIndex
             "specialDefense": specialDef,
             "attack": attack,
             "speed": speed,
-            "level": parseInt(level)
+            "level": parseInt(level),
+            "id": currentlySelectedPokemon.ID
         }
         
         dictData.pokemons.push(data)

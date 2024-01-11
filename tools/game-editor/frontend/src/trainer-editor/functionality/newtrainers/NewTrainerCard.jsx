@@ -23,6 +23,7 @@ const NewTrainerCard = ({ setNewTrainer }) => {
         }
         const fetchPokemonSpecies = async() => {
             let data = await ParsePokemonData()
+            console.log(data)
             setPokemonSpecies(data)
         }
         const fetchHeldItemListData = async() => {
@@ -34,8 +35,7 @@ const NewTrainerCard = ({ setNewTrainer }) => {
         fetchSprites()
         fetchPokemonSpecies()
     }, []) 
-    const Submit = () => {
-    }
+    
     return(
         <>
         <label>Trainer name: </label>
@@ -50,8 +50,6 @@ const NewTrainerCard = ({ setNewTrainer }) => {
         {
             pokemonSpecies.length >= 1 && heldItemsList.length >= 1 ? <TrainerPokemonsGenerator pokemonSpeciesList={pokemonSpecies} heldItemsList={heldItemsList} pokemonsCount={pokemonCount} dictData={dictData} setDictData={setDictData}/> : <></>
         }
-        <button onClick={() => Submit()}>Submit</button>
-        <button onClick={() => setNewTrainer(false)}>Close</button>
         </>
     )
 }

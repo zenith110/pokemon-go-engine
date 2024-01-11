@@ -44,17 +44,3 @@ type Pokemon struct {
 	Ability2     []string       `toml:"ability2"`
 	LevelUpMoves []LevelUpMoves `toml:"levelUpMoves"`
 }
-
-type PokemonTrainerEditor struct {
-	Name           string
-	FrontSprite    string
-	BackSprite     string
-	Icon           string
-	HP             int
-	Defense        int
-	SpecialAttack  int
-	Speed          int
-	SpecialDefense int
-	Attack         int
-	Moves          []LevelUpMoves
-}

@@ -10,4 +10,6 @@ export function ParsePokemonData():Promise<Array<main.PokemonTrainerEditor>>;
 
 export function ParseTrainerClass():Promise<main.TrainerClasses>;
 
+export function ParseTrainers():Promise<main.TrainerToml>;
+
 export function SetDataFolder():Promise<void>;

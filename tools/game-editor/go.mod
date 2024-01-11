@@ -1,4 +1,4 @@
-module changeme
+module pokemon-game-editor
 
 go 1.21
 

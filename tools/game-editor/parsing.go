@@ -14,7 +14,7 @@ import (
 
 func (a *App) ParsePokemonData() []PokemonTrainerEditor {
 
-	file, err := os.Open(fmt.Sprintf("%s/pokemon.toml", a.dataDirectory.DataDirectory))
+	file, err := os.Open(fmt.Sprintf("%s/toml/pokemon.toml", a.dataDirectory.DataDirectory))
 	if err != nil {
 		panic(err)
 	}
@@ -45,9 +45,11 @@ func (a *App) ParsePokemonData() []PokemonTrainerEditor {
 			SpecialDefense: pokemons.Pokemon[pokemon].Stats.SpecialDef,
 			Moves:          pokemons.Pokemon[pokemon].LevelUpMoves,
 			Attack:         pokemons.Pokemon[pokemon].Stats.Attack,
+			ID:             pokemons.Pokemon[pokemon].ID,
 		}
 		trainerEditorPokemons = append(trainerEditorPokemons, trainerEditorPokemon)
 	}
+
 	return trainerEditorPokemons
 }
 
@@ -106,7 +108,7 @@ func (a *App) SetDataFolder() {
 		panic(err)
 	}
 	selection = strings.ReplaceAll(selection, "\\", "/")
-	fmt.Print(selection)
+
 	options := OptionsConfig{
 		DataDirectory: selection,
 	}
@@ -119,4 +121,23 @@ func (a *App) SetDataFolder() {
 		log.Fatal(err)
 	}
 
+}
+
+func (a *App) ParseTrainers() TrainerToml {
+	file, err := os.Open(fmt.Sprintf("%s/toml/trainers.toml", a.dataDirectory.DataDirectory))
+	if err != nil {
+		panic(err)
+	}
+	defer file.Close()
+	var trainers TrainerToml
+	bytes, err := io.ReadAll(file)
+	if err != nil {
+		panic(err)
+	}
+	err = toml.Unmarshal(bytes, &trainers)
+	if err != nil {
+		panic(err)
+	}
+	fmt.Print(trainers)
+	return trainers
 }

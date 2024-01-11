@@ -7,25 +7,6 @@ import (
 	"github.com/pelletier/go-toml/v2"
 )
 
-// func (a *App) LoadTrainerToml() Trainer {
-// 	file, err := os.Open("trainers.toml")
-// 	if err != nil {
-// 		panic(err)
-// 	}
-// 	defer file.Close()
-// 	var trainers Trainer
-// 	bytes, err := io.ReadAll(file)
-// 	if err != nil {
-// 		panic(err)
-// 	}
-// 	err = toml.Unmarshal(bytes, &trainers)
-// 	if err != nil {
-// 		panic(err)
-// 	}
-
-// 	return trainers
-// }
-
 func (a *App) CreateTrainerData(trainerJson TrainerJson) {
 
 	var pokemons []Pokemons
@@ -41,6 +22,7 @@ func (a *App) CreateTrainerData(trainerJson TrainerJson) {
 			SpecialAttack:  trainerJson.Pokemons[index].SpecialAttack,
 			SpecialDefense: trainerJson.Pokemons[index].SpecialDefense,
 			Speed:          trainerJson.Pokemons[index].Speed,
+			ID:             trainerJson.Pokemons[index].ID,
 		}
 		pokemons = append(pokemons, pokemon)
 	}
@@ -53,7 +35,7 @@ func (a *App) CreateTrainerData(trainerJson TrainerJson) {
 		Pokemons:  pokemons,
 		ClassType: trainerJson.ClassType,
 	}
-	fmt.Print(trainer)
+
 	trainers = append(trainers, trainer)
 	trainerConfig := TrainerToml{
 		Trainers: trainers,
