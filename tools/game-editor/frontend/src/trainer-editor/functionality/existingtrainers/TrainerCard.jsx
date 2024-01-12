@@ -1,31 +1,22 @@
-import PokemonSelection from "./PokemonSelection"
-import PokemonStats from "./PokemonStats";
 import { useState } from "react"
-const TrainerCard = ({ trainerName, trainerId, pokemons, sprite, location, nextFightId }) => {
-const [currentlySelectedPokemon, setCurrentlySelectedPokemon ] = useState(null);
-const [visibleStats, setVisibleStats ] = useState(false)
-const [pokemonData, setPokemonData ] = useState([])
+const TrainerCard = ({ trainer, classTypes }) => {
+    const [trainerClass, setTrainerClass] = useState(trainer.ClassType)
 return(
     <>
-    <p>
     <label>Name: </label>
-    <p>{trainerName}</p>
+    <p>{trainer.Name}</p>
     <br/>
     <label>Id: </label>
-    <p>{trainerId}</p>
-    <img src={sprite} />
-    {pokemons.maps((pokemon, index) => {
-        <>
-        <PokemonSelection pokemonData={pokemon} setCurrentlySelectedPokemon={setCurrentlySelectedPokemon} setVisible={setVisibleStats} index={index} setPokemonData={setPokemonData}/>
-        </>
-    })}
-    <label>Found in: </label>
-    <p>{location}</p>
+    <p>{trainer.ID}</p>
     <br/>
-    <label>Next Battle: </label>
-    <p>{nextFightId}</p>
-    </p>
-    <PokemonStats pokemonData={pokemonData} />
+    <label>Trainer class:</label>
+    <br/>
+    <select name="trainers" onChange={(e) => setTrainerClass(e)} defaultValue={trainerClass}>
+        {classTypes.map((classType) =>
+            <option value={classType.Name} key={classType.Name}>{classType.Name}</option>
+        )}
+    </select>
+    <br/>
     </>
 )
 }
