@@ -12,35 +12,35 @@ type Stats struct {
 	Attack     int `toml:"attack"`
 }
 type Evolution struct {
-	Level int    `toml:"level"`
-	Name  string `toml:"name"`
-	ID    int    `toml:"id"`
+	Name   string   `toml:"name"`
+	ID     int      `toml:"id"`
+	Method []string `toml:"method"`
 }
-type Types struct {
-	Type1 string `toml:"type1"`
-	Type2 string `toml:"type2"`
-}
+
 type AssetData struct {
 	FrontSprite string `toml:"frontSprite"`
 	BackSprite  string `toml:"backSprite"`
 	Icon        string `toml:"icon"`
 	Cry         string `toml:"cry"`
 }
-type LevelUpMoves struct {
-	Level int    `toml:"level"`
-	Name  string `toml:"name"`
-	Type1 string `toml:"type1"`
-	Type2 string `toml:"type2"`
+type Ability struct {
+	Name     string `toml:"name"`
+	IsHidden bool   `toml:"isHidden"`
+}
+type Move struct {
+	Level  int    `toml:"level"`
+	Name   string `toml:"name"`
+	Method string `toml:"method"`
 }
 type Pokemon struct {
-	Name         string         `toml:"name"`
-	ID           int            `toml:"id"`
-	Stats        Stats          `toml:"stats"`
-	Evolution    Evolution      `toml:"evolution"`
-	BaseRate     int            `toml:"baseRate"`
-	Types        Types          `toml:"types"`
-	AssetData    AssetData      `toml:"assetData"`
-	Ability1     []string       `toml:"ability1"`
-	Ability2     []string       `toml:"ability2"`
-	LevelUpMoves []LevelUpMoves `toml:"levelUpMoves"`
+	Name       string      `toml:"name"`
+	ID         int         `toml:"id"`
+	Stats      Stats       `toml:"stats"`
+	Evolutions []Evolution `toml:"evolutions"`
+	BaseRate   int         `toml:"baseRate"`
+	Types      []string    `toml:"types"`
+	AssetData  AssetData   `toml:"assetData"`
+	Abilities  []Ability   `toml:"ability"`
+	Moves      []Move      `toml:"moves"`
+	DexEntry   string      `toml:"dexEntry"`
 }

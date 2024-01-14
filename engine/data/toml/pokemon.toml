@@ -4,11 +4,10 @@ id = 1
 stats = {hp = 1, speed = 1, defense = 1, specialAtk = 1, specialDef = 1, attack = 1}
 evolution = { level = 15, name = "test2", id = 2}
 baseRate = 1
-types = { type1 = "dragon", type2 = "steel"}
+types = []
 assetData = { frontSprite = "", backSprite = "", icon = "", cry = ""}
-ability1 = ["test", "test2"]
-ability2 = ["test", "test2"]
-levelUpMoves = [{ level = 5, name = "bubbles", type1 = "water", type2 = "water"}]
+abilities = ["test", "test2"]
+moves = [{ method = "egg", level = 5, name = "bubbles", type1 = "water", type2 = "water"}]
 [[pokemon]]
 name = "Camrupt"
 id = 2
