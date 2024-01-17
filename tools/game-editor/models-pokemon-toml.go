@@ -3,44 +3,42 @@ package main
 type PokemonToml struct {
 	Pokemon []Pokemon `toml:"pokemon"`
 }
-type Stats struct {
-	Hp         int `toml:"hp"`
-	Speed      int `toml:"speed"`
-	Defense    int `toml:"defense"`
-	SpecialAtk int `toml:"specialAtk"`
-	SpecialDef int `toml:"specialDef"`
-	Attack     int `toml:"attack"`
-}
-type Evolution struct {
-	Name   string   `toml:"name"`
-	ID     int      `toml:"id"`
-	Method []string `toml:"method"`
-}
-
-type AssetData struct {
-	FrontSprite string `toml:"frontSprite"`
-	BackSprite  string `toml:"backSprite"`
-	Icon        string `toml:"icon"`
-	Cry         string `toml:"cry"`
-}
-type Ability struct {
+type Abilities struct {
 	Name     string `toml:"name"`
 	IsHidden bool   `toml:"isHidden"`
 }
-type Move struct {
-	Level  int    `toml:"level"`
+type Moves struct {
 	Name   string `toml:"name"`
+	Level  int    `toml:"level"`
 	Method string `toml:"method"`
 }
+type Evolutions struct {
+	Name    string   `toml:"name"`
+	Methods []string `toml:"methods"`
+	ID      string   `toml:"id"`
+}
+type Stats struct {
+	Hp             int `toml:"hp"`
+	Attack         int `toml:"attack"`
+	Defense        int `toml:"defense"`
+	SpecialAttack  int `toml:"special-attack"`
+	SpecialDefense int `toml:"special-defense"`
+	Speed          int `toml:"speed"`
+}
+type AssetData struct {
+	Front      string `toml:"front"`
+	Back       string `toml:"back"`
+	ShinyFront string `toml:"shiny_front"`
+	ShinyBack  string `toml:"shiny_back"`
+}
 type Pokemon struct {
-	Name       string      `toml:"name"`
-	ID         int         `toml:"id"`
-	Stats      Stats       `toml:"stats"`
-	Evolutions []Evolution `toml:"evolutions"`
-	BaseRate   int         `toml:"baseRate"`
-	Types      []string    `toml:"types"`
-	AssetData  AssetData   `toml:"assetData"`
-	Abilities  []Ability   `toml:"ability"`
-	Moves      []Move      `toml:"moves"`
-	DexEntry   string      `toml:"dexEntry"`
+	ID         string       `toml:"id"`
+	Species    string       `toml:"species"`
+	Types      []string     `toml:"types"`
+	DexEntry   string       `toml:"dexEntry"`
+	Abilities  []Abilities  `toml:"abilities"`
+	Moves      []Moves      `toml:"moves"`
+	Evolutions []Evolutions `toml:"evolutions"`
+	Stats      Stats        `toml:"stats"`
+	AssetData  AssetData    `toml:"assetData"`
 }
