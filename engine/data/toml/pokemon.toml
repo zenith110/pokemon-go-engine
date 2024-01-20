@@ -1,22 +1,1004 @@
 [[pokemon]]
-name = "Blastoise"
-id = 1
-stats = {hp = 1, speed = 1, defense = 1, specialAtk = 1, specialDef = 1, attack = 1}
-evolution = { level = 15, name = "test2", id = 2}
-baseRate = 1
-types = { type1 = "dragon", type2 = "steel"}
-assetData = { frontSprite = "", backSprite = "", icon = "", cry = ""}
-ability1 = ["test", "test2"]
-ability2 = ["test", "test2"]
-levelUpMoves = [{ level = 5, name = "bubbles", type1 = "water", type2 = "water"}]
+id = "001"
+species = "bulbasaur"
+types = [ "grass", "poison",]
+dexEntry = "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow."
+[[pokemon.abilities]]
+name = "overgrow"
+isHidden = false
+
+[[pokemon.abilities]]
+name = "chlorophyll"
+isHidden = true
+
+[[pokemon.moves]]
+name = "razor-wind"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "swords-dance"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "cut"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "bind"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "vine-whip"
+level = 3
+method = "level-up"
+
+[[pokemon.moves]]
+name = "headbutt"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "tackle"
+level = 1
+method = "level-up"
+
+[[pokemon.moves]]
+name = "body-slam"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "take-down"
+level = 21
+method = "level-up"
+
+[[pokemon.moves]]
+name = "double-edge"
+level = 33
+method = "level-up"
+
+[[pokemon.moves]]
+name = "growl"
+level = 1
+method = "level-up"
+
+[[pokemon.moves]]
+name = "strength"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "mega-drain"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "leech-seed"
+level = 9
+method = "level-up"
+
+[[pokemon.moves]]
+name = "growth"
+level = 6
+method = "level-up"
+
+[[pokemon.moves]]
+name = "razor-leaf"
+level = 12
+method = "level-up"
+
+[[pokemon.moves]]
+name = "solar-beam"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "poison-powder"
+level = 15
+method = "level-up"
+
+[[pokemon.moves]]
+name = "sleep-powder"
+level = 15
+method = "level-up"
+
+[[pokemon.moves]]
+name = "petal-dance"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "string-shot"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "toxic"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "rage"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "mimic"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "double-team"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "defense-curl"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "light-screen"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "reflect"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "bide"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "sludge"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "skull-bash"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "amnesia"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "flash"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "rest"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "substitute"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "snore"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "curse"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "protect"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "sludge-bomb"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "mud-slap"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "outrage"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "giga-drain"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "endure"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "charm"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "false-swipe"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "swagger"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "fury-cutter"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "attract"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "sleep-talk"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "return"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "frustration"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "safeguard"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "sweet-scent"
+level = 24
+method = "level-up"
+
+[[pokemon.moves]]
+name = "synthesis"
+level = 27
+method = "level-up"
+
+[[pokemon.moves]]
+name = "hidden-power"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "sunny-day"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "rock-smash"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "facade"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "nature-power"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "helping-hand"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "ingrain"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "knock-off"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "secret-power"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "weather-ball"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "grass-whistle"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "bullet-seed"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "magical-leaf"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "natural-gift"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "worry-seed"
+level = 30
+method = "level-up"
+
+[[pokemon.moves]]
+name = "seed-bomb"
+level = 18
+method = "level-up"
+
+[[pokemon.moves]]
+name = "energy-ball"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "leaf-storm"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "power-whip"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "captivate"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "grass-knot"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "venoshock"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "round"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "echoed-voice"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "grass-pledge"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "work-up"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "grassy-terrain"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "confide"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "grassy-glide"
+level = 0
+method = "tutor"
+
+[[pokemon.evolutions]]
+name = "ivysaur"
+methods = [ "level-up", "16",]
+id = "002"
+
+
+[pokemon.stats]
+hp = 45
+attack = 49
+defense = 49
+special-attack = 65
+special-defense = 65
+speed = 45
+[pokemon.assetData]
+front = "../assets/pokemon/001_front.png"
+back = "../assets/pokemon/001_back.png"
+shiny_front = "../assets/pokemon/001_shiny_front.png"
+shiny_back = "../assets/pokemon/001_shiny_back.png"
+icon = "../assets/pokemon/001_icon.png"
 [[pokemon]]
-name = "Camrupt"
-id = 2
-stats = {hp = 1, speed = 1, defense = 1, specialAtk = 1, specialDef = 1, attack = 1}
-evolution = { level = 15, name = "test2", id = 2}
-baseRate = 1
-types = { type1 = "dragon", type2 = "steel"}
-assetData = { frontSprite = "", backSprite = "", icon = "", cry = ""}
-ability1 = ["test", "test2"]
-ability2 = ["test", "test2"]
-levelUpMoves = [{ level = 5, name = "bubbles", type1 = "water", type2 = "water"}]
+id = "004"
+species = "charmander"
+types = [ "fire",]
+dexEntry = "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out."
+[[pokemon.abilities]]
+name = "blaze"
+isHidden = false
+
+[[pokemon.abilities]]
+name = "solar-power"
+isHidden = true
+
+[[pokemon.moves]]
+name = "mega-punch"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "fire-punch"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "thunder-punch"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "scratch"
+level = 1
+method = "level-up"
+
+[[pokemon.moves]]
+name = "swords-dance"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "cut"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "wing-attack"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "mega-kick"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "headbutt"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "body-slam"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "take-down"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "double-edge"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "leer"
+level = 15
+method = "level-up"
+
+[[pokemon.moves]]
+name = "bite"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "growl"
+level = 1
+method = "level-up"
+
+[[pokemon.moves]]
+name = "roar"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "ember"
+level = 4
+method = "level-up"
+
+[[pokemon.moves]]
+name = "flamethrower"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "submission"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "counter"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "seismic-toss"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "strength"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dragon-rage"
+level = 22
+method = "level-up"
+
+[[pokemon.moves]]
+name = "fire-spin"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dig"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "toxic"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "rage"
+level = 19
+method = "level-up"
+
+[[pokemon.moves]]
+name = "mimic"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "double-team"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "smokescreen"
+level = 8
+method = "level-up"
+
+[[pokemon.moves]]
+name = "defense-curl"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "reflect"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "bide"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "fire-blast"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "swift"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "skull-bash"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "fury-swipes"
+level = 18
+method = "level-up"
+
+[[pokemon.moves]]
+name = "rest"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "rock-slide"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "slash"
+level = 20
+method = "level-up"
+
+[[pokemon.moves]]
+name = "substitute"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "snore"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "curse"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "protect"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "scary-face"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "belly-drum"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "mud-slap"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "outrage"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "endure"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "false-swipe"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "swagger"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "fury-cutter"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "attract"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "sleep-talk"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "return"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "frustration"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dynamic-punch"
+level = 0
+method = "tutor"
+
+[[pokemon.moves]]
+name = "dragon-breath"
+level = 12
+method = "level-up"
+
+[[pokemon.moves]]
+name = "iron-tail"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "metal-claw"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "hidden-power"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "sunny-day"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "crunch"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "ancient-power"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "rock-smash"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "beat-up"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "heat-wave"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "will-o-wisp"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "facade"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "focus-punch"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "helping-hand"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "brick-break"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "secret-power"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "weather-ball"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "air-cutter"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "overheat"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "rock-tomb"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "aerial-ace"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dragon-claw"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dragon-dance"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "natural-gift"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "fling"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "flare-blitz"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dragon-pulse"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dragon-rush"
+level = 0
+method = "egg"
+
+[[pokemon.moves]]
+name = "focus-blast"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "shadow-claw"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "fire-fang"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "captivate"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "hone-claws"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "flame-burst"
+level = 28
+method = "level-up"
+
+[[pokemon.moves]]
+name = "flame-charge"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "round"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "echoed-voice"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "incinerate"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "acrobatics"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "inferno"
+level = 36
+method = "level-up"
+
+[[pokemon.moves]]
+name = "fire-pledge"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "dragon-tail"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "work-up"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "confide"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "power-up-punch"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "breaking-swipe"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "tera-blast"
+level = 0
+method = "machine"
+
+[[pokemon.moves]]
+name = "temper-flare"
+level = 0
+method = "machine"
+
+[[pokemon.evolutions]]
+name = "charmeleon"
+methods = [ "level-up", "16",]
+id = "005"
+
+
+[pokemon.stats]
+hp = 39
+attack = 52
+defense = 43
+special-attack = 60
+special-defense = 50
+speed = 65
+[pokemon.assetData]
+front = "../assets/pokemon/004_front.png"
+back = "../assets/pokemon/004_back.png"
+shiny_front = "../assets/pokemon/004_shiny_front.png"
+shiny_back = "../assets/pokemon/004_shiny_back.png"
+icon = "../assets/pokemon/004_icon.png"
