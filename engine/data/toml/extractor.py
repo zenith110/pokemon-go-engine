@@ -53,6 +53,14 @@ for pokemon_gen in data:
                     case "level-up":
                         evolution_data_list.append(evolution_details.trigger.name)
                         evolution_data_list.append(str(evolution_details.min_level))
+                    case "trade":
+                        evolution_data_list.append(evolution_details.trigger.name)
+                        if(evolution_details.held_item.name == None):
+                            evolution_data_list.append("No item" )
+                        evolution_data_list.append(evolution_details.held_item.name)
+                    case "Use item":
+                        evolution_data_list.append(evolution_details.trigger.name)
+                        evolution_data_list.append(evolution_details.item.name)
                     case _:
                         print("Could not find a trigger!")
             evolution_id = evolution.species.url.split("/")[-1 - 1]
@@ -79,7 +87,8 @@ for pokemon_gen in data:
             "front": f"../assets/pokemon/{id}_front.png",
             "back": f"../assets/pokemon/{id}_back.png",
             "shiny_front": f"../assets/pokemon/{id}_shiny_front.png",
-            "shiny_back": f"../assets/pokemon/{id}_shiny_back.png"
+            "shiny_back": f"../assets/pokemon/{id}_shiny_back.png",
+            "icon": f"../assets/pokemon/{id}_icon.png"
         }
         pokemon_data = {
             "id": id,
