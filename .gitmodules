@@ -1,0 +1,3 @@
+[submodule "pokemon-engine-tools"]
+	path = pokemon-engine-tools
+	url = https://github.com/zenith110/pokemon-engine-tools
