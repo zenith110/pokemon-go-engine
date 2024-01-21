@@ -1,4 +1,4 @@
-package main
+package models
 
 type PokemonToml struct {
 	Pokemon []Pokemon `toml:"pokemon"`

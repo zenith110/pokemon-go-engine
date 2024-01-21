@@ -1,4 +1,4 @@
-package main
+package models
 
 type TrainerToml struct {
 	Trainers []Trainers `toml:"trainers"`

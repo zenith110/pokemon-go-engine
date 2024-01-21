@@ -1,4 +1,4 @@
-package main
+package models
 
 type TrainerClasses struct {
 	Data []Data `toml:"data"`

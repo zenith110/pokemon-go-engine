@@ -1,4 +1,4 @@
-package main
+package models
 
 type HeldItemToml struct {
 	HeldItems []HeldItems `toml:"heldItems"`
@@ -10,8 +10,4 @@ type Functionality struct {
 type HeldItems struct {
 	Name          string          `toml:"name"`
 	Functionality []Functionality `toml:"functionality"`
-}
-
-type HeldItem struct {
-	Name string
 }
