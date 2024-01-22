@@ -1,0 +1,18 @@
+[[trainers]]
+name = 'test'
+sprite = 'yo'
+id = 'ba8e260d-621e-4bef-a3f8-0f5b1058238e'
+classType = 'elite4'
+
+[[trainers.pokemon]]
+species = 'bulbasaur'
+level = 6
+moves = ['razor-wind', 'razor-wind', 'razor-wind', 'razor-wind']
+heldItem = 'Oran Berry'
+hp = 0
+attack = 0
+defense = 0
+speed = 0
+specialAttack = 0
+specialDefense = 0
+id = '001'

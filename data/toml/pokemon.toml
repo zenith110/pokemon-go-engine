@@ -1,7 +1,7 @@
 [[pokemon]]
 id = "001"
 species = "bulbasaur"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -428,7 +428,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "ivysaur"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "002"
 
 
@@ -448,7 +448,7 @@ icon = "/assets/pokemon/001_icon.png"
 [[pokemon]]
 id = "004"
 species = "charmander"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out."
 [[pokemon.abilities]]
 name = "blaze"
@@ -985,7 +985,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "charmeleon"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "005"
 
 
@@ -1005,7 +1005,7 @@ icon = "/assets/pokemon/004_icon.png"
 [[pokemon]]
 id = "007"
 species = "squirtle"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth."
 [[pokemon.abilities]]
 name = "torrent"
@@ -1547,7 +1547,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "wartortle"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "008"
 
 
@@ -1565,9 +1565,9 @@ shiny_front = "/assets/pokemon/007_shiny_front.png"
 shiny_back = "/assets/pokemon/007_shiny_back.png"
 icon = "/assets/pokemon/007_icon.png"
 [[pokemon]]
-id = 10
+id = "0010"
 species = "caterpie"
-types = [ "bug",]
+types = [ "bug"]
 dexEntry = "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -1604,7 +1604,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "metapod"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "11"
 
 
@@ -1616,15 +1616,15 @@ special-attack = 20
 special-defense = 20
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/10_front.png"
-back = "/assets/pokemon/10_back.png"
-shiny_front = "/assets/pokemon/10_shiny_front.png"
-shiny_back = "/assets/pokemon/10_shiny_back.png"
-icon = "/assets/pokemon/10_icon.png"
+front = "/assets/pokemon/0010_front.png"
+back = "/assets/pokemon/0010_back.png"
+shiny_front = "/assets/pokemon/0010_shiny_front.png"
+shiny_back = "/assets/pokemon/0010_shiny_back.png"
+icon = "/assets/pokemon/0010_icon.png"
 [[pokemon]]
-id = 13
+id = "0013"
 species = "weedle"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -1656,7 +1656,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kakuna"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "14"
 
 
@@ -1668,15 +1668,15 @@ special-attack = 20
 special-defense = 20
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/13_front.png"
-back = "/assets/pokemon/13_back.png"
-shiny_front = "/assets/pokemon/13_shiny_front.png"
-shiny_back = "/assets/pokemon/13_shiny_back.png"
-icon = "/assets/pokemon/13_icon.png"
+front = "/assets/pokemon/0013_front.png"
+back = "/assets/pokemon/0013_back.png"
+shiny_front = "/assets/pokemon/0013_shiny_front.png"
+shiny_back = "/assets/pokemon/0013_shiny_back.png"
+icon = "/assets/pokemon/0013_icon.png"
 [[pokemon]]
-id = 16
+id = "0016"
 species = "pidgey"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -2012,7 +2012,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pidgeotto"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "17"
 
 
@@ -2024,15 +2024,15 @@ special-attack = 35
 special-defense = 35
 speed = 56
 [pokemon.assetData]
-front = "/assets/pokemon/16_front.png"
-back = "/assets/pokemon/16_back.png"
-shiny_front = "/assets/pokemon/16_shiny_front.png"
-shiny_back = "/assets/pokemon/16_shiny_back.png"
-icon = "/assets/pokemon/16_icon.png"
+front = "/assets/pokemon/0016_front.png"
+back = "/assets/pokemon/0016_back.png"
+shiny_front = "/assets/pokemon/0016_shiny_front.png"
+shiny_back = "/assets/pokemon/0016_shiny_back.png"
+icon = "/assets/pokemon/0016_icon.png"
 [[pokemon]]
-id = 19
+id = "0019"
 species = "rattata"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area."
 [[pokemon.abilities]]
 name = "run-away"
@@ -2458,7 +2458,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "raticate"
-methods = [ "level-up", "20", "level-up", "20",]
+methods = [ "level-up", "20", "level-up", "20"]
 id = "20"
 
 
@@ -2470,15 +2470,15 @@ special-attack = 25
 special-defense = 35
 speed = 72
 [pokemon.assetData]
-front = "/assets/pokemon/19_front.png"
-back = "/assets/pokemon/19_back.png"
-shiny_front = "/assets/pokemon/19_shiny_front.png"
-shiny_back = "/assets/pokemon/19_shiny_back.png"
-icon = "/assets/pokemon/19_icon.png"
+front = "/assets/pokemon/0019_front.png"
+back = "/assets/pokemon/0019_back.png"
+shiny_front = "/assets/pokemon/0019_shiny_front.png"
+shiny_back = "/assets/pokemon/0019_shiny_back.png"
+icon = "/assets/pokemon/0019_icon.png"
 [[pokemon]]
-id = 21
+id = "0021"
 species = "spearow"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "Inept at flying high. However, it can fly around very fast to protect its territory."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -2835,7 +2835,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "fearow"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "22"
 
 
@@ -2847,15 +2847,15 @@ special-attack = 31
 special-defense = 31
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/21_front.png"
-back = "/assets/pokemon/21_back.png"
-shiny_front = "/assets/pokemon/21_shiny_front.png"
-shiny_back = "/assets/pokemon/21_shiny_back.png"
-icon = "/assets/pokemon/21_icon.png"
+front = "/assets/pokemon/0021_front.png"
+back = "/assets/pokemon/0021_back.png"
+shiny_front = "/assets/pokemon/0021_shiny_front.png"
+shiny_back = "/assets/pokemon/0021_shiny_back.png"
+icon = "/assets/pokemon/0021_icon.png"
 [[pokemon]]
-id = 23
+id = "0023"
 species = "ekans"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -3346,7 +3346,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "arbok"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "24"
 
 
@@ -3358,15 +3358,15 @@ special-attack = 40
 special-defense = 54
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/23_front.png"
-back = "/assets/pokemon/23_back.png"
-shiny_front = "/assets/pokemon/23_shiny_front.png"
-shiny_back = "/assets/pokemon/23_shiny_back.png"
-icon = "/assets/pokemon/23_icon.png"
+front = "/assets/pokemon/0023_front.png"
+back = "/assets/pokemon/0023_back.png"
+shiny_front = "/assets/pokemon/0023_shiny_front.png"
+shiny_back = "/assets/pokemon/0023_shiny_back.png"
+icon = "/assets/pokemon/0023_icon.png"
 [[pokemon]]
-id = 27
+id = "0027"
 species = "sandshrew"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -3873,7 +3873,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "sandslash"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "28"
 
 
@@ -3885,15 +3885,15 @@ special-attack = 20
 special-defense = 30
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/27_front.png"
-back = "/assets/pokemon/27_back.png"
-shiny_front = "/assets/pokemon/27_shiny_front.png"
-shiny_back = "/assets/pokemon/27_shiny_back.png"
-icon = "/assets/pokemon/27_icon.png"
+front = "/assets/pokemon/0027_front.png"
+back = "/assets/pokemon/0027_back.png"
+shiny_front = "/assets/pokemon/0027_shiny_front.png"
+shiny_back = "/assets/pokemon/0027_shiny_back.png"
+icon = "/assets/pokemon/0027_icon.png"
 [[pokemon]]
-id = 29
+id = "0029"
 species = "nidoran-f"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran�s horn is a bit more rounded than the tip of a male�s horn."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -4299,7 +4299,7 @@ method = "egg"
 
 [[pokemon.evolutions]]
 name = "nidorina"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "30"
 
 
@@ -4311,15 +4311,15 @@ special-attack = 40
 special-defense = 40
 speed = 41
 [pokemon.assetData]
-front = "/assets/pokemon/29_front.png"
-back = "/assets/pokemon/29_back.png"
-shiny_front = "/assets/pokemon/29_shiny_front.png"
-shiny_back = "/assets/pokemon/29_shiny_back.png"
-icon = "/assets/pokemon/29_icon.png"
+front = "/assets/pokemon/0029_front.png"
+back = "/assets/pokemon/0029_back.png"
+shiny_front = "/assets/pokemon/0029_shiny_front.png"
+shiny_back = "/assets/pokemon/0029_shiny_back.png"
+icon = "/assets/pokemon/0029_icon.png"
 [[pokemon]]
-id = 32
+id = "0032"
 species = "nidoran-m"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "Small but brave, this Pok�mon will hold its ground and even risk its life in battle to protect the female it�s friendly with."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -4735,7 +4735,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "nidorino"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "33"
 
 
@@ -4747,15 +4747,15 @@ special-attack = 40
 special-defense = 40
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/32_front.png"
-back = "/assets/pokemon/32_back.png"
-shiny_front = "/assets/pokemon/32_shiny_front.png"
-shiny_back = "/assets/pokemon/32_shiny_back.png"
-icon = "/assets/pokemon/32_icon.png"
+front = "/assets/pokemon/0032_front.png"
+back = "/assets/pokemon/0032_back.png"
+shiny_front = "/assets/pokemon/0032_shiny_front.png"
+shiny_back = "/assets/pokemon/0032_shiny_back.png"
+icon = "/assets/pokemon/0032_icon.png"
 [[pokemon]]
-id = 37
+id = "0037"
 species = "vulpix"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pok�mon has but one white tail. As the Pok�mon matures, this single tail splits into six."
 [[pokemon.abilities]]
 name = "flash-fire"
@@ -5214,15 +5214,15 @@ special-attack = 50
 special-defense = 65
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/37_front.png"
-back = "/assets/pokemon/37_back.png"
-shiny_front = "/assets/pokemon/37_shiny_front.png"
-shiny_back = "/assets/pokemon/37_shiny_back.png"
-icon = "/assets/pokemon/37_icon.png"
+front = "/assets/pokemon/0037_front.png"
+back = "/assets/pokemon/0037_back.png"
+shiny_front = "/assets/pokemon/0037_shiny_front.png"
+shiny_back = "/assets/pokemon/0037_shiny_back.png"
+icon = "/assets/pokemon/0037_icon.png"
 [[pokemon]]
-id = 41
+id = "0041"
 species = "zubat"
-types = [ "poison", "flying",]
+types = [ "poison", "flying"]
 dexEntry = "Makes its home in gloomy caves. Atrophied eyes have left this Pok�mon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -5644,7 +5644,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "golbat"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "42"
 
 
@@ -5656,15 +5656,15 @@ special-attack = 30
 special-defense = 40
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/41_front.png"
-back = "/assets/pokemon/41_back.png"
-shiny_front = "/assets/pokemon/41_shiny_front.png"
-shiny_back = "/assets/pokemon/41_shiny_back.png"
-icon = "/assets/pokemon/41_icon.png"
+front = "/assets/pokemon/0041_front.png"
+back = "/assets/pokemon/0041_back.png"
+shiny_front = "/assets/pokemon/0041_shiny_front.png"
+shiny_back = "/assets/pokemon/0041_shiny_back.png"
+icon = "/assets/pokemon/0041_icon.png"
 [[pokemon]]
-id = 43
+id = "0043"
 species = "oddish"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -6046,7 +6046,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gloom"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "44"
 
 
@@ -6058,15 +6058,15 @@ special-attack = 75
 special-defense = 65
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/43_front.png"
-back = "/assets/pokemon/43_back.png"
-shiny_front = "/assets/pokemon/43_shiny_front.png"
-shiny_back = "/assets/pokemon/43_shiny_back.png"
-icon = "/assets/pokemon/43_icon.png"
+front = "/assets/pokemon/0043_front.png"
+back = "/assets/pokemon/0043_back.png"
+shiny_front = "/assets/pokemon/0043_shiny_front.png"
+shiny_back = "/assets/pokemon/0043_shiny_back.png"
+icon = "/assets/pokemon/0043_icon.png"
 [[pokemon]]
-id = 46
+id = "0046"
 species = "paras"
-types = [ "bug", "grass",]
+types = [ "bug", "grass"]
 dexEntry = "Sometimes seen at the foot of trees in humid forests. The mushrooms on its back�called tochukaso�are not present on infant specimens and instead emerge as Paras matures."
 [[pokemon.abilities]]
 name = "effect-spore"
@@ -6512,7 +6512,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "parasect"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "47"
 
 
@@ -6524,15 +6524,15 @@ special-attack = 45
 special-defense = 55
 speed = 25
 [pokemon.assetData]
-front = "/assets/pokemon/46_front.png"
-back = "/assets/pokemon/46_back.png"
-shiny_front = "/assets/pokemon/46_shiny_front.png"
-shiny_back = "/assets/pokemon/46_shiny_back.png"
-icon = "/assets/pokemon/46_icon.png"
+front = "/assets/pokemon/0046_front.png"
+back = "/assets/pokemon/0046_back.png"
+shiny_front = "/assets/pokemon/0046_shiny_front.png"
+shiny_back = "/assets/pokemon/0046_shiny_back.png"
+icon = "/assets/pokemon/0046_icon.png"
 [[pokemon]]
-id = 48
+id = "0048"
 species = "venonat"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes."
 [[pokemon.abilities]]
 name = "compound-eyes"
@@ -6918,7 +6918,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "venomoth"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "49"
 
 
@@ -6930,15 +6930,15 @@ special-attack = 40
 special-defense = 55
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/48_front.png"
-back = "/assets/pokemon/48_back.png"
-shiny_front = "/assets/pokemon/48_shiny_front.png"
-shiny_back = "/assets/pokemon/48_shiny_back.png"
-icon = "/assets/pokemon/48_icon.png"
+front = "/assets/pokemon/0048_front.png"
+back = "/assets/pokemon/0048_back.png"
+shiny_front = "/assets/pokemon/0048_shiny_front.png"
+shiny_back = "/assets/pokemon/0048_shiny_back.png"
+icon = "/assets/pokemon/0048_icon.png"
 [[pokemon]]
-id = 50
+id = "0050"
 species = "diglett"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -7354,7 +7354,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dugtrio"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "51"
 
 
@@ -7366,15 +7366,15 @@ special-attack = 35
 special-defense = 45
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/50_front.png"
-back = "/assets/pokemon/50_back.png"
-shiny_front = "/assets/pokemon/50_shiny_front.png"
-shiny_back = "/assets/pokemon/50_shiny_back.png"
-icon = "/assets/pokemon/50_icon.png"
+front = "/assets/pokemon/0050_front.png"
+back = "/assets/pokemon/0050_back.png"
+shiny_front = "/assets/pokemon/0050_shiny_front.png"
+shiny_back = "/assets/pokemon/0050_shiny_back.png"
+icon = "/assets/pokemon/0050_icon.png"
 [[pokemon]]
-id = 52
+id = "0052"
 species = "meowth"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "It loves to collect shiny things. If it�s in a good mood, it might even let its Trainer have a look at its hoard of treasures."
 [[pokemon.abilities]]
 name = "pickup"
@@ -7935,12 +7935,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "persian"
-methods = [ "level-up", "28", "level-up", "None",]
+methods = [ "level-up", "28", "level-up", "None"]
 id = "53"
 
 [[pokemon.evolutions]]
 name = "perrserker"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "863"
 
 
@@ -7952,15 +7952,15 @@ special-attack = 40
 special-defense = 40
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/52_front.png"
-back = "/assets/pokemon/52_back.png"
-shiny_front = "/assets/pokemon/52_shiny_front.png"
-shiny_back = "/assets/pokemon/52_shiny_back.png"
-icon = "/assets/pokemon/52_icon.png"
+front = "/assets/pokemon/0052_front.png"
+back = "/assets/pokemon/0052_back.png"
+shiny_front = "/assets/pokemon/0052_shiny_front.png"
+shiny_back = "/assets/pokemon/0052_shiny_back.png"
+icon = "/assets/pokemon/0052_icon.png"
 [[pokemon]]
-id = 54
+id = "0054"
 species = "psyduck"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain."
 [[pokemon.abilities]]
 name = "damp"
@@ -8556,7 +8556,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "golduck"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "55"
 
 
@@ -8568,15 +8568,15 @@ special-attack = 65
 special-defense = 50
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/54_front.png"
-back = "/assets/pokemon/54_back.png"
-shiny_front = "/assets/pokemon/54_shiny_front.png"
-shiny_back = "/assets/pokemon/54_shiny_back.png"
-icon = "/assets/pokemon/54_icon.png"
+front = "/assets/pokemon/0054_front.png"
+back = "/assets/pokemon/0054_back.png"
+shiny_front = "/assets/pokemon/0054_shiny_front.png"
+shiny_back = "/assets/pokemon/0054_shiny_back.png"
+icon = "/assets/pokemon/0054_icon.png"
 [[pokemon]]
-id = 56
+id = "0056"
 species = "mankey"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "An agile Pok�mon that lives in trees. It angers easily and will not hesitate to attack anything."
 [[pokemon.abilities]]
 name = "vital-spirit"
@@ -9177,7 +9177,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "primeape"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "57"
 
 
@@ -9189,15 +9189,15 @@ special-attack = 35
 special-defense = 45
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/56_front.png"
-back = "/assets/pokemon/56_back.png"
-shiny_front = "/assets/pokemon/56_shiny_front.png"
-shiny_back = "/assets/pokemon/56_shiny_back.png"
-icon = "/assets/pokemon/56_icon.png"
+front = "/assets/pokemon/0056_front.png"
+back = "/assets/pokemon/0056_back.png"
+shiny_front = "/assets/pokemon/0056_shiny_front.png"
+shiny_back = "/assets/pokemon/0056_shiny_back.png"
+icon = "/assets/pokemon/0056_icon.png"
 [[pokemon]]
-id = 58
+id = "0058"
 species = "growlithe"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -9630,15 +9630,15 @@ special-attack = 70
 special-defense = 50
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/58_front.png"
-back = "/assets/pokemon/58_back.png"
-shiny_front = "/assets/pokemon/58_shiny_front.png"
-shiny_back = "/assets/pokemon/58_shiny_back.png"
-icon = "/assets/pokemon/58_icon.png"
+front = "/assets/pokemon/0058_front.png"
+back = "/assets/pokemon/0058_back.png"
+shiny_front = "/assets/pokemon/0058_shiny_front.png"
+shiny_back = "/assets/pokemon/0058_shiny_back.png"
+icon = "/assets/pokemon/0058_icon.png"
 [[pokemon]]
-id = 60
+id = "0060"
 species = "poliwag"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "In rivers with fast-flowing water, this Pok�mon will cling to a rock by using its thick lips, which act like a suction cup."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -10039,7 +10039,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "poliwhirl"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "61"
 
 
@@ -10051,15 +10051,15 @@ special-attack = 40
 special-defense = 40
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/60_front.png"
-back = "/assets/pokemon/60_back.png"
-shiny_front = "/assets/pokemon/60_shiny_front.png"
-shiny_back = "/assets/pokemon/60_shiny_back.png"
-icon = "/assets/pokemon/60_icon.png"
+front = "/assets/pokemon/0060_front.png"
+back = "/assets/pokemon/0060_back.png"
+shiny_front = "/assets/pokemon/0060_shiny_front.png"
+shiny_back = "/assets/pokemon/0060_shiny_back.png"
+icon = "/assets/pokemon/0060_icon.png"
 [[pokemon]]
-id = 63
+id = "0063"
 species = "abra"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers�should danger approach, the Pok�mon will simply teleport away."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -10555,7 +10555,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kadabra"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "64"
 
 
@@ -10567,15 +10567,15 @@ special-attack = 105
 special-defense = 55
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/63_front.png"
-back = "/assets/pokemon/63_back.png"
-shiny_front = "/assets/pokemon/63_shiny_front.png"
-shiny_back = "/assets/pokemon/63_shiny_back.png"
-icon = "/assets/pokemon/63_icon.png"
+front = "/assets/pokemon/0063_front.png"
+back = "/assets/pokemon/0063_back.png"
+shiny_front = "/assets/pokemon/0063_shiny_front.png"
+shiny_back = "/assets/pokemon/0063_shiny_back.png"
+icon = "/assets/pokemon/0063_icon.png"
 [[pokemon]]
-id = 66
+id = "0066"
 species = "machop"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders."
 [[pokemon.abilities]]
 name = "guts"
@@ -11071,7 +11071,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "machoke"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "67"
 
 
@@ -11083,15 +11083,15 @@ special-attack = 35
 special-defense = 35
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/66_front.png"
-back = "/assets/pokemon/66_back.png"
-shiny_front = "/assets/pokemon/66_shiny_front.png"
-shiny_back = "/assets/pokemon/66_shiny_back.png"
-icon = "/assets/pokemon/66_icon.png"
+front = "/assets/pokemon/0066_front.png"
+back = "/assets/pokemon/0066_back.png"
+shiny_front = "/assets/pokemon/0066_shiny_front.png"
+shiny_back = "/assets/pokemon/0066_shiny_back.png"
+icon = "/assets/pokemon/0066_icon.png"
 [[pokemon]]
-id = 69
+id = "0069"
 species = "bellsprout"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -11498,7 +11498,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weepinbell"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "70"
 
 
@@ -11510,15 +11510,15 @@ special-attack = 70
 special-defense = 30
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/69_front.png"
-back = "/assets/pokemon/69_back.png"
-shiny_front = "/assets/pokemon/69_shiny_front.png"
-shiny_back = "/assets/pokemon/69_shiny_back.png"
-icon = "/assets/pokemon/69_icon.png"
+front = "/assets/pokemon/0069_front.png"
+back = "/assets/pokemon/0069_back.png"
+shiny_front = "/assets/pokemon/0069_shiny_front.png"
+shiny_back = "/assets/pokemon/0069_shiny_back.png"
+icon = "/assets/pokemon/0069_icon.png"
 [[pokemon]]
-id = 72
+id = "0072"
 species = "tentacool"
-types = [ "water", "poison",]
+types = [ "water", "poison"]
 dexEntry = "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated."
 [[pokemon.abilities]]
 name = "clear-body"
@@ -11949,7 +11949,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "tentacruel"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "73"
 
 
@@ -11961,15 +11961,15 @@ special-attack = 50
 special-defense = 100
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/72_front.png"
-back = "/assets/pokemon/72_back.png"
-shiny_front = "/assets/pokemon/72_shiny_front.png"
-shiny_back = "/assets/pokemon/72_shiny_back.png"
-icon = "/assets/pokemon/72_icon.png"
+front = "/assets/pokemon/0072_front.png"
+back = "/assets/pokemon/0072_back.png"
+shiny_front = "/assets/pokemon/0072_shiny_front.png"
+shiny_back = "/assets/pokemon/0072_shiny_back.png"
+icon = "/assets/pokemon/0072_icon.png"
 [[pokemon]]
-id = 74
+id = "0074"
 species = "geodude"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome�carelessly kicking one will cause it to fly into a rage and chase after you."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -12415,7 +12415,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "graveler"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "75"
 
 
@@ -12427,15 +12427,15 @@ special-attack = 30
 special-defense = 30
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/74_front.png"
-back = "/assets/pokemon/74_back.png"
-shiny_front = "/assets/pokemon/74_shiny_front.png"
-shiny_back = "/assets/pokemon/74_shiny_back.png"
-icon = "/assets/pokemon/74_icon.png"
+front = "/assets/pokemon/0074_front.png"
+back = "/assets/pokemon/0074_back.png"
+shiny_front = "/assets/pokemon/0074_shiny_front.png"
+shiny_back = "/assets/pokemon/0074_shiny_back.png"
+icon = "/assets/pokemon/0074_icon.png"
 [[pokemon]]
 id = "003"
 species = "venusaur"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -12927,7 +12927,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ivysaur"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "002"
 
 
@@ -12947,7 +12947,7 @@ icon = "/assets/pokemon/003_icon.png"
 [[pokemon]]
 id = "005"
 species = "charmeleon"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings."
 [[pokemon.abilities]]
 name = "blaze"
@@ -13474,7 +13474,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "charmeleon"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "005"
 
 
@@ -13494,7 +13494,7 @@ icon = "/assets/pokemon/005_icon.png"
 [[pokemon]]
 id = "006"
 species = "charizard"
-types = [ "fire", "flying",]
+types = [ "fire", "flying"]
 dexEntry = "Its wings can carry this Pok�mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
 [[pokemon.abilities]]
 name = "blaze"
@@ -14161,7 +14161,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "charmeleon"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "005"
 
 
@@ -14181,7 +14181,7 @@ icon = "/assets/pokemon/006_icon.png"
 [[pokemon]]
 id = "008"
 species = "wartortle"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "It cleverly controls its furry ears and tail to maintain its balance while swimming."
 [[pokemon.abilities]]
 name = "torrent"
@@ -14698,7 +14698,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "wartortle"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "008"
 
 
@@ -14718,7 +14718,7 @@ icon = "/assets/pokemon/008_icon.png"
 [[pokemon]]
 id = "009"
 species = "blastoise"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel."
 [[pokemon.abilities]]
 name = "torrent"
@@ -15330,7 +15330,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "wartortle"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "008"
 
 
@@ -15348,9 +15348,9 @@ shiny_front = "/assets/pokemon/009_shiny_front.png"
 shiny_back = "/assets/pokemon/009_shiny_back.png"
 icon = "/assets/pokemon/009_icon.png"
 [[pokemon]]
-id = 11
+id = "0011"
 species = "metapod"
-types = [ "bug",]
+types = [ "bug"]
 dexEntry = "Even though it is encased in a sturdy shell, the body inside is tender. It can�t withstand a harsh attack."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -15383,7 +15383,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "metapod"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "11"
 
 
@@ -15395,15 +15395,15 @@ special-attack = 25
 special-defense = 25
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/11_front.png"
-back = "/assets/pokemon/11_back.png"
-shiny_front = "/assets/pokemon/11_shiny_front.png"
-shiny_back = "/assets/pokemon/11_shiny_back.png"
-icon = "/assets/pokemon/11_icon.png"
+front = "/assets/pokemon/0011_front.png"
+back = "/assets/pokemon/0011_back.png"
+shiny_front = "/assets/pokemon/0011_shiny_front.png"
+shiny_back = "/assets/pokemon/0011_shiny_back.png"
+icon = "/assets/pokemon/0011_icon.png"
 [[pokemon]]
-id = 12
+id = "0012"
 species = "butterfree"
-types = [ "bug", "flying",]
+types = [ "bug", "flying"]
 dexEntry = "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest."
 [[pokemon.abilities]]
 name = "compound-eyes"
@@ -15845,7 +15845,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "metapod"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "11"
 
 
@@ -15857,15 +15857,15 @@ special-attack = 90
 special-defense = 80
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/12_front.png"
-back = "/assets/pokemon/12_back.png"
-shiny_front = "/assets/pokemon/12_shiny_front.png"
-shiny_back = "/assets/pokemon/12_shiny_back.png"
-icon = "/assets/pokemon/12_icon.png"
+front = "/assets/pokemon/0012_front.png"
+back = "/assets/pokemon/0012_back.png"
+shiny_front = "/assets/pokemon/0012_shiny_front.png"
+shiny_back = "/assets/pokemon/0012_shiny_back.png"
+icon = "/assets/pokemon/0012_icon.png"
 [[pokemon]]
-id = 14
+id = "0014"
 species = "kakuna"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -15898,7 +15898,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kakuna"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "14"
 
 
@@ -15910,15 +15910,15 @@ special-attack = 25
 special-defense = 25
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/14_front.png"
-back = "/assets/pokemon/14_back.png"
-shiny_front = "/assets/pokemon/14_shiny_front.png"
-shiny_back = "/assets/pokemon/14_shiny_back.png"
-icon = "/assets/pokemon/14_icon.png"
+front = "/assets/pokemon/0014_front.png"
+back = "/assets/pokemon/0014_back.png"
+shiny_front = "/assets/pokemon/0014_shiny_front.png"
+shiny_back = "/assets/pokemon/0014_shiny_back.png"
+icon = "/assets/pokemon/0014_icon.png"
 [[pokemon]]
-id = 15
+id = "0015"
 species = "beedrill"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly."
 [[pokemon.abilities]]
 name = "swarm"
@@ -16340,7 +16340,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kakuna"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "14"
 
 
@@ -16352,15 +16352,15 @@ special-attack = 45
 special-defense = 80
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/15_front.png"
-back = "/assets/pokemon/15_back.png"
-shiny_front = "/assets/pokemon/15_shiny_front.png"
-shiny_back = "/assets/pokemon/15_shiny_back.png"
-icon = "/assets/pokemon/15_icon.png"
+front = "/assets/pokemon/0015_front.png"
+back = "/assets/pokemon/0015_back.png"
+shiny_front = "/assets/pokemon/0015_shiny_front.png"
+shiny_back = "/assets/pokemon/0015_shiny_back.png"
+icon = "/assets/pokemon/0015_icon.png"
 [[pokemon]]
-id = 17
+id = "0017"
 species = "pidgeotto"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "This Pok�mon is full of vitality. It constantly flies around its large territory in search of prey."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -16676,7 +16676,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pidgeotto"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "17"
 
 
@@ -16688,15 +16688,15 @@ special-attack = 50
 special-defense = 50
 speed = 71
 [pokemon.assetData]
-front = "/assets/pokemon/17_front.png"
-back = "/assets/pokemon/17_back.png"
-shiny_front = "/assets/pokemon/17_shiny_front.png"
-shiny_back = "/assets/pokemon/17_shiny_back.png"
-icon = "/assets/pokemon/17_icon.png"
+front = "/assets/pokemon/0017_front.png"
+back = "/assets/pokemon/0017_back.png"
+shiny_front = "/assets/pokemon/0017_shiny_front.png"
+shiny_back = "/assets/pokemon/0017_shiny_back.png"
+icon = "/assets/pokemon/0017_icon.png"
 [[pokemon]]
-id = 18
+id = "0018"
 species = "pidgeot"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "This Pok�mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -17027,7 +17027,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "pidgeotto"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "17"
 
 
@@ -17039,15 +17039,15 @@ special-attack = 70
 special-defense = 70
 speed = 101
 [pokemon.assetData]
-front = "/assets/pokemon/18_front.png"
-back = "/assets/pokemon/18_back.png"
-shiny_front = "/assets/pokemon/18_shiny_front.png"
-shiny_back = "/assets/pokemon/18_shiny_back.png"
-icon = "/assets/pokemon/18_icon.png"
+front = "/assets/pokemon/0018_front.png"
+back = "/assets/pokemon/0018_back.png"
+shiny_front = "/assets/pokemon/0018_shiny_front.png"
+shiny_back = "/assets/pokemon/0018_shiny_back.png"
+icon = "/assets/pokemon/0018_icon.png"
 [[pokemon]]
-id = 20
+id = "0020"
 species = "raticate"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
 [[pokemon.abilities]]
 name = "run-away"
@@ -17483,7 +17483,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "raticate"
-methods = [ "level-up", "20", "level-up", "20",]
+methods = [ "level-up", "20", "level-up", "20"]
 id = "20"
 
 
@@ -17495,15 +17495,15 @@ special-attack = 50
 special-defense = 70
 speed = 97
 [pokemon.assetData]
-front = "/assets/pokemon/20_front.png"
-back = "/assets/pokemon/20_back.png"
-shiny_front = "/assets/pokemon/20_shiny_front.png"
-shiny_back = "/assets/pokemon/20_shiny_back.png"
-icon = "/assets/pokemon/20_icon.png"
+front = "/assets/pokemon/0020_front.png"
+back = "/assets/pokemon/0020_back.png"
+shiny_front = "/assets/pokemon/0020_shiny_front.png"
+shiny_back = "/assets/pokemon/0020_shiny_back.png"
+icon = "/assets/pokemon/0020_icon.png"
 [[pokemon]]
-id = 22
+id = "0022"
 species = "fearow"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "A Pok�mon that dates back many years. If it senses danger, it flies high and away, instantly."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -17860,7 +17860,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "fearow"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "22"
 
 
@@ -17872,15 +17872,15 @@ special-attack = 61
 special-defense = 61
 speed = 100
 [pokemon.assetData]
-front = "/assets/pokemon/22_front.png"
-back = "/assets/pokemon/22_back.png"
-shiny_front = "/assets/pokemon/22_shiny_front.png"
-shiny_back = "/assets/pokemon/22_shiny_back.png"
-icon = "/assets/pokemon/22_icon.png"
+front = "/assets/pokemon/0022_front.png"
+back = "/assets/pokemon/0022_back.png"
+shiny_front = "/assets/pokemon/0022_shiny_front.png"
+shiny_back = "/assets/pokemon/0022_shiny_back.png"
+icon = "/assets/pokemon/0022_icon.png"
 [[pokemon]]
-id = 24
+id = "0024"
 species = "arbok"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "The frightening patterns on its belly have been studied. Six variations have been confirmed."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -18386,7 +18386,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "arbok"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "24"
 
 
@@ -18398,15 +18398,15 @@ special-attack = 65
 special-defense = 79
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/24_front.png"
-back = "/assets/pokemon/24_back.png"
-shiny_front = "/assets/pokemon/24_shiny_front.png"
-shiny_back = "/assets/pokemon/24_shiny_back.png"
-icon = "/assets/pokemon/24_icon.png"
+front = "/assets/pokemon/0024_front.png"
+back = "/assets/pokemon/0024_back.png"
+shiny_front = "/assets/pokemon/0024_shiny_front.png"
+shiny_back = "/assets/pokemon/0024_shiny_back.png"
+icon = "/assets/pokemon/0024_icon.png"
 [[pokemon]]
-id = 25
+id = "0025"
 species = "pikachu"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
 [[pokemon.abilities]]
 name = "static"
@@ -18943,7 +18943,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pikachu"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "25"
 
 
@@ -18955,15 +18955,15 @@ special-attack = 50
 special-defense = 50
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/25_front.png"
-back = "/assets/pokemon/25_back.png"
-shiny_front = "/assets/pokemon/25_shiny_front.png"
-shiny_back = "/assets/pokemon/25_shiny_back.png"
-icon = "/assets/pokemon/25_icon.png"
+front = "/assets/pokemon/0025_front.png"
+back = "/assets/pokemon/0025_back.png"
+shiny_front = "/assets/pokemon/0025_shiny_front.png"
+shiny_back = "/assets/pokemon/0025_shiny_back.png"
+icon = "/assets/pokemon/0025_icon.png"
 [[pokemon]]
-id = 26
+id = "0026"
 species = "raichu"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "It can discharge bursts of electricity exceeding 100,000 volts� a single strike with that amount of power would incapacitate one of the Copperajah of my homeland."
 [[pokemon.abilities]]
 name = "static"
@@ -19520,7 +19520,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pikachu"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "25"
 
 
@@ -19532,15 +19532,15 @@ special-attack = 90
 special-defense = 80
 speed = 110
 [pokemon.assetData]
-front = "/assets/pokemon/26_front.png"
-back = "/assets/pokemon/26_back.png"
-shiny_front = "/assets/pokemon/26_shiny_front.png"
-shiny_back = "/assets/pokemon/26_shiny_back.png"
-icon = "/assets/pokemon/26_icon.png"
+front = "/assets/pokemon/0026_front.png"
+back = "/assets/pokemon/0026_back.png"
+shiny_front = "/assets/pokemon/0026_shiny_front.png"
+shiny_back = "/assets/pokemon/0026_shiny_back.png"
+icon = "/assets/pokemon/0026_icon.png"
 [[pokemon]]
-id = 28
+id = "0028"
 species = "sandslash"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -20062,7 +20062,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "sandslash"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "28"
 
 
@@ -20074,15 +20074,15 @@ special-attack = 45
 special-defense = 55
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/28_front.png"
-back = "/assets/pokemon/28_back.png"
-shiny_front = "/assets/pokemon/28_shiny_front.png"
-shiny_back = "/assets/pokemon/28_shiny_back.png"
-icon = "/assets/pokemon/28_icon.png"
+front = "/assets/pokemon/0028_front.png"
+back = "/assets/pokemon/0028_back.png"
+shiny_front = "/assets/pokemon/0028_shiny_front.png"
+shiny_back = "/assets/pokemon/0028_shiny_back.png"
+icon = "/assets/pokemon/0028_icon.png"
 [[pokemon]]
-id = 30
+id = "0030"
 species = "nidorina"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "If the group is threatened, these Pok�mon will band together to assault enemies with a chorus of ultrasonic waves."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -20483,7 +20483,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "nidorina"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "30"
 
 
@@ -20495,15 +20495,15 @@ special-attack = 55
 special-defense = 55
 speed = 56
 [pokemon.assetData]
-front = "/assets/pokemon/30_front.png"
-back = "/assets/pokemon/30_back.png"
-shiny_front = "/assets/pokemon/30_shiny_front.png"
-shiny_back = "/assets/pokemon/30_shiny_back.png"
-icon = "/assets/pokemon/30_icon.png"
+front = "/assets/pokemon/0030_front.png"
+back = "/assets/pokemon/0030_back.png"
+shiny_front = "/assets/pokemon/0030_shiny_front.png"
+shiny_back = "/assets/pokemon/0030_shiny_back.png"
+icon = "/assets/pokemon/0030_icon.png"
 [[pokemon]]
-id = 31
+id = "0031"
 species = "nidoqueen"
-types = [ "poison", "ground",]
+types = [ "poison", "ground"]
 dexEntry = "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -21184,7 +21184,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "nidorina"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "30"
 
 
@@ -21196,15 +21196,15 @@ special-attack = 75
 special-defense = 85
 speed = 76
 [pokemon.assetData]
-front = "/assets/pokemon/31_front.png"
-back = "/assets/pokemon/31_back.png"
-shiny_front = "/assets/pokemon/31_shiny_front.png"
-shiny_back = "/assets/pokemon/31_shiny_back.png"
-icon = "/assets/pokemon/31_icon.png"
+front = "/assets/pokemon/0031_front.png"
+back = "/assets/pokemon/0031_back.png"
+shiny_front = "/assets/pokemon/0031_shiny_front.png"
+shiny_back = "/assets/pokemon/0031_shiny_back.png"
+icon = "/assets/pokemon/0031_icon.png"
 [[pokemon]]
-id = 33
+id = "0033"
 species = "nidorino"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It�s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -21600,7 +21600,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "nidorino"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "33"
 
 
@@ -21612,15 +21612,15 @@ special-attack = 55
 special-defense = 55
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/33_front.png"
-back = "/assets/pokemon/33_back.png"
-shiny_front = "/assets/pokemon/33_shiny_front.png"
-shiny_back = "/assets/pokemon/33_shiny_back.png"
-icon = "/assets/pokemon/33_icon.png"
+front = "/assets/pokemon/0033_front.png"
+back = "/assets/pokemon/0033_back.png"
+shiny_front = "/assets/pokemon/0033_shiny_front.png"
+shiny_back = "/assets/pokemon/0033_shiny_back.png"
+icon = "/assets/pokemon/0033_icon.png"
 [[pokemon]]
-id = 34
+id = "0034"
 species = "nidoking"
-types = [ "poison", "ground",]
+types = [ "poison", "ground"]
 dexEntry = "Nidoking prides itself on its strength. It�s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -22306,7 +22306,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "nidorino"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "33"
 
 
@@ -22318,15 +22318,15 @@ special-attack = 85
 special-defense = 75
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/34_front.png"
-back = "/assets/pokemon/34_back.png"
-shiny_front = "/assets/pokemon/34_shiny_front.png"
-shiny_back = "/assets/pokemon/34_shiny_back.png"
-icon = "/assets/pokemon/34_icon.png"
+front = "/assets/pokemon/0034_front.png"
+back = "/assets/pokemon/0034_back.png"
+shiny_front = "/assets/pokemon/0034_shiny_front.png"
+shiny_back = "/assets/pokemon/0034_shiny_back.png"
+icon = "/assets/pokemon/0034_icon.png"
 [[pokemon]]
-id = 35
+id = "0035"
 species = "clefairy"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -23127,7 +23127,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "clefairy"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "35"
 
 
@@ -23139,15 +23139,15 @@ special-attack = 60
 special-defense = 65
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/35_front.png"
-back = "/assets/pokemon/35_back.png"
-shiny_front = "/assets/pokemon/35_shiny_front.png"
-shiny_back = "/assets/pokemon/35_shiny_back.png"
-icon = "/assets/pokemon/35_icon.png"
+front = "/assets/pokemon/0035_front.png"
+back = "/assets/pokemon/0035_back.png"
+shiny_front = "/assets/pokemon/0035_shiny_front.png"
+shiny_back = "/assets/pokemon/0035_shiny_back.png"
+icon = "/assets/pokemon/0035_icon.png"
 [[pokemon]]
-id = 36
+id = "0036"
 species = "clefable"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -23963,7 +23963,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "clefairy"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "35"
 
 
@@ -23975,15 +23975,15 @@ special-attack = 95
 special-defense = 90
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/36_front.png"
-back = "/assets/pokemon/36_back.png"
-shiny_front = "/assets/pokemon/36_shiny_front.png"
-shiny_back = "/assets/pokemon/36_shiny_back.png"
-icon = "/assets/pokemon/36_icon.png"
+front = "/assets/pokemon/0036_front.png"
+back = "/assets/pokemon/0036_back.png"
+shiny_front = "/assets/pokemon/0036_shiny_front.png"
+shiny_back = "/assets/pokemon/0036_shiny_back.png"
+icon = "/assets/pokemon/0036_icon.png"
 [[pokemon]]
-id = 38
+id = "0038"
 species = "ninetales"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium."
 [[pokemon.abilities]]
 name = "flash-fire"
@@ -24492,15 +24492,15 @@ special-attack = 81
 special-defense = 100
 speed = 100
 [pokemon.assetData]
-front = "/assets/pokemon/38_front.png"
-back = "/assets/pokemon/38_back.png"
-shiny_front = "/assets/pokemon/38_shiny_front.png"
-shiny_back = "/assets/pokemon/38_shiny_back.png"
-icon = "/assets/pokemon/38_icon.png"
+front = "/assets/pokemon/0038_front.png"
+back = "/assets/pokemon/0038_back.png"
+shiny_front = "/assets/pokemon/0038_shiny_front.png"
+shiny_back = "/assets/pokemon/0038_shiny_back.png"
+icon = "/assets/pokemon/0038_icon.png"
 [[pokemon]]
-id = 39
+id = "0039"
 species = "jigglypuff"
-types = [ "normal", "fairy",]
+types = [ "normal", "fairy"]
 dexEntry = "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -25256,7 +25256,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "jigglypuff"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "39"
 
 
@@ -25268,15 +25268,15 @@ special-attack = 45
 special-defense = 25
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/39_front.png"
-back = "/assets/pokemon/39_back.png"
-shiny_front = "/assets/pokemon/39_shiny_front.png"
-shiny_back = "/assets/pokemon/39_shiny_back.png"
-icon = "/assets/pokemon/39_icon.png"
+front = "/assets/pokemon/0039_front.png"
+back = "/assets/pokemon/0039_back.png"
+shiny_front = "/assets/pokemon/0039_shiny_front.png"
+shiny_back = "/assets/pokemon/0039_shiny_back.png"
+icon = "/assets/pokemon/0039_icon.png"
 [[pokemon]]
-id = 40
+id = "0040"
 species = "wigglytuff"
-types = [ "normal", "fairy",]
+types = [ "normal", "fairy"]
 dexEntry = "It�s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that�s perfectly heavenly."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -26047,7 +26047,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "jigglypuff"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "39"
 
 
@@ -26059,15 +26059,15 @@ special-attack = 85
 special-defense = 50
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/40_front.png"
-back = "/assets/pokemon/40_back.png"
-shiny_front = "/assets/pokemon/40_shiny_front.png"
-shiny_back = "/assets/pokemon/40_shiny_back.png"
-icon = "/assets/pokemon/40_icon.png"
+front = "/assets/pokemon/0040_front.png"
+back = "/assets/pokemon/0040_back.png"
+shiny_front = "/assets/pokemon/0040_shiny_front.png"
+shiny_back = "/assets/pokemon/0040_shiny_back.png"
+icon = "/assets/pokemon/0040_icon.png"
 [[pokemon]]
-id = 42
+id = "0042"
 species = "golbat"
-types = [ "poison", "flying",]
+types = [ "poison", "flying"]
 dexEntry = "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -26484,7 +26484,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "golbat"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "42"
 
 
@@ -26496,15 +26496,15 @@ special-attack = 65
 special-defense = 75
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/42_front.png"
-back = "/assets/pokemon/42_back.png"
-shiny_front = "/assets/pokemon/42_shiny_front.png"
-shiny_back = "/assets/pokemon/42_shiny_back.png"
-icon = "/assets/pokemon/42_icon.png"
+front = "/assets/pokemon/0042_front.png"
+back = "/assets/pokemon/0042_back.png"
+shiny_front = "/assets/pokemon/0042_shiny_front.png"
+shiny_back = "/assets/pokemon/0042_shiny_back.png"
+icon = "/assets/pokemon/0042_icon.png"
 [[pokemon]]
-id = 44
+id = "0044"
 species = "gloom"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -26906,7 +26906,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gloom"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "44"
 
 
@@ -26918,15 +26918,15 @@ special-attack = 85
 special-defense = 75
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/44_front.png"
-back = "/assets/pokemon/44_back.png"
-shiny_front = "/assets/pokemon/44_shiny_front.png"
-shiny_back = "/assets/pokemon/44_shiny_back.png"
-icon = "/assets/pokemon/44_icon.png"
+front = "/assets/pokemon/0044_front.png"
+back = "/assets/pokemon/0044_back.png"
+shiny_front = "/assets/pokemon/0044_shiny_front.png"
+shiny_back = "/assets/pokemon/0044_shiny_back.png"
+icon = "/assets/pokemon/0044_icon.png"
 [[pokemon]]
-id = 45
+id = "0045"
 species = "vileplume"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -27368,7 +27368,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gloom"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "44"
 
 
@@ -27380,15 +27380,15 @@ special-attack = 110
 special-defense = 90
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/45_front.png"
-back = "/assets/pokemon/45_back.png"
-shiny_front = "/assets/pokemon/45_shiny_front.png"
-shiny_back = "/assets/pokemon/45_shiny_back.png"
-icon = "/assets/pokemon/45_icon.png"
+front = "/assets/pokemon/0045_front.png"
+back = "/assets/pokemon/0045_back.png"
+shiny_front = "/assets/pokemon/0045_shiny_front.png"
+shiny_back = "/assets/pokemon/0045_shiny_back.png"
+icon = "/assets/pokemon/0045_icon.png"
 [[pokemon]]
-id = 47
+id = "0047"
 species = "parasect"
-types = [ "bug", "grass",]
+types = [ "bug", "grass"]
 dexEntry = "Mushroom-lacking specimens of this Pok�mon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions."
 [[pokemon.abilities]]
 name = "effect-spore"
@@ -27804,7 +27804,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "parasect"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "47"
 
 
@@ -27816,15 +27816,15 @@ special-attack = 60
 special-defense = 80
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/47_front.png"
-back = "/assets/pokemon/47_back.png"
-shiny_front = "/assets/pokemon/47_shiny_front.png"
-shiny_back = "/assets/pokemon/47_shiny_back.png"
-icon = "/assets/pokemon/47_icon.png"
+front = "/assets/pokemon/0047_front.png"
+back = "/assets/pokemon/0047_back.png"
+shiny_front = "/assets/pokemon/0047_shiny_front.png"
+shiny_back = "/assets/pokemon/0047_shiny_back.png"
+icon = "/assets/pokemon/0047_icon.png"
 [[pokemon]]
-id = 49
+id = "0049"
 species = "venomoth"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -28300,7 +28300,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "venomoth"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "49"
 
 
@@ -28312,15 +28312,15 @@ special-attack = 90
 special-defense = 75
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/49_front.png"
-back = "/assets/pokemon/49_back.png"
-shiny_front = "/assets/pokemon/49_shiny_front.png"
-shiny_back = "/assets/pokemon/49_shiny_back.png"
-icon = "/assets/pokemon/49_icon.png"
+front = "/assets/pokemon/0049_front.png"
+back = "/assets/pokemon/0049_back.png"
+shiny_front = "/assets/pokemon/0049_shiny_front.png"
+shiny_back = "/assets/pokemon/0049_shiny_back.png"
+icon = "/assets/pokemon/0049_icon.png"
 [[pokemon]]
-id = 51
+id = "0051"
 species = "dugtrio"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "These Diglett triplets dig over 60 miles below sea level. No one knows what it�s like underground."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -28751,7 +28751,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dugtrio"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "51"
 
 
@@ -28763,15 +28763,15 @@ special-attack = 50
 special-defense = 70
 speed = 120
 [pokemon.assetData]
-front = "/assets/pokemon/51_front.png"
-back = "/assets/pokemon/51_back.png"
-shiny_front = "/assets/pokemon/51_shiny_front.png"
-shiny_back = "/assets/pokemon/51_shiny_back.png"
-icon = "/assets/pokemon/51_icon.png"
+front = "/assets/pokemon/0051_front.png"
+back = "/assets/pokemon/0051_back.png"
+shiny_front = "/assets/pokemon/0051_shiny_front.png"
+shiny_back = "/assets/pokemon/0051_shiny_back.png"
+icon = "/assets/pokemon/0051_icon.png"
 [[pokemon]]
-id = 53
+id = "0053"
 species = "persian"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain."
 [[pokemon.abilities]]
 name = "limber"
@@ -29327,12 +29327,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "persian"
-methods = [ "level-up", "28", "level-up", "None",]
+methods = [ "level-up", "28", "level-up", "None"]
 id = "53"
 
 [[pokemon.evolutions]]
 name = "perrserker"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "863"
 
 
@@ -29344,15 +29344,15 @@ special-attack = 65
 special-defense = 65
 speed = 115
 [pokemon.assetData]
-front = "/assets/pokemon/53_front.png"
-back = "/assets/pokemon/53_back.png"
-shiny_front = "/assets/pokemon/53_shiny_front.png"
-shiny_back = "/assets/pokemon/53_shiny_back.png"
-icon = "/assets/pokemon/53_icon.png"
+front = "/assets/pokemon/0053_front.png"
+back = "/assets/pokemon/0053_back.png"
+shiny_front = "/assets/pokemon/0053_shiny_front.png"
+shiny_back = "/assets/pokemon/0053_shiny_back.png"
+icon = "/assets/pokemon/0053_icon.png"
 [[pokemon]]
-id = 55
+id = "0055"
 species = "golduck"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves."
 [[pokemon.abilities]]
 name = "damp"
@@ -29973,7 +29973,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "golduck"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "55"
 
 
@@ -29985,15 +29985,15 @@ special-attack = 95
 special-defense = 80
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/55_front.png"
-back = "/assets/pokemon/55_back.png"
-shiny_front = "/assets/pokemon/55_shiny_front.png"
-shiny_back = "/assets/pokemon/55_shiny_back.png"
-icon = "/assets/pokemon/55_icon.png"
+front = "/assets/pokemon/0055_front.png"
+back = "/assets/pokemon/0055_back.png"
+shiny_front = "/assets/pokemon/0055_shiny_front.png"
+shiny_back = "/assets/pokemon/0055_shiny_back.png"
+icon = "/assets/pokemon/0055_icon.png"
 [[pokemon]]
-id = 57
+id = "0057"
 species = "primeape"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "It stops being angry only when nobody else is around. To view this moment is very difficult."
 [[pokemon.abilities]]
 name = "vital-spirit"
@@ -30584,7 +30584,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "primeape"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "57"
 
 
@@ -30596,15 +30596,15 @@ special-attack = 60
 special-defense = 70
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/57_front.png"
-back = "/assets/pokemon/57_back.png"
-shiny_front = "/assets/pokemon/57_shiny_front.png"
-shiny_back = "/assets/pokemon/57_shiny_back.png"
-icon = "/assets/pokemon/57_icon.png"
+front = "/assets/pokemon/0057_front.png"
+back = "/assets/pokemon/0057_back.png"
+shiny_front = "/assets/pokemon/0057_shiny_front.png"
+shiny_back = "/assets/pokemon/0057_shiny_back.png"
+icon = "/assets/pokemon/0057_icon.png"
 [[pokemon]]
-id = 59
+id = "0059"
 species = "arcanine"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -31077,15 +31077,15 @@ special-attack = 100
 special-defense = 80
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/59_front.png"
-back = "/assets/pokemon/59_back.png"
-shiny_front = "/assets/pokemon/59_shiny_front.png"
-shiny_back = "/assets/pokemon/59_shiny_back.png"
-icon = "/assets/pokemon/59_icon.png"
+front = "/assets/pokemon/0059_front.png"
+back = "/assets/pokemon/0059_back.png"
+shiny_front = "/assets/pokemon/0059_shiny_front.png"
+shiny_back = "/assets/pokemon/0059_shiny_back.png"
+icon = "/assets/pokemon/0059_icon.png"
 [[pokemon]]
-id = 61
+id = "0061"
 species = "poliwhirl"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "This Pok�mon�s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies� grasp and escape."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -31556,7 +31556,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "poliwhirl"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "61"
 
 
@@ -31568,15 +31568,15 @@ special-attack = 50
 special-defense = 50
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/61_front.png"
-back = "/assets/pokemon/61_back.png"
-shiny_front = "/assets/pokemon/61_shiny_front.png"
-shiny_back = "/assets/pokemon/61_shiny_back.png"
-icon = "/assets/pokemon/61_icon.png"
+front = "/assets/pokemon/0061_front.png"
+back = "/assets/pokemon/0061_back.png"
+shiny_front = "/assets/pokemon/0061_shiny_front.png"
+shiny_back = "/assets/pokemon/0061_shiny_back.png"
+icon = "/assets/pokemon/0061_icon.png"
 [[pokemon]]
-id = 62
+id = "0062"
 species = "poliwrath"
-types = [ "water", "fighting",]
+types = [ "water", "fighting"]
 dexEntry = "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -32162,7 +32162,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "poliwhirl"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "61"
 
 
@@ -32174,15 +32174,15 @@ special-attack = 70
 special-defense = 90
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/62_front.png"
-back = "/assets/pokemon/62_back.png"
-shiny_front = "/assets/pokemon/62_shiny_front.png"
-shiny_back = "/assets/pokemon/62_shiny_back.png"
-icon = "/assets/pokemon/62_icon.png"
+front = "/assets/pokemon/0062_front.png"
+back = "/assets/pokemon/0062_back.png"
+shiny_front = "/assets/pokemon/0062_shiny_front.png"
+shiny_back = "/assets/pokemon/0062_shiny_back.png"
+icon = "/assets/pokemon/0062_icon.png"
 [[pokemon]]
-id = 64
+id = "0064"
 species = "kadabra"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -32708,7 +32708,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kadabra"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "64"
 
 
@@ -32720,15 +32720,15 @@ special-attack = 120
 special-defense = 70
 speed = 105
 [pokemon.assetData]
-front = "/assets/pokemon/64_front.png"
-back = "/assets/pokemon/64_back.png"
-shiny_front = "/assets/pokemon/64_shiny_front.png"
-shiny_back = "/assets/pokemon/64_shiny_back.png"
-icon = "/assets/pokemon/64_icon.png"
+front = "/assets/pokemon/0064_front.png"
+back = "/assets/pokemon/0064_back.png"
+shiny_front = "/assets/pokemon/0064_shiny_front.png"
+shiny_back = "/assets/pokemon/0064_shiny_back.png"
+icon = "/assets/pokemon/0064_icon.png"
 [[pokemon]]
-id = 65
+id = "0065"
 species = "alakazam"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -33294,7 +33294,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kadabra"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "64"
 
 
@@ -33306,15 +33306,15 @@ special-attack = 135
 special-defense = 95
 speed = 120
 [pokemon.assetData]
-front = "/assets/pokemon/65_front.png"
-back = "/assets/pokemon/65_back.png"
-shiny_front = "/assets/pokemon/65_shiny_front.png"
-shiny_back = "/assets/pokemon/65_shiny_back.png"
-icon = "/assets/pokemon/65_icon.png"
+front = "/assets/pokemon/0065_front.png"
+back = "/assets/pokemon/0065_back.png"
+shiny_front = "/assets/pokemon/0065_shiny_front.png"
+shiny_back = "/assets/pokemon/0065_shiny_back.png"
+icon = "/assets/pokemon/0065_icon.png"
 [[pokemon]]
-id = 67
+id = "0067"
 species = "machoke"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land."
 [[pokemon.abilities]]
 name = "guts"
@@ -33780,7 +33780,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "machoke"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "67"
 
 
@@ -33792,15 +33792,15 @@ special-attack = 50
 special-defense = 60
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/67_front.png"
-back = "/assets/pokemon/67_back.png"
-shiny_front = "/assets/pokemon/67_shiny_front.png"
-shiny_back = "/assets/pokemon/67_shiny_back.png"
-icon = "/assets/pokemon/67_icon.png"
+front = "/assets/pokemon/0067_front.png"
+back = "/assets/pokemon/0067_back.png"
+shiny_front = "/assets/pokemon/0067_shiny_front.png"
+shiny_back = "/assets/pokemon/0067_shiny_back.png"
+icon = "/assets/pokemon/0067_icon.png"
 [[pokemon]]
-id = 68
+id = "0068"
 species = "machamp"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pok�mon can overwhelm its foes with more than 1,000 blows from its fists."
 [[pokemon.abilities]]
 name = "guts"
@@ -34316,7 +34316,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "machoke"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "67"
 
 
@@ -34328,15 +34328,15 @@ special-attack = 65
 special-defense = 85
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/68_front.png"
-back = "/assets/pokemon/68_back.png"
-shiny_front = "/assets/pokemon/68_shiny_front.png"
-shiny_back = "/assets/pokemon/68_shiny_back.png"
-icon = "/assets/pokemon/68_icon.png"
+front = "/assets/pokemon/0068_front.png"
+back = "/assets/pokemon/0068_back.png"
+shiny_front = "/assets/pokemon/0068_shiny_front.png"
+shiny_back = "/assets/pokemon/0068_shiny_back.png"
+icon = "/assets/pokemon/0068_icon.png"
 [[pokemon]]
-id = 70
+id = "0070"
 species = "weepinbell"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -34758,7 +34758,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weepinbell"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "70"
 
 
@@ -34770,15 +34770,15 @@ special-attack = 85
 special-defense = 45
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/70_front.png"
-back = "/assets/pokemon/70_back.png"
-shiny_front = "/assets/pokemon/70_shiny_front.png"
-shiny_back = "/assets/pokemon/70_shiny_back.png"
-icon = "/assets/pokemon/70_icon.png"
+front = "/assets/pokemon/0070_front.png"
+back = "/assets/pokemon/0070_back.png"
+shiny_front = "/assets/pokemon/0070_shiny_front.png"
+shiny_back = "/assets/pokemon/0070_shiny_back.png"
+icon = "/assets/pokemon/0070_icon.png"
 [[pokemon]]
-id = 71
+id = "0071"
 species = "victreebel"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -35235,7 +35235,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weepinbell"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "70"
 
 
@@ -35247,15 +35247,15 @@ special-attack = 100
 special-defense = 70
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/71_front.png"
-back = "/assets/pokemon/71_back.png"
-shiny_front = "/assets/pokemon/71_shiny_front.png"
-shiny_back = "/assets/pokemon/71_shiny_back.png"
-icon = "/assets/pokemon/71_icon.png"
+front = "/assets/pokemon/0071_front.png"
+back = "/assets/pokemon/0071_back.png"
+shiny_front = "/assets/pokemon/0071_shiny_front.png"
+shiny_back = "/assets/pokemon/0071_shiny_back.png"
+icon = "/assets/pokemon/0071_icon.png"
 [[pokemon]]
-id = 73
+id = "0073"
 species = "tentacruel"
-types = [ "water", "poison",]
+types = [ "water", "poison"]
 dexEntry = "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution."
 [[pokemon.abilities]]
 name = "clear-body"
@@ -35676,7 +35676,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "tentacruel"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "73"
 
 
@@ -35688,15 +35688,15 @@ special-attack = 80
 special-defense = 120
 speed = 100
 [pokemon.assetData]
-front = "/assets/pokemon/73_front.png"
-back = "/assets/pokemon/73_back.png"
-shiny_front = "/assets/pokemon/73_shiny_front.png"
-shiny_back = "/assets/pokemon/73_shiny_back.png"
-icon = "/assets/pokemon/73_icon.png"
+front = "/assets/pokemon/0073_front.png"
+back = "/assets/pokemon/0073_back.png"
+shiny_front = "/assets/pokemon/0073_shiny_front.png"
+shiny_back = "/assets/pokemon/0073_shiny_back.png"
+icon = "/assets/pokemon/0073_icon.png"
 [[pokemon]]
-id = 75
+id = "0075"
 species = "graveler"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -36157,7 +36157,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "graveler"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "75"
 
 
@@ -36169,15 +36169,15 @@ special-attack = 45
 special-defense = 45
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/75_front.png"
-back = "/assets/pokemon/75_back.png"
-shiny_front = "/assets/pokemon/75_shiny_front.png"
-shiny_back = "/assets/pokemon/75_shiny_back.png"
-icon = "/assets/pokemon/75_icon.png"
+front = "/assets/pokemon/0075_front.png"
+back = "/assets/pokemon/0075_back.png"
+shiny_front = "/assets/pokemon/0075_shiny_front.png"
+shiny_back = "/assets/pokemon/0075_shiny_back.png"
+icon = "/assets/pokemon/0075_icon.png"
 [[pokemon]]
-id = 77
+id = "0077"
 species = "ponyta"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "These Pok�mon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth."
 [[pokemon.abilities]]
 name = "run-away"
@@ -36528,7 +36528,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "rapidash"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "78"
 
 
@@ -36540,15 +36540,15 @@ special-attack = 65
 special-defense = 65
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/77_front.png"
-back = "/assets/pokemon/77_back.png"
-shiny_front = "/assets/pokemon/77_shiny_front.png"
-shiny_back = "/assets/pokemon/77_shiny_back.png"
-icon = "/assets/pokemon/77_icon.png"
+front = "/assets/pokemon/0077_front.png"
+back = "/assets/pokemon/0077_back.png"
+shiny_front = "/assets/pokemon/0077_shiny_front.png"
+shiny_back = "/assets/pokemon/0077_shiny_back.png"
+icon = "/assets/pokemon/0077_icon.png"
 [[pokemon]]
-id = 79
+id = "0079"
 species = "slowpoke"
-types = [ "water", "psychic",]
+types = [ "water", "psychic"]
 dexEntry = "When this Pok�mon�s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pok�mon."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -37134,12 +37134,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "slowbro"
-methods = [ "level-up", "37",]
+methods = [ "level-up", "37"]
 id = "80"
 
 [[pokemon.evolutions]]
 name = "slowking"
-methods = [ "trade", "kings-rock",]
+methods = [ "trade", "kings-rock"]
 id = "199"
 
 
@@ -37151,15 +37151,15 @@ special-attack = 40
 special-defense = 40
 speed = 15
 [pokemon.assetData]
-front = "/assets/pokemon/79_front.png"
-back = "/assets/pokemon/79_back.png"
-shiny_front = "/assets/pokemon/79_shiny_front.png"
-shiny_back = "/assets/pokemon/79_shiny_back.png"
-icon = "/assets/pokemon/79_icon.png"
+front = "/assets/pokemon/0079_front.png"
+back = "/assets/pokemon/0079_back.png"
+shiny_front = "/assets/pokemon/0079_shiny_front.png"
+shiny_back = "/assets/pokemon/0079_shiny_back.png"
+icon = "/assets/pokemon/0079_icon.png"
 [[pokemon]]
-id = 81
+id = "0081"
 species = "magnemite"
-types = [ "electric", "steel",]
+types = [ "electric", "steel"]
 dexEntry = "A bizarre Pok�mon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets."
 [[pokemon.abilities]]
 name = "magnet-pull"
@@ -37545,7 +37545,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "magneton"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "82"
 
 
@@ -37557,15 +37557,15 @@ special-attack = 95
 special-defense = 55
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/81_front.png"
-back = "/assets/pokemon/81_back.png"
-shiny_front = "/assets/pokemon/81_shiny_front.png"
-shiny_back = "/assets/pokemon/81_shiny_back.png"
-icon = "/assets/pokemon/81_icon.png"
+front = "/assets/pokemon/0081_front.png"
+back = "/assets/pokemon/0081_back.png"
+shiny_front = "/assets/pokemon/0081_shiny_front.png"
+shiny_back = "/assets/pokemon/0081_shiny_back.png"
+icon = "/assets/pokemon/0081_icon.png"
 [[pokemon]]
-id = 83
+id = "0083"
 species = "farfetchd"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -38068,15 +38068,15 @@ special-attack = 58
 special-defense = 62
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/83_front.png"
-back = "/assets/pokemon/83_back.png"
-shiny_front = "/assets/pokemon/83_shiny_front.png"
-shiny_back = "/assets/pokemon/83_shiny_back.png"
-icon = "/assets/pokemon/83_icon.png"
+front = "/assets/pokemon/0083_front.png"
+back = "/assets/pokemon/0083_back.png"
+shiny_front = "/assets/pokemon/0083_shiny_front.png"
+shiny_back = "/assets/pokemon/0083_shiny_back.png"
+icon = "/assets/pokemon/0083_icon.png"
 [[pokemon]]
-id = 84
+id = "0084"
 species = "doduo"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "Its short wings make flying difficult. Instead, this Pok�mon runs at high speed on developed legs."
 [[pokemon.abilities]]
 name = "run-away"
@@ -38437,7 +38437,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "dodrio"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "85"
 
 
@@ -38449,15 +38449,15 @@ special-attack = 35
 special-defense = 35
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/84_front.png"
-back = "/assets/pokemon/84_back.png"
-shiny_front = "/assets/pokemon/84_shiny_front.png"
-shiny_back = "/assets/pokemon/84_shiny_back.png"
-icon = "/assets/pokemon/84_icon.png"
+front = "/assets/pokemon/0084_front.png"
+back = "/assets/pokemon/0084_back.png"
+shiny_front = "/assets/pokemon/0084_shiny_front.png"
+shiny_back = "/assets/pokemon/0084_shiny_back.png"
+icon = "/assets/pokemon/0084_icon.png"
 [[pokemon]]
-id = 86
+id = "0086"
 species = "seel"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit."
 [[pokemon.abilities]]
 name = "thick-fat"
@@ -38843,7 +38843,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dewgong"
-methods = [ "level-up", "34",]
+methods = [ "level-up", "34"]
 id = "87"
 
 
@@ -38855,15 +38855,15 @@ special-attack = 45
 special-defense = 70
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/86_front.png"
-back = "/assets/pokemon/86_back.png"
-shiny_front = "/assets/pokemon/86_shiny_front.png"
-shiny_back = "/assets/pokemon/86_shiny_back.png"
-icon = "/assets/pokemon/86_icon.png"
+front = "/assets/pokemon/0086_front.png"
+back = "/assets/pokemon/0086_back.png"
+shiny_front = "/assets/pokemon/0086_shiny_front.png"
+shiny_back = "/assets/pokemon/0086_shiny_back.png"
+icon = "/assets/pokemon/0086_icon.png"
 [[pokemon]]
-id = 88
+id = "0088"
 species = "grimer"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "Made of congealed sludge. It smells too putrid to touch. Even weeds won�t grow in its path."
 [[pokemon.abilities]]
 name = "stench"
@@ -39349,7 +39349,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "muk"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "89"
 
 
@@ -39361,15 +39361,15 @@ special-attack = 40
 special-defense = 50
 speed = 25
 [pokemon.assetData]
-front = "/assets/pokemon/88_front.png"
-back = "/assets/pokemon/88_back.png"
-shiny_front = "/assets/pokemon/88_shiny_front.png"
-shiny_back = "/assets/pokemon/88_shiny_back.png"
-icon = "/assets/pokemon/88_icon.png"
+front = "/assets/pokemon/0088_front.png"
+back = "/assets/pokemon/0088_back.png"
+shiny_front = "/assets/pokemon/0088_shiny_front.png"
+shiny_back = "/assets/pokemon/0088_shiny_back.png"
+icon = "/assets/pokemon/0088_icon.png"
 [[pokemon]]
-id = 90
+id = "0090"
 species = "shellder"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
 [[pokemon.abilities]]
 name = "shell-armor"
@@ -39772,15 +39772,15 @@ special-attack = 45
 special-defense = 25
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/90_front.png"
-back = "/assets/pokemon/90_back.png"
-shiny_front = "/assets/pokemon/90_shiny_front.png"
-shiny_back = "/assets/pokemon/90_shiny_back.png"
-icon = "/assets/pokemon/90_icon.png"
+front = "/assets/pokemon/0090_front.png"
+back = "/assets/pokemon/0090_back.png"
+shiny_front = "/assets/pokemon/0090_shiny_front.png"
+shiny_back = "/assets/pokemon/0090_shiny_back.png"
+icon = "/assets/pokemon/0090_icon.png"
 [[pokemon]]
-id = 92
+id = "0092"
 species = "gastly"
-types = [ "ghost", "poison",]
+types = [ "ghost", "poison"]
 dexEntry = "Gaseous and completely impalpable. Also highly dangerous� inhaling part of its poisonous body will cause one to faint instantly."
 [[pokemon.abilities]]
 name = "levitate"
@@ -40268,7 +40268,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "haunter"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "93"
 
 
@@ -40280,15 +40280,15 @@ special-attack = 100
 special-defense = 35
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/92_front.png"
-back = "/assets/pokemon/92_back.png"
-shiny_front = "/assets/pokemon/92_shiny_front.png"
-shiny_back = "/assets/pokemon/92_shiny_back.png"
-icon = "/assets/pokemon/92_icon.png"
+front = "/assets/pokemon/0092_front.png"
+back = "/assets/pokemon/0092_back.png"
+shiny_front = "/assets/pokemon/0092_shiny_front.png"
+shiny_back = "/assets/pokemon/0092_shiny_back.png"
+icon = "/assets/pokemon/0092_icon.png"
 [[pokemon]]
-id = 95
+id = "0095"
 species = "onix"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -40749,7 +40749,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "steelix"
-methods = [ "trade", "metal-coat",]
+methods = [ "trade", "metal-coat"]
 id = "208"
 
 
@@ -40761,15 +40761,15 @@ special-attack = 30
 special-defense = 45
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/95_front.png"
-back = "/assets/pokemon/95_back.png"
-shiny_front = "/assets/pokemon/95_shiny_front.png"
-shiny_back = "/assets/pokemon/95_shiny_back.png"
-icon = "/assets/pokemon/95_icon.png"
+front = "/assets/pokemon/0095_front.png"
+back = "/assets/pokemon/0095_back.png"
+shiny_front = "/assets/pokemon/0095_shiny_front.png"
+shiny_back = "/assets/pokemon/0095_shiny_back.png"
+icon = "/assets/pokemon/0095_icon.png"
 [[pokemon]]
-id = 96
+id = "0096"
 species = "drowzee"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
 [[pokemon.abilities]]
 name = "insomnia"
@@ -41345,7 +41345,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hypno"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "97"
 
 
@@ -41357,15 +41357,15 @@ special-attack = 43
 special-defense = 90
 speed = 42
 [pokemon.assetData]
-front = "/assets/pokemon/96_front.png"
-back = "/assets/pokemon/96_back.png"
-shiny_front = "/assets/pokemon/96_shiny_front.png"
-shiny_back = "/assets/pokemon/96_shiny_back.png"
-icon = "/assets/pokemon/96_icon.png"
+front = "/assets/pokemon/0096_front.png"
+back = "/assets/pokemon/0096_back.png"
+shiny_front = "/assets/pokemon/0096_shiny_front.png"
+shiny_back = "/assets/pokemon/0096_shiny_back.png"
+icon = "/assets/pokemon/0096_icon.png"
 [[pokemon]]
-id = 98
+id = "0098"
 species = "krabby"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger."
 [[pokemon.abilities]]
 name = "hyper-cutter"
@@ -41791,7 +41791,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kingler"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "99"
 
 
@@ -41803,15 +41803,15 @@ special-attack = 25
 special-defense = 25
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/98_front.png"
-back = "/assets/pokemon/98_back.png"
-shiny_front = "/assets/pokemon/98_shiny_front.png"
-shiny_back = "/assets/pokemon/98_shiny_back.png"
-icon = "/assets/pokemon/98_icon.png"
+front = "/assets/pokemon/0098_front.png"
+back = "/assets/pokemon/0098_back.png"
+shiny_front = "/assets/pokemon/0098_shiny_front.png"
+shiny_back = "/assets/pokemon/0098_shiny_back.png"
+icon = "/assets/pokemon/0098_icon.png"
 [[pokemon]]
-id = 100
+id = "100"
 species = "voltorb"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "An enigmatic Pok�mon that happens to bear a resemblance to a Pok� Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh."
 [[pokemon.abilities]]
 name = "soundproof"
@@ -42152,7 +42152,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "electrode"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "101"
 
 
@@ -42170,9 +42170,9 @@ shiny_front = "/assets/pokemon/100_shiny_front.png"
 shiny_back = "/assets/pokemon/100_shiny_back.png"
 icon = "/assets/pokemon/100_icon.png"
 [[pokemon]]
-id = 102
+id = "102"
 species = "exeggcute"
-types = [ "grass", "psychic",]
+types = [ "grass", "psychic"]
 dexEntry = "These Pok�mon get nervous when they�re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -42607,9 +42607,9 @@ shiny_front = "/assets/pokemon/102_shiny_front.png"
 shiny_back = "/assets/pokemon/102_shiny_back.png"
 icon = "/assets/pokemon/102_icon.png"
 [[pokemon]]
-id = 104
+id = "104"
 species = "cubone"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "This Pok�mon wears the skull of its deceased mother. Sometimes Cubone�s dreams make it cry, but each tear Cubone sheds makes it stronger."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -43105,7 +43105,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "marowak"
-methods = [ "level-up", "28", "level-up", "28",]
+methods = [ "level-up", "28", "level-up", "28"]
 id = "105"
 
 
@@ -43123,9 +43123,9 @@ shiny_front = "/assets/pokemon/104_shiny_front.png"
 shiny_back = "/assets/pokemon/104_shiny_back.png"
 icon = "/assets/pokemon/104_icon.png"
 [[pokemon]]
-id = 108
+id = "108"
 species = "lickitung"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Wields its long tongue deftly, as though it were an arm. The Pok�mon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive."
 [[pokemon.abilities]]
 name = "own-tempo"
@@ -43721,7 +43721,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "lickilicky"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "463"
 
 
@@ -43739,9 +43739,9 @@ shiny_front = "/assets/pokemon/108_shiny_front.png"
 shiny_back = "/assets/pokemon/108_shiny_back.png"
 icon = "/assets/pokemon/108_icon.png"
 [[pokemon]]
-id = 109
+id = "109"
 species = "koffing"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now."
 [[pokemon.abilities]]
 name = "levitate"
@@ -44152,7 +44152,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weezing"
-methods = [ "level-up", "35",]
+methods = [ "level-up", "35"]
 id = "110"
 
 
@@ -44170,9 +44170,9 @@ shiny_front = "/assets/pokemon/109_shiny_front.png"
 shiny_back = "/assets/pokemon/109_shiny_back.png"
 icon = "/assets/pokemon/109_icon.png"
 [[pokemon]]
-id = 111
+id = "111"
 species = "rhyhorn"
-types = [ "ground", "rock",]
+types = [ "ground", "rock"]
 dexEntry = "Ludicrously strong�when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something."
 [[pokemon.abilities]]
 name = "lightning-rod"
@@ -44703,7 +44703,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "rhydon"
-methods = [ "level-up", "42",]
+methods = [ "level-up", "42"]
 id = "112"
 
 
@@ -44721,9 +44721,9 @@ shiny_front = "/assets/pokemon/111_shiny_front.png"
 shiny_back = "/assets/pokemon/111_shiny_back.png"
 icon = "/assets/pokemon/111_icon.png"
 [[pokemon]]
-id = 114
+id = "114"
 species = "tangela"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed�they're useful as a spice."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -45134,7 +45134,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "tangrowth"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "465"
 
 
@@ -45152,9 +45152,9 @@ shiny_front = "/assets/pokemon/114_shiny_front.png"
 shiny_back = "/assets/pokemon/114_shiny_back.png"
 icon = "/assets/pokemon/114_icon.png"
 [[pokemon]]
-id = 115
+id = "115"
 species = "kangaskhan"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "There are records of a lost human child being raised by a childless Kangaskhan."
 [[pokemon.abilities]]
@@ -45789,9 +45789,9 @@ shiny_front = "/assets/pokemon/115_shiny_front.png"
 shiny_back = "/assets/pokemon/115_shiny_back.png"
 icon = "/assets/pokemon/115_icon.png"
 [[pokemon]]
-id = 116
+id = "116"
 species = "horsea"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -46152,7 +46152,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "seadra"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "117"
 
 
@@ -46170,9 +46170,9 @@ shiny_front = "/assets/pokemon/116_shiny_front.png"
 shiny_back = "/assets/pokemon/116_shiny_back.png"
 icon = "/assets/pokemon/116_icon.png"
 [[pokemon]]
-id = 118
+id = "118"
 species = "goldeen"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -46563,7 +46563,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "seaking"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "119"
 
 
@@ -46581,9 +46581,9 @@ shiny_front = "/assets/pokemon/118_shiny_front.png"
 shiny_back = "/assets/pokemon/118_shiny_back.png"
 icon = "/assets/pokemon/118_icon.png"
 [[pokemon]]
-id = 120
+id = "120"
 species = "staryu"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Fish Pok�mon nibble at it, but Staryu isn�t bothered. Its body regenerates quickly, even if part of it is completely torn off."
 [[pokemon.abilities]]
 name = "illuminate"
@@ -47012,9 +47012,9 @@ shiny_front = "/assets/pokemon/120_shiny_front.png"
 shiny_back = "/assets/pokemon/120_shiny_back.png"
 icon = "/assets/pokemon/120_icon.png"
 [[pokemon]]
-id = 123
+id = "123"
 species = "scyther"
-types = [ "bug", "flying",]
+types = [ "bug", "flying"]
 dexEntry = "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey's attempts to flee are unfailingly thwarted by this Pok�mon's nimble motions."
 [[pokemon.abilities]]
 name = "swarm"
@@ -47470,7 +47470,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "scizor"
-methods = [ "trade", "metal-coat",]
+methods = [ "trade", "metal-coat"]
 id = "212"
 
 [[pokemon.evolutions]]
@@ -47493,9 +47493,9 @@ shiny_front = "/assets/pokemon/123_shiny_front.png"
 shiny_back = "/assets/pokemon/123_shiny_back.png"
 icon = "/assets/pokemon/123_icon.png"
 [[pokemon]]
-id = 127
+id = "127"
 species = "pinsir"
-types = [ "bug",]
+types = [ "bug"]
 evolutions = []
 dexEntry = "This Pok�mon clamps its pincers down on its prey and then either splits the prey in half or flings it away."
 [[pokemon.abilities]]
@@ -47950,9 +47950,9 @@ shiny_front = "/assets/pokemon/127_shiny_front.png"
 shiny_back = "/assets/pokemon/127_shiny_back.png"
 icon = "/assets/pokemon/127_icon.png"
 [[pokemon]]
-id = 128
+id = "128"
 species = "tauros"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "The Tauros of the Galar region are volatile in nature, and they won�t allow people to ride on their backs."
 [[pokemon.abilities]]
@@ -48457,9 +48457,9 @@ shiny_front = "/assets/pokemon/128_shiny_front.png"
 shiny_back = "/assets/pokemon/128_shiny_back.png"
 icon = "/assets/pokemon/128_icon.png"
 [[pokemon]]
-id = 129
+id = "129"
 species = "magikarp"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "A feeble, pitiful imbecile of a Pok�mon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -48496,7 +48496,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gyarados"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "130"
 
 
@@ -48514,9 +48514,9 @@ shiny_front = "/assets/pokemon/129_shiny_front.png"
 shiny_back = "/assets/pokemon/129_shiny_back.png"
 icon = "/assets/pokemon/129_icon.png"
 [[pokemon]]
-id = 131
+id = "131"
 species = "lapras"
-types = [ "water", "ice",]
+types = [ "water", "ice"]
 evolutions = []
 dexEntry = "Crossing icy seas is no issue for this cold-resistant Pok�mon. Its smooth skin is a little cool to the touch."
 [[pokemon.abilities]]
@@ -49051,9 +49051,9 @@ shiny_front = "/assets/pokemon/131_shiny_front.png"
 shiny_back = "/assets/pokemon/131_shiny_back.png"
 icon = "/assets/pokemon/131_icon.png"
 [[pokemon]]
-id = 132
+id = "132"
 species = "ditto"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly."
 [[pokemon.abilities]]
@@ -49084,9 +49084,9 @@ shiny_front = "/assets/pokemon/132_shiny_front.png"
 shiny_back = "/assets/pokemon/132_shiny_back.png"
 icon = "/assets/pokemon/132_icon.png"
 [[pokemon]]
-id = 133
+id = "133"
 species = "eevee"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Harbors the potential to evolve into manifold forms. Within Eevee lies the key to the mysteries of Pok�mon evolution�I'm certain of it."
 [[pokemon.abilities]]
 name = "run-away"
@@ -49482,27 +49482,27 @@ id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "197"
 
 [[pokemon.evolutions]]
 name = "leafeon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "470"
 
 [[pokemon.evolutions]]
 name = "glaceon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "471"
 
 [[pokemon.evolutions]]
 name = "sylveon"
-methods = [ "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None"]
 id = "700"
 
 
@@ -49520,9 +49520,9 @@ shiny_front = "/assets/pokemon/133_shiny_front.png"
 shiny_back = "/assets/pokemon/133_shiny_back.png"
 icon = "/assets/pokemon/133_icon.png"
 [[pokemon]]
-id = 137
+id = "137"
 species = "porygon"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly."
 [[pokemon.abilities]]
 name = "trace"
@@ -49968,7 +49968,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "porygon2"
-methods = [ "trade", "up-grade",]
+methods = [ "trade", "up-grade"]
 id = "233"
 
 
@@ -49986,9 +49986,9 @@ shiny_front = "/assets/pokemon/137_shiny_front.png"
 shiny_back = "/assets/pokemon/137_shiny_back.png"
 icon = "/assets/pokemon/137_icon.png"
 [[pokemon]]
-id = 138
+id = "138"
 species = "omanyte"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "This Pok�mon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it�s just drifting along."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -50404,7 +50404,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "omastar"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "139"
 
 
@@ -50422,9 +50422,9 @@ shiny_front = "/assets/pokemon/138_shiny_front.png"
 shiny_back = "/assets/pokemon/138_shiny_back.png"
 icon = "/assets/pokemon/138_icon.png"
 [[pokemon]]
-id = 140
+id = "140"
 species = "kabuto"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -50855,7 +50855,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kabutops"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "141"
 
 
@@ -50873,9 +50873,9 @@ shiny_front = "/assets/pokemon/140_shiny_front.png"
 shiny_back = "/assets/pokemon/140_shiny_back.png"
 icon = "/assets/pokemon/140_icon.png"
 [[pokemon]]
-id = 142
+id = "142"
 species = "aerodactyl"
-types = [ "rock", "flying",]
+types = [ "rock", "flying"]
 evolutions = []
 dexEntry = "Aerodactyl�s sawlike fangs can shred skin to tatters�even the skin of Steel-type Pok�mon."
 [[pokemon.abilities]]
@@ -51395,9 +51395,9 @@ shiny_front = "/assets/pokemon/142_shiny_front.png"
 shiny_back = "/assets/pokemon/142_shiny_back.png"
 icon = "/assets/pokemon/142_icon.png"
 [[pokemon]]
-id = 144
+id = "144"
 species = "articuno"
-types = [ "ice", "flying",]
+types = [ "ice", "flying"]
 evolutions = []
 dexEntry = "This Pok�mon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost."
 [[pokemon.abilities]]
@@ -51858,9 +51858,9 @@ shiny_front = "/assets/pokemon/144_shiny_front.png"
 shiny_back = "/assets/pokemon/144_shiny_back.png"
 icon = "/assets/pokemon/144_icon.png"
 [[pokemon]]
-id = 145
+id = "145"
 species = "zapdos"
-types = [ "electric", "flying",]
+types = [ "electric", "flying"]
 evolutions = []
 dexEntry = "Zapdos is a legendary bird Pok�mon. It�s said that when Zapdos rubs its feathers together, lightning will fall immediately after."
 [[pokemon.abilities]]
@@ -52311,9 +52311,9 @@ shiny_front = "/assets/pokemon/145_shiny_front.png"
 shiny_back = "/assets/pokemon/145_shiny_back.png"
 icon = "/assets/pokemon/145_icon.png"
 [[pokemon]]
-id = 146
+id = "146"
 species = "moltres"
-types = [ "fire", "flying",]
+types = [ "fire", "flying"]
 evolutions = []
 dexEntry = "There are stories of this Pok�mon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains."
 [[pokemon.abilities]]
@@ -52744,9 +52744,9 @@ shiny_front = "/assets/pokemon/146_shiny_front.png"
 shiny_back = "/assets/pokemon/146_shiny_back.png"
 icon = "/assets/pokemon/146_icon.png"
 [[pokemon]]
-id = 147
+id = "147"
 species = "dratini"
-types = [ "dragon",]
+types = [ "dragon"]
 dexEntry = "This Pok�mon was long considered to be no more than a myth. The small lump on a Dratini�s forehead is actually a horn that�s still coming in."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -53188,7 +53188,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dragonair"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "148"
 
 
@@ -53206,9 +53206,9 @@ shiny_front = "/assets/pokemon/147_shiny_front.png"
 shiny_back = "/assets/pokemon/147_shiny_back.png"
 icon = "/assets/pokemon/147_icon.png"
 [[pokemon]]
-id = 150
+id = "150"
 species = "mewtwo"
-types = [ "psychic",]
+types = [ "psychic"]
 evolutions = []
 dexEntry = "Its DNA is almost the same as Mew�s. However, its size and disposition are vastly different."
 [[pokemon.abilities]]
@@ -54069,9 +54069,9 @@ shiny_front = "/assets/pokemon/150_shiny_front.png"
 shiny_back = "/assets/pokemon/150_shiny_back.png"
 icon = "/assets/pokemon/150_icon.png"
 [[pokemon]]
-id = 78
+id = "0078"
 species = "rapidash"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half."
 [[pokemon.abilities]]
 name = "run-away"
@@ -54472,7 +54472,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "rapidash"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "78"
 
 
@@ -54484,15 +54484,15 @@ special-attack = 80
 special-defense = 80
 speed = 105
 [pokemon.assetData]
-front = "/assets/pokemon/78_front.png"
-back = "/assets/pokemon/78_back.png"
-shiny_front = "/assets/pokemon/78_shiny_front.png"
-shiny_back = "/assets/pokemon/78_shiny_back.png"
-icon = "/assets/pokemon/78_icon.png"
+front = "/assets/pokemon/0078_front.png"
+back = "/assets/pokemon/0078_back.png"
+shiny_front = "/assets/pokemon/0078_shiny_front.png"
+shiny_back = "/assets/pokemon/0078_shiny_back.png"
+icon = "/assets/pokemon/0078_icon.png"
 [[pokemon]]
-id = 80
+id = "0080"
 species = "slowbro"
-types = [ "water", "psychic",]
+types = [ "water", "psychic"]
 dexEntry = "Being bitten by a Shellder shocked this Pok�mon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -55178,12 +55178,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "slowbro"
-methods = [ "level-up", "37",]
+methods = [ "level-up", "37"]
 id = "80"
 
 [[pokemon.evolutions]]
 name = "slowking"
-methods = [ "trade", "kings-rock",]
+methods = [ "trade", "kings-rock"]
 id = "199"
 
 
@@ -55195,15 +55195,15 @@ special-attack = 100
 special-defense = 80
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/80_front.png"
-back = "/assets/pokemon/80_back.png"
-shiny_front = "/assets/pokemon/80_shiny_front.png"
-shiny_back = "/assets/pokemon/80_shiny_back.png"
-icon = "/assets/pokemon/80_icon.png"
+front = "/assets/pokemon/0080_front.png"
+back = "/assets/pokemon/0080_back.png"
+shiny_front = "/assets/pokemon/0080_shiny_front.png"
+shiny_back = "/assets/pokemon/0080_shiny_back.png"
+icon = "/assets/pokemon/0080_icon.png"
 [[pokemon]]
-id = 82
+id = "0082"
 species = "magneton"
-types = [ "electric", "steel",]
+types = [ "electric", "steel"]
 dexEntry = "Three Magnemite gathered to evolve into this Pok�mon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment."
 [[pokemon.abilities]]
 name = "magnet-pull"
@@ -55604,7 +55604,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "magneton"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "82"
 
 
@@ -55616,15 +55616,15 @@ special-attack = 120
 special-defense = 70
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/82_front.png"
-back = "/assets/pokemon/82_back.png"
-shiny_front = "/assets/pokemon/82_shiny_front.png"
-shiny_back = "/assets/pokemon/82_shiny_back.png"
-icon = "/assets/pokemon/82_icon.png"
+front = "/assets/pokemon/0082_front.png"
+back = "/assets/pokemon/0082_back.png"
+shiny_front = "/assets/pokemon/0082_shiny_front.png"
+shiny_back = "/assets/pokemon/0082_shiny_back.png"
+icon = "/assets/pokemon/0082_icon.png"
 [[pokemon]]
-id = 85
+id = "0085"
 species = "dodrio"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "One of Doduo�s two heads splits to form a unique species. It runs close to 40 mph in prairies."
 [[pokemon.abilities]]
 name = "run-away"
@@ -56070,7 +56070,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dodrio"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "85"
 
 
@@ -56082,15 +56082,15 @@ special-attack = 60
 special-defense = 60
 speed = 110
 [pokemon.assetData]
-front = "/assets/pokemon/85_front.png"
-back = "/assets/pokemon/85_back.png"
-shiny_front = "/assets/pokemon/85_shiny_front.png"
-shiny_back = "/assets/pokemon/85_shiny_back.png"
-icon = "/assets/pokemon/85_icon.png"
+front = "/assets/pokemon/0085_front.png"
+back = "/assets/pokemon/0085_back.png"
+shiny_front = "/assets/pokemon/0085_shiny_front.png"
+shiny_back = "/assets/pokemon/0085_shiny_back.png"
+icon = "/assets/pokemon/0085_icon.png"
 [[pokemon]]
-id = 87
+id = "0087"
 species = "dewgong"
-types = [ "water", "ice",]
+types = [ "water", "ice"]
 dexEntry = "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
 [[pokemon.abilities]]
 name = "thick-fat"
@@ -56446,7 +56446,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "dewgong"
-methods = [ "level-up", "34",]
+methods = [ "level-up", "34"]
 id = "87"
 
 
@@ -56458,15 +56458,15 @@ special-attack = 70
 special-defense = 95
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/87_front.png"
-back = "/assets/pokemon/87_back.png"
-shiny_front = "/assets/pokemon/87_shiny_front.png"
-shiny_back = "/assets/pokemon/87_shiny_back.png"
-icon = "/assets/pokemon/87_icon.png"
+front = "/assets/pokemon/0087_front.png"
+back = "/assets/pokemon/0087_back.png"
+shiny_front = "/assets/pokemon/0087_shiny_front.png"
+shiny_back = "/assets/pokemon/0087_shiny_back.png"
+icon = "/assets/pokemon/0087_icon.png"
 [[pokemon]]
-id = 89
+id = "0089"
 species = "muk"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell."
 [[pokemon.abilities]]
 name = "stench"
@@ -56997,7 +56997,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "muk"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "89"
 
 
@@ -57009,15 +57009,15 @@ special-attack = 65
 special-defense = 100
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/89_front.png"
-back = "/assets/pokemon/89_back.png"
-shiny_front = "/assets/pokemon/89_shiny_front.png"
-shiny_back = "/assets/pokemon/89_shiny_back.png"
-icon = "/assets/pokemon/89_icon.png"
+front = "/assets/pokemon/0089_front.png"
+back = "/assets/pokemon/0089_back.png"
+shiny_front = "/assets/pokemon/0089_shiny_front.png"
+shiny_back = "/assets/pokemon/0089_shiny_back.png"
+icon = "/assets/pokemon/0089_icon.png"
 [[pokemon]]
-id = 91
+id = "0091"
 species = "cloyster"
-types = [ "water", "ice",]
+types = [ "water", "ice"]
 dexEntry = "Once it slams its shell shut, it is impossible to open, even by those with superior strength."
 [[pokemon.abilities]]
 name = "shell-armor"
@@ -57485,15 +57485,15 @@ special-attack = 85
 special-defense = 45
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/91_front.png"
-back = "/assets/pokemon/91_back.png"
-shiny_front = "/assets/pokemon/91_shiny_front.png"
-shiny_back = "/assets/pokemon/91_shiny_back.png"
-icon = "/assets/pokemon/91_icon.png"
+front = "/assets/pokemon/0091_front.png"
+back = "/assets/pokemon/0091_back.png"
+shiny_front = "/assets/pokemon/0091_shiny_front.png"
+shiny_back = "/assets/pokemon/0091_shiny_back.png"
+icon = "/assets/pokemon/0091_icon.png"
 [[pokemon]]
-id = 93
+id = "0093"
 species = "haunter"
-types = [ "ghost", "poison",]
+types = [ "ghost", "poison"]
 dexEntry = "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day."
 [[pokemon.abilities]]
 name = "levitate"
@@ -57991,7 +57991,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "haunter"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "93"
 
 
@@ -58003,15 +58003,15 @@ special-attack = 115
 special-defense = 55
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/93_front.png"
-back = "/assets/pokemon/93_back.png"
-shiny_front = "/assets/pokemon/93_shiny_front.png"
-shiny_back = "/assets/pokemon/93_shiny_back.png"
-icon = "/assets/pokemon/93_icon.png"
+front = "/assets/pokemon/0093_front.png"
+back = "/assets/pokemon/0093_back.png"
+shiny_front = "/assets/pokemon/0093_shiny_front.png"
+shiny_back = "/assets/pokemon/0093_shiny_back.png"
+icon = "/assets/pokemon/0093_icon.png"
 [[pokemon]]
-id = 94
+id = "0094"
 species = "gengar"
-types = [ "ghost", "poison",]
+types = [ "ghost", "poison"]
 dexEntry = "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!"
 [[pokemon.abilities]]
 name = "cursed-body"
@@ -58629,7 +58629,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "haunter"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "93"
 
 
@@ -58641,15 +58641,15 @@ special-attack = 130
 special-defense = 75
 speed = 110
 [pokemon.assetData]
-front = "/assets/pokemon/94_front.png"
-back = "/assets/pokemon/94_back.png"
-shiny_front = "/assets/pokemon/94_shiny_front.png"
-shiny_back = "/assets/pokemon/94_shiny_back.png"
-icon = "/assets/pokemon/94_icon.png"
+front = "/assets/pokemon/0094_front.png"
+back = "/assets/pokemon/0094_back.png"
+shiny_front = "/assets/pokemon/0094_shiny_front.png"
+shiny_back = "/assets/pokemon/0094_shiny_back.png"
+icon = "/assets/pokemon/0094_icon.png"
 [[pokemon]]
-id = 97
+id = "0097"
 species = "hypno"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum."
 [[pokemon.abilities]]
 name = "insomnia"
@@ -59240,7 +59240,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hypno"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "97"
 
 
@@ -59252,15 +59252,15 @@ special-attack = 73
 special-defense = 115
 speed = 67
 [pokemon.assetData]
-front = "/assets/pokemon/97_front.png"
-back = "/assets/pokemon/97_back.png"
-shiny_front = "/assets/pokemon/97_shiny_front.png"
-shiny_back = "/assets/pokemon/97_shiny_back.png"
-icon = "/assets/pokemon/97_icon.png"
+front = "/assets/pokemon/0097_front.png"
+back = "/assets/pokemon/0097_back.png"
+shiny_front = "/assets/pokemon/0097_shiny_front.png"
+shiny_back = "/assets/pokemon/0097_shiny_back.png"
+icon = "/assets/pokemon/0097_icon.png"
 [[pokemon]]
-id = 99
+id = "0099"
 species = "kingler"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its oversized claw is very powerful, but when it�s not in battle, the claw just gets in the way."
 [[pokemon.abilities]]
 name = "hyper-cutter"
@@ -59701,7 +59701,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kingler"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "99"
 
 
@@ -59713,15 +59713,15 @@ special-attack = 50
 special-defense = 50
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/99_front.png"
-back = "/assets/pokemon/99_back.png"
-shiny_front = "/assets/pokemon/99_shiny_front.png"
-shiny_back = "/assets/pokemon/99_shiny_back.png"
-icon = "/assets/pokemon/99_icon.png"
+front = "/assets/pokemon/0099_front.png"
+back = "/assets/pokemon/0099_back.png"
+shiny_front = "/assets/pokemon/0099_shiny_front.png"
+shiny_back = "/assets/pokemon/0099_shiny_back.png"
+icon = "/assets/pokemon/0099_icon.png"
 [[pokemon]]
-id = 101
+id = "101"
 species = "electrode"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pok�mon lets loose an electric current equal to 20 lightning bolts."
 [[pokemon.abilities]]
 name = "soundproof"
@@ -60082,7 +60082,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "electrode"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "101"
 
 
@@ -60100,9 +60100,9 @@ shiny_front = "/assets/pokemon/101_shiny_front.png"
 shiny_back = "/assets/pokemon/101_shiny_back.png"
 icon = "/assets/pokemon/101_icon.png"
 [[pokemon]]
-id = 103
+id = "103"
 species = "exeggutor"
-types = [ "grass", "psychic",]
+types = [ "grass", "psychic"]
 dexEntry = "When they work together, Exeggutor�s three heads can put out powerful psychic energy. Cloudy days make this Pok�mon sluggish."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -60577,9 +60577,9 @@ shiny_front = "/assets/pokemon/103_shiny_front.png"
 shiny_back = "/assets/pokemon/103_shiny_back.png"
 icon = "/assets/pokemon/103_icon.png"
 [[pokemon]]
-id = 105
+id = "105"
 species = "marowak"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "When this Pok�mon evolved, the skull of its mother fused to it. Marowak�s temperament also turned vicious at the same time."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -61085,7 +61085,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "marowak"
-methods = [ "level-up", "28", "level-up", "28",]
+methods = [ "level-up", "28", "level-up", "28"]
 id = "105"
 
 
@@ -61103,9 +61103,9 @@ shiny_front = "/assets/pokemon/105_shiny_front.png"
 shiny_back = "/assets/pokemon/105_shiny_back.png"
 icon = "/assets/pokemon/105_icon.png"
 [[pokemon]]
-id = 106
+id = "106"
 species = "hitmonlee"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick."
 [[pokemon.abilities]]
 name = "limber"
@@ -61571,17 +61571,17 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "hitmonlee"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "106"
 
 [[pokemon.evolutions]]
 name = "hitmonchan"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "107"
 
 [[pokemon.evolutions]]
 name = "hitmontop"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "237"
 
 
@@ -61599,9 +61599,9 @@ shiny_front = "/assets/pokemon/106_shiny_front.png"
 shiny_back = "/assets/pokemon/106_shiny_back.png"
 icon = "/assets/pokemon/106_icon.png"
 [[pokemon]]
-id = 107
+id = "107"
 species = "hitmonchan"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "Its punches slice the air. However, it seems to need a short break after fighting for three minutes."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -62127,17 +62127,17 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hitmonlee"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "106"
 
 [[pokemon.evolutions]]
 name = "hitmonchan"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "107"
 
 [[pokemon.evolutions]]
 name = "hitmontop"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "237"
 
 
@@ -62155,9 +62155,9 @@ shiny_front = "/assets/pokemon/107_shiny_front.png"
 shiny_back = "/assets/pokemon/107_shiny_back.png"
 icon = "/assets/pokemon/107_icon.png"
 [[pokemon]]
-id = 110
+id = "110"
 species = "weezing"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It can�t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart."
 [[pokemon.abilities]]
 name = "levitate"
@@ -62563,7 +62563,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weezing"
-methods = [ "level-up", "35",]
+methods = [ "level-up", "35"]
 id = "110"
 
 
@@ -62581,9 +62581,9 @@ shiny_front = "/assets/pokemon/110_shiny_front.png"
 shiny_back = "/assets/pokemon/110_shiny_back.png"
 icon = "/assets/pokemon/110_icon.png"
 [[pokemon]]
-id = 112
+id = "112"
 species = "rhydon"
-types = [ "ground", "rock",]
+types = [ "ground", "rock"]
 dexEntry = "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide."
 [[pokemon.abilities]]
 name = "lightning-rod"
@@ -63284,7 +63284,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "rhydon"
-methods = [ "level-up", "42",]
+methods = [ "level-up", "42"]
 id = "112"
 
 
@@ -63302,9 +63302,9 @@ shiny_front = "/assets/pokemon/112_shiny_front.png"
 shiny_back = "/assets/pokemon/112_shiny_back.png"
 icon = "/assets/pokemon/112_icon.png"
 [[pokemon]]
-id = 113
+id = "113"
 species = "chansey"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "This purehearted Pok�mon shares its eggs with the injured."
 [[pokemon.abilities]]
 name = "natural-cure"
@@ -64020,7 +64020,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "chansey"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "113"
 
 
@@ -64038,9 +64038,9 @@ shiny_front = "/assets/pokemon/113_shiny_front.png"
 shiny_back = "/assets/pokemon/113_shiny_back.png"
 icon = "/assets/pokemon/113_icon.png"
 [[pokemon]]
-id = 117
+id = "117"
 species = "seadra"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Seadra�s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that�s larger than the opening of its mouth."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -64421,7 +64421,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "seadra"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "117"
 
 
@@ -64439,9 +64439,9 @@ shiny_front = "/assets/pokemon/117_shiny_front.png"
 shiny_back = "/assets/pokemon/117_shiny_back.png"
 icon = "/assets/pokemon/117_icon.png"
 [[pokemon]]
-id = 119
+id = "119"
 species = "seaking"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -64827,7 +64827,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "seaking"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "119"
 
 
@@ -64845,9 +64845,9 @@ shiny_front = "/assets/pokemon/119_shiny_front.png"
 shiny_back = "/assets/pokemon/119_shiny_back.png"
 icon = "/assets/pokemon/119_icon.png"
 [[pokemon]]
-id = 121
+id = "121"
 species = "starmie"
-types = [ "water", "psychic",]
+types = [ "water", "psychic"]
 dexEntry = "Starmie swims by spinning its body at high speed. As this Pok�mon cruises through the ocean, it absorbs tiny plankton."
 [[pokemon.abilities]]
 name = "illuminate"
@@ -65341,9 +65341,9 @@ shiny_front = "/assets/pokemon/121_shiny_front.png"
 shiny_back = "/assets/pokemon/121_shiny_back.png"
 icon = "/assets/pokemon/121_icon.png"
 [[pokemon]]
-id = 122
+id = "122"
 species = "mr-mime"
-types = [ "psychic", "fairy",]
+types = [ "psychic", "fairy"]
 dexEntry = "The behavior of this clown-like Pok�mon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips."
 [[pokemon.abilities]]
 name = "soundproof"
@@ -65994,7 +65994,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "mr-mime"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "122"
 
 
@@ -66012,9 +66012,9 @@ shiny_front = "/assets/pokemon/122_shiny_front.png"
 shiny_back = "/assets/pokemon/122_shiny_back.png"
 icon = "/assets/pokemon/122_icon.png"
 [[pokemon]]
-id = 124
+id = "124"
 species = "jynx"
-types = [ "ice", "psychic",]
+types = [ "ice", "psychic"]
 dexEntry = "The Jynx of Galar often have beautiful and delicate voices. Some of these Pok�mon have even gathered a fan base."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -66635,7 +66635,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "jynx"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "124"
 
 
@@ -66653,9 +66653,9 @@ shiny_front = "/assets/pokemon/124_shiny_front.png"
 shiny_back = "/assets/pokemon/124_shiny_back.png"
 icon = "/assets/pokemon/124_icon.png"
 [[pokemon]]
-id = 125
+id = "125"
 species = "electabuzz"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pok�mon will then wait for lightning to strike."
 [[pokemon.abilities]]
 name = "static"
@@ -67097,7 +67097,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "electabuzz"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "125"
 
 
@@ -67115,9 +67115,9 @@ shiny_front = "/assets/pokemon/125_shiny_front.png"
 shiny_back = "/assets/pokemon/125_shiny_back.png"
 icon = "/assets/pokemon/125_icon.png"
 [[pokemon]]
-id = 126
+id = "126"
 species = "magmar"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Legend has it that this Pok�mon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring."
 [[pokemon.abilities]]
 name = "flame-body"
@@ -67569,7 +67569,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "magmar"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "126"
 
 
@@ -67587,9 +67587,9 @@ shiny_front = "/assets/pokemon/126_shiny_front.png"
 shiny_back = "/assets/pokemon/126_shiny_back.png"
 icon = "/assets/pokemon/126_icon.png"
 [[pokemon]]
-id = 130
+id = "130"
 species = "gyarados"
-types = [ "water", "flying",]
+types = [ "water", "flying"]
 dexEntry = "I suspect this Pok�mon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -68091,7 +68091,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gyarados"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "130"
 
 
@@ -68109,9 +68109,9 @@ shiny_front = "/assets/pokemon/130_shiny_front.png"
 shiny_back = "/assets/pokemon/130_shiny_back.png"
 icon = "/assets/pokemon/130_icon.png"
 [[pokemon]]
-id = 134
+id = "134"
 species = "vaporeon"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pok�mon."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -68618,27 +68618,27 @@ id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "197"
 
 [[pokemon.evolutions]]
 name = "leafeon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "470"
 
 [[pokemon.evolutions]]
 name = "glaceon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "471"
 
 [[pokemon.evolutions]]
 name = "sylveon"
-methods = [ "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None"]
 id = "700"
 
 
@@ -68656,9 +68656,9 @@ shiny_front = "/assets/pokemon/134_shiny_front.png"
 shiny_back = "/assets/pokemon/134_shiny_back.png"
 icon = "/assets/pokemon/134_icon.png"
 [[pokemon]]
-id = 135
+id = "135"
 species = "jolteon"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Bristles its fur into sharp, needlelike points when enraged. One can hear electricity crackle in its breath when it exhales."
 [[pokemon.abilities]]
 name = "volt-absorb"
@@ -69155,27 +69155,27 @@ id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "197"
 
 [[pokemon.evolutions]]
 name = "leafeon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "470"
 
 [[pokemon.evolutions]]
 name = "glaceon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "471"
 
 [[pokemon.evolutions]]
 name = "sylveon"
-methods = [ "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None"]
 id = "700"
 
 
@@ -69193,9 +69193,9 @@ shiny_front = "/assets/pokemon/135_shiny_front.png"
 shiny_back = "/assets/pokemon/135_shiny_back.png"
 icon = "/assets/pokemon/135_icon.png"
 [[pokemon]]
-id = 136
+id = "136"
 species = "flareon"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Flames burn within a saclike organ inside this Pok�mon. When Flareon inhales, these flames grow in intensity, reaching a mighty 3,000 degrees Fahrenheit."
 [[pokemon.abilities]]
 name = "flash-fire"
@@ -69692,27 +69692,27 @@ id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "197"
 
 [[pokemon.evolutions]]
 name = "leafeon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "470"
 
 [[pokemon.evolutions]]
 name = "glaceon"
-methods = [ "level-up", "None", "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None", "level-up", "None"]
 id = "471"
 
 [[pokemon.evolutions]]
 name = "sylveon"
-methods = [ "level-up", "None", "level-up", "None",]
+methods = [ "level-up", "None", "level-up", "None"]
 id = "700"
 
 
@@ -69730,9 +69730,9 @@ shiny_front = "/assets/pokemon/136_shiny_front.png"
 shiny_back = "/assets/pokemon/136_shiny_back.png"
 icon = "/assets/pokemon/136_icon.png"
 [[pokemon]]
-id = 139
+id = "139"
 species = "omastar"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "Omastar�s sharp fangs could crush rock, but the Pok�mon can attack only the prey that come within reach of its tentacles."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -70178,7 +70178,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "omastar"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "139"
 
 
@@ -70196,9 +70196,9 @@ shiny_front = "/assets/pokemon/139_shiny_front.png"
 shiny_back = "/assets/pokemon/139_shiny_back.png"
 icon = "/assets/pokemon/139_icon.png"
 [[pokemon]]
-id = 141
+id = "141"
 species = "kabutops"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pok�mon that inhabited warm seas."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -70729,7 +70729,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kabutops"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "141"
 
 
@@ -70747,9 +70747,9 @@ shiny_front = "/assets/pokemon/141_shiny_front.png"
 shiny_back = "/assets/pokemon/141_shiny_back.png"
 icon = "/assets/pokemon/141_icon.png"
 [[pokemon]]
-id = 143
+id = "143"
 species = "snorlax"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "This glutton appears in villages without warning and devours the entirety of their rice granaries�such occurrences have long been counted among the gravest of disasters."
 [[pokemon.abilities]]
 name = "immunity"
@@ -71435,7 +71435,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "snorlax"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "143"
 
 
@@ -71453,9 +71453,9 @@ shiny_front = "/assets/pokemon/143_shiny_front.png"
 shiny_back = "/assets/pokemon/143_shiny_back.png"
 icon = "/assets/pokemon/143_icon.png"
 [[pokemon]]
-id = 148
+id = "148"
 species = "dragonair"
-types = [ "dragon",]
+types = [ "dragon"]
 dexEntry = "This Pok�mon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -71887,7 +71887,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dragonair"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "148"
 
 
@@ -71905,9 +71905,9 @@ shiny_front = "/assets/pokemon/148_shiny_front.png"
 shiny_back = "/assets/pokemon/148_shiny_back.png"
 icon = "/assets/pokemon/148_icon.png"
 [[pokemon]]
-id = 149
+id = "149"
 species = "dragonite"
-types = [ "dragon", "flying",]
+types = [ "dragon", "flying"]
 dexEntry = "This Pok�mon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -72599,7 +72599,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dragonair"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "148"
 
 
@@ -72617,9 +72617,9 @@ shiny_front = "/assets/pokemon/149_shiny_front.png"
 shiny_back = "/assets/pokemon/149_shiny_back.png"
 icon = "/assets/pokemon/149_icon.png"
 [[pokemon]]
-id = 151
+id = "151"
 species = "mew"
-types = [ "psychic",]
+types = [ "psychic"]
 evolutions = []
 dexEntry = "When viewed through a microscope, this Pok�mon�s short, fine, delicate hair can be seen."
 [[pokemon.abilities]]
@@ -74518,7 +74518,7 @@ icon = "/assets/pokemon/151_icon.png"
 [[pokemon]]
 id = "002"
 species = "ivysaur"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -74945,7 +74945,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ivysaur"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "002"
 
 
@@ -74963,9 +74963,9 @@ shiny_front = "/assets/pokemon/002_shiny_front.png"
 shiny_back = "/assets/pokemon/002_shiny_back.png"
 icon = "/assets/pokemon/002_icon.png"
 [[pokemon]]
-id = 76
+id = "0076"
 species = "golem"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -75456,7 +75456,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "graveler"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "75"
 
 
@@ -75468,8 +75468,8 @@ special-attack = 55
 special-defense = 65
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/76_front.png"
-back = "/assets/pokemon/76_back.png"
-shiny_front = "/assets/pokemon/76_shiny_front.png"
-shiny_back = "/assets/pokemon/76_shiny_back.png"
-icon = "/assets/pokemon/76_icon.png"
+front = "/assets/pokemon/0076_front.png"
+back = "/assets/pokemon/0076_back.png"
+shiny_front = "/assets/pokemon/0076_shiny_front.png"
+shiny_back = "/assets/pokemon/0076_shiny_back.png"
+icon = "/assets/pokemon/0076_icon.png"

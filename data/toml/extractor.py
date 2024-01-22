@@ -4,7 +4,7 @@ import toml
 cache.API_CACHE
 
 
-MAXGEN = 1
+MAXGEN = 9
 data = []
 for i in range(1, MAXGEN + 1):
     # Get API data associated with that particular generation.
@@ -15,6 +15,7 @@ for i in range(1, MAXGEN + 1):
 for pokemon_gen in data:
     current_pokemon_gen = 1
     pokemon = []
+    print(f"Going through gen {current_pokemon_gen}")
     for pokemon_species in pokemon_gen.pokemon_species:
         print(f"Going through {pokemon_species.name}: {pokemon_species.id}")
         pokemon_lookup = pb.pokemon(pokemon_species.id)
@@ -42,6 +43,8 @@ for pokemon_gen in data:
         id = ""
         if(pokemon_lookup.id < 10):
             id = f"00{pokemon_lookup.id}"
+        elif(pokemon_lookup.id < 100 and pokemon_lookup.id >= 10):
+            id = f"0{pokemon_lookup.id}"
         else:
             id = pokemon_lookup.id
 
@@ -65,13 +68,18 @@ for pokemon_gen in data:
                     case _:
                         print("Could not find a trigger!")
             evolution_id = evolution.species.url.split("/")[-1 - 1]
-
+            if(pokemon_lookup.id < 10):
+                evolution_id = f"00{pokemon_lookup.id}"
+            elif(pokemon_lookup.id < 100 and pokemon_lookup.id >= 10):
+                evolution_id = f"0{pokemon_lookup.id}"
+            else:
+                evolution_id = pokemon_lookup.id
             if(int(evolution_id) < 10):
                 evolution_id = f"00{evolution_id}"
             evolution_data = {
                 "name": evolution.species.name,
                 "methods": evolution_data_list,
-                "id": evolution_id
+                "id": str(evolution_id)
             }
             pokemon_evolutions.append(evolution_data)
         pokemon_stats = {}
@@ -93,7 +101,7 @@ for pokemon_gen in data:
             "icon": f"/assets/pokemon/{id}_icon.png"
         }
         pokemon_data = {
-            "id": id,
+            "id": str(id),
             "species": pokemon_lookup.species.name,
             "abilities": ability,
             "moves": move,
@@ -111,5 +119,5 @@ for pokemon_gen in data:
         }
         
         output_file_name = f"pokemon_gen_{current_pokemon_gen}.toml"
-        with open(output_file_name, "wa") as toml_file:
+        with open(output_file_name, "w") as toml_file:
             toml.dump(pokemon_result, toml_file)
