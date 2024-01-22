@@ -3,9 +3,8 @@ import pokebase as pb
 import toml
 cache.API_CACHE
 
-pokemon = []
 
-MAXGEN = 7
+MAXGEN = 1
 data = []
 for i in range(1, MAXGEN + 1):
     # Get API data associated with that particular generation.
@@ -14,6 +13,8 @@ for i in range(1, MAXGEN + 1):
 
 # Iterate through the list of Pokemon introduced in that generation.
 for pokemon_gen in data:
+    current_pokemon_gen = 1
+    pokemon = []
     for pokemon_species in pokemon_gen.pokemon_species:
         print(f"Going through {pokemon_species.name}: {pokemon_species.id}")
         pokemon_lookup = pb.pokemon(pokemon_species.id)
@@ -64,6 +65,7 @@ for pokemon_gen in data:
                     case _:
                         print("Could not find a trigger!")
             evolution_id = evolution.species.url.split("/")[-1 - 1]
+
             if(int(evolution_id) < 10):
                 evolution_id = f"00{evolution_id}"
             evolution_data = {
@@ -84,11 +86,11 @@ for pokemon_gen in data:
 
         dex_entry = dex_entries[-1].replace("\n", " ").replace("\x0c", " ")
         asset_data = {
-            "front": f"../assets/pokemon/{id}_front.png",
-            "back": f"../assets/pokemon/{id}_back.png",
-            "shiny_front": f"../assets/pokemon/{id}_shiny_front.png",
-            "shiny_back": f"../assets/pokemon/{id}_shiny_back.png",
-            "icon": f"../assets/pokemon/{id}_icon.png"
+            "front": f"/assets/pokemon/{id}_front.png",
+            "back": f"/assets/pokemon/{id}_back.png",
+            "shiny_front": f"/assets/pokemon/{id}_shiny_front.png",
+            "shiny_back": f"/assets/pokemon/{id}_shiny_back.png",
+            "icon": f"/assets/pokemon/{id}_icon.png"
         }
         pokemon_data = {
             "id": id,
@@ -107,6 +109,7 @@ for pokemon_gen in data:
         pokemon_result = {
             "pokemon": pokemon
         }
-        output_file_name = "pokemon.toml"
-        with open(output_file_name, "w") as toml_file:
+        
+        output_file_name = f"pokemon_gen_{current_pokemon_gen}.toml"
+        with open(output_file_name, "wa") as toml_file:
             toml.dump(pokemon_result, toml_file)
