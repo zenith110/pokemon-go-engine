@@ -4,16 +4,16 @@ import toml
 cache.API_CACHE
 
 
-MAXGEN = 9
+MAXGEN = 3
 data = []
-for i in range(1, MAXGEN + 1):
-    # Get API data associated with that particular generation.
-    data.append(pb.generation(i))
+
+# Get API data associated with that particular generation.
+data.append(pb.generation(MAXGEN))
 
 
 # Iterate through the list of Pokemon introduced in that generation.
 for pokemon_gen in data:
-    current_pokemon_gen = 1
+    current_pokemon_gen = MAXGEN
     pokemon = []
     print(f"Going through gen {current_pokemon_gen}")
     for pokemon_species in pokemon_gen.pokemon_species:
