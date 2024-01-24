@@ -4,7 +4,7 @@ import toml
 cache.API_CACHE
 
 
-MAXGEN = 3
+MAXGEN = 4
 data = []
 
 # Get API data associated with that particular generation.
