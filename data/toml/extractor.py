@@ -4,7 +4,7 @@ import toml
 cache.API_CACHE
 
 
-MAXGEN = 4
+MAXGEN = 8
 data = []
 
 # Get API data associated with that particular generation.
@@ -59,9 +59,12 @@ for pokemon_gen in data:
                         evolution_data_list.append(str(evolution_details.min_level))
                     case "trade":
                         evolution_data_list.append(evolution_details.trigger.name)
-                        if(evolution_details.held_item.name == None):
-                            evolution_data_list.append("No item" )
-                        evolution_data_list.append(evolution_details.held_item.name)
+                        try:
+                            if(evolution_details.held_item.name == None):
+                                evolution_data_list.append("No item")
+                            evolution_data_list.append(evolution_details.held_item.name)
+                        except:
+                            print("Skipping, no evos!")
                     case "Use item":
                         evolution_data_list.append(evolution_details.trigger.name)
                         evolution_data_list.append(evolution_details.item.name)
@@ -113,6 +116,7 @@ for pokemon_gen in data:
 
         }
         print("Done, moving on!")
+        print(pokemon_data)
         pokemon.append(pokemon_data)
         pokemon_result = {
             "pokemon": pokemon
