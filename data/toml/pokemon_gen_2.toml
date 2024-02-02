@@ -405,11 +405,11 @@ special-attack = 49
 special-defense = 65
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/152_front.png"
-back = "/assets/pokemon/152_back.png"
-shiny_front = "/assets/pokemon/152_shiny_front.png"
-shiny_back = "/assets/pokemon/152_shiny_back.png"
-icon = "/assets/pokemon/152_icon.png"
+front = "assets/pokemon/front/152_front.png"
+back = "assets/pokemon/back/152_back.png"
+shiny_front = "assets/pokemon/shinyfront/152_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/152_shiny_back.png"
+icon = "assets/pokemon/icon/152_icon.png"
 [[pokemon]]
 id = "155"
 species = "cyndaquil"
@@ -822,11 +822,11 @@ special-attack = 60
 special-defense = 50
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/155_front.png"
-back = "/assets/pokemon/155_back.png"
-shiny_front = "/assets/pokemon/155_shiny_front.png"
-shiny_back = "/assets/pokemon/155_shiny_back.png"
-icon = "/assets/pokemon/155_icon.png"
+front = "assets/pokemon/front/155_front.png"
+back = "assets/pokemon/back/155_back.png"
+shiny_front = "assets/pokemon/shinyfront/155_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/155_shiny_back.png"
+icon = "assets/pokemon/icon/155_icon.png"
 [[pokemon]]
 id = "158"
 species = "totodile"
@@ -1344,11 +1344,11 @@ special-attack = 44
 special-defense = 48
 speed = 43
 [pokemon.assetData]
-front = "/assets/pokemon/158_front.png"
-back = "/assets/pokemon/158_back.png"
-shiny_front = "/assets/pokemon/158_shiny_front.png"
-shiny_back = "/assets/pokemon/158_shiny_back.png"
-icon = "/assets/pokemon/158_icon.png"
+front = "assets/pokemon/front/158_front.png"
+back = "assets/pokemon/back/158_back.png"
+shiny_front = "assets/pokemon/shinyfront/158_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/158_shiny_back.png"
+icon = "assets/pokemon/icon/158_icon.png"
 [[pokemon]]
 id = "161"
 species = "sentret"
@@ -1880,11 +1880,11 @@ special-attack = 35
 special-defense = 45
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/161_front.png"
-back = "/assets/pokemon/161_back.png"
-shiny_front = "/assets/pokemon/161_shiny_front.png"
-shiny_back = "/assets/pokemon/161_shiny_back.png"
-icon = "/assets/pokemon/161_icon.png"
+front = "assets/pokemon/front/161_front.png"
+back = "assets/pokemon/back/161_back.png"
+shiny_front = "assets/pokemon/shinyfront/161_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/161_shiny_back.png"
+icon = "assets/pokemon/icon/161_icon.png"
 [[pokemon]]
 id = "163"
 species = "hoothoot"
@@ -2376,11 +2376,11 @@ special-attack = 36
 special-defense = 56
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/163_front.png"
-back = "/assets/pokemon/163_back.png"
-shiny_front = "/assets/pokemon/163_shiny_front.png"
-shiny_back = "/assets/pokemon/163_shiny_back.png"
-icon = "/assets/pokemon/163_icon.png"
+front = "assets/pokemon/front/163_front.png"
+back = "assets/pokemon/back/163_back.png"
+shiny_front = "assets/pokemon/shinyfront/163_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/163_shiny_back.png"
+icon = "assets/pokemon/icon/163_icon.png"
 [[pokemon]]
 id = "165"
 species = "ledyba"
@@ -2777,11 +2777,11 @@ special-attack = 40
 special-defense = 80
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/165_front.png"
-back = "/assets/pokemon/165_back.png"
-shiny_front = "/assets/pokemon/165_shiny_front.png"
-shiny_back = "/assets/pokemon/165_shiny_back.png"
-icon = "/assets/pokemon/165_icon.png"
+front = "assets/pokemon/front/165_front.png"
+back = "assets/pokemon/back/165_back.png"
+shiny_front = "assets/pokemon/shinyfront/165_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/165_shiny_back.png"
+icon = "assets/pokemon/icon/165_icon.png"
 [[pokemon]]
 id = "167"
 species = "spinarak"
@@ -3213,11 +3213,11 @@ special-attack = 40
 special-defense = 40
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/167_front.png"
-back = "/assets/pokemon/167_back.png"
-shiny_front = "/assets/pokemon/167_shiny_front.png"
-shiny_back = "/assets/pokemon/167_shiny_back.png"
-icon = "/assets/pokemon/167_icon.png"
+front = "assets/pokemon/front/167_front.png"
+back = "assets/pokemon/back/167_back.png"
+shiny_front = "assets/pokemon/shinyfront/167_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/167_shiny_back.png"
+icon = "assets/pokemon/icon/167_icon.png"
 [[pokemon]]
 id = "170"
 species = "chinchou"
@@ -3634,11 +3634,11 @@ special-attack = 56
 special-defense = 56
 speed = 67
 [pokemon.assetData]
-front = "/assets/pokemon/170_front.png"
-back = "/assets/pokemon/170_back.png"
-shiny_front = "/assets/pokemon/170_shiny_front.png"
-shiny_back = "/assets/pokemon/170_shiny_back.png"
-icon = "/assets/pokemon/170_icon.png"
+front = "assets/pokemon/front/170_front.png"
+back = "assets/pokemon/back/170_back.png"
+shiny_front = "assets/pokemon/shinyfront/170_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/170_shiny_back.png"
+icon = "assets/pokemon/icon/170_icon.png"
 [[pokemon]]
 id = "172"
 species = "pichu"
@@ -4091,11 +4091,11 @@ special-attack = 35
 special-defense = 35
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/172_front.png"
-back = "/assets/pokemon/172_back.png"
-shiny_front = "/assets/pokemon/172_shiny_front.png"
-shiny_back = "/assets/pokemon/172_shiny_back.png"
-icon = "/assets/pokemon/172_icon.png"
+front = "assets/pokemon/front/172_front.png"
+back = "assets/pokemon/back/172_back.png"
+shiny_front = "assets/pokemon/shinyfront/172_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/172_shiny_back.png"
+icon = "assets/pokemon/icon/172_icon.png"
 [[pokemon]]
 id = "173"
 species = "cleffa"
@@ -4652,11 +4652,11 @@ special-attack = 45
 special-defense = 55
 speed = 15
 [pokemon.assetData]
-front = "/assets/pokemon/173_front.png"
-back = "/assets/pokemon/173_back.png"
-shiny_front = "/assets/pokemon/173_shiny_front.png"
-shiny_back = "/assets/pokemon/173_shiny_back.png"
-icon = "/assets/pokemon/173_icon.png"
+front = "assets/pokemon/front/173_front.png"
+back = "assets/pokemon/back/173_back.png"
+shiny_front = "assets/pokemon/shinyfront/173_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/173_shiny_back.png"
+icon = "assets/pokemon/icon/173_icon.png"
 [[pokemon]]
 id = "174"
 species = "igglybuff"
@@ -5168,11 +5168,11 @@ special-attack = 40
 special-defense = 20
 speed = 15
 [pokemon.assetData]
-front = "/assets/pokemon/174_front.png"
-back = "/assets/pokemon/174_back.png"
-shiny_front = "/assets/pokemon/174_shiny_front.png"
-shiny_back = "/assets/pokemon/174_shiny_back.png"
-icon = "/assets/pokemon/174_icon.png"
+front = "assets/pokemon/front/174_front.png"
+back = "assets/pokemon/back/174_back.png"
+shiny_front = "assets/pokemon/shinyfront/174_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/174_shiny_back.png"
+icon = "assets/pokemon/icon/174_icon.png"
 [[pokemon]]
 id = "175"
 species = "togepi"
@@ -5709,11 +5709,11 @@ special-attack = 40
 special-defense = 65
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/175_front.png"
-back = "/assets/pokemon/175_back.png"
-shiny_front = "/assets/pokemon/175_shiny_front.png"
-shiny_back = "/assets/pokemon/175_shiny_back.png"
-icon = "/assets/pokemon/175_icon.png"
+front = "assets/pokemon/front/175_front.png"
+back = "assets/pokemon/back/175_back.png"
+shiny_front = "assets/pokemon/shinyfront/175_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/175_shiny_back.png"
+icon = "assets/pokemon/icon/175_icon.png"
 [[pokemon]]
 id = "177"
 species = "natu"
@@ -6210,11 +6210,11 @@ special-attack = 70
 special-defense = 45
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/177_front.png"
-back = "/assets/pokemon/177_back.png"
-shiny_front = "/assets/pokemon/177_shiny_front.png"
-shiny_back = "/assets/pokemon/177_shiny_back.png"
-icon = "/assets/pokemon/177_icon.png"
+front = "assets/pokemon/front/177_front.png"
+back = "assets/pokemon/back/177_back.png"
+shiny_front = "assets/pokemon/shinyfront/177_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/177_shiny_back.png"
+icon = "assets/pokemon/icon/177_icon.png"
 [[pokemon]]
 id = "179"
 species = "mareep"
@@ -6597,11 +6597,11 @@ special-attack = 65
 special-defense = 45
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/179_front.png"
-back = "/assets/pokemon/179_back.png"
-shiny_front = "/assets/pokemon/179_shiny_front.png"
-shiny_back = "/assets/pokemon/179_shiny_back.png"
-icon = "/assets/pokemon/179_icon.png"
+front = "assets/pokemon/front/179_front.png"
+back = "assets/pokemon/back/179_back.png"
+shiny_front = "assets/pokemon/shinyfront/179_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/179_shiny_back.png"
+icon = "assets/pokemon/icon/179_icon.png"
 [[pokemon]]
 id = "187"
 species = "hoppip"
@@ -7048,11 +7048,11 @@ special-attack = 35
 special-defense = 55
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/187_front.png"
-back = "/assets/pokemon/187_back.png"
-shiny_front = "/assets/pokemon/187_shiny_front.png"
-shiny_back = "/assets/pokemon/187_shiny_back.png"
-icon = "/assets/pokemon/187_icon.png"
+front = "assets/pokemon/front/187_front.png"
+back = "assets/pokemon/back/187_back.png"
+shiny_front = "assets/pokemon/shinyfront/187_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/187_shiny_back.png"
+icon = "assets/pokemon/icon/187_icon.png"
 [[pokemon]]
 id = "190"
 species = "aipom"
@@ -7649,11 +7649,11 @@ special-attack = 40
 special-defense = 55
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/190_front.png"
-back = "/assets/pokemon/190_back.png"
-shiny_front = "/assets/pokemon/190_shiny_front.png"
-shiny_back = "/assets/pokemon/190_shiny_back.png"
-icon = "/assets/pokemon/190_icon.png"
+front = "assets/pokemon/front/190_front.png"
+back = "assets/pokemon/back/190_back.png"
+shiny_front = "assets/pokemon/shinyfront/190_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/190_shiny_back.png"
+icon = "assets/pokemon/icon/190_icon.png"
 [[pokemon]]
 id = "191"
 species = "sunkern"
@@ -8000,11 +8000,11 @@ special-attack = 30
 special-defense = 30
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/191_front.png"
-back = "/assets/pokemon/191_back.png"
-shiny_front = "/assets/pokemon/191_shiny_front.png"
-shiny_back = "/assets/pokemon/191_shiny_back.png"
-icon = "/assets/pokemon/191_icon.png"
+front = "assets/pokemon/front/191_front.png"
+back = "assets/pokemon/back/191_back.png"
+shiny_front = "assets/pokemon/shinyfront/191_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/191_shiny_back.png"
+icon = "assets/pokemon/icon/191_icon.png"
 [[pokemon]]
 id = "193"
 species = "yanma"
@@ -8401,11 +8401,11 @@ special-attack = 75
 special-defense = 45
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/193_front.png"
-back = "/assets/pokemon/193_back.png"
-shiny_front = "/assets/pokemon/193_shiny_front.png"
-shiny_back = "/assets/pokemon/193_shiny_back.png"
-icon = "/assets/pokemon/193_icon.png"
+front = "assets/pokemon/front/193_front.png"
+back = "assets/pokemon/back/193_back.png"
+shiny_front = "assets/pokemon/shinyfront/193_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/193_shiny_back.png"
+icon = "assets/pokemon/icon/193_icon.png"
 [[pokemon]]
 id = "194"
 species = "wooper"
@@ -8902,11 +8902,11 @@ special-attack = 25
 special-defense = 25
 speed = 15
 [pokemon.assetData]
-front = "/assets/pokemon/194_front.png"
-back = "/assets/pokemon/194_back.png"
-shiny_front = "/assets/pokemon/194_shiny_front.png"
-shiny_back = "/assets/pokemon/194_shiny_back.png"
-icon = "/assets/pokemon/194_icon.png"
+front = "assets/pokemon/front/194_front.png"
+back = "assets/pokemon/back/194_back.png"
+shiny_front = "assets/pokemon/shinyfront/194_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/194_shiny_back.png"
+icon = "assets/pokemon/icon/194_icon.png"
 [[pokemon]]
 id = "198"
 species = "murkrow"
@@ -9423,11 +9423,11 @@ special-attack = 85
 special-defense = 42
 speed = 91
 [pokemon.assetData]
-front = "/assets/pokemon/198_front.png"
-back = "/assets/pokemon/198_back.png"
-shiny_front = "/assets/pokemon/198_shiny_front.png"
-shiny_back = "/assets/pokemon/198_shiny_back.png"
-icon = "/assets/pokemon/198_icon.png"
+front = "assets/pokemon/front/198_front.png"
+back = "assets/pokemon/back/198_back.png"
+shiny_front = "assets/pokemon/shinyfront/198_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/198_shiny_back.png"
+icon = "assets/pokemon/icon/198_icon.png"
 [[pokemon]]
 id = "200"
 species = "misdreavus"
@@ -9981,11 +9981,11 @@ special-attack = 85
 special-defense = 85
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/200_front.png"
-back = "/assets/pokemon/200_back.png"
-shiny_front = "/assets/pokemon/200_shiny_front.png"
-shiny_back = "/assets/pokemon/200_shiny_back.png"
-icon = "/assets/pokemon/200_icon.png"
+front = "assets/pokemon/front/200_front.png"
+back = "assets/pokemon/back/200_back.png"
+shiny_front = "assets/pokemon/shinyfront/200_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/200_shiny_back.png"
+icon = "assets/pokemon/icon/200_icon.png"
 [[pokemon]]
 id = "201"
 species = "unown"
@@ -10010,11 +10010,11 @@ special-attack = 72
 special-defense = 48
 speed = 48
 [pokemon.assetData]
-front = "/assets/pokemon/201_front.png"
-back = "/assets/pokemon/201_back.png"
-shiny_front = "/assets/pokemon/201_shiny_front.png"
-shiny_back = "/assets/pokemon/201_shiny_back.png"
-icon = "/assets/pokemon/201_icon.png"
+front = "assets/pokemon/front/201_front.png"
+back = "assets/pokemon/back/201_back.png"
+shiny_front = "assets/pokemon/shinyfront/201_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/201_shiny_back.png"
+icon = "assets/pokemon/icon/201_icon.png"
 [[pokemon]]
 id = "203"
 species = "girafarig"
@@ -10606,11 +10606,11 @@ special-attack = 90
 special-defense = 65
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/203_front.png"
-back = "/assets/pokemon/203_back.png"
-shiny_front = "/assets/pokemon/203_shiny_front.png"
-shiny_back = "/assets/pokemon/203_shiny_back.png"
-icon = "/assets/pokemon/203_icon.png"
+front = "assets/pokemon/front/203_front.png"
+back = "assets/pokemon/back/203_back.png"
+shiny_front = "assets/pokemon/shinyfront/203_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/203_shiny_back.png"
+icon = "assets/pokemon/icon/203_icon.png"
 [[pokemon]]
 id = "204"
 species = "pineco"
@@ -11028,11 +11028,11 @@ special-attack = 35
 special-defense = 35
 speed = 15
 [pokemon.assetData]
-front = "/assets/pokemon/204_front.png"
-back = "/assets/pokemon/204_back.png"
-shiny_front = "/assets/pokemon/204_shiny_front.png"
-shiny_back = "/assets/pokemon/204_shiny_back.png"
-icon = "/assets/pokemon/204_icon.png"
+front = "assets/pokemon/front/204_front.png"
+back = "assets/pokemon/back/204_back.png"
+shiny_front = "assets/pokemon/shinyfront/204_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/204_shiny_back.png"
+icon = "assets/pokemon/icon/204_icon.png"
 [[pokemon]]
 id = "206"
 species = "dunsparce"
@@ -11644,11 +11644,11 @@ special-attack = 65
 special-defense = 65
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/206_front.png"
-back = "/assets/pokemon/206_back.png"
-shiny_front = "/assets/pokemon/206_shiny_front.png"
-shiny_back = "/assets/pokemon/206_shiny_back.png"
-icon = "/assets/pokemon/206_icon.png"
+front = "assets/pokemon/front/206_front.png"
+back = "assets/pokemon/back/206_back.png"
+shiny_front = "assets/pokemon/shinyfront/206_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/206_shiny_back.png"
+icon = "assets/pokemon/icon/206_icon.png"
 [[pokemon]]
 id = "207"
 species = "gligar"
@@ -12235,11 +12235,11 @@ special-attack = 35
 special-defense = 65
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/207_front.png"
-back = "/assets/pokemon/207_back.png"
-shiny_front = "/assets/pokemon/207_shiny_front.png"
-shiny_back = "/assets/pokemon/207_shiny_back.png"
-icon = "/assets/pokemon/207_icon.png"
+front = "assets/pokemon/front/207_front.png"
+back = "assets/pokemon/back/207_back.png"
+shiny_front = "assets/pokemon/shinyfront/207_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/207_shiny_back.png"
+icon = "assets/pokemon/icon/207_icon.png"
 [[pokemon]]
 id = "209"
 species = "snubbull"
@@ -12826,11 +12826,11 @@ special-attack = 40
 special-defense = 40
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/209_front.png"
-back = "/assets/pokemon/209_back.png"
-shiny_front = "/assets/pokemon/209_shiny_front.png"
-shiny_back = "/assets/pokemon/209_shiny_back.png"
-icon = "/assets/pokemon/209_icon.png"
+front = "assets/pokemon/front/209_front.png"
+back = "assets/pokemon/back/209_back.png"
+shiny_front = "assets/pokemon/shinyfront/209_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/209_shiny_back.png"
+icon = "assets/pokemon/icon/209_icon.png"
 [[pokemon]]
 id = "211"
 species = "qwilfish"
@@ -13357,11 +13357,11 @@ special-attack = 55
 special-defense = 55
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/211_front.png"
-back = "/assets/pokemon/211_back.png"
-shiny_front = "/assets/pokemon/211_shiny_front.png"
-shiny_back = "/assets/pokemon/211_shiny_back.png"
-icon = "/assets/pokemon/211_icon.png"
+front = "assets/pokemon/front/211_front.png"
+back = "assets/pokemon/back/211_back.png"
+shiny_front = "assets/pokemon/shinyfront/211_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/211_shiny_back.png"
+icon = "assets/pokemon/icon/211_icon.png"
 [[pokemon]]
 id = "213"
 species = "shuckle"
@@ -13794,11 +13794,11 @@ special-attack = 10
 special-defense = 230
 speed = 5
 [pokemon.assetData]
-front = "/assets/pokemon/213_front.png"
-back = "/assets/pokemon/213_back.png"
-shiny_front = "/assets/pokemon/213_shiny_front.png"
-shiny_back = "/assets/pokemon/213_shiny_back.png"
-icon = "/assets/pokemon/213_icon.png"
+front = "assets/pokemon/front/213_front.png"
+back = "assets/pokemon/back/213_back.png"
+shiny_front = "assets/pokemon/shinyfront/213_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/213_shiny_back.png"
+icon = "assets/pokemon/icon/213_icon.png"
 [[pokemon]]
 id = "214"
 species = "heracross"
@@ -14316,11 +14316,11 @@ special-attack = 40
 special-defense = 95
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/214_front.png"
-back = "/assets/pokemon/214_back.png"
-shiny_front = "/assets/pokemon/214_shiny_front.png"
-shiny_back = "/assets/pokemon/214_shiny_back.png"
-icon = "/assets/pokemon/214_icon.png"
+front = "assets/pokemon/front/214_front.png"
+back = "assets/pokemon/back/214_back.png"
+shiny_front = "assets/pokemon/shinyfront/214_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/214_shiny_back.png"
+icon = "assets/pokemon/icon/214_icon.png"
 [[pokemon]]
 id = "215"
 species = "sneasel"
@@ -14942,11 +14942,11 @@ special-attack = 35
 special-defense = 75
 speed = 115
 [pokemon.assetData]
-front = "/assets/pokemon/215_front.png"
-back = "/assets/pokemon/215_back.png"
-shiny_front = "/assets/pokemon/215_shiny_front.png"
-shiny_back = "/assets/pokemon/215_shiny_back.png"
-icon = "/assets/pokemon/215_icon.png"
+front = "assets/pokemon/front/215_front.png"
+back = "assets/pokemon/back/215_back.png"
+shiny_front = "assets/pokemon/shinyfront/215_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/215_shiny_back.png"
+icon = "assets/pokemon/icon/215_icon.png"
 [[pokemon]]
 id = "216"
 species = "teddiursa"
@@ -15483,11 +15483,11 @@ special-attack = 50
 special-defense = 50
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/216_front.png"
-back = "/assets/pokemon/216_back.png"
-shiny_front = "/assets/pokemon/216_shiny_front.png"
-shiny_back = "/assets/pokemon/216_shiny_back.png"
-icon = "/assets/pokemon/216_icon.png"
+front = "assets/pokemon/front/216_front.png"
+back = "assets/pokemon/back/216_back.png"
+shiny_front = "assets/pokemon/shinyfront/216_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/216_shiny_back.png"
+icon = "assets/pokemon/icon/216_icon.png"
 [[pokemon]]
 id = "218"
 species = "slugma"
@@ -15919,11 +15919,11 @@ special-attack = 70
 special-defense = 40
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/218_front.png"
-back = "/assets/pokemon/218_back.png"
-shiny_front = "/assets/pokemon/218_shiny_front.png"
-shiny_back = "/assets/pokemon/218_shiny_back.png"
-icon = "/assets/pokemon/218_icon.png"
+front = "assets/pokemon/front/218_front.png"
+back = "assets/pokemon/back/218_back.png"
+shiny_front = "assets/pokemon/shinyfront/218_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/218_shiny_back.png"
+icon = "assets/pokemon/icon/218_icon.png"
 [[pokemon]]
 id = "220"
 species = "swinub"
@@ -16345,11 +16345,11 @@ special-attack = 30
 special-defense = 30
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/220_front.png"
-back = "/assets/pokemon/220_back.png"
-shiny_front = "/assets/pokemon/220_shiny_front.png"
-shiny_back = "/assets/pokemon/220_shiny_back.png"
-icon = "/assets/pokemon/220_icon.png"
+front = "assets/pokemon/front/220_front.png"
+back = "assets/pokemon/back/220_back.png"
+shiny_front = "assets/pokemon/shinyfront/220_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/220_shiny_back.png"
+icon = "assets/pokemon/icon/220_icon.png"
 [[pokemon]]
 id = "222"
 species = "corsola"
@@ -16851,11 +16851,11 @@ special-attack = 65
 special-defense = 95
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/222_front.png"
-back = "/assets/pokemon/222_back.png"
-shiny_front = "/assets/pokemon/222_shiny_front.png"
-shiny_back = "/assets/pokemon/222_shiny_back.png"
-icon = "/assets/pokemon/222_icon.png"
+front = "assets/pokemon/front/222_front.png"
+back = "assets/pokemon/back/222_back.png"
+shiny_front = "assets/pokemon/shinyfront/222_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/222_shiny_back.png"
+icon = "assets/pokemon/icon/222_icon.png"
 [[pokemon]]
 id = "223"
 species = "remoraid"
@@ -17247,11 +17247,11 @@ special-attack = 65
 special-defense = 35
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/223_front.png"
-back = "/assets/pokemon/223_back.png"
-shiny_front = "/assets/pokemon/223_shiny_front.png"
-shiny_back = "/assets/pokemon/223_shiny_back.png"
-icon = "/assets/pokemon/223_icon.png"
+front = "assets/pokemon/front/223_front.png"
+back = "assets/pokemon/back/223_back.png"
+shiny_front = "assets/pokemon/shinyfront/223_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/223_shiny_back.png"
+icon = "assets/pokemon/icon/223_icon.png"
 [[pokemon]]
 id = "225"
 species = "delibird"
@@ -17784,11 +17784,11 @@ special-attack = 65
 special-defense = 45
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/225_front.png"
-back = "/assets/pokemon/225_back.png"
-shiny_front = "/assets/pokemon/225_shiny_front.png"
-shiny_back = "/assets/pokemon/225_shiny_back.png"
-icon = "/assets/pokemon/225_icon.png"
+front = "assets/pokemon/front/225_front.png"
+back = "assets/pokemon/back/225_back.png"
+shiny_front = "assets/pokemon/shinyfront/225_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/225_shiny_back.png"
+icon = "assets/pokemon/icon/225_icon.png"
 [[pokemon]]
 id = "154"
 species = "meganium"
@@ -18276,11 +18276,11 @@ special-attack = 83
 special-defense = 100
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/154_front.png"
-back = "/assets/pokemon/154_back.png"
-shiny_front = "/assets/pokemon/154_shiny_front.png"
-shiny_back = "/assets/pokemon/154_shiny_back.png"
-icon = "/assets/pokemon/154_icon.png"
+front = "assets/pokemon/front/154_front.png"
+back = "assets/pokemon/back/154_back.png"
+shiny_front = "assets/pokemon/shinyfront/154_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/154_shiny_back.png"
+icon = "assets/pokemon/icon/154_icon.png"
 [[pokemon]]
 id = "156"
 species = "quilava"
@@ -18693,11 +18693,11 @@ special-attack = 80
 special-defense = 65
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/156_front.png"
-back = "/assets/pokemon/156_back.png"
-shiny_front = "/assets/pokemon/156_shiny_front.png"
-shiny_back = "/assets/pokemon/156_shiny_back.png"
-icon = "/assets/pokemon/156_icon.png"
+front = "assets/pokemon/front/156_front.png"
+back = "assets/pokemon/back/156_back.png"
+shiny_front = "assets/pokemon/shinyfront/156_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/156_shiny_back.png"
+icon = "assets/pokemon/icon/156_icon.png"
 [[pokemon]]
 id = "157"
 species = "typhlosion"
@@ -19280,11 +19280,11 @@ special-attack = 109
 special-defense = 85
 speed = 100
 [pokemon.assetData]
-front = "/assets/pokemon/157_front.png"
-back = "/assets/pokemon/157_back.png"
-shiny_front = "/assets/pokemon/157_shiny_front.png"
-shiny_back = "/assets/pokemon/157_shiny_back.png"
-icon = "/assets/pokemon/157_icon.png"
+front = "assets/pokemon/front/157_front.png"
+back = "assets/pokemon/back/157_back.png"
+shiny_front = "assets/pokemon/shinyfront/157_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/157_shiny_back.png"
+icon = "assets/pokemon/icon/157_icon.png"
 [[pokemon]]
 id = "159"
 species = "croconaw"
@@ -19812,11 +19812,11 @@ special-attack = 59
 special-defense = 63
 speed = 58
 [pokemon.assetData]
-front = "/assets/pokemon/159_front.png"
-back = "/assets/pokemon/159_back.png"
-shiny_front = "/assets/pokemon/159_shiny_front.png"
-shiny_back = "/assets/pokemon/159_shiny_back.png"
-icon = "/assets/pokemon/159_icon.png"
+front = "assets/pokemon/front/159_front.png"
+back = "assets/pokemon/back/159_back.png"
+shiny_front = "assets/pokemon/shinyfront/159_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/159_shiny_back.png"
+icon = "assets/pokemon/icon/159_icon.png"
 [[pokemon]]
 id = "160"
 species = "feraligatr"
@@ -20429,11 +20429,11 @@ special-attack = 79
 special-defense = 83
 speed = 78
 [pokemon.assetData]
-front = "/assets/pokemon/160_front.png"
-back = "/assets/pokemon/160_back.png"
-shiny_front = "/assets/pokemon/160_shiny_front.png"
-shiny_back = "/assets/pokemon/160_shiny_back.png"
-icon = "/assets/pokemon/160_icon.png"
+front = "assets/pokemon/front/160_front.png"
+back = "assets/pokemon/back/160_back.png"
+shiny_front = "assets/pokemon/shinyfront/160_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/160_shiny_back.png"
+icon = "assets/pokemon/icon/160_icon.png"
 [[pokemon]]
 id = "162"
 species = "furret"
@@ -20990,11 +20990,11 @@ special-attack = 45
 special-defense = 55
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/162_front.png"
-back = "/assets/pokemon/162_back.png"
-shiny_front = "/assets/pokemon/162_shiny_front.png"
-shiny_back = "/assets/pokemon/162_shiny_back.png"
-icon = "/assets/pokemon/162_icon.png"
+front = "assets/pokemon/front/162_front.png"
+back = "assets/pokemon/back/162_back.png"
+shiny_front = "assets/pokemon/shinyfront/162_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/162_shiny_back.png"
+icon = "assets/pokemon/icon/162_icon.png"
 [[pokemon]]
 id = "164"
 species = "noctowl"
@@ -21506,11 +21506,11 @@ special-attack = 86
 special-defense = 96
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/164_front.png"
-back = "/assets/pokemon/164_back.png"
-shiny_front = "/assets/pokemon/164_shiny_front.png"
-shiny_back = "/assets/pokemon/164_shiny_back.png"
-icon = "/assets/pokemon/164_icon.png"
+front = "assets/pokemon/front/164_front.png"
+back = "assets/pokemon/back/164_back.png"
+shiny_front = "assets/pokemon/shinyfront/164_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/164_shiny_back.png"
+icon = "assets/pokemon/icon/164_icon.png"
 [[pokemon]]
 id = "166"
 species = "ledian"
@@ -21907,11 +21907,11 @@ special-attack = 55
 special-defense = 110
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/166_front.png"
-back = "/assets/pokemon/166_back.png"
-shiny_front = "/assets/pokemon/166_shiny_front.png"
-shiny_back = "/assets/pokemon/166_shiny_back.png"
-icon = "/assets/pokemon/166_icon.png"
+front = "assets/pokemon/front/166_front.png"
+back = "assets/pokemon/back/166_back.png"
+shiny_front = "assets/pokemon/shinyfront/166_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/166_shiny_back.png"
+icon = "assets/pokemon/icon/166_icon.png"
 [[pokemon]]
 id = "168"
 species = "ariados"
@@ -22368,11 +22368,11 @@ special-attack = 60
 special-defense = 70
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/168_front.png"
-back = "/assets/pokemon/168_back.png"
-shiny_front = "/assets/pokemon/168_shiny_front.png"
-shiny_back = "/assets/pokemon/168_shiny_back.png"
-icon = "/assets/pokemon/168_icon.png"
+front = "assets/pokemon/front/168_front.png"
+back = "assets/pokemon/back/168_back.png"
+shiny_front = "assets/pokemon/shinyfront/168_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/168_shiny_back.png"
+icon = "assets/pokemon/icon/168_icon.png"
 [[pokemon]]
 id = "169"
 species = "crobat"
@@ -22795,11 +22795,11 @@ special-attack = 70
 special-defense = 80
 speed = 130
 [pokemon.assetData]
-front = "/assets/pokemon/169_front.png"
-back = "/assets/pokemon/169_back.png"
-shiny_front = "/assets/pokemon/169_shiny_front.png"
-shiny_back = "/assets/pokemon/169_shiny_back.png"
-icon = "/assets/pokemon/169_icon.png"
+front = "assets/pokemon/front/169_front.png"
+back = "assets/pokemon/back/169_back.png"
+shiny_front = "assets/pokemon/shinyfront/169_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/169_shiny_back.png"
+icon = "assets/pokemon/icon/169_icon.png"
 [[pokemon]]
 id = "171"
 species = "lanturn"
@@ -23251,11 +23251,11 @@ special-attack = 76
 special-defense = 76
 speed = 67
 [pokemon.assetData]
-front = "/assets/pokemon/171_front.png"
-back = "/assets/pokemon/171_back.png"
-shiny_front = "/assets/pokemon/171_shiny_front.png"
-shiny_back = "/assets/pokemon/171_shiny_back.png"
-icon = "/assets/pokemon/171_icon.png"
+front = "assets/pokemon/front/171_front.png"
+back = "assets/pokemon/back/171_back.png"
+shiny_front = "assets/pokemon/shinyfront/171_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/171_shiny_back.png"
+icon = "assets/pokemon/icon/171_icon.png"
 [[pokemon]]
 id = "176"
 species = "togetic"
@@ -23862,11 +23862,11 @@ special-attack = 80
 special-defense = 105
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/176_front.png"
-back = "/assets/pokemon/176_back.png"
-shiny_front = "/assets/pokemon/176_shiny_front.png"
-shiny_back = "/assets/pokemon/176_shiny_back.png"
-icon = "/assets/pokemon/176_icon.png"
+front = "assets/pokemon/front/176_front.png"
+back = "assets/pokemon/back/176_back.png"
+shiny_front = "assets/pokemon/shinyfront/176_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/176_shiny_back.png"
+icon = "assets/pokemon/icon/176_icon.png"
 [[pokemon]]
 id = "178"
 species = "xatu"
@@ -24353,11 +24353,11 @@ special-attack = 95
 special-defense = 70
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/178_front.png"
-back = "/assets/pokemon/178_back.png"
-shiny_front = "/assets/pokemon/178_shiny_front.png"
-shiny_back = "/assets/pokemon/178_shiny_back.png"
-icon = "/assets/pokemon/178_icon.png"
+front = "assets/pokemon/front/178_front.png"
+back = "assets/pokemon/back/178_back.png"
+shiny_front = "assets/pokemon/shinyfront/178_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/178_shiny_back.png"
+icon = "assets/pokemon/icon/178_icon.png"
 [[pokemon]]
 id = "180"
 species = "flaaffy"
@@ -24800,11 +24800,11 @@ special-attack = 80
 special-defense = 60
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/180_front.png"
-back = "/assets/pokemon/180_back.png"
-shiny_front = "/assets/pokemon/180_shiny_front.png"
-shiny_back = "/assets/pokemon/180_shiny_back.png"
-icon = "/assets/pokemon/180_icon.png"
+front = "assets/pokemon/front/180_front.png"
+back = "assets/pokemon/back/180_back.png"
+shiny_front = "assets/pokemon/shinyfront/180_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/180_shiny_back.png"
+icon = "assets/pokemon/icon/180_icon.png"
 [[pokemon]]
 id = "181"
 species = "ampharos"
@@ -25332,11 +25332,11 @@ special-attack = 115
 special-defense = 90
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/181_front.png"
-back = "/assets/pokemon/181_back.png"
-shiny_front = "/assets/pokemon/181_shiny_front.png"
-shiny_back = "/assets/pokemon/181_shiny_back.png"
-icon = "/assets/pokemon/181_icon.png"
+front = "assets/pokemon/front/181_front.png"
+back = "assets/pokemon/back/181_back.png"
+shiny_front = "assets/pokemon/shinyfront/181_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/181_shiny_back.png"
+icon = "assets/pokemon/icon/181_icon.png"
 [[pokemon]]
 id = "182"
 species = "bellossom"
@@ -25794,11 +25794,11 @@ special-attack = 90
 special-defense = 100
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/182_front.png"
-back = "/assets/pokemon/182_back.png"
-shiny_front = "/assets/pokemon/182_shiny_front.png"
-shiny_back = "/assets/pokemon/182_shiny_back.png"
-icon = "/assets/pokemon/182_icon.png"
+front = "assets/pokemon/front/182_front.png"
+back = "assets/pokemon/back/182_back.png"
+shiny_front = "assets/pokemon/shinyfront/182_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/182_shiny_back.png"
+icon = "assets/pokemon/icon/182_icon.png"
 [[pokemon]]
 id = "183"
 species = "marill"
@@ -26375,11 +26375,11 @@ special-attack = 20
 special-defense = 50
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/183_front.png"
-back = "/assets/pokemon/183_back.png"
-shiny_front = "/assets/pokemon/183_shiny_front.png"
-shiny_back = "/assets/pokemon/183_shiny_back.png"
-icon = "/assets/pokemon/183_icon.png"
+front = "assets/pokemon/front/183_front.png"
+back = "assets/pokemon/back/183_back.png"
+shiny_front = "assets/pokemon/shinyfront/183_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/183_shiny_back.png"
+icon = "assets/pokemon/icon/183_icon.png"
 [[pokemon]]
 id = "184"
 species = "azumarill"
@@ -26911,11 +26911,11 @@ special-attack = 60
 special-defense = 80
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/184_front.png"
-back = "/assets/pokemon/184_back.png"
-shiny_front = "/assets/pokemon/184_shiny_front.png"
-shiny_back = "/assets/pokemon/184_shiny_back.png"
-icon = "/assets/pokemon/184_icon.png"
+front = "assets/pokemon/front/184_front.png"
+back = "assets/pokemon/back/184_back.png"
+shiny_front = "assets/pokemon/shinyfront/184_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/184_shiny_back.png"
+icon = "assets/pokemon/icon/184_icon.png"
 [[pokemon]]
 id = "185"
 species = "sudowoodo"
@@ -27447,11 +27447,11 @@ special-attack = 30
 special-defense = 65
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/185_front.png"
-back = "/assets/pokemon/185_back.png"
-shiny_front = "/assets/pokemon/185_shiny_front.png"
-shiny_back = "/assets/pokemon/185_shiny_back.png"
-icon = "/assets/pokemon/185_icon.png"
+front = "assets/pokemon/front/185_front.png"
+back = "assets/pokemon/back/185_back.png"
+shiny_front = "assets/pokemon/shinyfront/185_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/185_shiny_back.png"
+icon = "assets/pokemon/icon/185_icon.png"
 [[pokemon]]
 id = "186"
 species = "politoed"
@@ -27943,11 +27943,11 @@ special-attack = 90
 special-defense = 100
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/186_front.png"
-back = "/assets/pokemon/186_back.png"
-shiny_front = "/assets/pokemon/186_shiny_front.png"
-shiny_back = "/assets/pokemon/186_shiny_back.png"
-icon = "/assets/pokemon/186_icon.png"
+front = "assets/pokemon/front/186_front.png"
+back = "assets/pokemon/back/186_back.png"
+shiny_front = "assets/pokemon/shinyfront/186_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/186_shiny_back.png"
+icon = "assets/pokemon/icon/186_icon.png"
 [[pokemon]]
 id = "188"
 species = "skiploom"
@@ -28354,11 +28354,11 @@ special-attack = 45
 special-defense = 65
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/188_front.png"
-back = "/assets/pokemon/188_back.png"
-shiny_front = "/assets/pokemon/188_shiny_front.png"
-shiny_back = "/assets/pokemon/188_shiny_back.png"
-icon = "/assets/pokemon/188_icon.png"
+front = "assets/pokemon/front/188_front.png"
+back = "assets/pokemon/back/188_back.png"
+shiny_front = "assets/pokemon/shinyfront/188_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/188_shiny_back.png"
+icon = "assets/pokemon/icon/188_icon.png"
 [[pokemon]]
 id = "189"
 species = "jumpluff"
@@ -28780,11 +28780,11 @@ special-attack = 55
 special-defense = 95
 speed = 110
 [pokemon.assetData]
-front = "/assets/pokemon/189_front.png"
-back = "/assets/pokemon/189_back.png"
-shiny_front = "/assets/pokemon/189_shiny_front.png"
-shiny_back = "/assets/pokemon/189_shiny_back.png"
-icon = "/assets/pokemon/189_icon.png"
+front = "assets/pokemon/front/189_front.png"
+back = "assets/pokemon/back/189_back.png"
+shiny_front = "assets/pokemon/shinyfront/189_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/189_shiny_back.png"
+icon = "assets/pokemon/icon/189_icon.png"
 [[pokemon]]
 id = "192"
 species = "sunflora"
@@ -29161,11 +29161,11 @@ special-attack = 105
 special-defense = 85
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/192_front.png"
-back = "/assets/pokemon/192_back.png"
-shiny_front = "/assets/pokemon/192_shiny_front.png"
-shiny_back = "/assets/pokemon/192_shiny_back.png"
-icon = "/assets/pokemon/192_icon.png"
+front = "assets/pokemon/front/192_front.png"
+back = "assets/pokemon/back/192_back.png"
+shiny_front = "assets/pokemon/shinyfront/192_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/192_shiny_back.png"
+icon = "assets/pokemon/icon/192_icon.png"
 [[pokemon]]
 id = "195"
 species = "quagsire"
@@ -29712,11 +29712,11 @@ special-attack = 65
 special-defense = 65
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/195_front.png"
-back = "/assets/pokemon/195_back.png"
-shiny_front = "/assets/pokemon/195_shiny_front.png"
-shiny_back = "/assets/pokemon/195_shiny_back.png"
-icon = "/assets/pokemon/195_icon.png"
+front = "assets/pokemon/front/195_front.png"
+back = "assets/pokemon/back/195_back.png"
+shiny_front = "assets/pokemon/shinyfront/195_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/195_shiny_back.png"
+icon = "assets/pokemon/icon/195_icon.png"
 [[pokemon]]
 id = "196"
 species = "espeon"
@@ -30284,11 +30284,11 @@ special-attack = 130
 special-defense = 95
 speed = 110
 [pokemon.assetData]
-front = "/assets/pokemon/196_front.png"
-back = "/assets/pokemon/196_back.png"
-shiny_front = "/assets/pokemon/196_shiny_front.png"
-shiny_back = "/assets/pokemon/196_shiny_back.png"
-icon = "/assets/pokemon/196_icon.png"
+front = "assets/pokemon/front/196_front.png"
+back = "assets/pokemon/back/196_back.png"
+shiny_front = "assets/pokemon/shinyfront/196_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/196_shiny_back.png"
+icon = "assets/pokemon/icon/196_icon.png"
 [[pokemon]]
 id = "197"
 species = "umbreon"
@@ -30841,11 +30841,11 @@ special-attack = 60
 special-defense = 130
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/197_front.png"
-back = "/assets/pokemon/197_back.png"
-shiny_front = "/assets/pokemon/197_shiny_front.png"
-shiny_back = "/assets/pokemon/197_shiny_back.png"
-icon = "/assets/pokemon/197_icon.png"
+front = "assets/pokemon/front/197_front.png"
+back = "assets/pokemon/back/197_back.png"
+shiny_front = "assets/pokemon/shinyfront/197_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/197_shiny_back.png"
+icon = "assets/pokemon/icon/197_icon.png"
 [[pokemon]]
 id = "199"
 species = "slowking"
@@ -31552,11 +31552,11 @@ special-attack = 100
 special-defense = 110
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/199_front.png"
-back = "/assets/pokemon/199_back.png"
-shiny_front = "/assets/pokemon/199_shiny_front.png"
-shiny_back = "/assets/pokemon/199_shiny_back.png"
-icon = "/assets/pokemon/199_icon.png"
+front = "assets/pokemon/front/199_front.png"
+back = "assets/pokemon/back/199_back.png"
+shiny_front = "assets/pokemon/shinyfront/199_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/199_shiny_back.png"
+icon = "assets/pokemon/icon/199_icon.png"
 [[pokemon]]
 id = "202"
 species = "wobbuffet"
@@ -31624,11 +31624,11 @@ special-attack = 33
 special-defense = 58
 speed = 33
 [pokemon.assetData]
-front = "/assets/pokemon/202_front.png"
-back = "/assets/pokemon/202_back.png"
-shiny_front = "/assets/pokemon/202_shiny_front.png"
-shiny_back = "/assets/pokemon/202_shiny_back.png"
-icon = "/assets/pokemon/202_icon.png"
+front = "assets/pokemon/front/202_front.png"
+back = "assets/pokemon/back/202_back.png"
+shiny_front = "assets/pokemon/shinyfront/202_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/202_shiny_back.png"
+icon = "assets/pokemon/icon/202_icon.png"
 [[pokemon]]
 id = "205"
 species = "forretress"
@@ -32141,11 +32141,11 @@ special-attack = 60
 special-defense = 60
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/205_front.png"
-back = "/assets/pokemon/205_back.png"
-shiny_front = "/assets/pokemon/205_shiny_front.png"
-shiny_back = "/assets/pokemon/205_shiny_back.png"
-icon = "/assets/pokemon/205_icon.png"
+front = "assets/pokemon/front/205_front.png"
+back = "assets/pokemon/back/205_back.png"
+shiny_front = "assets/pokemon/shinyfront/205_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/205_shiny_back.png"
+icon = "assets/pokemon/icon/205_icon.png"
 [[pokemon]]
 id = "208"
 species = "steelix"
@@ -32657,11 +32657,11 @@ special-attack = 55
 special-defense = 65
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/208_front.png"
-back = "/assets/pokemon/208_back.png"
-shiny_front = "/assets/pokemon/208_shiny_front.png"
-shiny_back = "/assets/pokemon/208_shiny_back.png"
-icon = "/assets/pokemon/208_icon.png"
+front = "assets/pokemon/front/208_front.png"
+back = "assets/pokemon/back/208_back.png"
+shiny_front = "assets/pokemon/shinyfront/208_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/208_shiny_back.png"
+icon = "assets/pokemon/icon/208_icon.png"
 [[pokemon]]
 id = "210"
 species = "granbull"
@@ -33283,11 +33283,11 @@ special-attack = 60
 special-defense = 60
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/210_front.png"
-back = "/assets/pokemon/210_back.png"
-shiny_front = "/assets/pokemon/210_shiny_front.png"
-shiny_back = "/assets/pokemon/210_shiny_back.png"
-icon = "/assets/pokemon/210_icon.png"
+front = "assets/pokemon/front/210_front.png"
+back = "assets/pokemon/back/210_back.png"
+shiny_front = "assets/pokemon/shinyfront/210_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/210_shiny_back.png"
+icon = "assets/pokemon/icon/210_icon.png"
 [[pokemon]]
 id = "212"
 species = "scizor"
@@ -33809,11 +33809,11 @@ special-attack = 55
 special-defense = 80
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/212_front.png"
-back = "/assets/pokemon/212_back.png"
-shiny_front = "/assets/pokemon/212_shiny_front.png"
-shiny_back = "/assets/pokemon/212_shiny_back.png"
-icon = "/assets/pokemon/212_icon.png"
+front = "assets/pokemon/front/212_front.png"
+back = "assets/pokemon/back/212_back.png"
+shiny_front = "assets/pokemon/shinyfront/212_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/212_shiny_back.png"
+icon = "assets/pokemon/icon/212_icon.png"
 [[pokemon]]
 id = "217"
 species = "ursaring"
@@ -34375,11 +34375,11 @@ special-attack = 75
 special-defense = 75
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/217_front.png"
-back = "/assets/pokemon/217_back.png"
-shiny_front = "/assets/pokemon/217_shiny_front.png"
-shiny_back = "/assets/pokemon/217_shiny_back.png"
-icon = "/assets/pokemon/217_icon.png"
+front = "assets/pokemon/front/217_front.png"
+back = "assets/pokemon/back/217_back.png"
+shiny_front = "assets/pokemon/shinyfront/217_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/217_shiny_back.png"
+icon = "assets/pokemon/icon/217_icon.png"
 [[pokemon]]
 id = "219"
 species = "magcargo"
@@ -34861,11 +34861,11 @@ special-attack = 90
 special-defense = 80
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/219_front.png"
-back = "/assets/pokemon/219_back.png"
-shiny_front = "/assets/pokemon/219_shiny_front.png"
-shiny_back = "/assets/pokemon/219_shiny_back.png"
-icon = "/assets/pokemon/219_icon.png"
+front = "assets/pokemon/front/219_front.png"
+back = "assets/pokemon/back/219_back.png"
+shiny_front = "assets/pokemon/shinyfront/219_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/219_shiny_back.png"
+icon = "assets/pokemon/icon/219_icon.png"
 [[pokemon]]
 id = "221"
 species = "piloswine"
@@ -35322,11 +35322,11 @@ special-attack = 60
 special-defense = 60
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/221_front.png"
-back = "/assets/pokemon/221_back.png"
-shiny_front = "/assets/pokemon/221_shiny_front.png"
-shiny_back = "/assets/pokemon/221_shiny_back.png"
-icon = "/assets/pokemon/221_icon.png"
+front = "assets/pokemon/front/221_front.png"
+back = "assets/pokemon/back/221_back.png"
+shiny_front = "assets/pokemon/shinyfront/221_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/221_shiny_back.png"
+icon = "assets/pokemon/icon/221_icon.png"
 [[pokemon]]
 id = "224"
 species = "octillery"
@@ -35753,11 +35753,11 @@ special-attack = 105
 special-defense = 75
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/224_front.png"
-back = "/assets/pokemon/224_back.png"
-shiny_front = "/assets/pokemon/224_shiny_front.png"
-shiny_back = "/assets/pokemon/224_shiny_back.png"
-icon = "/assets/pokemon/224_icon.png"
+front = "assets/pokemon/front/224_front.png"
+back = "assets/pokemon/back/224_back.png"
+shiny_front = "assets/pokemon/shinyfront/224_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/224_shiny_back.png"
+icon = "assets/pokemon/icon/224_icon.png"
 [[pokemon]]
 id = "227"
 species = "skarmory"
@@ -36235,11 +36235,11 @@ special-attack = 40
 special-defense = 70
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/227_front.png"
-back = "/assets/pokemon/227_back.png"
-shiny_front = "/assets/pokemon/227_shiny_front.png"
-shiny_back = "/assets/pokemon/227_shiny_back.png"
-icon = "/assets/pokemon/227_icon.png"
+front = "assets/pokemon/front/227_front.png"
+back = "assets/pokemon/back/227_back.png"
+shiny_front = "assets/pokemon/shinyfront/227_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/227_shiny_back.png"
+icon = "assets/pokemon/icon/227_icon.png"
 [[pokemon]]
 id = "228"
 species = "houndour"
@@ -36741,11 +36741,11 @@ special-attack = 80
 special-defense = 50
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/228_front.png"
-back = "/assets/pokemon/228_back.png"
-shiny_front = "/assets/pokemon/228_shiny_front.png"
-shiny_back = "/assets/pokemon/228_shiny_back.png"
-icon = "/assets/pokemon/228_icon.png"
+front = "assets/pokemon/front/228_front.png"
+back = "assets/pokemon/back/228_back.png"
+shiny_front = "assets/pokemon/shinyfront/228_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/228_shiny_back.png"
+icon = "assets/pokemon/icon/228_icon.png"
 [[pokemon]]
 id = "231"
 species = "phanpy"
@@ -37158,11 +37158,11 @@ special-attack = 40
 special-defense = 40
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/231_front.png"
-back = "/assets/pokemon/231_back.png"
-shiny_front = "/assets/pokemon/231_shiny_front.png"
-shiny_back = "/assets/pokemon/231_shiny_back.png"
-icon = "/assets/pokemon/231_icon.png"
+front = "assets/pokemon/front/231_front.png"
+back = "assets/pokemon/back/231_back.png"
+shiny_front = "assets/pokemon/shinyfront/231_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/231_shiny_back.png"
+icon = "assets/pokemon/icon/231_icon.png"
 [[pokemon]]
 id = "234"
 species = "stantler"
@@ -37704,11 +37704,11 @@ special-attack = 85
 special-defense = 65
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/234_front.png"
-back = "/assets/pokemon/234_back.png"
-shiny_front = "/assets/pokemon/234_shiny_front.png"
-shiny_back = "/assets/pokemon/234_shiny_back.png"
-icon = "/assets/pokemon/234_icon.png"
+front = "assets/pokemon/front/234_front.png"
+back = "assets/pokemon/back/234_back.png"
+shiny_front = "assets/pokemon/shinyfront/234_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/234_shiny_back.png"
+icon = "assets/pokemon/icon/234_icon.png"
 [[pokemon]]
 id = "235"
 species = "smeargle"
@@ -37741,11 +37741,11 @@ special-attack = 20
 special-defense = 45
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/235_front.png"
-back = "/assets/pokemon/235_back.png"
-shiny_front = "/assets/pokemon/235_shiny_front.png"
-shiny_back = "/assets/pokemon/235_shiny_back.png"
-icon = "/assets/pokemon/235_icon.png"
+front = "assets/pokemon/front/235_front.png"
+back = "assets/pokemon/back/235_back.png"
+shiny_front = "assets/pokemon/shinyfront/235_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/235_shiny_back.png"
+icon = "assets/pokemon/icon/235_icon.png"
 [[pokemon]]
 id = "236"
 species = "tyrogue"
@@ -38117,11 +38117,11 @@ special-attack = 35
 special-defense = 35
 speed = 35
 [pokemon.assetData]
-front = "/assets/pokemon/236_front.png"
-back = "/assets/pokemon/236_back.png"
-shiny_front = "/assets/pokemon/236_shiny_front.png"
-shiny_back = "/assets/pokemon/236_shiny_back.png"
-icon = "/assets/pokemon/236_icon.png"
+front = "assets/pokemon/front/236_front.png"
+back = "assets/pokemon/back/236_back.png"
+shiny_front = "assets/pokemon/shinyfront/236_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/236_shiny_back.png"
+icon = "assets/pokemon/icon/236_icon.png"
 [[pokemon]]
 id = "238"
 species = "smoochum"
@@ -38618,11 +38618,11 @@ special-attack = 85
 special-defense = 65
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/238_front.png"
-back = "/assets/pokemon/238_back.png"
-shiny_front = "/assets/pokemon/238_shiny_front.png"
-shiny_back = "/assets/pokemon/238_shiny_back.png"
-icon = "/assets/pokemon/238_icon.png"
+front = "assets/pokemon/front/238_front.png"
+back = "assets/pokemon/back/238_back.png"
+shiny_front = "assets/pokemon/shinyfront/238_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/238_shiny_back.png"
+icon = "assets/pokemon/icon/238_icon.png"
 [[pokemon]]
 id = "239"
 species = "elekid"
@@ -39080,11 +39080,11 @@ special-attack = 65
 special-defense = 55
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/239_front.png"
-back = "/assets/pokemon/239_back.png"
-shiny_front = "/assets/pokemon/239_shiny_front.png"
-shiny_back = "/assets/pokemon/239_shiny_back.png"
-icon = "/assets/pokemon/239_icon.png"
+front = "assets/pokemon/front/239_front.png"
+back = "assets/pokemon/back/239_back.png"
+shiny_front = "assets/pokemon/shinyfront/239_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/239_shiny_back.png"
+icon = "assets/pokemon/icon/239_icon.png"
 [[pokemon]]
 id = "240"
 species = "magby"
@@ -39527,11 +39527,11 @@ special-attack = 70
 special-defense = 55
 speed = 83
 [pokemon.assetData]
-front = "/assets/pokemon/240_front.png"
-back = "/assets/pokemon/240_back.png"
-shiny_front = "/assets/pokemon/240_shiny_front.png"
-shiny_back = "/assets/pokemon/240_shiny_back.png"
-icon = "/assets/pokemon/240_icon.png"
+front = "assets/pokemon/front/240_front.png"
+back = "assets/pokemon/back/240_back.png"
+shiny_front = "assets/pokemon/shinyfront/240_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/240_shiny_back.png"
+icon = "assets/pokemon/icon/240_icon.png"
 [[pokemon]]
 id = "241"
 species = "miltank"
@@ -40054,11 +40054,11 @@ special-attack = 40
 special-defense = 70
 speed = 100
 [pokemon.assetData]
-front = "/assets/pokemon/241_front.png"
-back = "/assets/pokemon/241_back.png"
-shiny_front = "/assets/pokemon/241_shiny_front.png"
-shiny_back = "/assets/pokemon/241_shiny_back.png"
-icon = "/assets/pokemon/241_icon.png"
+front = "assets/pokemon/front/241_front.png"
+back = "assets/pokemon/back/241_back.png"
+shiny_front = "assets/pokemon/shinyfront/241_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/241_shiny_back.png"
+icon = "assets/pokemon/icon/241_icon.png"
 [[pokemon]]
 id = "243"
 species = "raikou"
@@ -40512,11 +40512,11 @@ special-attack = 115
 special-defense = 100
 speed = 115
 [pokemon.assetData]
-front = "/assets/pokemon/243_front.png"
-back = "/assets/pokemon/243_back.png"
-shiny_front = "/assets/pokemon/243_shiny_front.png"
-shiny_back = "/assets/pokemon/243_shiny_back.png"
-icon = "/assets/pokemon/243_icon.png"
+front = "assets/pokemon/front/243_front.png"
+back = "assets/pokemon/back/243_back.png"
+shiny_front = "assets/pokemon/shinyfront/243_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/243_shiny_back.png"
+icon = "assets/pokemon/icon/243_icon.png"
 [[pokemon]]
 id = "244"
 species = "entei"
@@ -40945,11 +40945,11 @@ special-attack = 90
 special-defense = 75
 speed = 100
 [pokemon.assetData]
-front = "/assets/pokemon/244_front.png"
-back = "/assets/pokemon/244_back.png"
-shiny_front = "/assets/pokemon/244_shiny_front.png"
-shiny_back = "/assets/pokemon/244_shiny_back.png"
-icon = "/assets/pokemon/244_icon.png"
+front = "assets/pokemon/front/244_front.png"
+back = "assets/pokemon/back/244_back.png"
+shiny_front = "assets/pokemon/shinyfront/244_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/244_shiny_back.png"
+icon = "assets/pokemon/icon/244_icon.png"
 [[pokemon]]
 id = "245"
 species = "suicune"
@@ -41393,11 +41393,11 @@ special-attack = 90
 special-defense = 115
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/245_front.png"
-back = "/assets/pokemon/245_back.png"
-shiny_front = "/assets/pokemon/245_shiny_front.png"
-shiny_back = "/assets/pokemon/245_shiny_back.png"
-icon = "/assets/pokemon/245_icon.png"
+front = "assets/pokemon/front/245_front.png"
+back = "assets/pokemon/back/245_back.png"
+shiny_front = "assets/pokemon/shinyfront/245_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/245_shiny_back.png"
+icon = "assets/pokemon/icon/245_icon.png"
 [[pokemon]]
 id = "246"
 species = "larvitar"
@@ -41825,11 +41825,11 @@ special-attack = 45
 special-defense = 50
 speed = 41
 [pokemon.assetData]
-front = "/assets/pokemon/246_front.png"
-back = "/assets/pokemon/246_back.png"
-shiny_front = "/assets/pokemon/246_shiny_front.png"
-shiny_back = "/assets/pokemon/246_shiny_back.png"
-icon = "/assets/pokemon/246_icon.png"
+front = "assets/pokemon/front/246_front.png"
+back = "assets/pokemon/back/246_back.png"
+shiny_front = "assets/pokemon/shinyfront/246_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/246_shiny_back.png"
+icon = "assets/pokemon/icon/246_icon.png"
 [[pokemon]]
 id = "249"
 species = "lugia"
@@ -42438,11 +42438,11 @@ special-attack = 90
 special-defense = 154
 speed = 110
 [pokemon.assetData]
-front = "/assets/pokemon/249_front.png"
-back = "/assets/pokemon/249_back.png"
-shiny_front = "/assets/pokemon/249_shiny_front.png"
-shiny_back = "/assets/pokemon/249_shiny_back.png"
-icon = "/assets/pokemon/249_icon.png"
+front = "assets/pokemon/front/249_front.png"
+back = "assets/pokemon/back/249_back.png"
+shiny_front = "assets/pokemon/shinyfront/249_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/249_shiny_back.png"
+icon = "assets/pokemon/icon/249_icon.png"
 [[pokemon]]
 id = "250"
 species = "ho-oh"
@@ -42976,11 +42976,11 @@ special-attack = 110
 special-defense = 154
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/250_front.png"
-back = "/assets/pokemon/250_back.png"
-shiny_front = "/assets/pokemon/250_shiny_front.png"
-shiny_back = "/assets/pokemon/250_shiny_back.png"
-icon = "/assets/pokemon/250_icon.png"
+front = "assets/pokemon/front/250_front.png"
+back = "assets/pokemon/back/250_back.png"
+shiny_front = "assets/pokemon/shinyfront/250_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/250_shiny_back.png"
+icon = "assets/pokemon/icon/250_icon.png"
 [[pokemon]]
 id = "251"
 species = "celebi"
@@ -43520,11 +43520,11 @@ special-attack = 100
 special-defense = 100
 speed = 100
 [pokemon.assetData]
-front = "/assets/pokemon/251_front.png"
-back = "/assets/pokemon/251_back.png"
-shiny_front = "/assets/pokemon/251_shiny_front.png"
-shiny_back = "/assets/pokemon/251_shiny_back.png"
-icon = "/assets/pokemon/251_icon.png"
+front = "assets/pokemon/front/251_front.png"
+back = "assets/pokemon/back/251_back.png"
+shiny_front = "assets/pokemon/shinyfront/251_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/251_shiny_back.png"
+icon = "assets/pokemon/icon/251_icon.png"
 [[pokemon]]
 id = "229"
 species = "houndoom"
@@ -44031,11 +44031,11 @@ special-attack = 110
 special-defense = 80
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/229_front.png"
-back = "/assets/pokemon/229_back.png"
-shiny_front = "/assets/pokemon/229_shiny_front.png"
-shiny_back = "/assets/pokemon/229_shiny_back.png"
-icon = "/assets/pokemon/229_icon.png"
+front = "assets/pokemon/front/229_front.png"
+back = "assets/pokemon/back/229_back.png"
+shiny_front = "assets/pokemon/shinyfront/229_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/229_shiny_back.png"
+icon = "assets/pokemon/icon/229_icon.png"
 [[pokemon]]
 id = "230"
 species = "kingdra"
@@ -44457,11 +44457,11 @@ special-attack = 95
 special-defense = 95
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/230_front.png"
-back = "/assets/pokemon/230_back.png"
-shiny_front = "/assets/pokemon/230_shiny_front.png"
-shiny_back = "/assets/pokemon/230_shiny_back.png"
-icon = "/assets/pokemon/230_icon.png"
+front = "assets/pokemon/front/230_front.png"
+back = "assets/pokemon/back/230_back.png"
+shiny_front = "assets/pokemon/shinyfront/230_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/230_shiny_back.png"
+icon = "assets/pokemon/icon/230_icon.png"
 [[pokemon]]
 id = "232"
 species = "donphan"
@@ -44959,11 +44959,11 @@ special-attack = 60
 special-defense = 60
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/232_front.png"
-back = "/assets/pokemon/232_back.png"
-shiny_front = "/assets/pokemon/232_shiny_front.png"
-shiny_back = "/assets/pokemon/232_shiny_back.png"
-icon = "/assets/pokemon/232_icon.png"
+front = "assets/pokemon/front/232_front.png"
+back = "assets/pokemon/back/232_back.png"
+shiny_front = "assets/pokemon/shinyfront/232_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/232_shiny_back.png"
+icon = "assets/pokemon/icon/232_icon.png"
 [[pokemon]]
 id = "233"
 species = "porygon2"
@@ -45385,11 +45385,11 @@ special-attack = 105
 special-defense = 95
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/233_front.png"
-back = "/assets/pokemon/233_back.png"
-shiny_front = "/assets/pokemon/233_shiny_front.png"
-shiny_back = "/assets/pokemon/233_shiny_back.png"
-icon = "/assets/pokemon/233_icon.png"
+front = "assets/pokemon/front/233_front.png"
+back = "assets/pokemon/back/233_back.png"
+shiny_front = "assets/pokemon/shinyfront/233_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/233_shiny_back.png"
+icon = "assets/pokemon/icon/233_icon.png"
 [[pokemon]]
 id = "237"
 species = "hitmontop"
@@ -45876,11 +45876,11 @@ special-attack = 35
 special-defense = 110
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/237_front.png"
-back = "/assets/pokemon/237_back.png"
-shiny_front = "/assets/pokemon/237_shiny_front.png"
-shiny_back = "/assets/pokemon/237_shiny_back.png"
-icon = "/assets/pokemon/237_icon.png"
+front = "assets/pokemon/front/237_front.png"
+back = "assets/pokemon/back/237_back.png"
+shiny_front = "assets/pokemon/shinyfront/237_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/237_shiny_back.png"
+icon = "assets/pokemon/icon/237_icon.png"
 [[pokemon]]
 id = "242"
 species = "blissey"
@@ -46577,11 +46577,11 @@ special-attack = 75
 special-defense = 135
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/242_front.png"
-back = "/assets/pokemon/242_back.png"
-shiny_front = "/assets/pokemon/242_shiny_front.png"
-shiny_back = "/assets/pokemon/242_shiny_back.png"
-icon = "/assets/pokemon/242_icon.png"
+front = "assets/pokemon/front/242_front.png"
+back = "assets/pokemon/back/242_back.png"
+shiny_front = "assets/pokemon/shinyfront/242_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/242_shiny_back.png"
+icon = "assets/pokemon/icon/242_icon.png"
 [[pokemon]]
 id = "247"
 species = "pupitar"
@@ -47010,11 +47010,11 @@ special-attack = 65
 special-defense = 70
 speed = 51
 [pokemon.assetData]
-front = "/assets/pokemon/247_front.png"
-back = "/assets/pokemon/247_back.png"
-shiny_front = "/assets/pokemon/247_shiny_front.png"
-shiny_back = "/assets/pokemon/247_shiny_back.png"
-icon = "/assets/pokemon/247_icon.png"
+front = "assets/pokemon/front/247_front.png"
+back = "assets/pokemon/back/247_back.png"
+shiny_front = "assets/pokemon/shinyfront/247_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/247_shiny_back.png"
+icon = "assets/pokemon/icon/247_icon.png"
 [[pokemon]]
 id = "248"
 species = "tyranitar"
@@ -47712,11 +47712,11 @@ special-attack = 95
 special-defense = 100
 speed = 61
 [pokemon.assetData]
-front = "/assets/pokemon/248_front.png"
-back = "/assets/pokemon/248_back.png"
-shiny_front = "/assets/pokemon/248_shiny_front.png"
-shiny_back = "/assets/pokemon/248_shiny_back.png"
-icon = "/assets/pokemon/248_icon.png"
+front = "assets/pokemon/front/248_front.png"
+back = "assets/pokemon/back/248_back.png"
+shiny_front = "assets/pokemon/shinyfront/248_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/248_shiny_back.png"
+icon = "assets/pokemon/icon/248_icon.png"
 [[pokemon]]
 id = "153"
 species = "bayleef"
@@ -48134,11 +48134,11 @@ special-attack = 63
 special-defense = 80
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/153_front.png"
-back = "/assets/pokemon/153_back.png"
-shiny_front = "/assets/pokemon/153_shiny_front.png"
-shiny_back = "/assets/pokemon/153_shiny_back.png"
-icon = "/assets/pokemon/153_icon.png"
+front = "assets/pokemon/front/153_front.png"
+back = "assets/pokemon/back/153_back.png"
+shiny_front = "assets/pokemon/shinyfront/153_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/153_shiny_back.png"
+icon = "assets/pokemon/icon/153_icon.png"
 [[pokemon]]
 id = "226"
 species = "mantine"
@@ -48605,8 +48605,8 @@ special-attack = 80
 special-defense = 140
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/226_front.png"
-back = "/assets/pokemon/226_back.png"
-shiny_front = "/assets/pokemon/226_shiny_front.png"
-shiny_back = "/assets/pokemon/226_shiny_back.png"
-icon = "/assets/pokemon/226_icon.png"
+front = "assets/pokemon/front/226_front.png"
+back = "assets/pokemon/back/226_back.png"
+shiny_front = "assets/pokemon/shinyfront/226_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/226_shiny_back.png"
+icon = "assets/pokemon/icon/226_icon.png"

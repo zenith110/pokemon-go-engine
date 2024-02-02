@@ -1,7 +1,7 @@
 [[pokemon]]
 id = "810"
 species = "grookey"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -303,7 +303,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "thwackey"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "810"
 
 
@@ -315,16 +315,16 @@ special-attack = 40
 special-defense = 40
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/810_front.png"
-back = "/assets/pokemon/810_back.png"
-shiny_front = "/assets/pokemon/810_shiny_front.png"
-shiny_back = "/assets/pokemon/810_shiny_back.png"
-icon = "/assets/pokemon/810_icon.png"
+front = "assets/pokemon/front/810_front.png"
+back = "assets/pokemon/back/810_back.png"
+shiny_front = "assets/pokemon/shinyfront/810_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/810_shiny_back.png"
+icon = "assets/pokemon/icon/810_icon.png"
 [[pokemon]]
 id = "813"
 species = "scorbunny"
-types = [ "fire",]
-dexEntry = "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat."
+types = [ "fire"]
+dexEntry = "It has special pads on the backs of its feet, and one on its nose. Once itï¿½s raring to fight, these pads radiate tremendous heat."
 [[pokemon.abilities]]
 name = "blaze"
 isHidden = false
@@ -615,7 +615,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "raboot"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "813"
 
 
@@ -627,16 +627,16 @@ special-attack = 40
 special-defense = 40
 speed = 69
 [pokemon.assetData]
-front = "/assets/pokemon/813_front.png"
-back = "/assets/pokemon/813_back.png"
-shiny_front = "/assets/pokemon/813_shiny_front.png"
-shiny_back = "/assets/pokemon/813_shiny_back.png"
-icon = "/assets/pokemon/813_icon.png"
+front = "assets/pokemon/front/813_front.png"
+back = "assets/pokemon/back/813_back.png"
+shiny_front = "assets/pokemon/shinyfront/813_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/813_shiny_back.png"
+icon = "assets/pokemon/icon/813_icon.png"
 [[pokemon]]
 id = "816"
 species = "sobble"
-types = [ "water",]
-dexEntry = "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged."
+types = [ "water"]
+dexEntry = "When it gets wet, its skin changes color, and this Pokï¿½mon becomes invisible as if it were camouflaged."
 [[pokemon.abilities]]
 name = "torrent"
 isHidden = false
@@ -877,7 +877,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drizzile"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "816"
 
 
@@ -889,16 +889,16 @@ special-attack = 70
 special-defense = 40
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/816_front.png"
-back = "/assets/pokemon/816_back.png"
-shiny_front = "/assets/pokemon/816_shiny_front.png"
-shiny_back = "/assets/pokemon/816_shiny_back.png"
-icon = "/assets/pokemon/816_icon.png"
+front = "assets/pokemon/front/816_front.png"
+back = "assets/pokemon/back/816_back.png"
+shiny_front = "assets/pokemon/shinyfront/816_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/816_shiny_back.png"
+icon = "assets/pokemon/icon/816_icon.png"
 [[pokemon]]
 id = "819"
 species = "skwovet"
-types = [ "normal",]
-dexEntry = "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries."
+types = [ "normal"]
+dexEntry = "It eats berries nonstopï¿½a habit that has made it more resilient than it looks. Itï¿½ll show up on farms, searching for yet more berries."
 [[pokemon.abilities]]
 name = "cheek-pouch"
 isHidden = false
@@ -1144,7 +1144,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "greedent"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "819"
 
 
@@ -1156,16 +1156,16 @@ special-attack = 35
 special-defense = 35
 speed = 25
 [pokemon.assetData]
-front = "/assets/pokemon/819_front.png"
-back = "/assets/pokemon/819_back.png"
-shiny_front = "/assets/pokemon/819_shiny_front.png"
-shiny_back = "/assets/pokemon/819_shiny_back.png"
-icon = "/assets/pokemon/819_icon.png"
+front = "assets/pokemon/front/819_front.png"
+back = "assets/pokemon/back/819_back.png"
+shiny_front = "assets/pokemon/shinyfront/819_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/819_shiny_back.png"
+icon = "assets/pokemon/icon/819_icon.png"
 [[pokemon]]
 id = "821"
 species = "rookidee"
-types = [ "flying",]
-dexEntry = "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents."
+types = [ "flying"]
+dexEntry = "Jumping nimbly about, this small-bodied Pokï¿½mon takes advantage of even the slightest opportunity to disorient larger opponents."
 [[pokemon.abilities]]
 name = "keen-eye"
 isHidden = false
@@ -1415,7 +1415,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "corvisquire"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "821"
 
 
@@ -1427,16 +1427,16 @@ special-attack = 33
 special-defense = 35
 speed = 57
 [pokemon.assetData]
-front = "/assets/pokemon/821_front.png"
-back = "/assets/pokemon/821_back.png"
-shiny_front = "/assets/pokemon/821_shiny_front.png"
-shiny_back = "/assets/pokemon/821_shiny_back.png"
-icon = "/assets/pokemon/821_icon.png"
+front = "assets/pokemon/front/821_front.png"
+back = "assets/pokemon/back/821_back.png"
+shiny_front = "assets/pokemon/shinyfront/821_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/821_shiny_back.png"
+icon = "assets/pokemon/icon/821_icon.png"
 [[pokemon]]
 id = "824"
 species = "blipbug"
-types = [ "bug",]
-dexEntry = "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
+types = [ "bug"]
+dexEntry = "Often found in gardens, this Pokï¿½mon has hairs on its body that it uses to assess its surroundings."
 [[pokemon.abilities]]
 name = "swarm"
 isHidden = false
@@ -1476,7 +1476,7 @@ method = "egg"
 
 [[pokemon.evolutions]]
 name = "dottler"
-methods = [ "level-up", "10",]
+methods = [ "level-up", "10"]
 id = "824"
 
 
@@ -1488,16 +1488,16 @@ special-attack = 25
 special-defense = 45
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/824_front.png"
-back = "/assets/pokemon/824_back.png"
-shiny_front = "/assets/pokemon/824_shiny_front.png"
-shiny_back = "/assets/pokemon/824_shiny_back.png"
-icon = "/assets/pokemon/824_icon.png"
+front = "assets/pokemon/front/824_front.png"
+back = "assets/pokemon/back/824_back.png"
+shiny_front = "assets/pokemon/shinyfront/824_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/824_shiny_back.png"
+icon = "assets/pokemon/icon/824_icon.png"
 [[pokemon]]
 id = "827"
 species = "nickit"
-types = [ "dark",]
-dexEntry = "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+types = [ "dark"]
+dexEntry = "Cunning and cautious, this Pokï¿½mon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
 [[pokemon.abilities]]
 name = "run-away"
 isHidden = false
@@ -1687,7 +1687,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "thievul"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "827"
 
 
@@ -1699,16 +1699,16 @@ special-attack = 47
 special-defense = 52
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/827_front.png"
-back = "/assets/pokemon/827_back.png"
-shiny_front = "/assets/pokemon/827_shiny_front.png"
-shiny_back = "/assets/pokemon/827_shiny_back.png"
-icon = "/assets/pokemon/827_icon.png"
+front = "assets/pokemon/front/827_front.png"
+back = "assets/pokemon/back/827_back.png"
+shiny_front = "assets/pokemon/shinyfront/827_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/827_shiny_back.png"
+icon = "assets/pokemon/icon/827_icon.png"
 [[pokemon]]
 id = "829"
 species = "gossifleur"
-types = [ "grass",]
-dexEntry = "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon."
+types = [ "grass"]
+dexEntry = "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokï¿½mon."
 [[pokemon.abilities]]
 name = "cotton-down"
 isHidden = false
@@ -1913,7 +1913,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "eldegoss"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "829"
 
 
@@ -1925,16 +1925,16 @@ special-attack = 40
 special-defense = 60
 speed = 10
 [pokemon.assetData]
-front = "/assets/pokemon/829_front.png"
-back = "/assets/pokemon/829_back.png"
-shiny_front = "/assets/pokemon/829_shiny_front.png"
-shiny_back = "/assets/pokemon/829_shiny_back.png"
-icon = "/assets/pokemon/829_icon.png"
+front = "assets/pokemon/front/829_front.png"
+back = "assets/pokemon/back/829_back.png"
+shiny_front = "assets/pokemon/shinyfront/829_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/829_shiny_back.png"
+icon = "assets/pokemon/icon/829_icon.png"
 [[pokemon]]
 id = "831"
 species = "wooloo"
-types = [ "normal",]
-dexEntry = "If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+types = [ "normal"]
+dexEntry = "If its fleece grows too long, Wooloo wonï¿½t be able to move. Cloth made with the wool of this Pokï¿½mon is surprisingly strong."
 [[pokemon.abilities]]
 name = "fluffy"
 isHidden = false
@@ -2099,7 +2099,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "dubwool"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "831"
 
 
@@ -2111,16 +2111,16 @@ special-attack = 40
 special-defense = 45
 speed = 48
 [pokemon.assetData]
-front = "/assets/pokemon/831_front.png"
-back = "/assets/pokemon/831_back.png"
-shiny_front = "/assets/pokemon/831_shiny_front.png"
-shiny_back = "/assets/pokemon/831_shiny_back.png"
-icon = "/assets/pokemon/831_icon.png"
+front = "assets/pokemon/front/831_front.png"
+back = "assets/pokemon/back/831_back.png"
+shiny_front = "assets/pokemon/shinyfront/831_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/831_shiny_back.png"
+icon = "assets/pokemon/icon/831_icon.png"
 [[pokemon]]
 id = "833"
 species = "chewtle"
-types = [ "water",]
-dexEntry = "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go."
+types = [ "water"]
+dexEntry = "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokï¿½mon bites down and never lets go."
 [[pokemon.abilities]]
 name = "strong-jaw"
 isHidden = false
@@ -2350,7 +2350,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drednaw"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "833"
 
 
@@ -2362,16 +2362,16 @@ special-attack = 38
 special-defense = 38
 speed = 44
 [pokemon.assetData]
-front = "/assets/pokemon/833_front.png"
-back = "/assets/pokemon/833_back.png"
-shiny_front = "/assets/pokemon/833_shiny_front.png"
-shiny_back = "/assets/pokemon/833_shiny_back.png"
-icon = "/assets/pokemon/833_icon.png"
+front = "assets/pokemon/front/833_front.png"
+back = "assets/pokemon/back/833_back.png"
+shiny_front = "assets/pokemon/shinyfront/833_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/833_shiny_back.png"
+icon = "assets/pokemon/icon/833_icon.png"
 [[pokemon]]
 id = "835"
 species = "yamper"
-types = [ "electric",]
-dexEntry = "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+types = [ "electric"]
+dexEntry = "This gluttonous Pokï¿½mon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
 [[pokemon.abilities]]
 name = "ball-fetch"
 isHidden = false
@@ -2572,7 +2572,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "boltund"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "835"
 
 
@@ -2584,15 +2584,15 @@ special-attack = 40
 special-defense = 50
 speed = 26
 [pokemon.assetData]
-front = "/assets/pokemon/835_front.png"
-back = "/assets/pokemon/835_back.png"
-shiny_front = "/assets/pokemon/835_shiny_front.png"
-shiny_back = "/assets/pokemon/835_shiny_back.png"
-icon = "/assets/pokemon/835_icon.png"
+front = "assets/pokemon/front/835_front.png"
+back = "assets/pokemon/back/835_back.png"
+shiny_front = "assets/pokemon/shinyfront/835_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/835_shiny_back.png"
+icon = "assets/pokemon/icon/835_icon.png"
 [[pokemon]]
 id = "837"
 species = "rolycoly"
-types = [ "rock",]
+types = [ "rock"]
 dexEntry = "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it."
 [[pokemon.abilities]]
 name = "steam-engine"
@@ -2823,7 +2823,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "carkol"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "837"
 
 
@@ -2835,16 +2835,16 @@ special-attack = 40
 special-defense = 50
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/837_front.png"
-back = "/assets/pokemon/837_back.png"
-shiny_front = "/assets/pokemon/837_shiny_front.png"
-shiny_back = "/assets/pokemon/837_shiny_back.png"
-icon = "/assets/pokemon/837_icon.png"
+front = "assets/pokemon/front/837_front.png"
+back = "assets/pokemon/back/837_back.png"
+shiny_front = "assets/pokemon/shinyfront/837_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/837_shiny_back.png"
+icon = "assets/pokemon/icon/837_icon.png"
 [[pokemon]]
 id = "840"
 species = "applin"
-types = [ "grass", "dragon",]
-dexEntry = "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution."
+types = [ "grass", "dragon"]
+dexEntry = "As soon as itï¿½s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution."
 [[pokemon.abilities]]
 name = "ripen"
 isHidden = false
@@ -2936,16 +2936,16 @@ special-attack = 40
 special-defense = 40
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/840_front.png"
-back = "/assets/pokemon/840_back.png"
-shiny_front = "/assets/pokemon/840_shiny_front.png"
-shiny_back = "/assets/pokemon/840_shiny_back.png"
-icon = "/assets/pokemon/840_icon.png"
+front = "assets/pokemon/front/840_front.png"
+back = "assets/pokemon/back/840_back.png"
+shiny_front = "assets/pokemon/shinyfront/840_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/840_shiny_back.png"
+icon = "assets/pokemon/icon/840_icon.png"
 [[pokemon]]
 id = "815"
 species = "cinderace"
-types = [ "fire",]
-dexEntry = "It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot."
+types = [ "fire"]
+dexEntry = "Itï¿½s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot."
 [[pokemon.abilities]]
 name = "blaze"
 isHidden = false
@@ -3346,7 +3346,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "raboot"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "815"
 
 
@@ -3358,15 +3358,15 @@ special-attack = 65
 special-defense = 75
 speed = 119
 [pokemon.assetData]
-front = "/assets/pokemon/815_front.png"
-back = "/assets/pokemon/815_back.png"
-shiny_front = "/assets/pokemon/815_shiny_front.png"
-shiny_back = "/assets/pokemon/815_shiny_back.png"
-icon = "/assets/pokemon/815_icon.png"
+front = "assets/pokemon/front/815_front.png"
+back = "assets/pokemon/back/815_back.png"
+shiny_front = "assets/pokemon/shinyfront/815_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/815_shiny_back.png"
+icon = "assets/pokemon/icon/815_icon.png"
 [[pokemon]]
 id = "817"
 species = "drizzile"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
 [[pokemon.abilities]]
 name = "torrent"
@@ -3613,7 +3613,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drizzile"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "817"
 
 
@@ -3625,16 +3625,16 @@ special-attack = 95
 special-defense = 55
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/817_front.png"
-back = "/assets/pokemon/817_back.png"
-shiny_front = "/assets/pokemon/817_shiny_front.png"
-shiny_back = "/assets/pokemon/817_shiny_back.png"
-icon = "/assets/pokemon/817_icon.png"
+front = "assets/pokemon/front/817_front.png"
+back = "assets/pokemon/back/817_back.png"
+shiny_front = "assets/pokemon/shinyfront/817_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/817_shiny_back.png"
+icon = "assets/pokemon/icon/817_icon.png"
 [[pokemon]]
 id = "818"
 species = "inteleon"
-types = [ "water",]
-dexEntry = "Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3."
+types = [ "water"]
+dexEntry = "Its nictitating membranes let it pick out foesï¿½ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3."
 [[pokemon.abilities]]
 name = "torrent"
 isHidden = false
@@ -4015,7 +4015,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drizzile"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "818"
 
 
@@ -4027,16 +4027,16 @@ special-attack = 125
 special-defense = 65
 speed = 120
 [pokemon.assetData]
-front = "/assets/pokemon/818_front.png"
-back = "/assets/pokemon/818_back.png"
-shiny_front = "/assets/pokemon/818_shiny_front.png"
-shiny_back = "/assets/pokemon/818_shiny_back.png"
-icon = "/assets/pokemon/818_icon.png"
+front = "assets/pokemon/front/818_front.png"
+back = "assets/pokemon/back/818_back.png"
+shiny_front = "assets/pokemon/shinyfront/818_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/818_shiny_back.png"
+icon = "assets/pokemon/icon/818_icon.png"
 [[pokemon]]
 id = "820"
 species = "greedent"
-types = [ "normal",]
-dexEntry = "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells."
+types = [ "normal"]
+dexEntry = "Common throughout the Galar region, this Pokï¿½mon has strong teeth and can chew through the toughest of berry shells."
 [[pokemon.abilities]]
 name = "cheek-pouch"
 isHidden = false
@@ -4347,7 +4347,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "greedent"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "820"
 
 
@@ -4359,16 +4359,16 @@ special-attack = 55
 special-defense = 75
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/820_front.png"
-back = "/assets/pokemon/820_back.png"
-shiny_front = "/assets/pokemon/820_shiny_front.png"
-shiny_back = "/assets/pokemon/820_shiny_back.png"
-icon = "/assets/pokemon/820_icon.png"
+front = "assets/pokemon/front/820_front.png"
+back = "assets/pokemon/back/820_back.png"
+shiny_front = "assets/pokemon/shinyfront/820_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/820_shiny_back.png"
+icon = "assets/pokemon/icon/820_icon.png"
 [[pokemon]]
 id = "822"
 species = "corvisquire"
-types = [ "flying",]
-dexEntry = "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength."
+types = [ "flying"]
+dexEntry = "The lessons of many harsh battles have taught it how to accurately judge an opponentï¿½s strength."
 [[pokemon.abilities]]
 name = "keen-eye"
 isHidden = false
@@ -4603,7 +4603,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "corvisquire"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "822"
 
 
@@ -4615,16 +4615,16 @@ special-attack = 43
 special-defense = 55
 speed = 77
 [pokemon.assetData]
-front = "/assets/pokemon/822_front.png"
-back = "/assets/pokemon/822_back.png"
-shiny_front = "/assets/pokemon/822_shiny_front.png"
-shiny_back = "/assets/pokemon/822_shiny_back.png"
-icon = "/assets/pokemon/822_icon.png"
+front = "assets/pokemon/front/822_front.png"
+back = "assets/pokemon/back/822_back.png"
+shiny_front = "assets/pokemon/shinyfront/822_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/822_shiny_back.png"
+icon = "assets/pokemon/icon/822_icon.png"
 [[pokemon]]
 id = "823"
 species = "corviknight"
-types = [ "flying", "steel",]
-dexEntry = "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service."
+types = [ "flying", "steel"]
+dexEntry = "With their great intellect and flying skills, these Pokï¿½mon very successfully act as the Galar regionï¿½s airborne taxi service."
 [[pokemon.abilities]]
 name = "pressure"
 isHidden = false
@@ -4954,7 +4954,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "corvisquire"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "823"
 
 
@@ -4966,15 +4966,15 @@ special-attack = 53
 special-defense = 85
 speed = 67
 [pokemon.assetData]
-front = "/assets/pokemon/823_front.png"
-back = "/assets/pokemon/823_back.png"
-shiny_front = "/assets/pokemon/823_shiny_front.png"
-shiny_back = "/assets/pokemon/823_shiny_back.png"
-icon = "/assets/pokemon/823_icon.png"
+front = "assets/pokemon/front/823_front.png"
+back = "assets/pokemon/back/823_back.png"
+shiny_front = "assets/pokemon/shinyfront/823_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/823_shiny_back.png"
+icon = "assets/pokemon/icon/823_icon.png"
 [[pokemon]]
 id = "825"
 species = "dottler"
-types = [ "bug", "psychic",]
+types = [ "bug", "psychic"]
 dexEntry = "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
 [[pokemon.abilities]]
 name = "swarm"
@@ -5190,7 +5190,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "dottler"
-methods = [ "level-up", "10",]
+methods = [ "level-up", "10"]
 id = "825"
 
 
@@ -5202,16 +5202,16 @@ special-attack = 50
 special-defense = 90
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/825_front.png"
-back = "/assets/pokemon/825_back.png"
-shiny_front = "/assets/pokemon/825_shiny_front.png"
-shiny_back = "/assets/pokemon/825_shiny_back.png"
-icon = "/assets/pokemon/825_icon.png"
+front = "assets/pokemon/front/825_front.png"
+back = "assets/pokemon/back/825_back.png"
+shiny_front = "assets/pokemon/shinyfront/825_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/825_shiny_back.png"
+icon = "assets/pokemon/icon/825_icon.png"
 [[pokemon]]
 id = "826"
 species = "orbeetle"
-types = [ "bug", "psychic",]
-dexEntry = "It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away."
+types = [ "bug", "psychic"]
+dexEntry = "It emits psychic energy to observe and study whatï¿½s around itï¿½and whatï¿½s around it can include things over six miles away."
 [[pokemon.abilities]]
 name = "swarm"
 isHidden = false
@@ -5491,7 +5491,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "dottler"
-methods = [ "level-up", "10",]
+methods = [ "level-up", "10"]
 id = "826"
 
 
@@ -5503,15 +5503,15 @@ special-attack = 80
 special-defense = 120
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/826_front.png"
-back = "/assets/pokemon/826_back.png"
-shiny_front = "/assets/pokemon/826_shiny_front.png"
-shiny_back = "/assets/pokemon/826_shiny_back.png"
-icon = "/assets/pokemon/826_icon.png"
+front = "assets/pokemon/front/826_front.png"
+back = "assets/pokemon/back/826_back.png"
+shiny_front = "assets/pokemon/shinyfront/826_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/826_shiny_back.png"
+icon = "assets/pokemon/icon/826_icon.png"
 [[pokemon]]
 id = "828"
 species = "thievul"
-types = [ "dark",]
+types = [ "dark"]
 dexEntry = "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
 [[pokemon.abilities]]
 name = "run-away"
@@ -5757,7 +5757,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "thievul"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "828"
 
 
@@ -5769,16 +5769,16 @@ special-attack = 87
 special-defense = 92
 speed = 90
 [pokemon.assetData]
-front = "/assets/pokemon/828_front.png"
-back = "/assets/pokemon/828_back.png"
-shiny_front = "/assets/pokemon/828_shiny_front.png"
-shiny_back = "/assets/pokemon/828_shiny_back.png"
-icon = "/assets/pokemon/828_icon.png"
+front = "assets/pokemon/front/828_front.png"
+back = "assets/pokemon/back/828_back.png"
+shiny_front = "assets/pokemon/shinyfront/828_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/828_shiny_back.png"
+icon = "assets/pokemon/icon/828_icon.png"
 [[pokemon]]
 id = "830"
 species = "eldegoss"
-types = [ "grass",]
-dexEntry = "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty."
+types = [ "grass"]
+dexEntry = "The cotton on the head of this Pokï¿½mon can be spun into a glossy, gorgeous yarnï¿½a Galar regional specialty."
 [[pokemon.abilities]]
 name = "cotton-down"
 isHidden = false
@@ -5983,7 +5983,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "eldegoss"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "830"
 
 
@@ -5995,15 +5995,15 @@ special-attack = 80
 special-defense = 120
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/830_front.png"
-back = "/assets/pokemon/830_back.png"
-shiny_front = "/assets/pokemon/830_shiny_front.png"
-shiny_back = "/assets/pokemon/830_shiny_back.png"
-icon = "/assets/pokemon/830_icon.png"
+front = "assets/pokemon/front/830_front.png"
+back = "assets/pokemon/back/830_back.png"
+shiny_front = "assets/pokemon/shinyfront/830_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/830_shiny_back.png"
+icon = "assets/pokemon/icon/830_icon.png"
 [[pokemon]]
 id = "832"
 species = "dubwool"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
 [[pokemon.abilities]]
 name = "fluffy"
@@ -6209,7 +6209,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "dubwool"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "832"
 
 
@@ -6221,16 +6221,16 @@ special-attack = 60
 special-defense = 90
 speed = 88
 [pokemon.assetData]
-front = "/assets/pokemon/832_front.png"
-back = "/assets/pokemon/832_back.png"
-shiny_front = "/assets/pokemon/832_shiny_front.png"
-shiny_back = "/assets/pokemon/832_shiny_back.png"
-icon = "/assets/pokemon/832_icon.png"
+front = "assets/pokemon/front/832_front.png"
+back = "assets/pokemon/back/832_back.png"
+shiny_front = "assets/pokemon/shinyfront/832_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/832_shiny_back.png"
+icon = "assets/pokemon/icon/832_icon.png"
 [[pokemon]]
 id = "834"
 species = "drednaw"
-types = [ "water", "rock",]
-dexEntry = "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down."
+types = [ "water", "rock"]
+dexEntry = "This Pokï¿½mon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down."
 [[pokemon.abilities]]
 name = "strong-jaw"
 isHidden = false
@@ -6605,7 +6605,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drednaw"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "834"
 
 
@@ -6617,15 +6617,15 @@ special-attack = 48
 special-defense = 68
 speed = 74
 [pokemon.assetData]
-front = "/assets/pokemon/834_front.png"
-back = "/assets/pokemon/834_back.png"
-shiny_front = "/assets/pokemon/834_shiny_front.png"
-shiny_back = "/assets/pokemon/834_shiny_back.png"
-icon = "/assets/pokemon/834_icon.png"
+front = "assets/pokemon/front/834_front.png"
+back = "assets/pokemon/back/834_back.png"
+shiny_front = "assets/pokemon/shinyfront/834_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/834_shiny_back.png"
+icon = "assets/pokemon/icon/834_icon.png"
 [[pokemon]]
 id = "836"
 species = "boltund"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph."
 [[pokemon.abilities]]
 name = "strong-jaw"
@@ -6852,7 +6852,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "boltund"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "836"
 
 
@@ -6864,15 +6864,15 @@ special-attack = 90
 special-defense = 60
 speed = 121
 [pokemon.assetData]
-front = "/assets/pokemon/836_front.png"
-back = "/assets/pokemon/836_back.png"
-shiny_front = "/assets/pokemon/836_shiny_front.png"
-shiny_back = "/assets/pokemon/836_shiny_back.png"
-icon = "/assets/pokemon/836_icon.png"
+front = "assets/pokemon/front/836_front.png"
+back = "assets/pokemon/back/836_back.png"
+shiny_front = "assets/pokemon/shinyfront/836_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/836_shiny_back.png"
+icon = "assets/pokemon/icon/836_icon.png"
 [[pokemon]]
 id = "843"
 species = "silicobra"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide."
 [[pokemon.abilities]]
 name = "sand-spit"
@@ -7103,7 +7103,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "sandaconda"
-methods = [ "level-up", "36",]
+methods = [ "level-up", "36"]
 id = "843"
 
 
@@ -7115,17 +7115,17 @@ special-attack = 35
 special-defense = 50
 speed = 46
 [pokemon.assetData]
-front = "/assets/pokemon/843_front.png"
-back = "/assets/pokemon/843_back.png"
-shiny_front = "/assets/pokemon/843_shiny_front.png"
-shiny_back = "/assets/pokemon/843_shiny_back.png"
-icon = "/assets/pokemon/843_icon.png"
+front = "assets/pokemon/front/843_front.png"
+back = "assets/pokemon/back/843_back.png"
+shiny_front = "assets/pokemon/shinyfront/843_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/843_shiny_back.png"
+icon = "assets/pokemon/icon/843_icon.png"
 [[pokemon]]
 id = "845"
 species = "cramorant"
-types = [ "flying", "water",]
+types = [ "flying", "water"]
 evolutions = []
-dexEntry = "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey."
+dexEntry = "This hungry Pokï¿½mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokï¿½mon other than its preferred prey."
 [[pokemon.abilities]]
 name = "gulp-missile"
 isHidden = false
@@ -7444,16 +7444,16 @@ special-attack = 85
 special-defense = 95
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/845_front.png"
-back = "/assets/pokemon/845_back.png"
-shiny_front = "/assets/pokemon/845_shiny_front.png"
-shiny_back = "/assets/pokemon/845_shiny_back.png"
-icon = "/assets/pokemon/845_icon.png"
+front = "assets/pokemon/front/845_front.png"
+back = "assets/pokemon/back/845_back.png"
+shiny_front = "assets/pokemon/shinyfront/845_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/845_shiny_back.png"
+icon = "assets/pokemon/icon/845_icon.png"
 [[pokemon]]
 id = "846"
 species = "arrokuda"
-types = [ "water",]
-dexEntry = "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up."
+types = [ "water"]
+dexEntry = "After itï¿½s eaten its fill, its movements become extremely sluggish. Thatï¿½s when Cramorant swallows it up."
 [[pokemon.abilities]]
 name = "swift-swim"
 isHidden = false
@@ -7694,7 +7694,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "barraskewda"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "846"
 
 
@@ -7706,15 +7706,15 @@ special-attack = 40
 special-defense = 30
 speed = 66
 [pokemon.assetData]
-front = "/assets/pokemon/846_front.png"
-back = "/assets/pokemon/846_back.png"
-shiny_front = "/assets/pokemon/846_shiny_front.png"
-shiny_back = "/assets/pokemon/846_shiny_back.png"
-icon = "/assets/pokemon/846_icon.png"
+front = "assets/pokemon/front/846_front.png"
+back = "assets/pokemon/back/846_back.png"
+shiny_front = "assets/pokemon/shinyfront/846_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/846_shiny_back.png"
+icon = "assets/pokemon/icon/846_icon.png"
 [[pokemon]]
 id = "848"
 species = "toxel"
-types = [ "electric", "poison",]
+types = [ "electric", "poison"]
 dexEntry = "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis."
 [[pokemon.abilities]]
 name = "rattled"
@@ -7835,7 +7835,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "toxtricity"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "848"
 
 
@@ -7847,16 +7847,16 @@ special-attack = 54
 special-defense = 35
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/848_front.png"
-back = "/assets/pokemon/848_back.png"
-shiny_front = "/assets/pokemon/848_shiny_front.png"
-shiny_back = "/assets/pokemon/848_shiny_back.png"
-icon = "/assets/pokemon/848_icon.png"
+front = "assets/pokemon/front/848_front.png"
+back = "assets/pokemon/back/848_back.png"
+shiny_front = "assets/pokemon/shinyfront/848_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/848_shiny_back.png"
+icon = "assets/pokemon/icon/848_icon.png"
 [[pokemon]]
 id = "850"
 species = "sizzlipede"
-types = [ "fire", "bug",]
-dexEntry = "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel."
+types = [ "fire", "bug"]
+dexEntry = "It wraps prey up with its heated body, cooking them in its coils. Once theyï¿½re well-done, it will voraciously nibble them down to the last morsel."
 [[pokemon.abilities]]
 name = "flash-fire"
 isHidden = false
@@ -8056,7 +8056,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "centiskorch"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "850"
 
 
@@ -8068,16 +8068,16 @@ special-attack = 50
 special-defense = 50
 speed = 45
 [pokemon.assetData]
-front = "/assets/pokemon/850_front.png"
-back = "/assets/pokemon/850_back.png"
-shiny_front = "/assets/pokemon/850_shiny_front.png"
-shiny_back = "/assets/pokemon/850_shiny_back.png"
-icon = "/assets/pokemon/850_icon.png"
+front = "assets/pokemon/front/850_front.png"
+back = "assets/pokemon/back/850_back.png"
+shiny_front = "assets/pokemon/shinyfront/850_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/850_shiny_back.png"
+icon = "assets/pokemon/icon/850_icon.png"
 [[pokemon]]
 id = "852"
 species = "clobbopus"
-types = [ "fighting",]
-dexEntry = "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old."
+types = [ "fighting"]
+dexEntry = "Its tentacles tear off easily, but it isnï¿½t alarmed when that happensï¿½it knows theyï¿½ll grow back. Itï¿½s about as smart as a three-year-old."
 [[pokemon.abilities]]
 name = "limber"
 isHidden = false
@@ -8298,7 +8298,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "grapploct"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "852"
 
 
@@ -8310,16 +8310,16 @@ special-attack = 50
 special-defense = 50
 speed = 32
 [pokemon.assetData]
-front = "/assets/pokemon/852_front.png"
-back = "/assets/pokemon/852_back.png"
-shiny_front = "/assets/pokemon/852_shiny_front.png"
-shiny_back = "/assets/pokemon/852_shiny_back.png"
-icon = "/assets/pokemon/852_icon.png"
+front = "assets/pokemon/front/852_front.png"
+back = "assets/pokemon/back/852_back.png"
+shiny_front = "assets/pokemon/shinyfront/852_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/852_shiny_back.png"
+icon = "assets/pokemon/icon/852_icon.png"
 [[pokemon]]
 id = "854"
 species = "sinistea"
-types = [ "ghost",]
-dexEntry = "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation."
+types = [ "ghost"]
+dexEntry = "The teacup in which this Pokï¿½mon makes its home is a famous piece of antique tableware. Many forgeries are in circulation."
 [[pokemon.abilities]]
 name = "weak-armor"
 isHidden = false
@@ -8572,16 +8572,16 @@ special-attack = 74
 special-defense = 54
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/854_front.png"
-back = "/assets/pokemon/854_back.png"
-shiny_front = "/assets/pokemon/854_shiny_front.png"
-shiny_back = "/assets/pokemon/854_shiny_back.png"
-icon = "/assets/pokemon/854_icon.png"
+front = "assets/pokemon/front/854_front.png"
+back = "assets/pokemon/back/854_back.png"
+shiny_front = "assets/pokemon/shinyfront/854_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/854_shiny_back.png"
+icon = "assets/pokemon/icon/854_icon.png"
 [[pokemon]]
 id = "856"
 species = "hatenna"
-types = [ "psychic",]
-dexEntry = "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people."
+types = [ "psychic"]
+dexEntry = "If this Pokï¿½mon senses a strong emotion, it will run away as fast as it can. It prefers areas without people."
 [[pokemon.abilities]]
 name = "healer"
 isHidden = false
@@ -8851,7 +8851,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hattrem"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "856"
 
 
@@ -8863,16 +8863,16 @@ special-attack = 56
 special-defense = 53
 speed = 39
 [pokemon.assetData]
-front = "/assets/pokemon/856_front.png"
-back = "/assets/pokemon/856_back.png"
-shiny_front = "/assets/pokemon/856_shiny_front.png"
-shiny_back = "/assets/pokemon/856_shiny_back.png"
-icon = "/assets/pokemon/856_icon.png"
+front = "assets/pokemon/front/856_front.png"
+back = "assets/pokemon/back/856_back.png"
+shiny_front = "assets/pokemon/shinyfront/856_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/856_shiny_back.png"
+icon = "assets/pokemon/icon/856_icon.png"
 [[pokemon]]
 id = "859"
 species = "impidimp"
-types = [ "dark", "fairy",]
-dexEntry = "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants."
+types = [ "dark", "fairy"]
+dexEntry = "It sneaks into peopleï¿½s homes, stealing things and feasting on the negative energy of the frustrated occupants."
 [[pokemon.abilities]]
 name = "prankster"
 isHidden = false
@@ -9137,7 +9137,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "morgrem"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "859"
 
 
@@ -9149,15 +9149,15 @@ special-attack = 55
 special-defense = 40
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/859_front.png"
-back = "/assets/pokemon/859_back.png"
-shiny_front = "/assets/pokemon/859_shiny_front.png"
-shiny_back = "/assets/pokemon/859_shiny_back.png"
-icon = "/assets/pokemon/859_icon.png"
+front = "assets/pokemon/front/859_front.png"
+back = "assets/pokemon/back/859_back.png"
+shiny_front = "assets/pokemon/shinyfront/859_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/859_shiny_back.png"
+icon = "assets/pokemon/icon/859_icon.png"
 [[pokemon]]
 id = "868"
 species = "milcery"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
 [[pokemon.abilities]]
 name = "sweet-veil"
@@ -9316,17 +9316,17 @@ special-attack = 50
 special-defense = 61
 speed = 34
 [pokemon.assetData]
-front = "/assets/pokemon/868_front.png"
-back = "/assets/pokemon/868_back.png"
-shiny_front = "/assets/pokemon/868_shiny_front.png"
-shiny_back = "/assets/pokemon/868_shiny_back.png"
-icon = "/assets/pokemon/868_icon.png"
+front = "assets/pokemon/front/868_front.png"
+back = "assets/pokemon/back/868_back.png"
+shiny_front = "assets/pokemon/shinyfront/868_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/868_shiny_back.png"
+icon = "assets/pokemon/icon/868_icon.png"
 [[pokemon]]
 id = "870"
 species = "falinks"
-types = [ "fighting",]
+types = [ "fighting"]
 evolutions = []
-dexEntry = "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
+dexEntry = "The six of them work together as one Pokï¿½mon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
 [[pokemon.abilities]]
 name = "battle-armor"
 isHidden = false
@@ -9629,15 +9629,15 @@ special-attack = 70
 special-defense = 60
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/870_front.png"
-back = "/assets/pokemon/870_back.png"
-shiny_front = "/assets/pokemon/870_shiny_front.png"
-shiny_back = "/assets/pokemon/870_shiny_back.png"
-icon = "/assets/pokemon/870_icon.png"
+front = "assets/pokemon/front/870_front.png"
+back = "assets/pokemon/back/870_back.png"
+shiny_front = "assets/pokemon/shinyfront/870_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/870_shiny_back.png"
+icon = "assets/pokemon/icon/870_icon.png"
 [[pokemon]]
 id = "871"
 species = "pincurchin"
-types = [ "electric",]
+types = [ "electric"]
 evolutions = []
 dexEntry = "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours."
 [[pokemon.abilities]]
@@ -9957,15 +9957,15 @@ special-attack = 91
 special-defense = 85
 speed = 15
 [pokemon.assetData]
-front = "/assets/pokemon/871_front.png"
-back = "/assets/pokemon/871_back.png"
-shiny_front = "/assets/pokemon/871_shiny_front.png"
-shiny_back = "/assets/pokemon/871_shiny_back.png"
-icon = "/assets/pokemon/871_icon.png"
+front = "assets/pokemon/front/871_front.png"
+back = "assets/pokemon/back/871_back.png"
+shiny_front = "assets/pokemon/shinyfront/871_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/871_shiny_back.png"
+icon = "assets/pokemon/icon/871_icon.png"
 [[pokemon]]
 id = "872"
 species = "snom"
-types = [ "ice", "bug",]
+types = [ "ice", "bug"]
 dexEntry = "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -10082,7 +10082,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "frosmoth"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "872"
 
 
@@ -10094,15 +10094,15 @@ special-attack = 45
 special-defense = 30
 speed = 20
 [pokemon.assetData]
-front = "/assets/pokemon/872_front.png"
-back = "/assets/pokemon/872_back.png"
-shiny_front = "/assets/pokemon/872_shiny_front.png"
-shiny_back = "/assets/pokemon/872_shiny_back.png"
-icon = "/assets/pokemon/872_icon.png"
+front = "assets/pokemon/front/872_front.png"
+back = "assets/pokemon/back/872_back.png"
+shiny_front = "assets/pokemon/shinyfront/872_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/872_shiny_back.png"
+icon = "assets/pokemon/icon/872_icon.png"
 [[pokemon]]
 id = "874"
 species = "stonjourner"
-types = [ "rock",]
+types = [ "rock"]
 evolutions = []
 dexEntry = "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle."
 [[pokemon.abilities]]
@@ -10393,17 +10393,17 @@ special-attack = 20
 special-defense = 20
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/874_front.png"
-back = "/assets/pokemon/874_back.png"
-shiny_front = "/assets/pokemon/874_shiny_front.png"
-shiny_back = "/assets/pokemon/874_shiny_back.png"
-icon = "/assets/pokemon/874_icon.png"
+front = "assets/pokemon/front/874_front.png"
+back = "assets/pokemon/back/874_back.png"
+shiny_front = "assets/pokemon/shinyfront/874_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/874_shiny_back.png"
+icon = "assets/pokemon/icon/874_icon.png"
 [[pokemon]]
 id = "875"
 species = "eiscue"
-types = [ "ice",]
+types = [ "ice"]
 evolutions = []
-dexEntry = "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey."
+dexEntry = "This Pokï¿½mon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey."
 [[pokemon.abilities]]
 name = "ice-face"
 isHidden = false
@@ -10692,15 +10692,15 @@ special-attack = 65
 special-defense = 90
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/875_front.png"
-back = "/assets/pokemon/875_back.png"
-shiny_front = "/assets/pokemon/875_shiny_front.png"
-shiny_back = "/assets/pokemon/875_shiny_back.png"
-icon = "/assets/pokemon/875_icon.png"
+front = "assets/pokemon/front/875_front.png"
+back = "assets/pokemon/back/875_back.png"
+shiny_front = "assets/pokemon/shinyfront/875_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/875_shiny_back.png"
+icon = "assets/pokemon/icon/875_icon.png"
 [[pokemon]]
 id = "876"
 species = "indeedee"
-types = [ "psychic", "normal",]
+types = [ "psychic", "normal"]
 evolutions = []
 dexEntry = "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength."
 [[pokemon.abilities]]
@@ -11009,17 +11009,17 @@ special-attack = 105
 special-defense = 95
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/876_front.png"
-back = "/assets/pokemon/876_back.png"
-shiny_front = "/assets/pokemon/876_shiny_front.png"
-shiny_back = "/assets/pokemon/876_shiny_back.png"
-icon = "/assets/pokemon/876_icon.png"
+front = "assets/pokemon/front/876_front.png"
+back = "assets/pokemon/back/876_back.png"
+shiny_front = "assets/pokemon/shinyfront/876_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/876_shiny_back.png"
+icon = "assets/pokemon/icon/876_icon.png"
 [[pokemon]]
 id = "877"
 species = "morpeko"
-types = [ "electric", "dark",]
+types = [ "electric", "dark"]
 evolutions = []
-dexEntry = "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order."
+dexEntry = "It carries electrically roasted seeds with it as if theyï¿½re precious treasures. No matter how much it eats, it always gets hungry again in short order."
 [[pokemon.abilities]]
 name = "hunger-switch"
 isHidden = false
@@ -11403,16 +11403,16 @@ special-attack = 70
 special-defense = 58
 speed = 97
 [pokemon.assetData]
-front = "/assets/pokemon/877_front.png"
-back = "/assets/pokemon/877_back.png"
-shiny_front = "/assets/pokemon/877_shiny_front.png"
-shiny_back = "/assets/pokemon/877_shiny_back.png"
-icon = "/assets/pokemon/877_icon.png"
+front = "assets/pokemon/front/877_front.png"
+back = "assets/pokemon/back/877_back.png"
+shiny_front = "assets/pokemon/shinyfront/877_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/877_shiny_back.png"
+icon = "assets/pokemon/icon/877_icon.png"
 [[pokemon]]
 id = "878"
 species = "cufant"
-types = [ "steel",]
-dexEntry = "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color."
+types = [ "steel"]
+dexEntry = "If a job requires serious strength, this Pokï¿½mon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color."
 [[pokemon.abilities]]
 name = "sheer-force"
 isHidden = false
@@ -11708,7 +11708,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "copperajah"
-methods = [ "level-up", "34",]
+methods = [ "level-up", "34"]
 id = "878"
 
 
@@ -11720,15 +11720,15 @@ special-attack = 40
 special-defense = 49
 speed = 40
 [pokemon.assetData]
-front = "/assets/pokemon/878_front.png"
-back = "/assets/pokemon/878_back.png"
-shiny_front = "/assets/pokemon/878_shiny_front.png"
-shiny_back = "/assets/pokemon/878_shiny_back.png"
-icon = "/assets/pokemon/878_icon.png"
+front = "assets/pokemon/front/878_front.png"
+back = "assets/pokemon/back/878_back.png"
+shiny_front = "assets/pokemon/shinyfront/878_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/878_shiny_back.png"
+icon = "assets/pokemon/icon/878_icon.png"
 [[pokemon]]
 id = "880"
 species = "dracozolt"
-types = [ "electric", "dragon",]
+types = [ "electric", "dragon"]
 evolutions = []
 dexEntry = "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small."
 [[pokemon.abilities]]
@@ -12042,17 +12042,17 @@ special-attack = 80
 special-defense = 70
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/880_front.png"
-back = "/assets/pokemon/880_back.png"
-shiny_front = "/assets/pokemon/880_shiny_front.png"
-shiny_back = "/assets/pokemon/880_shiny_back.png"
-icon = "/assets/pokemon/880_icon.png"
+front = "assets/pokemon/front/880_front.png"
+back = "assets/pokemon/back/880_back.png"
+shiny_front = "assets/pokemon/shinyfront/880_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/880_shiny_back.png"
+icon = "assets/pokemon/icon/880_icon.png"
 [[pokemon]]
 id = "881"
 species = "arctozolt"
-types = [ "electric", "ice",]
+types = [ "electric", "ice"]
 evolutions = []
-dexEntry = "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+dexEntry = "This Pokï¿½mon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
 [[pokemon.abilities]]
 name = "volt-absorb"
 isHidden = false
@@ -12344,17 +12344,17 @@ special-attack = 90
 special-defense = 80
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/881_front.png"
-back = "/assets/pokemon/881_back.png"
-shiny_front = "/assets/pokemon/881_shiny_front.png"
-shiny_back = "/assets/pokemon/881_shiny_back.png"
-icon = "/assets/pokemon/881_icon.png"
+front = "assets/pokemon/front/881_front.png"
+back = "assets/pokemon/back/881_back.png"
+shiny_front = "assets/pokemon/shinyfront/881_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/881_shiny_back.png"
+icon = "assets/pokemon/icon/881_icon.png"
 [[pokemon]]
 id = "882"
 species = "dracovish"
-types = [ "water", "dragon",]
+types = [ "water", "dragon"]
 evolutions = []
-dexEntry = "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater."
+dexEntry = "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokï¿½mon canï¿½t breathe unless itï¿½s underwater."
 [[pokemon.abilities]]
 name = "water-absorb"
 isHidden = false
@@ -12626,17 +12626,17 @@ special-attack = 70
 special-defense = 80
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/882_front.png"
-back = "/assets/pokemon/882_back.png"
-shiny_front = "/assets/pokemon/882_shiny_front.png"
-shiny_back = "/assets/pokemon/882_shiny_back.png"
-icon = "/assets/pokemon/882_icon.png"
+front = "assets/pokemon/front/882_front.png"
+back = "assets/pokemon/back/882_back.png"
+shiny_front = "assets/pokemon/shinyfront/882_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/882_shiny_back.png"
+icon = "assets/pokemon/icon/882_icon.png"
 [[pokemon]]
 id = "883"
 species = "arctovish"
-types = [ "water", "ice",]
+types = [ "water", "ice"]
 evolutions = []
-dexEntry = "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway."
+dexEntry = "The skin on its face is impervious to attack, but breathing difficulties made this Pokï¿½mon go extinct anyway."
 [[pokemon.abilities]]
 name = "water-absorb"
 isHidden = false
@@ -12883,16 +12883,16 @@ special-attack = 80
 special-defense = 90
 speed = 55
 [pokemon.assetData]
-front = "/assets/pokemon/883_front.png"
-back = "/assets/pokemon/883_back.png"
-shiny_front = "/assets/pokemon/883_shiny_front.png"
-shiny_back = "/assets/pokemon/883_shiny_back.png"
-icon = "/assets/pokemon/883_icon.png"
+front = "assets/pokemon/front/883_front.png"
+back = "assets/pokemon/back/883_back.png"
+shiny_front = "assets/pokemon/shinyfront/883_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/883_shiny_back.png"
+icon = "assets/pokemon/icon/883_icon.png"
 [[pokemon]]
 id = "884"
 species = "duraludon"
-types = [ "steel", "dragon",]
-dexEntry = "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain."
+types = [ "steel", "dragon"]
+dexEntry = "The special metal that composes its body is very light, so this Pokï¿½mon has considerable agility. It lives in caves because it dislikes the rain."
 [[pokemon.abilities]]
 name = "light-metal"
 isHidden = false
@@ -13219,16 +13219,16 @@ special-attack = 120
 special-defense = 50
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/884_front.png"
-back = "/assets/pokemon/884_back.png"
-shiny_front = "/assets/pokemon/884_shiny_front.png"
-shiny_back = "/assets/pokemon/884_shiny_back.png"
-icon = "/assets/pokemon/884_icon.png"
+front = "assets/pokemon/front/884_front.png"
+back = "assets/pokemon/back/884_back.png"
+shiny_front = "assets/pokemon/shinyfront/884_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/884_shiny_back.png"
+icon = "assets/pokemon/icon/884_icon.png"
 [[pokemon]]
 id = "885"
 species = "dreepy"
-types = [ "dragon", "ghost",]
-dexEntry = "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger."
+types = [ "dragon", "ghost"]
+dexEntry = "If this weak Pokï¿½mon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger."
 [[pokemon.abilities]]
 name = "clear-body"
 isHidden = false
@@ -13373,7 +13373,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drakloak"
-methods = [ "level-up", "50",]
+methods = [ "level-up", "50"]
 id = "885"
 
 
@@ -13385,17 +13385,17 @@ special-attack = 40
 special-defense = 30
 speed = 82
 [pokemon.assetData]
-front = "/assets/pokemon/885_front.png"
-back = "/assets/pokemon/885_back.png"
-shiny_front = "/assets/pokemon/885_shiny_front.png"
-shiny_back = "/assets/pokemon/885_shiny_back.png"
-icon = "/assets/pokemon/885_icon.png"
+front = "assets/pokemon/front/885_front.png"
+back = "assets/pokemon/back/885_back.png"
+shiny_front = "assets/pokemon/shinyfront/885_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/885_shiny_back.png"
+icon = "assets/pokemon/icon/885_icon.png"
 [[pokemon]]
 id = "888"
 species = "zacian"
-types = [ "fairy",]
+types = [ "fairy"]
 evolutions = []
-dexEntry = "This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals."
+dexEntry = "This Pokï¿½mon has slumbered for many years. Some say itï¿½s Zamazentaï¿½s elder sisterï¿½others say the two Pokï¿½mon are rivals."
 [[pokemon.abilities]]
 name = "intrepid-sword"
 isHidden = false
@@ -13724,17 +13724,17 @@ special-attack = 80
 special-defense = 115
 speed = 138
 [pokemon.assetData]
-front = "/assets/pokemon/888_front.png"
-back = "/assets/pokemon/888_back.png"
-shiny_front = "/assets/pokemon/888_shiny_front.png"
-shiny_back = "/assets/pokemon/888_shiny_back.png"
-icon = "/assets/pokemon/888_icon.png"
+front = "assets/pokemon/front/888_front.png"
+back = "assets/pokemon/back/888_back.png"
+shiny_front = "assets/pokemon/shinyfront/888_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/888_shiny_back.png"
+icon = "assets/pokemon/icon/888_icon.png"
 [[pokemon]]
 id = "889"
 species = "zamazenta"
-types = [ "fighting",]
+types = [ "fighting"]
 evolutions = []
-dexEntry = "This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed."
+dexEntry = "This Pokï¿½mon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed."
 [[pokemon.abilities]]
 name = "dauntless-shield"
 isHidden = false
@@ -14088,17 +14088,17 @@ special-attack = 80
 special-defense = 115
 speed = 138
 [pokemon.assetData]
-front = "/assets/pokemon/889_front.png"
-back = "/assets/pokemon/889_back.png"
-shiny_front = "/assets/pokemon/889_shiny_front.png"
-shiny_back = "/assets/pokemon/889_shiny_back.png"
-icon = "/assets/pokemon/889_icon.png"
+front = "assets/pokemon/front/889_front.png"
+back = "assets/pokemon/back/889_back.png"
+shiny_front = "assets/pokemon/shinyfront/889_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/889_shiny_back.png"
+icon = "assets/pokemon/icon/889_icon.png"
 [[pokemon]]
 id = "890"
 species = "eternatus"
-types = [ "poison", "dragon",]
+types = [ "poison", "dragon"]
 evolutions = []
-dexEntry = "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon."
+dexEntry = "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokï¿½mon and the Dynamax phenomenon."
 [[pokemon.abilities]]
 name = "pressure"
 isHidden = false
@@ -14377,15 +14377,15 @@ special-attack = 145
 special-defense = 95
 speed = 130
 [pokemon.assetData]
-front = "/assets/pokemon/890_front.png"
-back = "/assets/pokemon/890_back.png"
-shiny_front = "/assets/pokemon/890_shiny_front.png"
-shiny_back = "/assets/pokemon/890_shiny_back.png"
-icon = "/assets/pokemon/890_icon.png"
+front = "assets/pokemon/front/890_front.png"
+back = "assets/pokemon/back/890_back.png"
+shiny_front = "assets/pokemon/shinyfront/890_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/890_shiny_back.png"
+icon = "assets/pokemon/icon/890_icon.png"
 [[pokemon]]
 id = "891"
 species = "kubfu"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -14645,17 +14645,17 @@ special-attack = 53
 special-defense = 50
 speed = 72
 [pokemon.assetData]
-front = "/assets/pokemon/891_front.png"
-back = "/assets/pokemon/891_back.png"
-shiny_front = "/assets/pokemon/891_shiny_front.png"
-shiny_back = "/assets/pokemon/891_shiny_back.png"
-icon = "/assets/pokemon/891_icon.png"
+front = "assets/pokemon/front/891_front.png"
+back = "assets/pokemon/back/891_back.png"
+shiny_front = "assets/pokemon/shinyfront/891_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/891_shiny_back.png"
+icon = "assets/pokemon/icon/891_icon.png"
 [[pokemon]]
 id = "893"
 species = "zarude"
-types = [ "dark", "grass",]
+types = [ "dark", "grass"]
 evolutions = []
-dexEntry = "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
+dexEntry = "Once the vines on Zarudeï¿½s body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
 [[pokemon.abilities]]
 name = "leaf-guard"
 isHidden = false
@@ -15079,17 +15079,17 @@ special-attack = 70
 special-defense = 95
 speed = 105
 [pokemon.assetData]
-front = "/assets/pokemon/893_front.png"
-back = "/assets/pokemon/893_back.png"
-shiny_front = "/assets/pokemon/893_shiny_front.png"
-shiny_back = "/assets/pokemon/893_shiny_back.png"
-icon = "/assets/pokemon/893_icon.png"
+front = "assets/pokemon/front/893_front.png"
+back = "assets/pokemon/back/893_back.png"
+shiny_front = "assets/pokemon/shinyfront/893_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/893_shiny_back.png"
+icon = "assets/pokemon/icon/893_icon.png"
 [[pokemon]]
 id = "894"
 species = "regieleki"
-types = [ "electric",]
+types = [ "electric"]
 evolutions = []
-dexEntry = "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar’s electricity."
+dexEntry = "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galarï¿½s electricity."
 [[pokemon.abilities]]
 name = "transistor"
 isHidden = false
@@ -15338,17 +15338,17 @@ special-attack = 100
 special-defense = 50
 speed = 200
 [pokemon.assetData]
-front = "/assets/pokemon/894_front.png"
-back = "/assets/pokemon/894_back.png"
-shiny_front = "/assets/pokemon/894_shiny_front.png"
-shiny_back = "/assets/pokemon/894_shiny_back.png"
-icon = "/assets/pokemon/894_icon.png"
+front = "assets/pokemon/front/894_front.png"
+back = "assets/pokemon/back/894_back.png"
+shiny_front = "assets/pokemon/shinyfront/894_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/894_shiny_back.png"
+icon = "assets/pokemon/icon/894_icon.png"
 [[pokemon]]
 id = "895"
 species = "regidrago"
-types = [ "dragon",]
+types = [ "dragon"]
 evolutions = []
-dexEntry = "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon."
+dexEntry = "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokï¿½mon."
 [[pokemon.abilities]]
 name = "dragons-maw"
 isHidden = false
@@ -15577,15 +15577,15 @@ special-attack = 100
 special-defense = 50
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/895_front.png"
-back = "/assets/pokemon/895_back.png"
-shiny_front = "/assets/pokemon/895_shiny_front.png"
-shiny_back = "/assets/pokemon/895_shiny_back.png"
-icon = "/assets/pokemon/895_icon.png"
+front = "assets/pokemon/front/895_front.png"
+back = "assets/pokemon/back/895_back.png"
+shiny_front = "assets/pokemon/shinyfront/895_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/895_shiny_back.png"
+icon = "assets/pokemon/icon/895_icon.png"
 [[pokemon]]
 id = "896"
 species = "glastrier"
-types = [ "ice",]
+types = [ "ice"]
 evolutions = []
 dexEntry = "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
 [[pokemon.abilities]]
@@ -15876,15 +15876,15 @@ special-attack = 65
 special-defense = 110
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/896_front.png"
-back = "/assets/pokemon/896_back.png"
-shiny_front = "/assets/pokemon/896_shiny_front.png"
-shiny_back = "/assets/pokemon/896_shiny_back.png"
-icon = "/assets/pokemon/896_icon.png"
+front = "assets/pokemon/front/896_front.png"
+back = "assets/pokemon/back/896_back.png"
+shiny_front = "assets/pokemon/shinyfront/896_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/896_shiny_back.png"
+icon = "assets/pokemon/icon/896_icon.png"
 [[pokemon]]
 id = "897"
 species = "spectrier"
-types = [ "ghost",]
+types = [ "ghost"]
 evolutions = []
 dexEntry = "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude."
 [[pokemon.abilities]]
@@ -16150,15 +16150,15 @@ special-attack = 145
 special-defense = 80
 speed = 130
 [pokemon.assetData]
-front = "/assets/pokemon/897_front.png"
-back = "/assets/pokemon/897_back.png"
-shiny_front = "/assets/pokemon/897_shiny_front.png"
-shiny_back = "/assets/pokemon/897_shiny_back.png"
-icon = "/assets/pokemon/897_icon.png"
+front = "assets/pokemon/front/897_front.png"
+back = "assets/pokemon/back/897_back.png"
+shiny_front = "assets/pokemon/shinyfront/897_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/897_shiny_back.png"
+icon = "assets/pokemon/icon/897_icon.png"
 [[pokemon]]
 id = "898"
 species = "calyrex"
-types = [ "psychic", "grass",]
+types = [ "psychic", "grass"]
 evolutions = []
 dexEntry = "Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth."
 [[pokemon.abilities]]
@@ -16519,17 +16519,17 @@ special-attack = 80
 special-defense = 80
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/898_front.png"
-back = "/assets/pokemon/898_back.png"
-shiny_front = "/assets/pokemon/898_shiny_front.png"
-shiny_back = "/assets/pokemon/898_shiny_back.png"
-icon = "/assets/pokemon/898_icon.png"
+front = "assets/pokemon/front/898_front.png"
+back = "assets/pokemon/back/898_back.png"
+shiny_front = "assets/pokemon/shinyfront/898_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/898_shiny_back.png"
+icon = "assets/pokemon/icon/898_icon.png"
 [[pokemon]]
 id = "905"
 species = "enamorus"
-types = [ "fairy", "flying",]
+types = [ "fairy", "flying"]
 evolutions = []
-dexEntry = "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui."
+dexEntry = "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokï¿½mon's love gives rise to the budding of fresh life across Hisui."
 [[pokemon.abilities]]
 name = "cute-charm"
 isHidden = false
@@ -16802,16 +16802,16 @@ special-attack = 135
 special-defense = 80
 speed = 106
 [pokemon.assetData]
-front = "/assets/pokemon/905_front.png"
-back = "/assets/pokemon/905_back.png"
-shiny_front = "/assets/pokemon/905_shiny_front.png"
-shiny_back = "/assets/pokemon/905_shiny_back.png"
-icon = "/assets/pokemon/905_icon.png"
+front = "assets/pokemon/front/905_front.png"
+back = "assets/pokemon/back/905_back.png"
+shiny_front = "assets/pokemon/shinyfront/905_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/905_shiny_back.png"
+icon = "assets/pokemon/icon/905_icon.png"
 [[pokemon]]
 id = "811"
 species = "thwackey"
-types = [ "grass",]
-dexEntry = "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent."
+types = [ "grass"]
+dexEntry = "When itï¿½s drumming out rapid beats in battle, it gets so caught up in the rhythm that it wonï¿½t even notice that itï¿½s already knocked out its opponent."
 [[pokemon.abilities]]
 name = "overgrow"
 isHidden = false
@@ -17122,7 +17122,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "thwackey"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "811"
 
 
@@ -17134,15 +17134,15 @@ special-attack = 55
 special-defense = 60
 speed = 80
 [pokemon.assetData]
-front = "/assets/pokemon/811_front.png"
-back = "/assets/pokemon/811_back.png"
-shiny_front = "/assets/pokemon/811_shiny_front.png"
-shiny_back = "/assets/pokemon/811_shiny_back.png"
-icon = "/assets/pokemon/811_icon.png"
+front = "assets/pokemon/front/811_front.png"
+back = "assets/pokemon/back/811_back.png"
+shiny_front = "assets/pokemon/shinyfront/811_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/811_shiny_back.png"
+icon = "assets/pokemon/icon/811_icon.png"
 [[pokemon]]
 id = "812"
 species = "rillaboom"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -17569,7 +17569,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "thwackey"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "812"
 
 
@@ -17581,15 +17581,15 @@ special-attack = 60
 special-defense = 70
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/812_front.png"
-back = "/assets/pokemon/812_back.png"
-shiny_front = "/assets/pokemon/812_shiny_front.png"
-shiny_back = "/assets/pokemon/812_shiny_back.png"
-icon = "/assets/pokemon/812_icon.png"
+front = "assets/pokemon/front/812_front.png"
+back = "assets/pokemon/back/812_back.png"
+shiny_front = "assets/pokemon/shinyfront/812_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/812_shiny_back.png"
+icon = "assets/pokemon/icon/812_icon.png"
 [[pokemon]]
 id = "814"
 species = "raboot"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
 [[pokemon.abilities]]
 name = "blaze"
@@ -17896,7 +17896,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "raboot"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "814"
 
 
@@ -17908,15 +17908,15 @@ special-attack = 55
 special-defense = 60
 speed = 94
 [pokemon.assetData]
-front = "/assets/pokemon/814_front.png"
-back = "/assets/pokemon/814_back.png"
-shiny_front = "/assets/pokemon/814_shiny_front.png"
-shiny_back = "/assets/pokemon/814_shiny_back.png"
-icon = "/assets/pokemon/814_icon.png"
+front = "assets/pokemon/front/814_front.png"
+back = "assets/pokemon/back/814_back.png"
+shiny_front = "assets/pokemon/shinyfront/814_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/814_shiny_back.png"
+icon = "assets/pokemon/icon/814_icon.png"
 [[pokemon]]
 id = "838"
 species = "carkol"
-types = [ "rock", "fire",]
+types = [ "rock", "fire"]
 dexEntry = "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit."
 [[pokemon.abilities]]
 name = "steam-engine"
@@ -18207,7 +18207,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "carkol"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "838"
 
 
@@ -18219,16 +18219,16 @@ special-attack = 60
 special-defense = 70
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/838_front.png"
-back = "/assets/pokemon/838_back.png"
-shiny_front = "/assets/pokemon/838_shiny_front.png"
-shiny_back = "/assets/pokemon/838_shiny_back.png"
-icon = "/assets/pokemon/838_icon.png"
+front = "assets/pokemon/front/838_front.png"
+back = "assets/pokemon/back/838_back.png"
+shiny_front = "assets/pokemon/shinyfront/838_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/838_shiny_back.png"
+icon = "assets/pokemon/icon/838_icon.png"
 [[pokemon]]
 id = "839"
 species = "coalossal"
-types = [ "rock", "fire",]
-dexEntry = "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area."
+types = [ "rock", "fire"]
+dexEntry = "While itï¿½s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area."
 [[pokemon.abilities]]
 name = "steam-engine"
 isHidden = false
@@ -18558,7 +18558,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "carkol"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "839"
 
 
@@ -18570,15 +18570,15 @@ special-attack = 80
 special-defense = 90
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/839_front.png"
-back = "/assets/pokemon/839_back.png"
-shiny_front = "/assets/pokemon/839_shiny_front.png"
-shiny_back = "/assets/pokemon/839_shiny_back.png"
-icon = "/assets/pokemon/839_icon.png"
+front = "assets/pokemon/front/839_front.png"
+back = "assets/pokemon/back/839_back.png"
+shiny_front = "assets/pokemon/shinyfront/839_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/839_shiny_back.png"
+icon = "assets/pokemon/icon/839_icon.png"
 [[pokemon]]
 id = "841"
 species = "flapple"
-types = [ "grass", "dragon",]
+types = [ "grass", "dragon"]
 dexEntry = "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple."
 [[pokemon.abilities]]
 name = "ripen"
@@ -18876,15 +18876,15 @@ special-attack = 95
 special-defense = 60
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/841_front.png"
-back = "/assets/pokemon/841_back.png"
-shiny_front = "/assets/pokemon/841_shiny_front.png"
-shiny_back = "/assets/pokemon/841_shiny_back.png"
-icon = "/assets/pokemon/841_icon.png"
+front = "assets/pokemon/front/841_front.png"
+back = "assets/pokemon/back/841_back.png"
+shiny_front = "assets/pokemon/shinyfront/841_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/841_shiny_back.png"
+icon = "assets/pokemon/icon/841_icon.png"
 [[pokemon]]
 id = "842"
 species = "appletun"
-types = [ "grass", "dragon",]
+types = [ "grass", "dragon"]
 dexEntry = "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack."
 [[pokemon.abilities]]
 name = "ripen"
@@ -19222,15 +19222,15 @@ special-attack = 100
 special-defense = 80
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/842_front.png"
-back = "/assets/pokemon/842_back.png"
-shiny_front = "/assets/pokemon/842_shiny_front.png"
-shiny_back = "/assets/pokemon/842_shiny_back.png"
-icon = "/assets/pokemon/842_icon.png"
+front = "assets/pokemon/front/842_front.png"
+back = "assets/pokemon/back/842_back.png"
+shiny_front = "assets/pokemon/shinyfront/842_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/842_shiny_back.png"
+icon = "assets/pokemon/icon/842_icon.png"
 [[pokemon]]
 id = "844"
 species = "sandaconda"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently."
 [[pokemon.abilities]]
 name = "sand-spit"
@@ -19511,7 +19511,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "sandaconda"
-methods = [ "level-up", "36",]
+methods = [ "level-up", "36"]
 id = "844"
 
 
@@ -19523,15 +19523,15 @@ special-attack = 65
 special-defense = 70
 speed = 71
 [pokemon.assetData]
-front = "/assets/pokemon/844_front.png"
-back = "/assets/pokemon/844_back.png"
-shiny_front = "/assets/pokemon/844_shiny_front.png"
-shiny_back = "/assets/pokemon/844_shiny_back.png"
-icon = "/assets/pokemon/844_icon.png"
+front = "assets/pokemon/front/844_front.png"
+back = "assets/pokemon/back/844_back.png"
+shiny_front = "assets/pokemon/shinyfront/844_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/844_shiny_back.png"
+icon = "assets/pokemon/icon/844_icon.png"
 [[pokemon]]
 id = "847"
 species = "barraskewda"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -19778,7 +19778,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "barraskewda"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "847"
 
 
@@ -19790,16 +19790,16 @@ special-attack = 60
 special-defense = 50
 speed = 136
 [pokemon.assetData]
-front = "/assets/pokemon/847_front.png"
-back = "/assets/pokemon/847_back.png"
-shiny_front = "/assets/pokemon/847_shiny_front.png"
-shiny_back = "/assets/pokemon/847_shiny_back.png"
-icon = "/assets/pokemon/847_icon.png"
+front = "assets/pokemon/front/847_front.png"
+back = "assets/pokemon/back/847_back.png"
+shiny_front = "assets/pokemon/shinyfront/847_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/847_shiny_back.png"
+icon = "assets/pokemon/icon/847_icon.png"
 [[pokemon]]
 id = "849"
 species = "toxtricity"
-types = [ "electric", "poison",]
-dexEntry = "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain."
+types = [ "electric", "poison"]
+dexEntry = "This short-tempered and aggressive Pokï¿½mon chugs stagnant water to absorb any toxins it might contain."
 [[pokemon.abilities]]
 name = "punk-rock"
 isHidden = false
@@ -20214,7 +20214,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "toxtricity"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "849"
 
 
@@ -20226,16 +20226,16 @@ special-attack = 114
 special-defense = 70
 speed = 75
 [pokemon.assetData]
-front = "/assets/pokemon/849_front.png"
-back = "/assets/pokemon/849_back.png"
-shiny_front = "/assets/pokemon/849_shiny_front.png"
-shiny_back = "/assets/pokemon/849_shiny_back.png"
-icon = "/assets/pokemon/849_icon.png"
+front = "assets/pokemon/front/849_front.png"
+back = "assets/pokemon/back/849_back.png"
+shiny_front = "assets/pokemon/shinyfront/849_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/849_shiny_back.png"
+icon = "assets/pokemon/icon/849_icon.png"
 [[pokemon]]
 id = "851"
 species = "centiskorch"
-types = [ "fire", "bug",]
-dexEntry = "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs."
+types = [ "fire", "bug"]
+dexEntry = "While its burning body is already dangerous on its own, this excessively hostile Pokï¿½mon also has large and very sharp fangs."
 [[pokemon.abilities]]
 name = "flash-fire"
 isHidden = false
@@ -20480,7 +20480,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "centiskorch"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "851"
 
 
@@ -20492,15 +20492,15 @@ special-attack = 90
 special-defense = 90
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/851_front.png"
-back = "/assets/pokemon/851_back.png"
-shiny_front = "/assets/pokemon/851_shiny_front.png"
-shiny_back = "/assets/pokemon/851_shiny_back.png"
-icon = "/assets/pokemon/851_icon.png"
+front = "assets/pokemon/front/851_front.png"
+back = "assets/pokemon/back/851_back.png"
+shiny_front = "assets/pokemon/shinyfront/851_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/851_shiny_back.png"
+icon = "assets/pokemon/icon/851_icon.png"
 [[pokemon]]
 id = "853"
 species = "grapploct"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
 [[pokemon.abilities]]
 name = "limber"
@@ -20762,7 +20762,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "grapploct"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "853"
 
 
@@ -20774,16 +20774,16 @@ special-attack = 70
 special-defense = 80
 speed = 42
 [pokemon.assetData]
-front = "/assets/pokemon/853_front.png"
-back = "/assets/pokemon/853_back.png"
-shiny_front = "/assets/pokemon/853_shiny_front.png"
-shiny_back = "/assets/pokemon/853_shiny_back.png"
-icon = "/assets/pokemon/853_icon.png"
+front = "assets/pokemon/front/853_front.png"
+back = "assets/pokemon/back/853_back.png"
+shiny_front = "assets/pokemon/shinyfront/853_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/853_shiny_back.png"
+icon = "assets/pokemon/icon/853_icon.png"
 [[pokemon]]
 id = "855"
 species = "polteageist"
-types = [ "ghost",]
-dexEntry = "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist."
+types = [ "ghost"]
+dexEntry = "Leaving leftover black tea unattended is asking for this Pokï¿½mon to come along and pour itself into it, turning the tea into a new Polteageist."
 [[pokemon.abilities]]
 name = "weak-armor"
 isHidden = false
@@ -21076,15 +21076,15 @@ special-attack = 134
 special-defense = 114
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/855_front.png"
-back = "/assets/pokemon/855_back.png"
-shiny_front = "/assets/pokemon/855_shiny_front.png"
-shiny_back = "/assets/pokemon/855_shiny_back.png"
-icon = "/assets/pokemon/855_icon.png"
+front = "assets/pokemon/front/855_front.png"
+back = "assets/pokemon/back/855_back.png"
+shiny_front = "assets/pokemon/shinyfront/855_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/855_shiny_back.png"
+icon = "assets/pokemon/icon/855_icon.png"
 [[pokemon]]
 id = "857"
 species = "hattrem"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer."
 [[pokemon.abilities]]
 name = "healer"
@@ -21345,7 +21345,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hattrem"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "857"
 
 
@@ -21357,16 +21357,16 @@ special-attack = 86
 special-defense = 73
 speed = 49
 [pokemon.assetData]
-front = "/assets/pokemon/857_front.png"
-back = "/assets/pokemon/857_back.png"
-shiny_front = "/assets/pokemon/857_shiny_front.png"
-shiny_back = "/assets/pokemon/857_shiny_back.png"
-icon = "/assets/pokemon/857_icon.png"
+front = "assets/pokemon/front/857_front.png"
+back = "assets/pokemon/back/857_back.png"
+shiny_front = "assets/pokemon/shinyfront/857_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/857_shiny_back.png"
+icon = "assets/pokemon/icon/857_icon.png"
 [[pokemon]]
 id = "858"
 species = "hatterene"
-types = [ "psychic", "fairy",]
-dexEntry = "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch."
+types = [ "psychic", "fairy"]
+dexEntry = "If youï¿½re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokï¿½mon is also known as the Forest Witch."
 [[pokemon.abilities]]
 name = "healer"
 isHidden = false
@@ -21711,7 +21711,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hattrem"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "858"
 
 
@@ -21723,15 +21723,15 @@ special-attack = 136
 special-defense = 103
 speed = 29
 [pokemon.assetData]
-front = "/assets/pokemon/858_front.png"
-back = "/assets/pokemon/858_back.png"
-shiny_front = "/assets/pokemon/858_shiny_front.png"
-shiny_back = "/assets/pokemon/858_shiny_back.png"
-icon = "/assets/pokemon/858_icon.png"
+front = "assets/pokemon/front/858_front.png"
+back = "assets/pokemon/back/858_back.png"
+shiny_front = "assets/pokemon/shinyfront/858_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/858_shiny_back.png"
+icon = "assets/pokemon/icon/858_icon.png"
 [[pokemon]]
 id = "860"
 species = "morgrem"
-types = [ "dark", "fairy",]
+types = [ "dark", "fairy"]
 dexEntry = "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow."
 [[pokemon.abilities]]
 name = "prankster"
@@ -22007,7 +22007,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "morgrem"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "860"
 
 
@@ -22019,15 +22019,15 @@ special-attack = 75
 special-defense = 55
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/860_front.png"
-back = "/assets/pokemon/860_back.png"
-shiny_front = "/assets/pokemon/860_shiny_front.png"
-shiny_back = "/assets/pokemon/860_shiny_back.png"
-icon = "/assets/pokemon/860_icon.png"
+front = "assets/pokemon/front/860_front.png"
+back = "assets/pokemon/back/860_back.png"
+shiny_front = "assets/pokemon/shinyfront/860_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/860_shiny_back.png"
+icon = "assets/pokemon/icon/860_icon.png"
 [[pokemon]]
 id = "861"
 species = "grimmsnarl"
-types = [ "dark", "fairy",]
+types = [ "dark", "fairy"]
 dexEntry = "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would."
 [[pokemon.abilities]]
 name = "prankster"
@@ -22418,7 +22418,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "morgrem"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "861"
 
 
@@ -22430,15 +22430,15 @@ special-attack = 95
 special-defense = 75
 speed = 60
 [pokemon.assetData]
-front = "/assets/pokemon/861_front.png"
-back = "/assets/pokemon/861_back.png"
-shiny_front = "/assets/pokemon/861_shiny_front.png"
-shiny_back = "/assets/pokemon/861_shiny_back.png"
-icon = "/assets/pokemon/861_icon.png"
+front = "assets/pokemon/front/861_front.png"
+back = "assets/pokemon/back/861_back.png"
+shiny_front = "assets/pokemon/shinyfront/861_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/861_shiny_back.png"
+icon = "assets/pokemon/icon/861_icon.png"
 [[pokemon]]
 id = "862"
 species = "obstagoon"
-types = [ "dark", "normal",]
+types = [ "dark", "normal"]
 dexEntry = "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch."
 [[pokemon.abilities]]
 name = "reckless"
@@ -22859,7 +22859,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "linoone"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "862"
 
 
@@ -22871,15 +22871,15 @@ special-attack = 60
 special-defense = 81
 speed = 95
 [pokemon.assetData]
-front = "/assets/pokemon/862_front.png"
-back = "/assets/pokemon/862_back.png"
-shiny_front = "/assets/pokemon/862_shiny_front.png"
-shiny_back = "/assets/pokemon/862_shiny_back.png"
-icon = "/assets/pokemon/862_icon.png"
+front = "assets/pokemon/front/862_front.png"
+back = "assets/pokemon/back/862_back.png"
+shiny_front = "assets/pokemon/shinyfront/862_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/862_shiny_back.png"
+icon = "assets/pokemon/icon/862_icon.png"
 [[pokemon]]
 id = "863"
 species = "perrserker"
-types = [ "steel",]
+types = [ "steel"]
 dexEntry = "After many battles, it evolved dangerous claws that come together to form daggers when extended."
 [[pokemon.abilities]]
 name = "battle-armor"
@@ -23285,12 +23285,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "persian"
-methods = [ "level-up", "28", "level-up", "None",]
+methods = [ "level-up", "28", "level-up", "None"]
 id = "863"
 
 [[pokemon.evolutions]]
 name = "perrserker"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "863"
 
 
@@ -23302,16 +23302,16 @@ special-attack = 50
 special-defense = 60
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/863_front.png"
-back = "/assets/pokemon/863_back.png"
-shiny_front = "/assets/pokemon/863_shiny_front.png"
-shiny_back = "/assets/pokemon/863_shiny_back.png"
-icon = "/assets/pokemon/863_icon.png"
+front = "assets/pokemon/front/863_front.png"
+back = "assets/pokemon/back/863_back.png"
+shiny_front = "assets/pokemon/shinyfront/863_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/863_shiny_back.png"
+icon = "assets/pokemon/icon/863_icon.png"
 [[pokemon]]
 id = "864"
 species = "cursola"
-types = [ "ghost",]
-dexEntry = "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it."
+types = [ "ghost"]
+dexEntry = "Be cautious of the ectoplasmic body surrounding its soul. Youï¿½ll become stiff as stone if you touch it."
 [[pokemon.abilities]]
 name = "weak-armor"
 isHidden = false
@@ -23667,7 +23667,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "cursola"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "864"
 
 
@@ -23679,15 +23679,15 @@ special-attack = 145
 special-defense = 130
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/864_front.png"
-back = "/assets/pokemon/864_back.png"
-shiny_front = "/assets/pokemon/864_shiny_front.png"
-shiny_back = "/assets/pokemon/864_shiny_back.png"
-icon = "/assets/pokemon/864_icon.png"
+front = "assets/pokemon/front/864_front.png"
+back = "assets/pokemon/back/864_back.png"
+shiny_front = "assets/pokemon/shinyfront/864_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/864_shiny_back.png"
+icon = "assets/pokemon/icon/864_icon.png"
 [[pokemon]]
 id = "865"
 species = "sirfetchd"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food."
 [[pokemon.abilities]]
 name = "steadfast"
@@ -23931,15 +23931,15 @@ special-attack = 68
 special-defense = 82
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/865_front.png"
-back = "/assets/pokemon/865_back.png"
-shiny_front = "/assets/pokemon/865_shiny_front.png"
-shiny_back = "/assets/pokemon/865_shiny_back.png"
-icon = "/assets/pokemon/865_icon.png"
+front = "assets/pokemon/front/865_front.png"
+back = "assets/pokemon/back/865_back.png"
+shiny_front = "assets/pokemon/shinyfront/865_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/865_shiny_back.png"
+icon = "assets/pokemon/icon/865_icon.png"
 [[pokemon]]
 id = "866"
 species = "mr-rime"
-types = [ "ice", "psychic",]
+types = [ "ice", "psychic"]
 dexEntry = "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
 [[pokemon.abilities]]
 name = "tangled-feet"
@@ -24400,7 +24400,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "mr-mime"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "866"
 
 
@@ -24412,16 +24412,16 @@ special-attack = 110
 special-defense = 100
 speed = 70
 [pokemon.assetData]
-front = "/assets/pokemon/866_front.png"
-back = "/assets/pokemon/866_back.png"
-shiny_front = "/assets/pokemon/866_shiny_front.png"
-shiny_back = "/assets/pokemon/866_shiny_back.png"
-icon = "/assets/pokemon/866_icon.png"
+front = "assets/pokemon/front/866_front.png"
+back = "assets/pokemon/back/866_back.png"
+shiny_front = "assets/pokemon/shinyfront/866_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/866_shiny_back.png"
+icon = "assets/pokemon/icon/866_icon.png"
 [[pokemon]]
 id = "867"
 species = "runerigus"
-types = [ "ground", "ghost",]
-dexEntry = "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it."
+types = [ "ground", "ghost"]
+dexEntry = "Never touch its shadowlike body, or youï¿½ll be shown the horrific memories behind the picture carved into it."
 [[pokemon.abilities]]
 name = "wandering-spirit"
 isHidden = false
@@ -24763,7 +24763,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "cofagrigus"
-methods = [ "level-up", "34",]
+methods = [ "level-up", "34"]
 id = "867"
 
 [[pokemon.evolutions]]
@@ -24780,15 +24780,15 @@ special-attack = 50
 special-defense = 105
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/867_front.png"
-back = "/assets/pokemon/867_back.png"
-shiny_front = "/assets/pokemon/867_shiny_front.png"
-shiny_back = "/assets/pokemon/867_shiny_back.png"
-icon = "/assets/pokemon/867_icon.png"
+front = "assets/pokemon/front/867_front.png"
+back = "assets/pokemon/back/867_back.png"
+shiny_front = "assets/pokemon/shinyfront/867_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/867_shiny_back.png"
+icon = "assets/pokemon/icon/867_icon.png"
 [[pokemon]]
 id = "869"
 species = "alcremie"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer."
 [[pokemon.abilities]]
 name = "sweet-veil"
@@ -25087,15 +25087,15 @@ special-attack = 110
 special-defense = 121
 speed = 64
 [pokemon.assetData]
-front = "/assets/pokemon/869_front.png"
-back = "/assets/pokemon/869_back.png"
-shiny_front = "/assets/pokemon/869_shiny_front.png"
-shiny_back = "/assets/pokemon/869_shiny_back.png"
-icon = "/assets/pokemon/869_icon.png"
+front = "assets/pokemon/front/869_front.png"
+back = "assets/pokemon/back/869_back.png"
+shiny_front = "assets/pokemon/shinyfront/869_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/869_shiny_back.png"
+icon = "assets/pokemon/icon/869_icon.png"
 [[pokemon]]
 id = "873"
 species = "frosmoth"
-types = [ "ice", "bug",]
+types = [ "ice", "bug"]
 dexEntry = "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -25387,7 +25387,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "frosmoth"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "873"
 
 
@@ -25399,16 +25399,16 @@ special-attack = 125
 special-defense = 90
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/873_front.png"
-back = "/assets/pokemon/873_back.png"
-shiny_front = "/assets/pokemon/873_shiny_front.png"
-shiny_back = "/assets/pokemon/873_shiny_back.png"
-icon = "/assets/pokemon/873_icon.png"
+front = "assets/pokemon/front/873_front.png"
+back = "assets/pokemon/back/873_back.png"
+shiny_front = "assets/pokemon/shinyfront/873_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/873_shiny_back.png"
+icon = "assets/pokemon/icon/873_icon.png"
 [[pokemon]]
 id = "879"
 species = "copperajah"
-types = [ "steel",]
-dexEntry = "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder."
+types = [ "steel"]
+dexEntry = "These Pokï¿½mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder."
 [[pokemon.abilities]]
 name = "sheer-force"
 isHidden = false
@@ -25739,7 +25739,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "copperajah"
-methods = [ "level-up", "34",]
+methods = [ "level-up", "34"]
 id = "879"
 
 
@@ -25751,16 +25751,16 @@ special-attack = 80
 special-defense = 69
 speed = 30
 [pokemon.assetData]
-front = "/assets/pokemon/879_front.png"
-back = "/assets/pokemon/879_back.png"
-shiny_front = "/assets/pokemon/879_shiny_front.png"
-shiny_back = "/assets/pokemon/879_shiny_back.png"
-icon = "/assets/pokemon/879_icon.png"
+front = "assets/pokemon/front/879_front.png"
+back = "assets/pokemon/back/879_back.png"
+shiny_front = "assets/pokemon/shinyfront/879_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/879_shiny_back.png"
+icon = "assets/pokemon/icon/879_icon.png"
 [[pokemon]]
 id = "886"
 species = "drakloak"
-types = [ "dragon", "ghost",]
-dexEntry = "Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy."
+types = [ "dragon", "ghost"]
+dexEntry = "Without a Dreepy to place on its head and care for, it gets so uneasy itï¿½ll try to substitute any Pokï¿½mon it finds for the missing Dreepy."
 [[pokemon.abilities]]
 name = "clear-body"
 isHidden = false
@@ -26070,7 +26070,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drakloak"
-methods = [ "level-up", "50",]
+methods = [ "level-up", "50"]
 id = "886"
 
 
@@ -26082,16 +26082,16 @@ special-attack = 60
 special-defense = 50
 speed = 102
 [pokemon.assetData]
-front = "/assets/pokemon/886_front.png"
-back = "/assets/pokemon/886_back.png"
-shiny_front = "/assets/pokemon/886_shiny_front.png"
-shiny_back = "/assets/pokemon/886_shiny_back.png"
-icon = "/assets/pokemon/886_icon.png"
+front = "assets/pokemon/front/886_front.png"
+back = "assets/pokemon/back/886_back.png"
+shiny_front = "assets/pokemon/shinyfront/886_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/886_shiny_back.png"
+icon = "assets/pokemon/icon/886_icon.png"
 [[pokemon]]
 id = "887"
 species = "dragapult"
-types = [ "dragon", "ghost",]
-dexEntry = "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds."
+types = [ "dragon", "ghost"]
+dexEntry = "Apparently the Dreepy inside Dragapultï¿½s horns eagerly look forward to being launched out at Mach speeds."
 [[pokemon.abilities]]
 name = "clear-body"
 isHidden = false
@@ -26451,7 +26451,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "drakloak"
-methods = [ "level-up", "50",]
+methods = [ "level-up", "50"]
 id = "887"
 
 
@@ -26463,16 +26463,16 @@ special-attack = 100
 special-defense = 75
 speed = 142
 [pokemon.assetData]
-front = "/assets/pokemon/887_front.png"
-back = "/assets/pokemon/887_back.png"
-shiny_front = "/assets/pokemon/887_shiny_front.png"
-shiny_back = "/assets/pokemon/887_shiny_back.png"
-icon = "/assets/pokemon/887_icon.png"
+front = "assets/pokemon/front/887_front.png"
+back = "assets/pokemon/back/887_back.png"
+shiny_front = "assets/pokemon/shinyfront/887_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/887_shiny_back.png"
+icon = "assets/pokemon/icon/887_icon.png"
 [[pokemon]]
 id = "892"
 species = "urshifu"
-types = [ "fighting", "dark",]
-dexEntry = "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves."
+types = [ "fighting", "dark"]
+dexEntry = "Inhabiting the mountains of a distant region, this Pokï¿½mon races across sheer cliffs, training its legs and refining its moves."
 [[pokemon.abilities]]
 name = "unseen-fist"
 isHidden = false
@@ -26866,16 +26866,16 @@ special-attack = 63
 special-defense = 60
 speed = 97
 [pokemon.assetData]
-front = "/assets/pokemon/892_front.png"
-back = "/assets/pokemon/892_back.png"
-shiny_front = "/assets/pokemon/892_shiny_front.png"
-shiny_back = "/assets/pokemon/892_shiny_back.png"
-icon = "/assets/pokemon/892_icon.png"
+front = "assets/pokemon/front/892_front.png"
+back = "assets/pokemon/back/892_back.png"
+shiny_front = "assets/pokemon/shinyfront/892_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/892_shiny_back.png"
+icon = "assets/pokemon/icon/892_icon.png"
 [[pokemon]]
 id = "899"
 species = "wyrdeer"
-types = [ "normal", "psychic",]
-dexEntry = "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
+types = [ "normal", "psychic"]
+dexEntry = "The black orbs shine with an uncanny light when the Pokï¿½mon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
 [[pokemon.abilities]]
 name = "intimidate"
 isHidden = false
@@ -27232,16 +27232,16 @@ special-attack = 105
 special-defense = 75
 speed = 65
 [pokemon.assetData]
-front = "/assets/pokemon/899_front.png"
-back = "/assets/pokemon/899_back.png"
-shiny_front = "/assets/pokemon/899_shiny_front.png"
-shiny_back = "/assets/pokemon/899_shiny_back.png"
-icon = "/assets/pokemon/899_icon.png"
+front = "assets/pokemon/front/899_front.png"
+back = "assets/pokemon/back/899_back.png"
+shiny_front = "assets/pokemon/shinyfront/899_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/899_shiny_back.png"
+icon = "assets/pokemon/icon/899_icon.png"
 [[pokemon]]
 id = "900"
 species = "kleavor"
-types = [ "bug", "rock",]
-dexEntry = "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee."
+types = [ "bug", "rock"]
+dexEntry = "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokï¿½mon in the wilds, one's only recourse is to flee."
 [[pokemon.abilities]]
 name = "swarm"
 isHidden = false
@@ -27531,7 +27531,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "scizor"
-methods = [ "trade", "metal-coat",]
+methods = [ "trade", "metal-coat"]
 id = "900"
 
 [[pokemon.evolutions]]
@@ -27548,15 +27548,15 @@ special-attack = 45
 special-defense = 70
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/900_front.png"
-back = "/assets/pokemon/900_back.png"
-shiny_front = "/assets/pokemon/900_shiny_front.png"
-shiny_back = "/assets/pokemon/900_shiny_back.png"
-icon = "/assets/pokemon/900_icon.png"
+front = "assets/pokemon/front/900_front.png"
+back = "assets/pokemon/back/900_back.png"
+shiny_front = "assets/pokemon/shinyfront/900_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/900_shiny_back.png"
+icon = "assets/pokemon/icon/900_icon.png"
 [[pokemon]]
 id = "901"
 species = "ursaluna"
-types = [ "ground", "normal",]
+types = [ "ground", "normal"]
 dexEntry = "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will."
 [[pokemon.abilities]]
 name = "guts"
@@ -27947,7 +27947,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ursaring"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "901"
 
 
@@ -27959,15 +27959,15 @@ special-attack = 45
 special-defense = 80
 speed = 50
 [pokemon.assetData]
-front = "/assets/pokemon/901_front.png"
-back = "/assets/pokemon/901_back.png"
-shiny_front = "/assets/pokemon/901_shiny_front.png"
-shiny_back = "/assets/pokemon/901_shiny_back.png"
-icon = "/assets/pokemon/901_icon.png"
+front = "assets/pokemon/front/901_front.png"
+back = "assets/pokemon/back/901_back.png"
+shiny_front = "assets/pokemon/shinyfront/901_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/901_shiny_back.png"
+icon = "assets/pokemon/icon/901_icon.png"
 [[pokemon]]
 id = "902"
 species = "basculegion"
-types = [ "water", "ghost",]
+types = [ "water", "ghost"]
 dexEntry = "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -28260,15 +28260,15 @@ special-attack = 80
 special-defense = 75
 speed = 78
 [pokemon.assetData]
-front = "/assets/pokemon/902_front.png"
-back = "/assets/pokemon/902_back.png"
-shiny_front = "/assets/pokemon/902_shiny_front.png"
-shiny_back = "/assets/pokemon/902_shiny_back.png"
-icon = "/assets/pokemon/902_icon.png"
+front = "assets/pokemon/front/902_front.png"
+back = "assets/pokemon/back/902_back.png"
+shiny_front = "assets/pokemon/shinyfront/902_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/902_shiny_back.png"
+icon = "assets/pokemon/icon/902_icon.png"
 [[pokemon]]
 id = "903"
 species = "sneasler"
-types = [ "fighting", "poison",]
+types = [ "fighting", "poison"]
 dexEntry = "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs."
 [[pokemon.abilities]]
 name = "pressure"
@@ -28609,12 +28609,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weavile"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "903"
 
 [[pokemon.evolutions]]
 name = "sneasler"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "903"
 
 
@@ -28626,16 +28626,16 @@ special-attack = 40
 special-defense = 80
 speed = 120
 [pokemon.assetData]
-front = "/assets/pokemon/903_front.png"
-back = "/assets/pokemon/903_back.png"
-shiny_front = "/assets/pokemon/903_shiny_front.png"
-shiny_back = "/assets/pokemon/903_shiny_back.png"
-icon = "/assets/pokemon/903_icon.png"
+front = "assets/pokemon/front/903_front.png"
+back = "assets/pokemon/back/903_back.png"
+shiny_front = "assets/pokemon/shinyfront/903_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/903_shiny_back.png"
+icon = "assets/pokemon/icon/903_icon.png"
 [[pokemon]]
 id = "904"
 species = "overqwil"
-types = [ "dark", "poison",]
-dexEntry = "Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself."
+types = [ "dark", "poison"]
+dexEntry = "Its lancelike spikes and savage temperament have earned it the nickname ï¿½sea fiend.ï¿½ It slurps up poison to nourish itself."
 [[pokemon.abilities]]
 name = "poison-point"
 isHidden = false
@@ -28962,8 +28962,8 @@ special-attack = 65
 special-defense = 65
 speed = 85
 [pokemon.assetData]
-front = "/assets/pokemon/904_front.png"
-back = "/assets/pokemon/904_back.png"
-shiny_front = "/assets/pokemon/904_shiny_front.png"
-shiny_back = "/assets/pokemon/904_shiny_back.png"
-icon = "/assets/pokemon/904_icon.png"
+front = "assets/pokemon/front/904_front.png"
+back = "assets/pokemon/back/904_back.png"
+shiny_front = "assets/pokemon/shinyfront/904_front_shiny.png"
+shiny_back = "assets/pokemon/shinyback/904_shiny_back.png"
+icon = "assets/pokemon/icon/904_icon.png"
