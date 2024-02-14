@@ -429,7 +429,7 @@ method = "tutor"
 [[pokemon.evolutions]]
 name = "ivysaur"
 methods = [ "level-up", "16"]
-id = "00001"
+id = "001"
 
 
 [pokemon.stats]
