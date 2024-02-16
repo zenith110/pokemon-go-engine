@@ -1,12 +1,9 @@
 package core
 
 import (
-	"bytes"
-	"fmt"
 	"time"
 
 	"github.com/hajimehoshi/ebiten/v2/audio"
-	"github.com/hajimehoshi/ebiten/v2/audio/vorbis"
 )
 
 type musicType int
@@ -26,14 +23,14 @@ type MusicPlayer struct {
 	mapLocation        string
 }
 
-func LoadMusicTrack(trackName string, trackExtention string) {
-	switch trackExtention {
-	case "ogg":
-		var err error
-		stream, err = vorbis.DecodeWithoutResampling(bytes.NewReader([]byte(trackName)))
-		if err != nil {
-			fmt.Printf("Error is %v", err)
-		}
-	}
-	p, err := audiocontext.NewPlayer(stream)
-}
+// func LoadMusicTrack(trackName string, trackExtention string) {
+// 	switch trackExtention {
+// 	case "ogg":
+// 		var err error
+// 		stream, err = vorbis.DecodeWithoutResampling(bytes.NewReader([]byte(trackName)))
+// 		if err != nil {
+// 			fmt.Printf("Error is %v", err)
+// 		}
+// 	}
+// 	p, err := audiocontext.NewPlayer(stream)
+// }
