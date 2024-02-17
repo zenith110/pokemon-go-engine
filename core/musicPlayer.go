@@ -7,6 +7,23 @@ import (
 )
 
 type musicType int
+
+const (
+	typeOgg musicType = iota
+	typeMP3
+)
+
+func (t musicType) String() string {
+	switch t {
+	case typeOgg:
+		return "Ogg"
+	case typeMP3:
+		return "MP3"
+	default:
+		panic("not reached")
+	}
+}
+
 type MusicPlayer struct {
 	game               *Game
 	audioContext       *audio.Context
