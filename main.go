@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	Core.CreateGame()
+	Core.CreateGame("Pokemon Go Engine", 640, 400)
 }

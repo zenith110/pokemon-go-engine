@@ -1,0 +1,28 @@
+[[controls]]
+action = "left"
+inputKey = "ActionMoveLeft"
+keys = ["KeyGamePadLeft", "KeyLeft", "KeyA"]
+axis = "-x"
+value = 0
+
+
+[[controls]]
+action = "right"
+inputKey = "ActionMoveRight"
+keys = ["KeyGamePadRight", "KeyRight", "KeyD"]
+axis = "+x"
+value = 1
+
+[[controls]]
+action = "down"
+inputKey = "ActionMoveDown"
+keys = ["KeyGamePadDown", "KeyDown", "KeyS"]
+axis = "-y"
+value = 2
+
+[[controls]]
+action = "up"
+inputKey = "ActionMoveUp"
+keys = ["KeyGamePadUp", "KeyUp", "KeyW"]
+axis = "+x"
+value = 1
