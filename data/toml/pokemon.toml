@@ -1392,8 +1392,13 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ivysaur"
-methods = [ "level-up", "16",]
-id = "00003"
+methods = [ "level-up", "32"]
+id = "002"
+
+[[pokemon.evolutions]]
+name = "bulbasaur"
+methods = [ "level-up", "16"]
+id = "002"
 
 
 [pokemon.stats]
