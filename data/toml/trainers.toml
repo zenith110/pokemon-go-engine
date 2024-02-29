@@ -1,0 +1,67 @@
+[[trainers]]
+name = 'test'
+sprite = 'trainer_a.png'
+id = '049a5649-8f58-4121-895b-c09f2f51b2bd'
+classType = 'elite4'
+
+[[trainers.pokemon]]
+species = 'Bulbasaur'
+level = 1
+moves = ['razor-wind', 'razor-wind', 'razor-wind', 'razor-wind']
+heldItem = 'Oran Berry'
+hp = 45
+attack = 49
+defense = 49
+speed = 45
+specialAttack = 65
+specialDefense = 65
+id = '001'
+[[trainers]]
+name = 'test2'
+sprite = 'trainer_b.png'
+id = '9e75676e-1757-468b-9c6f-526f23fcd3c4'
+classType = 'elite4'
+
+[[trainers.pokemon]]
+species = 'Bulbasaur'
+level = 1
+moves = ['razor-wind', 'razor-wind', 'razor-wind', 'razor-wind']
+heldItem = 'Oran Berry'
+hp = 45
+attack = 49
+defense = 49
+speed = 45
+specialAttack = 65
+specialDefense = 65
+id = '001'
+[[trainers]]
+name = 'test3'
+sprite = 'trainer_a.png'
+id = '744e0626-51f1-4e87-87b1-a17c3efd4e88'
+classType = 'elite4'
+
+[[trainers.pokemon]]
+species = 'Bulbasaur'
+level = 1
+moves = ['razor-wind', 'razor-wind', 'razor-wind', 'razor-wind']
+heldItem = 'Oran Berry'
+hp = 45
+attack = 49
+defense = 49
+speed = 45
+specialAttack = 65
+specialDefense = 65
+id = '001'
+
+[[trainers.pokemon]]
+species = 'Celebi'
+level = 1
+moves = ['swords-dance', 'swords-dance', 'swords-dance', 'swords-dance']
+heldItem = 'Oran Berry'
+hp = 100
+attack = 100
+defense = 100
+speed = 100
+specialAttack = 100
+specialDefense = 100
+id = '251'
