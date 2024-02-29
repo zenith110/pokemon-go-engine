@@ -44,7 +44,7 @@ type Pokemon struct {
 	AssetData  AssetData    `toml:"assetData"`
 }
 
-type Moves struct {
+type AllMoves struct {
 	Move []struct {
 		Name         string `toml:"name"`
 		Power        int    `toml:"Power"`
