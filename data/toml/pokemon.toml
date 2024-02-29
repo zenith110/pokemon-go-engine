@@ -1,7 +1,7 @@
 [[pokemon]]
 id = "001"
 species = "bulbasaur"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -428,12 +428,12 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "ivysaur"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "002"
 
 [[pokemon.evolutions]]
 name = "venusaur"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "003"
 
 
@@ -453,7 +453,7 @@ icon = "assets/pokemon/icon/001_icon.png"
 [[pokemon]]
 id = "002"
 species = "ivysaur"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -880,7 +880,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ivysaur"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "00002"
 
 
@@ -900,7 +900,7 @@ icon = "assets/pokemon/icon/002_icon.png"
 [[pokemon]]
 id = "003"
 species = "venusaur"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -1417,7 +1417,7 @@ icon = "assets/pokemon/icon/003_icon.png"
 [[pokemon]]
 id = "004"
 species = "charmander"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out."
 [[pokemon.abilities]]
 name = "blaze"
@@ -1954,12 +1954,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "charmeleon"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "005"
 
 [[pokemon.evolutions]]
 name = "charizard"
-methods = [ "level-up", "36",]
+methods = [ "level-up", "36"]
 id = "006"
 
 
@@ -1979,7 +1979,7 @@ icon = "assets/pokemon/icon/004_icon.png"
 [[pokemon]]
 id = "005"
 species = "charmeleon"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings."
 [[pokemon.abilities]]
 name = "blaze"
@@ -2506,7 +2506,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "charmeleon"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "00005"
 
 
@@ -2526,7 +2526,7 @@ icon = "assets/pokemon/icon/005_icon.png"
 [[pokemon]]
 id = "006"
 species = "charizard"
-types = [ "fire", "flying",]
+types = [ "fire", "flying"]
 dexEntry = "Its wings can carry this Pok�mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
 [[pokemon.abilities]]
 name = "blaze"
@@ -3193,7 +3193,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "charmeleon"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "00006"
 
 
@@ -3213,7 +3213,7 @@ icon = "assets/pokemon/icon/006_icon.png"
 [[pokemon]]
 id = "007"
 species = "squirtle"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth."
 [[pokemon.abilities]]
 name = "torrent"
@@ -3755,12 +3755,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "wartortle"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "008"
 
 [[pokemon.evolutions]]
 name = "blastoise"
-methods = [ "level-up", "36",]
+methods = [ "level-up", "36"]
 id = "008"
 
 
@@ -3780,7 +3780,7 @@ icon = "assets/pokemon/icon/007_icon.png"
 [[pokemon]]
 id = "008"
 species = "wartortle"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "It cleverly controls its furry ears and tail to maintain its balance while swimming."
 [[pokemon.abilities]]
 name = "torrent"
@@ -4297,7 +4297,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "wartortle"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "00008"
 
 
@@ -4317,7 +4317,7 @@ icon = "assets/pokemon/icon/008_icon.png"
 [[pokemon]]
 id = "009"
 species = "blastoise"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel."
 [[pokemon.abilities]]
 name = "torrent"
@@ -4929,7 +4929,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "wartortle"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "00009"
 
 
@@ -4949,7 +4949,7 @@ icon = "assets/pokemon/icon/009_icon.png"
 [[pokemon]]
 id = "010"
 species = "caterpie"
-types = [ "bug",]
+types = [ "bug"]
 dexEntry = "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -4986,7 +4986,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "metapod"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "010"
 
 
@@ -5006,7 +5006,7 @@ icon = "assets/pokemon/icon/010_icon.png"
 [[pokemon]]
 id = "011"
 species = "metapod"
-types = [ "bug",]
+types = [ "bug"]
 dexEntry = "Even though it is encased in a sturdy shell, the body inside is tender. It can�t withstand a harsh attack."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -5039,7 +5039,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "metapod"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "011"
 
 
@@ -5059,7 +5059,7 @@ icon = "assets/pokemon/icon/011_icon.png"
 [[pokemon]]
 id = "012"
 species = "butterfree"
-types = [ "bug", "flying",]
+types = [ "bug", "flying"]
 dexEntry = "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest."
 [[pokemon.abilities]]
 name = "compound-eyes"
@@ -5501,7 +5501,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "metapod"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "011"
 
 [[pokemon.evolutions]]
@@ -5526,7 +5526,7 @@ icon = "assets/pokemon/icon/012_icon.png"
 [[pokemon]]
 id = "013"
 species = "weedle"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -5558,7 +5558,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kakuna"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "013"
 
 
@@ -5578,7 +5578,7 @@ icon = "assets/pokemon/icon/013_icon.png"
 [[pokemon]]
 id = "014"
 species = "kakuna"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -5611,7 +5611,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kakuna"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "014"
 
 
@@ -5631,7 +5631,7 @@ icon = "assets/pokemon/icon/014_icon.png"
 [[pokemon]]
 id = "015"
 species = "beedrill"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly."
 [[pokemon.abilities]]
 name = "swarm"
@@ -6053,7 +6053,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kakuna"
-methods = [ "level-up", "7",]
+methods = [ "level-up", "7"]
 id = "015"
 
 
@@ -6073,7 +6073,7 @@ icon = "assets/pokemon/icon/015_icon.png"
 [[pokemon]]
 id = "016"
 species = "pidgey"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -6409,7 +6409,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pidgeotto"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "016"
 
 
@@ -6429,7 +6429,7 @@ icon = "assets/pokemon/icon/016_icon.png"
 [[pokemon]]
 id = "017"
 species = "pidgeotto"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "This Pok�mon is full of vitality. It constantly flies around its large territory in search of prey."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -6745,7 +6745,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pidgeotto"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "017"
 
 
@@ -6765,7 +6765,7 @@ icon = "assets/pokemon/icon/017_icon.png"
 [[pokemon]]
 id = "018"
 species = "pidgeot"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "This Pok�mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -7096,7 +7096,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "pidgeotto"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "018"
 
 
@@ -7116,7 +7116,7 @@ icon = "assets/pokemon/icon/018_icon.png"
 [[pokemon]]
 id = "019"
 species = "rattata"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area."
 [[pokemon.abilities]]
 name = "run-away"
@@ -7542,7 +7542,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "raticate"
-methods = [ "level-up", "20", "level-up", "20",]
+methods = [ "level-up", "20", "level-up", "20"]
 id = "019"
 
 
@@ -7562,7 +7562,7 @@ icon = "assets/pokemon/icon/019_icon.png"
 [[pokemon]]
 id = "020"
 species = "raticate"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
 [[pokemon.abilities]]
 name = "run-away"
@@ -7998,7 +7998,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "raticate"
-methods = [ "level-up", "20", "level-up", "20",]
+methods = [ "level-up", "20", "level-up", "20"]
 id = "020"
 
 
@@ -8018,7 +8018,7 @@ icon = "assets/pokemon/icon/020_icon.png"
 [[pokemon]]
 id = "021"
 species = "spearow"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "Inept at flying high. However, it can fly around very fast to protect its territory."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -8375,7 +8375,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "fearow"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "021"
 
 
@@ -8395,7 +8395,7 @@ icon = "assets/pokemon/icon/021_icon.png"
 [[pokemon]]
 id = "022"
 species = "fearow"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "A Pok�mon that dates back many years. If it senses danger, it flies high and away, instantly."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -8752,7 +8752,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "fearow"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "022"
 
 
@@ -8772,7 +8772,7 @@ icon = "assets/pokemon/icon/022_icon.png"
 [[pokemon]]
 id = "023"
 species = "ekans"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -9263,7 +9263,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "arbok"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "023"
 
 
@@ -9283,7 +9283,7 @@ icon = "assets/pokemon/icon/023_icon.png"
 [[pokemon]]
 id = "024"
 species = "arbok"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "The frightening patterns on its belly have been studied. Six variations have been confirmed."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -9789,7 +9789,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "arbok"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "024"
 
 
@@ -9809,7 +9809,7 @@ icon = "assets/pokemon/icon/024_icon.png"
 [[pokemon]]
 id = "025"
 species = "pikachu"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
 [[pokemon.abilities]]
 name = "static"
@@ -10346,7 +10346,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pikachu"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "025"
 
 
@@ -10366,7 +10366,7 @@ icon = "assets/pokemon/icon/025_icon.png"
 [[pokemon]]
 id = "026"
 species = "raichu"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "It can discharge bursts of electricity exceeding 100,000 volts� a single strike with that amount of power would incapacitate one of the Copperajah of my homeland."
 [[pokemon.abilities]]
 name = "static"
@@ -10923,7 +10923,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pikachu"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "026"
 
 
@@ -10943,7 +10943,7 @@ icon = "assets/pokemon/icon/026_icon.png"
 [[pokemon]]
 id = "027"
 species = "sandshrew"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -11450,7 +11450,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "sandslash"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "027"
 
 
@@ -11470,7 +11470,7 @@ icon = "assets/pokemon/icon/027_icon.png"
 [[pokemon]]
 id = "028"
 species = "sandslash"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -11992,7 +11992,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "sandslash"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "028"
 
 
@@ -12012,7 +12012,7 @@ icon = "assets/pokemon/icon/028_icon.png"
 [[pokemon]]
 id = "029"
 species = "nidoran-f"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran�s horn is a bit more rounded than the tip of a male�s horn."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -12418,7 +12418,7 @@ method = "egg"
 
 [[pokemon.evolutions]]
 name = "nidorina"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "029"
 
 
@@ -12438,7 +12438,7 @@ icon = "assets/pokemon/icon/029_icon.png"
 [[pokemon]]
 id = "030"
 species = "nidorina"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "If the group is threatened, these Pok�mon will band together to assault enemies with a chorus of ultrasonic waves."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -12839,7 +12839,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "nidorina"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "030"
 
 
@@ -12859,7 +12859,7 @@ icon = "assets/pokemon/icon/030_icon.png"
 [[pokemon]]
 id = "031"
 species = "nidoqueen"
-types = [ "poison", "ground",]
+types = [ "poison", "ground"]
 dexEntry = "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -13540,7 +13540,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "nidorina"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "031"
 
 
@@ -13560,7 +13560,7 @@ icon = "assets/pokemon/icon/031_icon.png"
 [[pokemon]]
 id = "032"
 species = "nidoran-m"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "Small but brave, this Pok�mon will hold its ground and even risk its life in battle to protect the female it�s friendly with."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -13976,7 +13976,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "nidorino"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "032"
 
 
@@ -13996,7 +13996,7 @@ icon = "assets/pokemon/icon/032_icon.png"
 [[pokemon]]
 id = "033"
 species = "nidorino"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It�s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -14392,7 +14392,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "nidorino"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "033"
 
 
@@ -14412,7 +14412,7 @@ icon = "assets/pokemon/icon/033_icon.png"
 [[pokemon]]
 id = "034"
 species = "nidoking"
-types = [ "poison", "ground",]
+types = [ "poison", "ground"]
 dexEntry = "Nidoking prides itself on its strength. It�s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -15098,7 +15098,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "nidorino"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "034"
 
 
@@ -15118,7 +15118,7 @@ icon = "assets/pokemon/icon/034_icon.png"
 [[pokemon]]
 id = "035"
 species = "clefairy"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -15919,7 +15919,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "clefairy"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "035"
 
 
@@ -15939,7 +15939,7 @@ icon = "assets/pokemon/icon/035_icon.png"
 [[pokemon]]
 id = "036"
 species = "clefable"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -16755,7 +16755,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "clefairy"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "036"
 
 
@@ -16775,7 +16775,7 @@ icon = "assets/pokemon/icon/036_icon.png"
 [[pokemon]]
 id = "037"
 species = "vulpix"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pok�mon has but one white tail. As the Pok�mon matures, this single tail splits into six."
 [[pokemon.abilities]]
 name = "flash-fire"
@@ -17242,7 +17242,7 @@ icon = "assets/pokemon/icon/037_icon.png"
 [[pokemon]]
 id = "038"
 species = "ninetales"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium."
 [[pokemon.abilities]]
 name = "flash-fire"
@@ -17759,7 +17759,7 @@ icon = "assets/pokemon/icon/038_icon.png"
 [[pokemon]]
 id = "039"
 species = "jigglypuff"
-types = [ "normal", "fairy",]
+types = [ "normal", "fairy"]
 dexEntry = "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -18515,7 +18515,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "jigglypuff"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "039"
 
 
@@ -18535,7 +18535,7 @@ icon = "assets/pokemon/icon/039_icon.png"
 [[pokemon]]
 id = "040"
 species = "wigglytuff"
-types = [ "normal", "fairy",]
+types = [ "normal", "fairy"]
 dexEntry = "It�s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that�s perfectly heavenly."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -19306,7 +19306,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "jigglypuff"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "040"
 
 
@@ -19326,7 +19326,7 @@ icon = "assets/pokemon/icon/040_icon.png"
 [[pokemon]]
 id = "041"
 species = "zubat"
-types = [ "poison", "flying",]
+types = [ "poison", "flying"]
 dexEntry = "Makes its home in gloomy caves. Atrophied eyes have left this Pok�mon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -19748,7 +19748,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "golbat"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "041"
 
 
@@ -19768,7 +19768,7 @@ icon = "assets/pokemon/icon/041_icon.png"
 [[pokemon]]
 id = "042"
 species = "golbat"
-types = [ "poison", "flying",]
+types = [ "poison", "flying"]
 dexEntry = "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -20185,7 +20185,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "golbat"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "042"
 
 
@@ -20205,7 +20205,7 @@ icon = "assets/pokemon/icon/042_icon.png"
 [[pokemon]]
 id = "043"
 species = "oddish"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -20587,7 +20587,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gloom"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "043"
 
 
@@ -20607,7 +20607,7 @@ icon = "assets/pokemon/icon/043_icon.png"
 [[pokemon]]
 id = "044"
 species = "gloom"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -21009,7 +21009,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gloom"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "044"
 
 
@@ -21029,7 +21029,7 @@ icon = "assets/pokemon/icon/044_icon.png"
 [[pokemon]]
 id = "045"
 species = "vileplume"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -21471,7 +21471,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gloom"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "045"
 
 
@@ -21491,7 +21491,7 @@ icon = "assets/pokemon/icon/045_icon.png"
 [[pokemon]]
 id = "046"
 species = "paras"
-types = [ "bug", "grass",]
+types = [ "bug", "grass"]
 dexEntry = "Sometimes seen at the foot of trees in humid forests. The mushrooms on its back�called tochukaso�are not present on infant specimens and instead emerge as Paras matures."
 [[pokemon.abilities]]
 name = "effect-spore"
@@ -21937,7 +21937,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "parasect"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "046"
 
 
@@ -21957,7 +21957,7 @@ icon = "assets/pokemon/icon/046_icon.png"
 [[pokemon]]
 id = "047"
 species = "parasect"
-types = [ "bug", "grass",]
+types = [ "bug", "grass"]
 dexEntry = "Mushroom-lacking specimens of this Pok�mon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions."
 [[pokemon.abilities]]
 name = "effect-spore"
@@ -22373,7 +22373,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "parasect"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "047"
 
 
@@ -22393,7 +22393,7 @@ icon = "assets/pokemon/icon/047_icon.png"
 [[pokemon]]
 id = "048"
 species = "venonat"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes."
 [[pokemon.abilities]]
 name = "compound-eyes"
@@ -22779,7 +22779,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "venomoth"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "048"
 
 
@@ -22799,7 +22799,7 @@ icon = "assets/pokemon/icon/048_icon.png"
 [[pokemon]]
 id = "049"
 species = "venomoth"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact."
 [[pokemon.abilities]]
 name = "shield-dust"
@@ -23275,7 +23275,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "venomoth"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "049"
 
 
@@ -23295,7 +23295,7 @@ icon = "assets/pokemon/icon/049_icon.png"
 [[pokemon]]
 id = "050"
 species = "diglett"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -23711,7 +23711,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dugtrio"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "050"
 
 
@@ -23731,7 +23731,7 @@ icon = "assets/pokemon/icon/050_icon.png"
 [[pokemon]]
 id = "051"
 species = "dugtrio"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "These Diglett triplets dig over 60 miles below sea level. No one knows what it�s like underground."
 [[pokemon.abilities]]
 name = "sand-veil"
@@ -24162,7 +24162,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dugtrio"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "051"
 
 
@@ -24182,7 +24182,7 @@ icon = "assets/pokemon/icon/051_icon.png"
 [[pokemon]]
 id = "052"
 species = "meowth"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "It loves to collect shiny things. If it�s in a good mood, it might even let its Trainer have a look at its hoard of treasures."
 [[pokemon.abilities]]
 name = "pickup"
@@ -24743,12 +24743,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "persian"
-methods = [ "level-up", "28", "level-up", "None",]
+methods = [ "level-up", "28", "level-up", "None"]
 id = "052"
 
 [[pokemon.evolutions]]
 name = "perrserker"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "052"
 
 
@@ -24768,7 +24768,7 @@ icon = "assets/pokemon/icon/052_icon.png"
 [[pokemon]]
 id = "053"
 species = "persian"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain."
 [[pokemon.abilities]]
 name = "limber"
@@ -25324,12 +25324,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "persian"
-methods = [ "level-up", "28", "level-up", "None",]
+methods = [ "level-up", "28", "level-up", "None"]
 id = "053"
 
 [[pokemon.evolutions]]
 name = "perrserker"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "053"
 
 
@@ -25349,7 +25349,7 @@ icon = "assets/pokemon/icon/053_icon.png"
 [[pokemon]]
 id = "054"
 species = "psyduck"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain."
 [[pokemon.abilities]]
 name = "damp"
@@ -25945,7 +25945,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "golduck"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "054"
 
 
@@ -25965,7 +25965,7 @@ icon = "assets/pokemon/icon/054_icon.png"
 [[pokemon]]
 id = "055"
 species = "golduck"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves."
 [[pokemon.abilities]]
 name = "damp"
@@ -26586,7 +26586,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "golduck"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "055"
 
 
@@ -26606,7 +26606,7 @@ icon = "assets/pokemon/icon/055_icon.png"
 [[pokemon]]
 id = "056"
 species = "mankey"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "An agile Pok�mon that lives in trees. It angers easily and will not hesitate to attack anything."
 [[pokemon.abilities]]
 name = "vital-spirit"
@@ -27207,7 +27207,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "primeape"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "056"
 
 
@@ -27227,7 +27227,7 @@ icon = "assets/pokemon/icon/056_icon.png"
 [[pokemon]]
 id = "057"
 species = "primeape"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "It stops being angry only when nobody else is around. To view this moment is very difficult."
 [[pokemon.abilities]]
 name = "vital-spirit"
@@ -27818,7 +27818,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "primeape"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "057"
 
 
@@ -27838,7 +27838,7 @@ icon = "assets/pokemon/icon/057_icon.png"
 [[pokemon]]
 id = "058"
 species = "growlithe"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -28279,7 +28279,7 @@ icon = "assets/pokemon/icon/058_icon.png"
 [[pokemon]]
 id = "059"
 species = "arcanine"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -28760,7 +28760,7 @@ icon = "assets/pokemon/icon/059_icon.png"
 [[pokemon]]
 id = "060"
 species = "poliwag"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "In rivers with fast-flowing water, this Pok�mon will cling to a rock by using its thick lips, which act like a suction cup."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -29161,7 +29161,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "poliwhirl"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "060"
 
 
@@ -29181,7 +29181,7 @@ icon = "assets/pokemon/icon/060_icon.png"
 [[pokemon]]
 id = "061"
 species = "poliwhirl"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "This Pok�mon�s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies� grasp and escape."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -29652,7 +29652,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "poliwhirl"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "061"
 
 
@@ -29672,7 +29672,7 @@ icon = "assets/pokemon/icon/061_icon.png"
 [[pokemon]]
 id = "062"
 species = "poliwrath"
-types = [ "water", "fighting",]
+types = [ "water", "fighting"]
 dexEntry = "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -30258,7 +30258,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "poliwhirl"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "062"
 
 
@@ -30278,7 +30278,7 @@ icon = "assets/pokemon/icon/062_icon.png"
 [[pokemon]]
 id = "063"
 species = "abra"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers�should danger approach, the Pok�mon will simply teleport away."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -30774,7 +30774,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kadabra"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "063"
 
 
@@ -30794,7 +30794,7 @@ icon = "assets/pokemon/icon/063_icon.png"
 [[pokemon]]
 id = "064"
 species = "kadabra"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -31320,7 +31320,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kadabra"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "064"
 
 
@@ -31340,7 +31340,7 @@ icon = "assets/pokemon/icon/064_icon.png"
 [[pokemon]]
 id = "065"
 species = "alakazam"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -31906,7 +31906,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kadabra"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "065"
 
 
@@ -31926,7 +31926,7 @@ icon = "assets/pokemon/icon/065_icon.png"
 [[pokemon]]
 id = "066"
 species = "machop"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders."
 [[pokemon.abilities]]
 name = "guts"
@@ -32422,7 +32422,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "machoke"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "066"
 
 
@@ -32442,7 +32442,7 @@ icon = "assets/pokemon/icon/066_icon.png"
 [[pokemon]]
 id = "067"
 species = "machoke"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land."
 [[pokemon.abilities]]
 name = "guts"
@@ -32908,7 +32908,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "machoke"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "067"
 
 
@@ -32928,7 +32928,7 @@ icon = "assets/pokemon/icon/067_icon.png"
 [[pokemon]]
 id = "068"
 species = "machamp"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pok�mon can overwhelm its foes with more than 1,000 blows from its fists."
 [[pokemon.abilities]]
 name = "guts"
@@ -33444,7 +33444,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "machoke"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "068"
 
 
@@ -33464,7 +33464,7 @@ icon = "assets/pokemon/icon/068_icon.png"
 [[pokemon]]
 id = "069"
 species = "bellsprout"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -33871,7 +33871,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weepinbell"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "069"
 
 
@@ -33891,7 +33891,7 @@ icon = "assets/pokemon/icon/069_icon.png"
 [[pokemon]]
 id = "070"
 species = "weepinbell"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -34313,7 +34313,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weepinbell"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "070"
 
 
@@ -34333,7 +34333,7 @@ icon = "assets/pokemon/icon/070_icon.png"
 [[pokemon]]
 id = "071"
 species = "victreebel"
-types = [ "grass", "poison",]
+types = [ "grass", "poison"]
 dexEntry = "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -34790,7 +34790,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weepinbell"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "071"
 
 
@@ -34810,7 +34810,7 @@ icon = "assets/pokemon/icon/071_icon.png"
 [[pokemon]]
 id = "072"
 species = "tentacool"
-types = [ "water", "poison",]
+types = [ "water", "poison"]
 dexEntry = "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated."
 [[pokemon.abilities]]
 name = "clear-body"
@@ -35241,7 +35241,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "tentacruel"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "072"
 
 
@@ -35261,7 +35261,7 @@ icon = "assets/pokemon/icon/072_icon.png"
 [[pokemon]]
 id = "073"
 species = "tentacruel"
-types = [ "water", "poison",]
+types = [ "water", "poison"]
 dexEntry = "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution."
 [[pokemon.abilities]]
 name = "clear-body"
@@ -35682,7 +35682,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "tentacruel"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "073"
 
 
@@ -35702,7 +35702,7 @@ icon = "assets/pokemon/icon/073_icon.png"
 [[pokemon]]
 id = "074"
 species = "geodude"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome�carelessly kicking one will cause it to fly into a rage and chase after you."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -36148,7 +36148,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "graveler"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "074"
 
 
@@ -36168,7 +36168,7 @@ icon = "assets/pokemon/icon/074_icon.png"
 [[pokemon]]
 id = "075"
 species = "graveler"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -36629,7 +36629,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "graveler"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "075"
 
 
@@ -36649,7 +36649,7 @@ icon = "assets/pokemon/icon/075_icon.png"
 [[pokemon]]
 id = "076"
 species = "golem"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -37140,7 +37140,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "graveler"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "076"
 
 
@@ -37160,7 +37160,7 @@ icon = "assets/pokemon/icon/076_icon.png"
 [[pokemon]]
 id = "077"
 species = "ponyta"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "These Pok�mon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth."
 [[pokemon.abilities]]
 name = "run-away"
@@ -37511,7 +37511,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "rapidash"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "077"
 
 
@@ -37531,7 +37531,7 @@ icon = "assets/pokemon/icon/077_icon.png"
 [[pokemon]]
 id = "078"
 species = "rapidash"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half."
 [[pokemon.abilities]]
 name = "run-away"
@@ -37932,7 +37932,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "rapidash"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "078"
 
 
@@ -37952,7 +37952,7 @@ icon = "assets/pokemon/icon/078_icon.png"
 [[pokemon]]
 id = "079"
 species = "slowpoke"
-types = [ "water", "psychic",]
+types = [ "water", "psychic"]
 dexEntry = "When this Pok�mon�s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pok�mon."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -38538,12 +38538,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "slowbro"
-methods = [ "level-up", "37",]
+methods = [ "level-up", "37"]
 id = "079"
 
 [[pokemon.evolutions]]
 name = "slowking"
-methods = [ "trade", "kings-rock",]
+methods = [ "trade", "kings-rock"]
 id = "079"
 
 
@@ -38563,7 +38563,7 @@ icon = "assets/pokemon/icon/079_icon.png"
 [[pokemon]]
 id = "080"
 species = "slowbro"
-types = [ "water", "psychic",]
+types = [ "water", "psychic"]
 dexEntry = "Being bitten by a Shellder shocked this Pok�mon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -39249,12 +39249,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "slowbro"
-methods = [ "level-up", "37",]
+methods = [ "level-up", "37"]
 id = "080"
 
 [[pokemon.evolutions]]
 name = "slowking"
-methods = [ "trade", "kings-rock",]
+methods = [ "trade", "kings-rock"]
 id = "080"
 
 
@@ -39274,7 +39274,7 @@ icon = "assets/pokemon/icon/080_icon.png"
 [[pokemon]]
 id = "081"
 species = "magnemite"
-types = [ "electric", "steel",]
+types = [ "electric", "steel"]
 dexEntry = "A bizarre Pok�mon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets."
 [[pokemon.abilities]]
 name = "magnet-pull"
@@ -39660,7 +39660,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "magneton"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "081"
 
 
@@ -39680,7 +39680,7 @@ icon = "assets/pokemon/icon/081_icon.png"
 [[pokemon]]
 id = "082"
 species = "magneton"
-types = [ "electric", "steel",]
+types = [ "electric", "steel"]
 dexEntry = "Three Magnemite gathered to evolve into this Pok�mon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment."
 [[pokemon.abilities]]
 name = "magnet-pull"
@@ -40081,7 +40081,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "magneton"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "082"
 
 
@@ -40101,7 +40101,7 @@ icon = "assets/pokemon/icon/082_icon.png"
 [[pokemon]]
 id = "083"
 species = "farfetchd"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -40612,7 +40612,7 @@ icon = "assets/pokemon/icon/083_icon.png"
 [[pokemon]]
 id = "084"
 species = "doduo"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "Its short wings make flying difficult. Instead, this Pok�mon runs at high speed on developed legs."
 [[pokemon.abilities]]
 name = "run-away"
@@ -40973,7 +40973,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "dodrio"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "084"
 
 
@@ -40993,7 +40993,7 @@ icon = "assets/pokemon/icon/084_icon.png"
 [[pokemon]]
 id = "085"
 species = "dodrio"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "One of Doduo�s two heads splits to form a unique species. It runs close to 40 mph in prairies."
 [[pokemon.abilities]]
 name = "run-away"
@@ -41439,7 +41439,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dodrio"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "085"
 
 
@@ -41459,7 +41459,7 @@ icon = "assets/pokemon/icon/085_icon.png"
 [[pokemon]]
 id = "086"
 species = "seel"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit."
 [[pokemon.abilities]]
 name = "thick-fat"
@@ -41845,7 +41845,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dewgong"
-methods = [ "level-up", "34",]
+methods = [ "level-up", "34"]
 id = "086"
 
 
@@ -41865,7 +41865,7 @@ icon = "assets/pokemon/icon/086_icon.png"
 [[pokemon]]
 id = "087"
 species = "dewgong"
-types = [ "water", "ice",]
+types = [ "water", "ice"]
 dexEntry = "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
 [[pokemon.abilities]]
 name = "thick-fat"
@@ -42221,7 +42221,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "dewgong"
-methods = [ "level-up", "34",]
+methods = [ "level-up", "34"]
 id = "087"
 
 
@@ -42241,7 +42241,7 @@ icon = "assets/pokemon/icon/087_icon.png"
 [[pokemon]]
 id = "088"
 species = "grimer"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "Made of congealed sludge. It smells too putrid to touch. Even weeds won�t grow in its path."
 [[pokemon.abilities]]
 name = "stench"
@@ -42727,7 +42727,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "muk"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "088"
 
 
@@ -42747,7 +42747,7 @@ icon = "assets/pokemon/icon/088_icon.png"
 [[pokemon]]
 id = "089"
 species = "muk"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell."
 [[pokemon.abilities]]
 name = "stench"
@@ -43278,7 +43278,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "muk"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "089"
 
 
@@ -43298,7 +43298,7 @@ icon = "assets/pokemon/icon/089_icon.png"
 [[pokemon]]
 id = "090"
 species = "shellder"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
 [[pokemon.abilities]]
 name = "shell-armor"
@@ -43709,7 +43709,7 @@ icon = "assets/pokemon/icon/090_icon.png"
 [[pokemon]]
 id = "091"
 species = "cloyster"
-types = [ "water", "ice",]
+types = [ "water", "ice"]
 dexEntry = "Once it slams its shell shut, it is impossible to open, even by those with superior strength."
 [[pokemon.abilities]]
 name = "shell-armor"
@@ -44185,7 +44185,7 @@ icon = "assets/pokemon/icon/091_icon.png"
 [[pokemon]]
 id = "092"
 species = "gastly"
-types = [ "ghost", "poison",]
+types = [ "ghost", "poison"]
 dexEntry = "Gaseous and completely impalpable. Also highly dangerous� inhaling part of its poisonous body will cause one to faint instantly."
 [[pokemon.abilities]]
 name = "levitate"
@@ -44673,7 +44673,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "haunter"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "092"
 
 
@@ -44693,7 +44693,7 @@ icon = "assets/pokemon/icon/092_icon.png"
 [[pokemon]]
 id = "093"
 species = "haunter"
-types = [ "ghost", "poison",]
+types = [ "ghost", "poison"]
 dexEntry = "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day."
 [[pokemon.abilities]]
 name = "levitate"
@@ -45191,7 +45191,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "haunter"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "093"
 
 
@@ -45211,7 +45211,7 @@ icon = "assets/pokemon/icon/093_icon.png"
 [[pokemon]]
 id = "094"
 species = "gengar"
-types = [ "ghost", "poison",]
+types = [ "ghost", "poison"]
 dexEntry = "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!"
 [[pokemon.abilities]]
 name = "cursed-body"
@@ -45829,7 +45829,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "haunter"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "094"
 
 
@@ -45849,7 +45849,7 @@ icon = "assets/pokemon/icon/094_icon.png"
 [[pokemon]]
 id = "095"
 species = "onix"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -46310,7 +46310,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "steelix"
-methods = [ "trade", "metal-coat",]
+methods = [ "trade", "metal-coat"]
 id = "095"
 
 
@@ -46330,7 +46330,7 @@ icon = "assets/pokemon/icon/095_icon.png"
 [[pokemon]]
 id = "096"
 species = "drowzee"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
 [[pokemon.abilities]]
 name = "insomnia"
@@ -46906,7 +46906,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hypno"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "096"
 
 
@@ -46926,7 +46926,7 @@ icon = "assets/pokemon/icon/096_icon.png"
 [[pokemon]]
 id = "097"
 species = "hypno"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum."
 [[pokemon.abilities]]
 name = "insomnia"
@@ -47517,7 +47517,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hypno"
-methods = [ "level-up", "26",]
+methods = [ "level-up", "26"]
 id = "097"
 
 
@@ -47537,7 +47537,7 @@ icon = "assets/pokemon/icon/097_icon.png"
 [[pokemon]]
 id = "098"
 species = "krabby"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger."
 [[pokemon.abilities]]
 name = "hyper-cutter"
@@ -47963,7 +47963,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kingler"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "098"
 
 
@@ -47983,7 +47983,7 @@ icon = "assets/pokemon/icon/098_icon.png"
 [[pokemon]]
 id = "099"
 species = "kingler"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its oversized claw is very powerful, but when it�s not in battle, the claw just gets in the way."
 [[pokemon.abilities]]
 name = "hyper-cutter"
@@ -48424,7 +48424,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "kingler"
-methods = [ "level-up", "28",]
+methods = [ "level-up", "28"]
 id = "099"
 
 
@@ -48444,7 +48444,7 @@ icon = "assets/pokemon/icon/099_icon.png"
 [[pokemon]]
 id = "100"
 species = "voltorb"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "An enigmatic Pok�mon that happens to bear a resemblance to a Pok� Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh."
 [[pokemon.abilities]]
 name = "soundproof"
@@ -48785,7 +48785,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "electrode"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "100"
 
 
@@ -48805,7 +48805,7 @@ icon = "assets/pokemon/icon/100_icon.png"
 [[pokemon]]
 id = "101"
 species = "electrode"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pok�mon lets loose an electric current equal to 20 lightning bolts."
 [[pokemon.abilities]]
 name = "soundproof"
@@ -49166,7 +49166,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "electrode"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "101"
 
 
@@ -49186,7 +49186,7 @@ icon = "assets/pokemon/icon/101_icon.png"
 [[pokemon]]
 id = "102"
 species = "exeggcute"
-types = [ "grass", "psychic",]
+types = [ "grass", "psychic"]
 dexEntry = "These Pok�mon get nervous when they�re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -49623,7 +49623,7 @@ icon = "assets/pokemon/icon/102_icon.png"
 [[pokemon]]
 id = "103"
 species = "exeggutor"
-types = [ "grass", "psychic",]
+types = [ "grass", "psychic"]
 dexEntry = "When they work together, Exeggutor�s three heads can put out powerful psychic energy. Cloudy days make this Pok�mon sluggish."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -50100,7 +50100,7 @@ icon = "assets/pokemon/icon/103_icon.png"
 [[pokemon]]
 id = "104"
 species = "cubone"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "This Pok�mon wears the skull of its deceased mother. Sometimes Cubone�s dreams make it cry, but each tear Cubone sheds makes it stronger."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -50596,7 +50596,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "marowak"
-methods = [ "level-up", "28", "level-up", "28",]
+methods = [ "level-up", "28", "level-up", "28"]
 id = "104"
 
 
@@ -50616,7 +50616,7 @@ icon = "assets/pokemon/icon/104_icon.png"
 [[pokemon]]
 id = "105"
 species = "marowak"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "When this Pok�mon evolved, the skull of its mother fused to it. Marowak�s temperament also turned vicious at the same time."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -51122,7 +51122,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "marowak"
-methods = [ "level-up", "28", "level-up", "28",]
+methods = [ "level-up", "28", "level-up", "28"]
 id = "105"
 
 
@@ -51142,7 +51142,7 @@ icon = "assets/pokemon/icon/105_icon.png"
 [[pokemon]]
 id = "106"
 species = "hitmonlee"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick."
 [[pokemon.abilities]]
 name = "limber"
@@ -51608,17 +51608,17 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "hitmonlee"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "106"
 
 [[pokemon.evolutions]]
 name = "hitmonchan"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "106"
 
 [[pokemon.evolutions]]
 name = "hitmontop"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "106"
 
 
@@ -51638,7 +51638,7 @@ icon = "assets/pokemon/icon/106_icon.png"
 [[pokemon]]
 id = "107"
 species = "hitmonchan"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "Its punches slice the air. However, it seems to need a short break after fighting for three minutes."
 [[pokemon.abilities]]
 name = "keen-eye"
@@ -52164,17 +52164,17 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hitmonlee"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "107"
 
 [[pokemon.evolutions]]
 name = "hitmonchan"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "107"
 
 [[pokemon.evolutions]]
 name = "hitmontop"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "107"
 
 
@@ -52194,7 +52194,7 @@ icon = "assets/pokemon/icon/107_icon.png"
 [[pokemon]]
 id = "108"
 species = "lickitung"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Wields its long tongue deftly, as though it were an arm. The Pok�mon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive."
 [[pokemon.abilities]]
 name = "own-tempo"
@@ -52790,7 +52790,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "lickilicky"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "108"
 
 
@@ -52810,7 +52810,7 @@ icon = "assets/pokemon/icon/108_icon.png"
 [[pokemon]]
 id = "109"
 species = "koffing"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now."
 [[pokemon.abilities]]
 name = "levitate"
@@ -53221,7 +53221,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weezing"
-methods = [ "level-up", "35",]
+methods = [ "level-up", "35"]
 id = "109"
 
 
@@ -53241,7 +53241,7 @@ icon = "assets/pokemon/icon/109_icon.png"
 [[pokemon]]
 id = "110"
 species = "weezing"
-types = [ "poison",]
+types = [ "poison"]
 dexEntry = "It can�t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart."
 [[pokemon.abilities]]
 name = "levitate"
@@ -53647,7 +53647,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weezing"
-methods = [ "level-up", "35",]
+methods = [ "level-up", "35"]
 id = "110"
 
 
@@ -53667,7 +53667,7 @@ icon = "assets/pokemon/icon/110_icon.png"
 [[pokemon]]
 id = "111"
 species = "rhyhorn"
-types = [ "ground", "rock",]
+types = [ "ground", "rock"]
 dexEntry = "Ludicrously strong�when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something."
 [[pokemon.abilities]]
 name = "lightning-rod"
@@ -54198,7 +54198,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "rhydon"
-methods = [ "level-up", "42",]
+methods = [ "level-up", "42"]
 id = "111"
 
 
@@ -54218,7 +54218,7 @@ icon = "assets/pokemon/icon/111_icon.png"
 [[pokemon]]
 id = "112"
 species = "rhydon"
-types = [ "ground", "rock",]
+types = [ "ground", "rock"]
 dexEntry = "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide."
 [[pokemon.abilities]]
 name = "lightning-rod"
@@ -54919,7 +54919,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "rhydon"
-methods = [ "level-up", "42",]
+methods = [ "level-up", "42"]
 id = "112"
 
 
@@ -54939,7 +54939,7 @@ icon = "assets/pokemon/icon/112_icon.png"
 [[pokemon]]
 id = "113"
 species = "chansey"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "This purehearted Pok�mon shares its eggs with the injured."
 [[pokemon.abilities]]
 name = "natural-cure"
@@ -55655,7 +55655,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "chansey"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "113"
 
 
@@ -55675,7 +55675,7 @@ icon = "assets/pokemon/icon/113_icon.png"
 [[pokemon]]
 id = "114"
 species = "tangela"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed�they're useful as a spice."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -56086,7 +56086,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "tangrowth"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "114"
 
 
@@ -56106,7 +56106,7 @@ icon = "assets/pokemon/icon/114_icon.png"
 [[pokemon]]
 id = "115"
 species = "kangaskhan"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "There are records of a lost human child being raised by a childless Kangaskhan."
 [[pokemon.abilities]]
@@ -56743,7 +56743,7 @@ icon = "assets/pokemon/icon/115_icon.png"
 [[pokemon]]
 id = "116"
 species = "horsea"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -57104,7 +57104,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "seadra"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "116"
 
 
@@ -57124,7 +57124,7 @@ icon = "assets/pokemon/icon/116_icon.png"
 [[pokemon]]
 id = "117"
 species = "seadra"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Seadra�s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that�s larger than the opening of its mouth."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -57505,7 +57505,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "seadra"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "117"
 
 
@@ -57525,7 +57525,7 @@ icon = "assets/pokemon/icon/117_icon.png"
 [[pokemon]]
 id = "118"
 species = "goldeen"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -57916,7 +57916,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "seaking"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "118"
 
 
@@ -57936,7 +57936,7 @@ icon = "assets/pokemon/icon/118_icon.png"
 [[pokemon]]
 id = "119"
 species = "seaking"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -58322,7 +58322,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "seaking"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "119"
 
 
@@ -58342,7 +58342,7 @@ icon = "assets/pokemon/icon/119_icon.png"
 [[pokemon]]
 id = "120"
 species = "staryu"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Fish Pok�mon nibble at it, but Staryu isn�t bothered. Its body regenerates quickly, even if part of it is completely torn off."
 [[pokemon.abilities]]
 name = "illuminate"
@@ -58773,7 +58773,7 @@ icon = "assets/pokemon/icon/120_icon.png"
 [[pokemon]]
 id = "121"
 species = "starmie"
-types = [ "water", "psychic",]
+types = [ "water", "psychic"]
 dexEntry = "Starmie swims by spinning its body at high speed. As this Pok�mon cruises through the ocean, it absorbs tiny plankton."
 [[pokemon.abilities]]
 name = "illuminate"
@@ -59269,7 +59269,7 @@ icon = "assets/pokemon/icon/121_icon.png"
 [[pokemon]]
 id = "122"
 species = "mr-mime"
-types = [ "psychic", "fairy",]
+types = [ "psychic", "fairy"]
 dexEntry = "The behavior of this clown-like Pok�mon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips."
 [[pokemon.abilities]]
 name = "soundproof"
@@ -59920,7 +59920,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "mr-mime"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "122"
 
 
@@ -59940,7 +59940,7 @@ icon = "assets/pokemon/icon/122_icon.png"
 [[pokemon]]
 id = "123"
 species = "scyther"
-types = [ "bug", "flying",]
+types = [ "bug", "flying"]
 dexEntry = "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey's attempts to flee are unfailingly thwarted by this Pok�mon's nimble motions."
 [[pokemon.abilities]]
 name = "swarm"
@@ -60396,7 +60396,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "scizor"
-methods = [ "trade", "metal-coat",]
+methods = [ "trade", "metal-coat"]
 id = "123"
 
 [[pokemon.evolutions]]
@@ -60421,7 +60421,7 @@ icon = "assets/pokemon/icon/123_icon.png"
 [[pokemon]]
 id = "124"
 species = "jynx"
-types = [ "ice", "psychic",]
+types = [ "ice", "psychic"]
 dexEntry = "The Jynx of Galar often have beautiful and delicate voices. Some of these Pok�mon have even gathered a fan base."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -61042,7 +61042,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "jynx"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "124"
 
 
@@ -61062,7 +61062,7 @@ icon = "assets/pokemon/icon/124_icon.png"
 [[pokemon]]
 id = "125"
 species = "electabuzz"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pok�mon will then wait for lightning to strike."
 [[pokemon.abilities]]
 name = "static"
@@ -61504,7 +61504,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "electabuzz"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "125"
 
 
@@ -61524,7 +61524,7 @@ icon = "assets/pokemon/icon/125_icon.png"
 [[pokemon]]
 id = "126"
 species = "magmar"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Legend has it that this Pok�mon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring."
 [[pokemon.abilities]]
 name = "flame-body"
@@ -61976,7 +61976,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "magmar"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "126"
 
 
@@ -61996,7 +61996,7 @@ icon = "assets/pokemon/icon/126_icon.png"
 [[pokemon]]
 id = "127"
 species = "pinsir"
-types = [ "bug",]
+types = [ "bug"]
 evolutions = []
 dexEntry = "This Pok�mon clamps its pincers down on its prey and then either splits the prey in half or flings it away."
 [[pokemon.abilities]]
@@ -62453,7 +62453,7 @@ icon = "assets/pokemon/icon/127_icon.png"
 [[pokemon]]
 id = "128"
 species = "tauros"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "The Tauros of the Galar region are volatile in nature, and they won�t allow people to ride on their backs."
 [[pokemon.abilities]]
@@ -62960,7 +62960,7 @@ icon = "assets/pokemon/icon/128_icon.png"
 [[pokemon]]
 id = "129"
 species = "magikarp"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "A feeble, pitiful imbecile of a Pok�mon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -62997,7 +62997,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gyarados"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "129"
 
 
@@ -63017,7 +63017,7 @@ icon = "assets/pokemon/icon/129_icon.png"
 [[pokemon]]
 id = "130"
 species = "gyarados"
-types = [ "water", "flying",]
+types = [ "water", "flying"]
 dexEntry = "I suspect this Pok�mon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -63519,7 +63519,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gyarados"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "130"
 
 
@@ -63539,7 +63539,7 @@ icon = "assets/pokemon/icon/130_icon.png"
 [[pokemon]]
 id = "131"
 species = "lapras"
-types = [ "water", "ice",]
+types = [ "water", "ice"]
 evolutions = []
 dexEntry = "Crossing icy seas is no issue for this cold-resistant Pok�mon. Its smooth skin is a little cool to the touch."
 [[pokemon.abilities]]
@@ -64076,7 +64076,7 @@ icon = "assets/pokemon/icon/131_icon.png"
 [[pokemon]]
 id = "132"
 species = "ditto"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly."
 [[pokemon.abilities]]
@@ -64109,7 +64109,7 @@ icon = "assets/pokemon/icon/132_icon.png"
 [[pokemon]]
 id = "133"
 species = "eevee"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Harbors the potential to evolve into manifold forms. Within Eevee lies the key to the mysteries of Pok�mon evolution�I'm certain of it."
 [[pokemon.abilities]]
 name = "run-away"
@@ -64489,28 +64489,33 @@ level = 0
 method = "machine"
 
 [[pokemon.evolutions]]
+name = "eevee"
+methods = [""]
+id = "133"
+
+[[pokemon.evolutions]]
 name = "vaporeon"
-methods = [ "item", "water stone",]
+methods = [ "item", "water stone"]
 id = "134"
 
 [[pokemon.evolutions]]
 name = "jolteon"
-methods = [ "item", "thunder stone",]
+methods = [ "item", "thunder stone"]
 id = "135"
 
 [[pokemon.evolutions]]
 name = "flareon"
-methods = [ "item", "fire stone",]
+methods = [ "item", "fire stone"]
 id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "max happiness day",]
+methods = [ "level-up", "max happiness day"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "max happiness night",]
+methods = [ "level-up", "max happiness night"]
 id = "197"
 
 
@@ -64530,7 +64535,7 @@ icon = "assets/pokemon/icon/133_icon.png"
 [[pokemon]]
 id = "134"
 species = "vaporeon"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pok�mon."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -65022,27 +65027,32 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "eevee"
-methods = [ "item", "water stone",]
+methods = [ "item", "water stone"]
 id = "133"
 
 [[pokemon.evolutions]]
+name = "vaporeon"
+methods = [ "item", "water stone"]
+id = "134"
+
+[[pokemon.evolutions]]
 name = "jolteon"
-methods = [ "item", "thunder stone",]
+methods = [ "item", "thunder stone"]
 id = "135"
 
 [[pokemon.evolutions]]
 name = "flareon"
-methods = [ "item", "fire stone",]
+methods = [ "item", "fire stone"]
 id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "max happiness day",]
+methods = [ "level-up", "max happiness day"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "max happiness night",]
+methods = [ "level-up", "max happiness night"]
 id = "197"
 
 
@@ -65062,7 +65072,7 @@ icon = "assets/pokemon/icon/134_icon.png"
 [[pokemon]]
 id = "135"
 species = "jolteon"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Bristles its fur into sharp, needlelike points when enraged. One can hear electricity crackle in its breath when it exhales."
 [[pokemon.abilities]]
 name = "volt-absorb"
@@ -65544,28 +65554,32 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "eevee"
-methods = [ "item", "thunder stone",]
+methods = [ "item", "thunder stone"]
 id = "133"
 
 [[pokemon.evolutions]]
 name = "vaporeon"
-methods = [ "item", "water stone",]
+methods = [ "item", "water stone"]
 id = "134"
 
+[[pokemon.evolutions]]
+name = "jolteon"
+methods = [ "item", "thunder stone"]
+id = "135"
 
 [[pokemon.evolutions]]
 name = "flareon"
-methods = [ "item", "fire stone",]
+methods = [ "item", "fire stone"]
 id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "max happiness day",]
+methods = [ "level-up", "max happiness day"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "max happiness night",]
+methods = [ "level-up", "max happiness night"]
 id = "197"
 
 
@@ -65585,7 +65599,7 @@ icon = "assets/pokemon/icon/135_icon.png"
 [[pokemon]]
 id = "136"
 species = "flareon"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Flames burn within a saclike organ inside this Pok�mon. When Flareon inhales, these flames grow in intensity, reaching a mighty 3,000 degrees Fahrenheit."
 [[pokemon.abilities]]
 name = "flash-fire"
@@ -66067,22 +66081,32 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "eevee"
-methods = [ "item", "fire stone",]
+methods = [ "item", "fire stone"]
 id = "133"
 
 [[pokemon.evolutions]]
 name = "vaporeon"
-methods = [ "item", "water stone",]
+methods = [ "item", "water stone"]
 id = "134"
 
 [[pokemon.evolutions]]
+name = "jolteon"
+methods = [ "item", "thunder stone"]
+id = "135"
+
+[[pokemon.evolutions]]
+name = "flareon"
+methods = [ "item", "fire stone"]
+id = "136"
+
+[[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "max happiness day",]
+methods = [ "level-up", "max happiness day"]
 id = "196"
 
 [[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "max happiness night",]
+methods = [ "level-up", "max happiness night"]
 id = "197"
 
 
@@ -66102,7 +66126,7 @@ icon = "assets/pokemon/icon/136_icon.png"
 [[pokemon]]
 id = "137"
 species = "porygon"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly."
 [[pokemon.abilities]]
 name = "trace"
@@ -66548,7 +66572,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "porygon2"
-methods = [ "trade", "up-grade",]
+methods = [ "trade", "up-grade"]
 id = "137"
 
 
@@ -66568,7 +66592,7 @@ icon = "assets/pokemon/icon/137_icon.png"
 [[pokemon]]
 id = "138"
 species = "omanyte"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "This Pok�mon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it�s just drifting along."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -66984,7 +67008,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "omastar"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "138"
 
 
@@ -67004,7 +67028,7 @@ icon = "assets/pokemon/icon/138_icon.png"
 [[pokemon]]
 id = "139"
 species = "omastar"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "Omastar�s sharp fangs could crush rock, but the Pok�mon can attack only the prey that come within reach of its tentacles."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -67450,7 +67474,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "omastar"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "139"
 
 
@@ -67470,7 +67494,7 @@ icon = "assets/pokemon/icon/139_icon.png"
 [[pokemon]]
 id = "140"
 species = "kabuto"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -67901,7 +67925,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kabutops"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "140"
 
 
@@ -67921,7 +67945,7 @@ icon = "assets/pokemon/icon/140_icon.png"
 [[pokemon]]
 id = "141"
 species = "kabutops"
-types = [ "rock", "water",]
+types = [ "rock", "water"]
 dexEntry = "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pok�mon that inhabited warm seas."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -68452,7 +68476,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "kabutops"
-methods = [ "level-up", "40",]
+methods = [ "level-up", "40"]
 id = "141"
 
 
@@ -68472,7 +68496,7 @@ icon = "assets/pokemon/icon/141_icon.png"
 [[pokemon]]
 id = "142"
 species = "aerodactyl"
-types = [ "rock", "flying",]
+types = [ "rock", "flying"]
 evolutions = []
 dexEntry = "Aerodactyl�s sawlike fangs can shred skin to tatters�even the skin of Steel-type Pok�mon."
 [[pokemon.abilities]]
@@ -68994,7 +69018,7 @@ icon = "assets/pokemon/icon/142_icon.png"
 [[pokemon]]
 id = "143"
 species = "snorlax"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "This glutton appears in villages without warning and devours the entirety of their rice granaries�such occurrences have long been counted among the gravest of disasters."
 [[pokemon.abilities]]
 name = "immunity"
@@ -69680,7 +69704,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "snorlax"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "143"
 
 
@@ -69700,7 +69724,7 @@ icon = "assets/pokemon/icon/143_icon.png"
 [[pokemon]]
 id = "144"
 species = "articuno"
-types = [ "ice", "flying",]
+types = [ "ice", "flying"]
 evolutions = []
 dexEntry = "This Pok�mon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost."
 [[pokemon.abilities]]
@@ -70163,7 +70187,7 @@ icon = "assets/pokemon/icon/144_icon.png"
 [[pokemon]]
 id = "145"
 species = "zapdos"
-types = [ "electric", "flying",]
+types = [ "electric", "flying"]
 evolutions = []
 dexEntry = "Zapdos is a legendary bird Pok�mon. It�s said that when Zapdos rubs its feathers together, lightning will fall immediately after."
 [[pokemon.abilities]]
@@ -70616,7 +70640,7 @@ icon = "assets/pokemon/icon/145_icon.png"
 [[pokemon]]
 id = "146"
 species = "moltres"
-types = [ "fire", "flying",]
+types = [ "fire", "flying"]
 evolutions = []
 dexEntry = "There are stories of this Pok�mon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains."
 [[pokemon.abilities]]
@@ -71049,7 +71073,7 @@ icon = "assets/pokemon/icon/146_icon.png"
 [[pokemon]]
 id = "147"
 species = "dratini"
-types = [ "dragon",]
+types = [ "dragon"]
 dexEntry = "This Pok�mon was long considered to be no more than a myth. The small lump on a Dratini�s forehead is actually a horn that�s still coming in."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -71491,7 +71515,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dragonair"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "147"
 
 
@@ -71511,7 +71535,7 @@ icon = "assets/pokemon/icon/147_icon.png"
 [[pokemon]]
 id = "148"
 species = "dragonair"
-types = [ "dragon",]
+types = [ "dragon"]
 dexEntry = "This Pok�mon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -71943,7 +71967,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dragonair"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "148"
 
 
@@ -71963,7 +71987,7 @@ icon = "assets/pokemon/icon/148_icon.png"
 [[pokemon]]
 id = "149"
 species = "dragonite"
-types = [ "dragon", "flying",]
+types = [ "dragon", "flying"]
 dexEntry = "This Pok�mon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -72655,7 +72679,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "dragonair"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "149"
 
 
@@ -72675,7 +72699,7 @@ icon = "assets/pokemon/icon/149_icon.png"
 [[pokemon]]
 id = "150"
 species = "mewtwo"
-types = [ "psychic",]
+types = [ "psychic"]
 evolutions = []
 dexEntry = "Its DNA is almost the same as Mew�s. However, its size and disposition are vastly different."
 [[pokemon.abilities]]
@@ -73538,7 +73562,7 @@ icon = "assets/pokemon/icon/150_icon.png"
 [[pokemon]]
 id = "151"
 species = "mew"
-types = [ "psychic",]
+types = [ "psychic"]
 evolutions = []
 dexEntry = "When viewed through a microscope, this Pok�mon�s short, fine, delicate hair can be seen."
 [[pokemon.abilities]]
@@ -75437,7 +75461,7 @@ icon = "assets/pokemon/icon/151_icon.png"
 [[pokemon]]
 id = "152"
 species = "chikorita"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pok�mon and creating a cozy, friendly atmosphere all around."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -75829,7 +75853,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "bayleef"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "152"
 
 
@@ -75849,7 +75873,7 @@ icon = "assets/pokemon/icon/152_icon.png"
 [[pokemon]]
 id = "153"
 species = "bayleef"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "Bayleef�s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -76251,7 +76275,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "bayleef"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "153"
 
 
@@ -76271,7 +76295,7 @@ icon = "assets/pokemon/icon/153_icon.png"
 [[pokemon]]
 id = "154"
 species = "meganium"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "The fragrance of Meganium�s flower soothes and calms emotions. In battle, this Pok�mon gives off more of its becalming scent to blunt the foe�s fighting spirit."
 [[pokemon.abilities]]
 name = "overgrow"
@@ -76743,7 +76767,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "bayleef"
-methods = [ "level-up", "16",]
+methods = [ "level-up", "16"]
 id = "154"
 
 
@@ -76763,7 +76787,7 @@ icon = "assets/pokemon/icon/154_icon.png"
 [[pokemon]]
 id = "155"
 species = "cyndaquil"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower."
 [[pokemon.abilities]]
 name = "blaze"
@@ -77160,7 +77184,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "quilava"
-methods = [ "level-up", "14",]
+methods = [ "level-up", "14"]
 id = "155"
 
 
@@ -77180,7 +77204,7 @@ icon = "assets/pokemon/icon/155_icon.png"
 [[pokemon]]
 id = "156"
 species = "quilava"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "This creature's fur is most mysterious�it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack."
 [[pokemon.abilities]]
 name = "blaze"
@@ -77577,7 +77601,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "quilava"
-methods = [ "level-up", "14",]
+methods = [ "level-up", "14"]
 id = "156"
 
 
@@ -77597,7 +77621,7 @@ icon = "assets/pokemon/icon/156_icon.png"
 [[pokemon]]
 id = "157"
 species = "typhlosion"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center."
 [[pokemon.abilities]]
 name = "blaze"
@@ -78164,7 +78188,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "quilava"
-methods = [ "level-up", "14",]
+methods = [ "level-up", "14"]
 id = "157"
 
 
@@ -78184,7 +78208,7 @@ icon = "assets/pokemon/icon/157_icon.png"
 [[pokemon]]
 id = "158"
 species = "totodile"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Despite the smallness of its body, Totodile�s jaws are very powerful. While the Pok�mon may think it is just playfully nipping, its bite has enough power to cause serious injury."
 [[pokemon.abilities]]
 name = "torrent"
@@ -78686,7 +78710,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "croconaw"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "158"
 
 
@@ -78706,7 +78730,7 @@ icon = "assets/pokemon/icon/158_icon.png"
 [[pokemon]]
 id = "159"
 species = "croconaw"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in."
 [[pokemon.abilities]]
 name = "torrent"
@@ -79218,7 +79242,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "croconaw"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "159"
 
 
@@ -79238,7 +79262,7 @@ icon = "assets/pokemon/icon/159_icon.png"
 [[pokemon]]
 id = "160"
 species = "feraligatr"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed."
 [[pokemon.abilities]]
 name = "torrent"
@@ -79835,7 +79859,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "croconaw"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "160"
 
 
@@ -79855,7 +79879,7 @@ icon = "assets/pokemon/icon/160_icon.png"
 [[pokemon]]
 id = "161"
 species = "sentret"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pok�mon becomes separated from its pack, it becomes incapable of sleep due to fear."
 [[pokemon.abilities]]
 name = "run-away"
@@ -80371,7 +80395,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "furret"
-methods = [ "level-up", "15",]
+methods = [ "level-up", "15"]
 id = "161"
 
 
@@ -80391,7 +80415,7 @@ icon = "assets/pokemon/icon/161_icon.png"
 [[pokemon]]
 id = "162"
 species = "furret"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pok�mon is very nimble and fleet."
 [[pokemon.abilities]]
 name = "run-away"
@@ -80932,7 +80956,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "furret"
-methods = [ "level-up", "15",]
+methods = [ "level-up", "15"]
 id = "162"
 
 
@@ -80952,7 +80976,7 @@ icon = "assets/pokemon/icon/162_icon.png"
 [[pokemon]]
 id = "163"
 species = "hoothoot"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "It begins to hoot at the same time every day. Some Trainers use them in place of clocks."
 [[pokemon.abilities]]
 name = "insomnia"
@@ -81428,7 +81452,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "noctowl"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "163"
 
 
@@ -81448,7 +81472,7 @@ icon = "assets/pokemon/icon/163_icon.png"
 [[pokemon]]
 id = "164"
 species = "noctowl"
-types = [ "normal", "flying",]
+types = [ "normal", "flying"]
 dexEntry = "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power."
 [[pokemon.abilities]]
 name = "insomnia"
@@ -81944,7 +81968,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "noctowl"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "164"
 
 
@@ -81964,7 +81988,7 @@ icon = "assets/pokemon/icon/164_icon.png"
 [[pokemon]]
 id = "165"
 species = "ledyba"
-types = [ "bug", "flying",]
+types = [ "bug", "flying"]
 dexEntry = "These very cowardly Pok�mon join together and use Reflect to protect their nest."
 [[pokemon.abilities]]
 name = "swarm"
@@ -82345,7 +82369,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ledian"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "165"
 
 
@@ -82365,7 +82389,7 @@ icon = "assets/pokemon/icon/165_icon.png"
 [[pokemon]]
 id = "166"
 species = "ledian"
-types = [ "bug", "flying",]
+types = [ "bug", "flying"]
 dexEntry = "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you."
 [[pokemon.abilities]]
 name = "swarm"
@@ -82746,7 +82770,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ledian"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "166"
 
 
@@ -82766,7 +82790,7 @@ icon = "assets/pokemon/icon/166_icon.png"
 [[pokemon]]
 id = "167"
 species = "spinarak"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "Although the poison from its fangs isn�t that strong, it�s potent enough to weaken prey that gets caught in its web."
 [[pokemon.abilities]]
 name = "swarm"
@@ -83182,7 +83206,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ariados"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "167"
 
 
@@ -83202,7 +83226,7 @@ icon = "assets/pokemon/icon/167_icon.png"
 [[pokemon]]
 id = "168"
 species = "ariados"
-types = [ "bug", "poison",]
+types = [ "bug", "poison"]
 dexEntry = "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively."
 [[pokemon.abilities]]
 name = "swarm"
@@ -83643,7 +83667,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ariados"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "168"
 
 
@@ -83663,7 +83687,7 @@ icon = "assets/pokemon/icon/168_icon.png"
 [[pokemon]]
 id = "169"
 species = "crobat"
-types = [ "poison", "flying",]
+types = [ "poison", "flying"]
 dexEntry = "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -84070,7 +84094,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "golbat"
-methods = [ "level-up", "22",]
+methods = [ "level-up", "22"]
 id = "169"
 
 
@@ -84090,7 +84114,7 @@ icon = "assets/pokemon/icon/169_icon.png"
 [[pokemon]]
 id = "170"
 species = "chinchou"
-types = [ "water", "electric",]
+types = [ "water", "electric"]
 dexEntry = "On the dark ocean floor, its only means of communication is its constantly flashing lights."
 [[pokemon.abilities]]
 name = "volt-absorb"
@@ -84491,7 +84515,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "lanturn"
-methods = [ "level-up", "27",]
+methods = [ "level-up", "27"]
 id = "170"
 
 
@@ -84511,7 +84535,7 @@ icon = "assets/pokemon/icon/170_icon.png"
 [[pokemon]]
 id = "171"
 species = "lanturn"
-types = [ "water", "electric",]
+types = [ "water", "electric"]
 dexEntry = "This Pok�mon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack."
 [[pokemon.abilities]]
 name = "volt-absorb"
@@ -84947,7 +84971,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "lanturn"
-methods = [ "level-up", "27",]
+methods = [ "level-up", "27"]
 id = "171"
 
 
@@ -84967,7 +84991,7 @@ icon = "assets/pokemon/icon/171_icon.png"
 [[pokemon]]
 id = "172"
 species = "pichu"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pok�mon's handling of electricity is rather inept."
 [[pokemon.abilities]]
 name = "static"
@@ -85404,7 +85428,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pikachu"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "172"
 
 
@@ -85424,7 +85448,7 @@ icon = "assets/pokemon/icon/172_icon.png"
 [[pokemon]]
 id = "173"
 species = "cleffa"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "In silhouette, they resemble twinkling starlight. When shooting stars rain from the night sky, Cleffa gather in numbers and dance as though they are indeed incarnations of the stars."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -85965,7 +85989,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "clefairy"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "173"
 
 
@@ -85985,7 +86009,7 @@ icon = "assets/pokemon/icon/173_icon.png"
 [[pokemon]]
 id = "174"
 species = "igglybuff"
-types = [ "normal", "fairy",]
+types = [ "normal", "fairy"]
 dexEntry = "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises."
 [[pokemon.abilities]]
 name = "cute-charm"
@@ -86481,7 +86505,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "jigglypuff"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "174"
 
 
@@ -86501,7 +86525,7 @@ icon = "assets/pokemon/icon/174_icon.png"
 [[pokemon]]
 id = "175"
 species = "togepi"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul."
 [[pokemon.abilities]]
 name = "hustle"
@@ -87022,7 +87046,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "togetic"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "175"
 
 
@@ -87042,7 +87066,7 @@ icon = "assets/pokemon/icon/175_icon.png"
 [[pokemon]]
 id = "176"
 species = "togetic"
-types = [ "fairy", "flying",]
+types = [ "fairy", "flying"]
 dexEntry = "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pok�mon then bestows great joy."
 [[pokemon.abilities]]
 name = "hustle"
@@ -87633,7 +87657,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "togetic"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "176"
 
 
@@ -87653,7 +87677,7 @@ icon = "assets/pokemon/icon/176_icon.png"
 [[pokemon]]
 id = "177"
 species = "natu"
-types = [ "psychic", "flying",]
+types = [ "psychic", "flying"]
 dexEntry = "Because its wings aren�t yet fully grown, it has to hop to get around. It is always staring at something."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -88134,7 +88158,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "xatu"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "177"
 
 
@@ -88154,7 +88178,7 @@ icon = "assets/pokemon/icon/177_icon.png"
 [[pokemon]]
 id = "178"
 species = "xatu"
-types = [ "psychic", "flying",]
+types = [ "psychic", "flying"]
 dexEntry = "This odd Pok�mon can see both the past and the future. It eyes the sun�s movement all day."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -88625,7 +88649,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "xatu"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "178"
 
 
@@ -88645,7 +88669,7 @@ icon = "assets/pokemon/icon/178_icon.png"
 [[pokemon]]
 id = "179"
 species = "mareep"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Rubbing its fleece generates electricity. You�ll want to pet it because it�s cute, but if you use your bare hand, you�ll get a painful shock."
 [[pokemon.abilities]]
 name = "static"
@@ -89012,7 +89036,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "flaaffy"
-methods = [ "level-up", "15",]
+methods = [ "level-up", "15"]
 id = "179"
 
 
@@ -89032,7 +89056,7 @@ icon = "assets/pokemon/icon/179_icon.png"
 [[pokemon]]
 id = "180"
 species = "flaaffy"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches."
 [[pokemon.abilities]]
 name = "static"
@@ -89459,7 +89483,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "flaaffy"
-methods = [ "level-up", "15",]
+methods = [ "level-up", "15"]
 id = "180"
 
 
@@ -89479,7 +89503,7 @@ icon = "assets/pokemon/icon/180_icon.png"
 [[pokemon]]
 id = "181"
 species = "ampharos"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors."
 [[pokemon.abilities]]
 name = "static"
@@ -89991,7 +90015,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "flaaffy"
-methods = [ "level-up", "15",]
+methods = [ "level-up", "15"]
 id = "181"
 
 
@@ -90011,7 +90035,7 @@ icon = "assets/pokemon/icon/181_icon.png"
 [[pokemon]]
 id = "182"
 species = "bellossom"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -90453,7 +90477,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gloom"
-methods = [ "level-up", "21",]
+methods = [ "level-up", "21"]
 id = "182"
 
 
@@ -90473,7 +90497,7 @@ icon = "assets/pokemon/icon/182_icon.png"
 [[pokemon]]
 id = "183"
 species = "marill"
-types = [ "water", "fairy",]
+types = [ "water", "fairy"]
 dexEntry = "Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That�s why this Pok�mon is never cold."
 [[pokemon.abilities]]
 name = "thick-fat"
@@ -91034,7 +91058,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "marill"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "183"
 
 
@@ -91054,7 +91078,7 @@ icon = "assets/pokemon/icon/183_icon.png"
 [[pokemon]]
 id = "184"
 species = "azumarill"
-types = [ "water", "fairy",]
+types = [ "water", "fairy"]
 dexEntry = "These Pok�mon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles."
 [[pokemon.abilities]]
 name = "thick-fat"
@@ -91570,7 +91594,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "marill"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "184"
 
 
@@ -91590,7 +91614,7 @@ icon = "assets/pokemon/icon/184_icon.png"
 [[pokemon]]
 id = "185"
 species = "sudowoodo"
-types = [ "rock",]
+types = [ "rock"]
 dexEntry = "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note."
 [[pokemon.abilities]]
 name = "sturdy"
@@ -92106,7 +92130,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "sudowoodo"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "185"
 
 
@@ -92126,7 +92150,7 @@ icon = "assets/pokemon/icon/185_icon.png"
 [[pokemon]]
 id = "186"
 species = "politoed"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender."
 [[pokemon.abilities]]
 name = "water-absorb"
@@ -92602,7 +92626,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "poliwhirl"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "186"
 
 
@@ -92622,7 +92646,7 @@ icon = "assets/pokemon/icon/186_icon.png"
 [[pokemon]]
 id = "187"
 species = "hoppip"
-types = [ "grass", "flying",]
+types = [ "grass", "flying"]
 dexEntry = "This Pok�mon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -93053,7 +93077,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "skiploom"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "187"
 
 
@@ -93073,7 +93097,7 @@ icon = "assets/pokemon/icon/187_icon.png"
 [[pokemon]]
 id = "188"
 species = "skiploom"
-types = [ "grass", "flying",]
+types = [ "grass", "flying"]
 dexEntry = "Skiploom�s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pok�mon is sometimes used as a thermometer."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -93464,7 +93488,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "skiploom"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "188"
 
 
@@ -93484,7 +93508,7 @@ icon = "assets/pokemon/icon/188_icon.png"
 [[pokemon]]
 id = "189"
 species = "jumpluff"
-types = [ "grass", "flying",]
+types = [ "grass", "flying"]
 dexEntry = "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pok�mon descends to the ground when it encounters cold air while it is floating."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -93890,7 +93914,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "skiploom"
-methods = [ "level-up", "18",]
+methods = [ "level-up", "18"]
 id = "189"
 
 
@@ -93910,7 +93934,7 @@ icon = "assets/pokemon/icon/189_icon.png"
 [[pokemon]]
 id = "190"
 species = "aipom"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pok�mon as a one-armed oddity."
 [[pokemon.abilities]]
 name = "run-away"
@@ -94491,7 +94515,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ambipom"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "190"
 
 
@@ -94511,7 +94535,7 @@ icon = "assets/pokemon/icon/190_icon.png"
 [[pokemon]]
 id = "191"
 species = "sunkern"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -94862,7 +94886,7 @@ icon = "assets/pokemon/icon/191_icon.png"
 [[pokemon]]
 id = "192"
 species = "sunflora"
-types = [ "grass",]
+types = [ "grass"]
 dexEntry = "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night."
 [[pokemon.abilities]]
 name = "chlorophyll"
@@ -95243,7 +95267,7 @@ icon = "assets/pokemon/icon/192_icon.png"
 [[pokemon]]
 id = "193"
 species = "yanma"
-types = [ "bug", "flying",]
+types = [ "bug", "flying"]
 dexEntry = "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward."
 [[pokemon.abilities]]
 name = "speed-boost"
@@ -95624,7 +95648,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "yanmega"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "193"
 
 
@@ -95644,7 +95668,7 @@ icon = "assets/pokemon/icon/193_icon.png"
 [[pokemon]]
 id = "194"
 species = "wooper"
-types = [ "water", "ground",]
+types = [ "water", "ground"]
 dexEntry = "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating."
 [[pokemon.abilities]]
 name = "damp"
@@ -96120,12 +96144,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "quagsire"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "194"
 
 [[pokemon.evolutions]]
 name = "clodsire"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "194"
 
 
@@ -96145,7 +96169,7 @@ icon = "assets/pokemon/icon/194_icon.png"
 [[pokemon]]
 id = "195"
 species = "quagsire"
-types = [ "water", "ground",]
+types = [ "water", "ground"]
 dexEntry = "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care."
 [[pokemon.abilities]]
 name = "damp"
@@ -96671,12 +96695,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "quagsire"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "195"
 
 [[pokemon.evolutions]]
 name = "clodsire"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "195"
 
 
@@ -96696,7 +96720,7 @@ icon = "assets/pokemon/icon/195_icon.png"
 [[pokemon]]
 id = "196"
 species = "espeon"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "Wields an arcane power with which it can predict the weather and even people's thoughts. When bathed in sunshine, the scarlet orb on its brow glows and builds energy."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -97213,22 +97237,32 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "eevee"
-methods = [ "level up", "max happiness day",]
+methods = [ "level up", "max happiness day"]
 id = "133"
 
 [[pokemon.evolutions]]
 name = "vaporeon"
-methods = [ "item", "water stone",]
+methods = [ "item", "water stone"]
 id = "134"
 
 [[pokemon.evolutions]]
-name = "flareon"
-methods = [ "item", "fire stone ",]
+name = "jolteon"
+methods = [ "item", "thunder stone "]
 id = "135"
 
 [[pokemon.evolutions]]
+name = "flareon"
+methods = [ "item", "fire stone "]
+id = "136"
+
+[[pokemon.evolutions]]
+name = "espeon"
+methods = [ "level-up", "max happiness day"]
+id = "196"
+
+[[pokemon.evolutions]]
 name = "umbreon"
-methods = [ "level-up", "max happiness night",]
+methods = [ "level-up", "max happiness night"]
 id = "197"
 
 
@@ -97248,7 +97282,7 @@ icon = "assets/pokemon/icon/196_icon.png"
 [[pokemon]]
 id = "197"
 species = "umbreon"
-types = [ "dark",]
+types = [ "dark"]
 dexEntry = "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity."
 [[pokemon.abilities]]
 name = "synchronize"
@@ -97750,28 +97784,33 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "eevee"
-methods = [ "level-up", "max happiness night",]
+methods = [ "level-up", "max happiness night"]
 id = "133"
 
 [[pokemon.evolutions]]
 name = "vaporeon"
-methods = [ "item", "water stone",]
+methods = [ "item", "water stone"]
 id = "134"
 
 [[pokemon.evolutions]]
 name = "jolteon"
-methods = [ "item", "thunder stone",]
+methods = [ "item", "thunder stone"]
 id = "135"
 
 [[pokemon.evolutions]]
 name = "flareon"
-methods = [ "item", "fire stone",]
+methods = [ "item", "fire stone"]
 id = "136"
 
 [[pokemon.evolutions]]
 name = "espeon"
-methods = [ "level-up", "max happiness day",]
+methods = [ "level-up", "max happiness day"]
 id = "196"
+
+[[pokemon.evolutions]]
+name = "umbreon"
+methods = [ "level-up", "max happiness night"]
+id = "197"
 
 
 
@@ -97791,7 +97830,7 @@ icon = "assets/pokemon/icon/197_icon.png"
 [[pokemon]]
 id = "198"
 species = "murkrow"
-types = [ "dark", "flying",]
+types = [ "dark", "flying"]
 dexEntry = "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant �Workrum, Workrum�bad luck, don't come� as a protective incantation."
 [[pokemon.abilities]]
 name = "insomnia"
@@ -98312,7 +98351,7 @@ icon = "assets/pokemon/icon/198_icon.png"
 [[pokemon]]
 id = "199"
 species = "slowking"
-types = [ "water", "psychic",]
+types = [ "water", "psychic"]
 dexEntry = "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -98998,12 +99037,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "slowbro"
-methods = [ "level-up", "37",]
+methods = [ "level-up", "37"]
 id = "199"
 
 [[pokemon.evolutions]]
 name = "slowking"
-methods = [ "trade", "kings-rock",]
+methods = [ "trade", "kings-rock"]
 id = "199"
 
 
@@ -99023,7 +99062,7 @@ icon = "assets/pokemon/icon/199_icon.png"
 [[pokemon]]
 id = "200"
 species = "misdreavus"
-types = [ "ghost",]
+types = [ "ghost"]
 dexEntry = "It conceals itself in darkness, sending chills up travelers' spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light."
 [[pokemon.abilities]]
 name = "levitate"
@@ -99581,7 +99620,7 @@ icon = "assets/pokemon/icon/200_icon.png"
 [[pokemon]]
 id = "201"
 species = "unown"
-types = [ "psychic",]
+types = [ "psychic"]
 evolutions = []
 dexEntry = "It is hard to believe these strangely shaped Pok�mon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously."
 [[pokemon.abilities]]
@@ -99610,7 +99649,7 @@ icon = "assets/pokemon/icon/201_icon.png"
 [[pokemon]]
 id = "202"
 species = "wobbuffet"
-types = [ "psychic",]
+types = [ "psychic"]
 dexEntry = "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
 [[pokemon.abilities]]
 name = "shadow-tag"
@@ -99662,7 +99701,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "wobbuffet"
-methods = [ "level-up", "15",]
+methods = [ "level-up", "15"]
 id = "202"
 
 
@@ -99682,7 +99721,7 @@ icon = "assets/pokemon/icon/202_icon.png"
 [[pokemon]]
 id = "203"
 species = "girafarig"
-types = [ "normal", "psychic",]
+types = [ "normal", "psychic"]
 dexEntry = "Girafarig�s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn�t need to sleep, so it can keep watch over its surroundings 24 hours a day."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -100258,7 +100297,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "farigiraf"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "203"
 
 
@@ -100278,7 +100317,7 @@ icon = "assets/pokemon/icon/203_icon.png"
 [[pokemon]]
 id = "204"
 species = "pineco"
-types = [ "bug",]
+types = [ "bug"]
 dexEntry = "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge."
 [[pokemon.abilities]]
 name = "sturdy"
@@ -100680,7 +100719,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "forretress"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "204"
 
 
@@ -100700,7 +100739,7 @@ icon = "assets/pokemon/icon/204_icon.png"
 [[pokemon]]
 id = "205"
 species = "forretress"
-types = [ "bug", "steel",]
+types = [ "bug", "steel"]
 dexEntry = "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight."
 [[pokemon.abilities]]
 name = "sturdy"
@@ -101197,7 +101236,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "forretress"
-methods = [ "level-up", "31",]
+methods = [ "level-up", "31"]
 id = "205"
 
 
@@ -101217,7 +101256,7 @@ icon = "assets/pokemon/icon/205_icon.png"
 [[pokemon]]
 id = "206"
 species = "dunsparce"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests�they can tell where they are by the scent of the dirt."
 [[pokemon.abilities]]
 name = "serene-grace"
@@ -101813,7 +101852,7 @@ method = "level-up"
 
 [[pokemon.evolutions]]
 name = "dudunsparce"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "206"
 
 
@@ -101833,7 +101872,7 @@ icon = "assets/pokemon/icon/206_icon.png"
 [[pokemon]]
 id = "207"
 species = "gligar"
-types = [ "ground", "flying",]
+types = [ "ground", "flying"]
 dexEntry = "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom."
 [[pokemon.abilities]]
 name = "hyper-cutter"
@@ -102404,7 +102443,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "gliscor"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "207"
 
 
@@ -102424,7 +102463,7 @@ icon = "assets/pokemon/icon/207_icon.png"
 [[pokemon]]
 id = "208"
 species = "steelix"
-types = [ "steel", "ground",]
+types = [ "steel", "ground"]
 dexEntry = "This Pok�mon evolved through use of a strange item. Its body is coated with steel powder and notably hard�not even diamond can leave so much as a scratch."
 [[pokemon.abilities]]
 name = "rock-head"
@@ -102920,7 +102959,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "steelix"
-methods = [ "trade", "metal-coat",]
+methods = [ "trade", "metal-coat"]
 id = "208"
 
 
@@ -102940,7 +102979,7 @@ icon = "assets/pokemon/icon/208_icon.png"
 [[pokemon]]
 id = "209"
 species = "snubbull"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "In contrast to its appearance, it�s quite timid. When playing with other puppy Pok�mon, it sometimes gets bullied."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -103511,7 +103550,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "granbull"
-methods = [ "level-up", "23",]
+methods = [ "level-up", "23"]
 id = "209"
 
 
@@ -103531,7 +103570,7 @@ icon = "assets/pokemon/icon/209_icon.png"
 [[pokemon]]
 id = "210"
 species = "granbull"
-types = [ "fairy",]
+types = [ "fairy"]
 dexEntry = "Although it�s popular with young people, Granbull is timid and sensitive, so it�s totally incompetent as a watchdog."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -104137,7 +104176,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "granbull"
-methods = [ "level-up", "23",]
+methods = [ "level-up", "23"]
 id = "210"
 
 
@@ -104157,7 +104196,7 @@ icon = "assets/pokemon/icon/210_icon.png"
 [[pokemon]]
 id = "211"
 species = "qwilfish"
-types = [ "water", "poison",]
+types = [ "water", "poison"]
 dexEntry = "Fishers detest this troublesome Pok�mon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions."
 [[pokemon.abilities]]
 name = "poison-point"
@@ -104688,7 +104727,7 @@ icon = "assets/pokemon/icon/211_icon.png"
 [[pokemon]]
 id = "212"
 species = "scizor"
-types = [ "bug", "steel",]
+types = [ "bug", "steel"]
 dexEntry = "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel."
 [[pokemon.abilities]]
 name = "swarm"
@@ -105189,7 +105228,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "scizor"
-methods = [ "trade", "metal-coat",]
+methods = [ "trade", "metal-coat"]
 id = "212"
 
 [[pokemon.evolutions]]
@@ -105214,7 +105253,7 @@ icon = "assets/pokemon/icon/212_icon.png"
 [[pokemon]]
 id = "213"
 species = "shuckle"
-types = [ "bug", "rock",]
+types = [ "bug", "rock"]
 evolutions = []
 dexEntry = "The berries stored in its vaselike shell eventually become a thick, pulpy juice."
 [[pokemon.abilities]]
@@ -105651,7 +105690,7 @@ icon = "assets/pokemon/icon/213_icon.png"
 [[pokemon]]
 id = "214"
 species = "heracross"
-types = [ "bug", "fighting",]
+types = [ "bug", "fighting"]
 evolutions = []
 dexEntry = "This Pok�mon has an unparalleled horn. Heracross itself demonstrates tremendous power�it's capable of throwing several people trained in the traditional arts of war at once."
 [[pokemon.abilities]]
@@ -106173,7 +106212,7 @@ icon = "assets/pokemon/icon/214_icon.png"
 [[pokemon]]
 id = "215"
 species = "sneasel"
-types = [ "dark", "ice",]
+types = [ "dark", "ice"]
 dexEntry = "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp."
 [[pokemon.abilities]]
 name = "inner-focus"
@@ -106774,12 +106813,12 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "weavile"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "215"
 
 [[pokemon.evolutions]]
 name = "sneasler"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "215"
 
 
@@ -106799,7 +106838,7 @@ icon = "assets/pokemon/icon/215_icon.png"
 [[pokemon]]
 id = "216"
 species = "teddiursa"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed."
 [[pokemon.abilities]]
 name = "pickup"
@@ -107320,7 +107359,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ursaring"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "216"
 
 
@@ -107340,7 +107379,7 @@ icon = "assets/pokemon/icon/216_icon.png"
 [[pokemon]]
 id = "217"
 species = "ursaring"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "When the cold season arrives in Hisui, this Pok�mon will wander fields and mountains alike in search of its favorite berries. Ursaring's hunger during this time makes it a ferocious danger."
 [[pokemon.abilities]]
 name = "guts"
@@ -107886,7 +107925,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ursaring"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "217"
 
 
@@ -107906,7 +107945,7 @@ icon = "assets/pokemon/icon/217_icon.png"
 [[pokemon]]
 id = "218"
 species = "slugma"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pok�mon�s body, carrying essential nutrients and oxygen to its organs."
 [[pokemon.abilities]]
 name = "magma-armor"
@@ -108322,7 +108361,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "magcargo"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "218"
 
 
@@ -108342,7 +108381,7 @@ icon = "assets/pokemon/icon/218_icon.png"
 [[pokemon]]
 id = "219"
 species = "magcargo"
-types = [ "fire", "rock",]
+types = [ "fire", "rock"]
 dexEntry = "Magcargo�s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pok�mon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog."
 [[pokemon.abilities]]
 name = "magma-armor"
@@ -108808,7 +108847,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "magcargo"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "219"
 
 
@@ -108828,7 +108867,7 @@ icon = "assets/pokemon/icon/219_icon.png"
 [[pokemon]]
 id = "220"
 species = "swinub"
-types = [ "ice", "ground",]
+types = [ "ice", "ground"]
 dexEntry = "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -109234,7 +109273,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "piloswine"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "220"
 
 
@@ -109254,7 +109293,7 @@ icon = "assets/pokemon/icon/220_icon.png"
 [[pokemon]]
 id = "221"
 species = "piloswine"
-types = [ "ice", "ground",]
+types = [ "ice", "ground"]
 dexEntry = "The long fur of this Pok�mon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pok�mon's white tusks can be used to defeat its enemies."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -109695,7 +109734,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "piloswine"
-methods = [ "level-up", "33",]
+methods = [ "level-up", "33"]
 id = "221"
 
 
@@ -109715,7 +109754,7 @@ icon = "assets/pokemon/icon/221_icon.png"
 [[pokemon]]
 id = "222"
 species = "corsola"
-types = [ "water", "rock",]
+types = [ "water", "rock"]
 dexEntry = "These Pok�mon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well."
 [[pokemon.abilities]]
 name = "hustle"
@@ -110201,7 +110240,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "cursola"
-methods = [ "level-up", "38",]
+methods = [ "level-up", "38"]
 id = "222"
 
 
@@ -110221,7 +110260,7 @@ icon = "assets/pokemon/icon/222_icon.png"
 [[pokemon]]
 id = "223"
 species = "remoraid"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle."
 [[pokemon.abilities]]
 name = "hustle"
@@ -110597,7 +110636,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "octillery"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "223"
 
 
@@ -110617,7 +110656,7 @@ icon = "assets/pokemon/icon/223_icon.png"
 [[pokemon]]
 id = "224"
 species = "octillery"
-types = [ "water",]
+types = [ "water"]
 dexEntry = "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter."
 [[pokemon.abilities]]
 name = "suction-cups"
@@ -111028,7 +111067,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "octillery"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "224"
 
 
@@ -111048,7 +111087,7 @@ icon = "assets/pokemon/icon/224_icon.png"
 [[pokemon]]
 id = "225"
 species = "delibird"
-types = [ "ice", "flying",]
+types = [ "ice", "flying"]
 evolutions = []
 dexEntry = "It has a generous habit of sharing its food with people and Pok�mon, so it�s always scrounging around for more food."
 [[pokemon.abilities]]
@@ -111585,7 +111624,7 @@ icon = "assets/pokemon/icon/225_icon.png"
 [[pokemon]]
 id = "226"
 species = "mantine"
-types = [ "water", "flying",]
+types = [ "water", "flying"]
 dexEntry = "This calm and gentle Pok�mon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pok�mon due to this behavior."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -112036,7 +112075,7 @@ method = "tutor"
 
 [[pokemon.evolutions]]
 name = "mantine"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "226"
 
 
@@ -112056,7 +112095,7 @@ icon = "assets/pokemon/icon/226_icon.png"
 [[pokemon]]
 id = "227"
 species = "skarmory"
-types = [ "steel", "flying",]
+types = [ "steel", "flying"]
 evolutions = []
 dexEntry = "People fashion swords from Skarmory�s shed feathers, so this Pok�mon is a popular element in heraldic designs."
 [[pokemon.abilities]]
@@ -112538,7 +112577,7 @@ icon = "assets/pokemon/icon/227_icon.png"
 [[pokemon]]
 id = "228"
 species = "houndour"
-types = [ "dark", "fire",]
+types = [ "dark", "fire"]
 dexEntry = "They make repeated eerie howls before dawn to call attention to their pack."
 [[pokemon.abilities]]
 name = "early-bird"
@@ -113024,7 +113063,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "houndoom"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "228"
 
 
@@ -113044,7 +113083,7 @@ icon = "assets/pokemon/icon/228_icon.png"
 [[pokemon]]
 id = "229"
 species = "houndoom"
-types = [ "dark", "fire",]
+types = [ "dark", "fire"]
 dexEntry = "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it."
 [[pokemon.abilities]]
 name = "early-bird"
@@ -113535,7 +113574,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "houndoom"
-methods = [ "level-up", "24",]
+methods = [ "level-up", "24"]
 id = "229"
 
 
@@ -113555,7 +113594,7 @@ icon = "assets/pokemon/icon/229_icon.png"
 [[pokemon]]
 id = "230"
 species = "kingdra"
-types = [ "water", "dragon",]
+types = [ "water", "dragon"]
 dexEntry = "Scales shed by this Pok�mon have such a splendorous gleam to them that they�ve been given to royalty as gifts."
 [[pokemon.abilities]]
 name = "swift-swim"
@@ -113961,7 +114000,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "seadra"
-methods = [ "level-up", "32",]
+methods = [ "level-up", "32"]
 id = "230"
 
 
@@ -113981,7 +114020,7 @@ icon = "assets/pokemon/icon/230_icon.png"
 [[pokemon]]
 id = "231"
 species = "phanpy"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pok�mon can be seen drying their soaking-wet bodies at the edge of water."
 [[pokemon.abilities]]
 name = "pickup"
@@ -114378,7 +114417,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "donphan"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "231"
 
 
@@ -114398,7 +114437,7 @@ icon = "assets/pokemon/icon/231_icon.png"
 [[pokemon]]
 id = "232"
 species = "donphan"
-types = [ "ground",]
+types = [ "ground"]
 dexEntry = "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pok�mon helps clear rock and mud slides that block mountain trails."
 [[pokemon.abilities]]
 name = "sturdy"
@@ -114880,7 +114919,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "donphan"
-methods = [ "level-up", "25",]
+methods = [ "level-up", "25"]
 id = "232"
 
 
@@ -114900,7 +114939,7 @@ icon = "assets/pokemon/icon/232_icon.png"
 [[pokemon]]
 id = "233"
 species = "porygon2"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "A bizarre item caused this Pok�mon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable."
 [[pokemon.abilities]]
 name = "trace"
@@ -115306,7 +115345,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "porygon2"
-methods = [ "trade", "up-grade",]
+methods = [ "trade", "up-grade"]
 id = "233"
 
 
@@ -115326,7 +115365,7 @@ icon = "assets/pokemon/icon/233_icon.png"
 [[pokemon]]
 id = "234"
 species = "stantler"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -115872,7 +115911,7 @@ icon = "assets/pokemon/icon/234_icon.png"
 [[pokemon]]
 id = "235"
 species = "smeargle"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them."
 [[pokemon.abilities]]
@@ -115909,7 +115948,7 @@ icon = "assets/pokemon/icon/235_icon.png"
 [[pokemon]]
 id = "236"
 species = "tyrogue"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "Even though it is small, it can�t be ignored because it will slug any handy target without warning."
 [[pokemon.abilities]]
 name = "guts"
@@ -116255,17 +116294,17 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hitmonlee"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "236"
 
 [[pokemon.evolutions]]
 name = "hitmonchan"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "236"
 
 [[pokemon.evolutions]]
 name = "hitmontop"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "236"
 
 
@@ -116285,7 +116324,7 @@ icon = "assets/pokemon/icon/236_icon.png"
 [[pokemon]]
 id = "237"
 species = "hitmontop"
-types = [ "fighting",]
+types = [ "fighting"]
 dexEntry = "After doing a handstand to throw off the opponent�s timing, it presents its fancy kick moves."
 [[pokemon.abilities]]
 name = "intimidate"
@@ -116746,17 +116785,17 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "hitmonlee"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "237"
 
 [[pokemon.evolutions]]
 name = "hitmonchan"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "237"
 
 [[pokemon.evolutions]]
 name = "hitmontop"
-methods = [ "level-up", "20",]
+methods = [ "level-up", "20"]
 id = "237"
 
 
@@ -116776,7 +116815,7 @@ icon = "assets/pokemon/icon/237_icon.png"
 [[pokemon]]
 id = "238"
 species = "smoochum"
-types = [ "ice", "psychic",]
+types = [ "ice", "psychic"]
 dexEntry = "This is a very curious Pok�mon. Smoochum decides what it likes and dislikes by touching things with its lips."
 [[pokemon.abilities]]
 name = "oblivious"
@@ -117257,7 +117296,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "jynx"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "238"
 
 
@@ -117277,7 +117316,7 @@ icon = "assets/pokemon/icon/238_icon.png"
 [[pokemon]]
 id = "239"
 species = "elekid"
-types = [ "electric",]
+types = [ "electric"]
 dexEntry = "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid."
 [[pokemon.abilities]]
 name = "static"
@@ -117719,7 +117758,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "electabuzz"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "239"
 
 
@@ -117739,7 +117778,7 @@ icon = "assets/pokemon/icon/239_icon.png"
 [[pokemon]]
 id = "240"
 species = "magby"
-types = [ "fire",]
+types = [ "fire"]
 dexEntry = "This Pok�mon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint."
 [[pokemon.abilities]]
 name = "flame-body"
@@ -118166,7 +118205,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "magmar"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "240"
 
 
@@ -118186,7 +118225,7 @@ icon = "assets/pokemon/icon/240_icon.png"
 [[pokemon]]
 id = "241"
 species = "miltank"
-types = [ "normal",]
+types = [ "normal"]
 evolutions = []
 dexEntry = "This Pok�mon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons."
 [[pokemon.abilities]]
@@ -118713,7 +118752,7 @@ icon = "assets/pokemon/icon/241_icon.png"
 [[pokemon]]
 id = "242"
 species = "blissey"
-types = [ "normal",]
+types = [ "normal"]
 dexEntry = "A kindhearted Pok�mon that will care for any sick person or Pok�mon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them."
 [[pokemon.abilities]]
 name = "natural-cure"
@@ -119394,7 +119433,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "chansey"
-methods = [ "level-up", "None",]
+methods = [ "level-up", "None"]
 id = "242"
 
 
@@ -119414,7 +119453,7 @@ icon = "assets/pokemon/icon/242_icon.png"
 [[pokemon]]
 id = "243"
 species = "raikou"
-types = [ "electric",]
+types = [ "electric"]
 evolutions = []
 dexEntry = "Raikou embodies the speed of lightning. The roars of this Pok�mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."
 [[pokemon.abilities]]
@@ -119872,7 +119911,7 @@ icon = "assets/pokemon/icon/243_icon.png"
 [[pokemon]]
 id = "244"
 species = "entei"
-types = [ "fire",]
+types = [ "fire"]
 evolutions = []
 dexEntry = "Entei embodies the passion of magma. This Pok�mon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch."
 [[pokemon.abilities]]
@@ -120305,7 +120344,7 @@ icon = "assets/pokemon/icon/244_icon.png"
 [[pokemon]]
 id = "245"
 species = "suicune"
-types = [ "water",]
+types = [ "water"]
 evolutions = []
 dexEntry = "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pok�mon has the power to purify dirty water."
 [[pokemon.abilities]]
@@ -120753,7 +120792,7 @@ icon = "assets/pokemon/icon/245_icon.png"
 [[pokemon]]
 id = "246"
 species = "larvitar"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
 [[pokemon.abilities]]
 name = "guts"
@@ -121165,7 +121204,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pupitar"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "246"
 
 
@@ -121185,7 +121224,7 @@ icon = "assets/pokemon/icon/246_icon.png"
 [[pokemon]]
 id = "247"
 species = "pupitar"
-types = [ "rock", "ground",]
+types = [ "rock", "ground"]
 dexEntry = "It will not stay still, even while it�s a pupa. It already has arms and legs under its solid shell."
 [[pokemon.abilities]]
 name = "shed-skin"
@@ -121598,7 +121637,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pupitar"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "247"
 
 
@@ -121618,7 +121657,7 @@ icon = "assets/pokemon/icon/247_icon.png"
 [[pokemon]]
 id = "248"
 species = "tyranitar"
-types = [ "rock", "dark",]
+types = [ "rock", "dark"]
 dexEntry = "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain."
 [[pokemon.abilities]]
 name = "sand-stream"
@@ -122300,7 +122339,7 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "pupitar"
-methods = [ "level-up", "30",]
+methods = [ "level-up", "30"]
 id = "248"
 
 
@@ -122320,7 +122359,7 @@ icon = "assets/pokemon/icon/248_icon.png"
 [[pokemon]]
 id = "249"
 species = "lugia"
-types = [ "psychic", "flying",]
+types = [ "psychic", "flying"]
 evolutions = []
 dexEntry = "Lugia�s wings pack devastating power�a light fluttering of its wings can blow apart regular houses. As a result, this Pok�mon chooses to live out of sight deep under the sea."
 [[pokemon.abilities]]
@@ -122933,7 +122972,7 @@ icon = "assets/pokemon/icon/249_icon.png"
 [[pokemon]]
 id = "250"
 species = "ho-oh"
-types = [ "fire", "flying",]
+types = [ "fire", "flying"]
 evolutions = []
 dexEntry = "Ho-Oh�s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pok�mon is said to live at the foot of a rainbow."
 [[pokemon.abilities]]
@@ -123471,7 +123510,7 @@ icon = "assets/pokemon/icon/250_icon.png"
 [[pokemon]]
 id = "251"
 species = "celebi"
-types = [ "psychic", "grass",]
+types = [ "psychic", "grass"]
 evolutions = []
 dexEntry = "This Pok�mon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too."
 [[pokemon.abilities]]
