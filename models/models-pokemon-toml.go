@@ -43,3 +43,20 @@ type Pokemon struct {
 	Stats      Stats        `toml:"stats"`
 	AssetData  AssetData    `toml:"assetData"`
 }
+
+type Moves struct {
+	Move []struct {
+		Name         string `toml:"name"`
+		Power        int    `toml:"Power"`
+		Pp           int    `toml:"pp"`
+		Accuracy     int    `toml:"accuracy"`
+		Type         string `toml:"type"`
+		KindOfMove   string `toml:"kind_of_move"`
+		Descriptions []struct {
+			Description string `toml:"description"`
+		} `toml:"descriptions"`
+		Effects []struct {
+			EffectText string `toml:"effect_text"`
+		} `toml:"effects"`
+	} `toml:"move"`
+}
