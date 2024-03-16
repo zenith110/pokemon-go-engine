@@ -65,3 +65,21 @@ speed = 100
 specialAttack = 100
 specialDefense = 100
 id = '251'
+[[trainers]]
+name = 'ya'
+sprite = 'trainer_a.png'
+id = 'd0c99c39-bfbd-46e3-9611-1abe6287cf99'
+classType = 'elite4'
+
+[[trainers.pokemon]]
+species = 'Charizard'
+level = 1
+moves = ['mega-punch', 'mega-punch', 'mega-punch', 'mega-punch']
+heldItem = 'Oran Berry'
+hp = 78
+attack = 84
+defense = 78
+speed = 100
+specialAttack = 109
+specialDefense = 85
+id = '006'
