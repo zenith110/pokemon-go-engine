@@ -6,7 +6,7 @@ cache.API_CACHE
 
 data = []
 all_moves = pb.APIResourceList("move")
-
+id = 0
 for move_data in all_moves:
     # Get API data for this move.
     move = pb.move(move_data["name"])
@@ -34,9 +34,11 @@ for move_data in all_moves:
         "descriptions": descriptions,
         "type": move.type,
         "kind_of_move": move.damage_class.name,
-        "effects": effect_entry
+        "effects": effect_entry, 
+        "id": id
     }
     data.append(move_data)
+    id += 1
     pokemon_result = {
         "move": data
     }
