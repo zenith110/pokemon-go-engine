@@ -47,6 +47,7 @@ type Pokemon struct {
 type AllMoves struct {
 	Move []struct {
 		Name         string `toml:"name"`
+		Id           string `toml:"id"`
 		Power        int    `toml:"Power"`
 		Pp           int    `toml:"pp"`
 		Accuracy     int    `toml:"accuracy"`
