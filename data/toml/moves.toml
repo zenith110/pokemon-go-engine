@@ -3,7 +3,7 @@ name = "pound"
 Power = 40
 pp = 35
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 0
 [[move.descriptions]]
@@ -63,7 +63,7 @@ name = "karate-chop"
 Power = 50
 pp = 25
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 1
 [[move.descriptions]]
@@ -123,7 +123,7 @@ name = "double-slap"
 Power = 15
 pp = 10
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 2
 [[move.descriptions]]
@@ -183,7 +183,7 @@ name = "comet-punch"
 Power = 18
 pp = 15
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 3
 [[move.descriptions]]
@@ -243,7 +243,7 @@ name = "mega-punch"
 Power = 80
 pp = 20
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 4
 [[move.descriptions]]
@@ -303,7 +303,7 @@ name = "pay-day"
 Power = 40
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 5
 [[move.descriptions]]
@@ -363,7 +363,7 @@ name = "fire-punch"
 Power = 75
 pp = 15
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 6
 [[move.descriptions]]
@@ -423,7 +423,7 @@ name = "ice-punch"
 Power = 75
 pp = 15
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 7
 [[move.descriptions]]
@@ -483,7 +483,7 @@ name = "thunder-punch"
 Power = 75
 pp = 15
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 8
 [[move.descriptions]]
@@ -543,7 +543,7 @@ name = "scratch"
 Power = 40
 pp = 35
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 9
 [[move.descriptions]]
@@ -603,7 +603,7 @@ name = "vice-grip"
 Power = 55
 pp = 30
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 10
 [[move.descriptions]]
@@ -662,7 +662,7 @@ effect_text = "Inflicts regular damage."
 name = "guillotine"
 pp = 5
 accuracy = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 11
 [[move.descriptions]]
@@ -722,7 +722,7 @@ name = "razor-wind"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 12
 [[move.descriptions]]
@@ -780,7 +780,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 [[move]]
 name = "swords-dance"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 13
 [[move.descriptions]]
@@ -840,7 +840,7 @@ name = "cut"
 Power = 50
 pp = 30
 accuracy = 95
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 14
 [[move.descriptions]]
@@ -900,7 +900,7 @@ name = "gust"
 Power = 40
 pp = 35
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 15
 [[move.descriptions]]
@@ -960,7 +960,7 @@ name = "wing-attack"
 Power = 60
 pp = 35
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 16
 [[move.descriptions]]
@@ -1018,7 +1018,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "whirlwind"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 17
 [[move.descriptions]]
@@ -1078,7 +1078,7 @@ name = "fly"
 Power = 90
 pp = 15
 accuracy = 95
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 18
 [[move.descriptions]]
@@ -1138,7 +1138,7 @@ name = "bind"
 Power = 15
 pp = 20
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 19
 [[move.descriptions]]
@@ -1198,7 +1198,7 @@ name = "slam"
 Power = 80
 pp = 20
 accuracy = 75
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 20
 [[move.descriptions]]
@@ -1258,7 +1258,7 @@ name = "vine-whip"
 Power = 45
 pp = 25
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 21
 [[move.descriptions]]
@@ -1318,7 +1318,7 @@ name = "stomp"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 22
 [[move.descriptions]]
@@ -1378,7 +1378,7 @@ name = "double-kick"
 Power = 30
 pp = 30
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 23
 [[move.descriptions]]
@@ -1438,7 +1438,7 @@ name = "mega-kick"
 Power = 120
 pp = 5
 accuracy = 75
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 24
 [[move.descriptions]]
@@ -1498,7 +1498,7 @@ name = "jump-kick"
 Power = 100
 pp = 10
 accuracy = 95
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 25
 [[move.descriptions]]
@@ -1558,7 +1558,7 @@ name = "rolling-kick"
 Power = 60
 pp = 15
 accuracy = 85
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 26
 [[move.descriptions]]
@@ -1617,7 +1617,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to make the target fli
 name = "sand-attack"
 pp = 15
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "status"
 id = 27
 [[move.descriptions]]
@@ -1677,7 +1677,7 @@ name = "headbutt"
 Power = 70
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 28
 [[move.descriptions]]
@@ -1737,7 +1737,7 @@ name = "horn-attack"
 Power = 65
 pp = 25
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 29
 [[move.descriptions]]
@@ -1797,7 +1797,7 @@ name = "fury-attack"
 Power = 15
 pp = 20
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 30
 [[move.descriptions]]
@@ -1856,7 +1856,7 @@ effect_text = "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 
 name = "horn-drill"
 pp = 5
 accuracy = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 31
 [[move.descriptions]]
@@ -1916,7 +1916,7 @@ name = "tackle"
 Power = 40
 pp = 35
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 32
 [[move.descriptions]]
@@ -1976,7 +1976,7 @@ name = "body-slam"
 Power = 85
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 33
 [[move.descriptions]]
@@ -2036,7 +2036,7 @@ name = "wrap"
 Power = 15
 pp = 20
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 34
 [[move.descriptions]]
@@ -2096,7 +2096,7 @@ name = "take-down"
 Power = 90
 pp = 20
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 35
 [[move.descriptions]]
@@ -2156,7 +2156,7 @@ name = "thrash"
 Power = 120
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 36
 [[move.descriptions]]
@@ -2216,7 +2216,7 @@ name = "double-edge"
 Power = 120
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 37
 [[move.descriptions]]
@@ -2275,7 +2275,7 @@ effect_text = "Inflicts regular damage.  User takes 1/3 the damage it inflicts i
 name = "tail-whip"
 pp = 30
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 38
 [[move.descriptions]]
@@ -2335,7 +2335,7 @@ name = "poison-sting"
 Power = 15
 pp = 35
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 39
 [[move.descriptions]]
@@ -2395,7 +2395,7 @@ name = "twineedle"
 Power = 25
 pp = 20
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 40
 [[move.descriptions]]
@@ -2455,7 +2455,7 @@ name = "pin-missile"
 Power = 25
 pp = 20
 accuracy = 95
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 41
 [[move.descriptions]]
@@ -2514,7 +2514,7 @@ effect_text = "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 
 name = "leer"
 pp = 30
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 42
 [[move.descriptions]]
@@ -2574,7 +2574,7 @@ name = "bite"
 Power = 60
 pp = 25
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 43
 [[move.descriptions]]
@@ -2633,7 +2633,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to make the target fli
 name = "growl"
 pp = 40
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 44
 [[move.descriptions]]
@@ -2691,7 +2691,7 @@ effect_text = "Lowers the target's Attack by one stage."
 [[move]]
 name = "roar"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 45
 [[move.descriptions]]
@@ -2750,7 +2750,7 @@ effect_text = "Switches the target out for another of its trainer's Pokémon sel
 name = "sing"
 pp = 15
 accuracy = 55
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 46
 [[move.descriptions]]
@@ -2809,7 +2809,7 @@ effect_text = "Puts the target to sleep."
 name = "supersonic"
 pp = 20
 accuracy = 55
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 47
 [[move.descriptions]]
@@ -2868,7 +2868,7 @@ effect_text = "Confuses the target."
 name = "sonic-boom"
 pp = 20
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 48
 [[move.descriptions]]
@@ -2927,7 +2927,7 @@ effect_text = "Inflicts exactly 20 damage."
 name = "disable"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 49
 [[move.descriptions]]
@@ -2987,7 +2987,7 @@ name = "acid"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 50
 [[move.descriptions]]
@@ -3047,7 +3047,7 @@ name = "ember"
 Power = 40
 pp = 25
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 51
 [[move.descriptions]]
@@ -3107,7 +3107,7 @@ name = "flamethrower"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 52
 [[move.descriptions]]
@@ -3165,7 +3165,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to burn the target."
 [[move]]
 name = "mist"
 pp = 30
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "status"
 id = 53
 [[move.descriptions]]
@@ -3225,7 +3225,7 @@ name = "water-gun"
 Power = 40
 pp = 25
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 54
 [[move.descriptions]]
@@ -3285,7 +3285,7 @@ name = "hydro-pump"
 Power = 110
 pp = 5
 accuracy = 80
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 55
 [[move.descriptions]]
@@ -3345,7 +3345,7 @@ name = "surf"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 56
 [[move.descriptions]]
@@ -3405,7 +3405,7 @@ name = "ice-beam"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 57
 [[move.descriptions]]
@@ -3465,7 +3465,7 @@ name = "blizzard"
 Power = 110
 pp = 5
 accuracy = 70
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 58
 [[move.descriptions]]
@@ -3525,7 +3525,7 @@ name = "psybeam"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 59
 [[move.descriptions]]
@@ -3585,7 +3585,7 @@ name = "bubble-beam"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 60
 [[move.descriptions]]
@@ -3645,7 +3645,7 @@ name = "aurora-beam"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 61
 [[move.descriptions]]
@@ -3705,7 +3705,7 @@ name = "hyper-beam"
 Power = 150
 pp = 5
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 62
 [[move.descriptions]]
@@ -3765,7 +3765,7 @@ name = "peck"
 Power = 35
 pp = 35
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 63
 [[move.descriptions]]
@@ -3825,7 +3825,7 @@ name = "drill-peck"
 Power = 80
 pp = 20
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 64
 [[move.descriptions]]
@@ -3885,7 +3885,7 @@ name = "submission"
 Power = 80
 pp = 20
 accuracy = 80
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 65
 [[move.descriptions]]
@@ -3944,7 +3944,7 @@ effect_text = "Inflicts regular damage.  User takes 1/4 the damage it inflicts i
 name = "low-kick"
 pp = 20
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 66
 [[move.descriptions]]
@@ -4003,7 +4003,7 @@ effect_text = "Inflicts regular damage.  Power increases with the target's weigh
 name = "counter"
 pp = 20
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 67
 [[move.descriptions]]
@@ -4062,7 +4062,7 @@ effect_text = "Targets the last opposing Pokémon to hit the user with a physica
 name = "seismic-toss"
 pp = 20
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 68
 [[move.descriptions]]
@@ -4122,7 +4122,7 @@ name = "strength"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 69
 [[move.descriptions]]
@@ -4182,7 +4182,7 @@ name = "absorb"
 Power = 20
 pp = 25
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 70
 [[move.descriptions]]
@@ -4242,7 +4242,7 @@ name = "mega-drain"
 Power = 40
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 71
 [[move.descriptions]]
@@ -4301,7 +4301,7 @@ effect_text = "Inflicts regular damage.  Drains half the damage inflicted to hea
 name = "leech-seed"
 pp = 10
 accuracy = 90
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 72
 [[move.descriptions]]
@@ -4359,7 +4359,7 @@ effect_text = "Plants a seed on the target that drains 1/8 of its max HP at the 
 [[move]]
 name = "growth"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 73
 [[move.descriptions]]
@@ -4419,7 +4419,7 @@ name = "razor-leaf"
 Power = 55
 pp = 25
 accuracy = 95
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 74
 [[move.descriptions]]
@@ -4479,7 +4479,7 @@ name = "solar-beam"
 Power = 120
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 75
 [[move.descriptions]]
@@ -4538,7 +4538,7 @@ effect_text = "Inflicts regular damage.  User charges for one turn before attack
 name = "poison-powder"
 pp = 35
 accuracy = 75
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 76
 [[move.descriptions]]
@@ -4597,7 +4597,7 @@ effect_text = "Poisons the target."
 name = "stun-spore"
 pp = 30
 accuracy = 75
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 77
 [[move.descriptions]]
@@ -4656,7 +4656,7 @@ effect_text = "Paralyzes the target."
 name = "sleep-powder"
 pp = 15
 accuracy = 75
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 78
 [[move.descriptions]]
@@ -4716,7 +4716,7 @@ name = "petal-dance"
 Power = 120
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 79
 [[move.descriptions]]
@@ -4775,7 +4775,7 @@ effect_text = "Inflicts regular damage.  User is forced to attack with this move
 name = "string-shot"
 pp = 40
 accuracy = 95
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 80
 [[move.descriptions]]
@@ -4834,7 +4834,7 @@ effect_text = "Lowers the target's Speed by two stages."
 name = "dragon-rage"
 pp = 10
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 81
 [[move.descriptions]]
@@ -4894,7 +4894,7 @@ name = "fire-spin"
 Power = 35
 pp = 15
 accuracy = 85
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 82
 [[move.descriptions]]
@@ -4954,7 +4954,7 @@ name = "thunder-shock"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 83
 [[move.descriptions]]
@@ -5014,7 +5014,7 @@ name = "thunderbolt"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 84
 [[move.descriptions]]
@@ -5073,7 +5073,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to paralyze the target
 name = "thunder-wave"
 pp = 20
 accuracy = 90
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 85
 [[move.descriptions]]
@@ -5133,7 +5133,7 @@ name = "thunder"
 Power = 110
 pp = 10
 accuracy = 70
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 86
 [[move.descriptions]]
@@ -5193,7 +5193,7 @@ name = "rock-throw"
 Power = 50
 pp = 15
 accuracy = 90
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 87
 [[move.descriptions]]
@@ -5253,7 +5253,7 @@ name = "earthquake"
 Power = 100
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 88
 [[move.descriptions]]
@@ -5312,7 +5312,7 @@ effect_text = "Inflicts regular damage.\n\nIf the target is in the first turn of
 name = "fissure"
 pp = 5
 accuracy = 30
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 89
 [[move.descriptions]]
@@ -5372,7 +5372,7 @@ name = "dig"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 90
 [[move.descriptions]]
@@ -5431,7 +5431,7 @@ effect_text = "Inflicts regular damage.  User digs underground for one turn, bec
 name = "toxic"
 pp = 10
 accuracy = 90
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 91
 [[move.descriptions]]
@@ -5491,7 +5491,7 @@ name = "confusion"
 Power = 50
 pp = 25
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 92
 [[move.descriptions]]
@@ -5551,7 +5551,7 @@ name = "psychic"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 93
 [[move.descriptions]]
@@ -5610,7 +5610,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to lower the target's 
 name = "hypnosis"
 pp = 20
 accuracy = 60
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 94
 [[move.descriptions]]
@@ -5668,7 +5668,7 @@ effect_text = "Puts the target to sleep."
 [[move]]
 name = "meditate"
 pp = 40
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 95
 [[move.descriptions]]
@@ -5726,7 +5726,7 @@ effect_text = "Raises the user's Attack by one stage."
 [[move]]
 name = "agility"
 pp = 30
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 96
 [[move.descriptions]]
@@ -5786,7 +5786,7 @@ name = "quick-attack"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 97
 [[move.descriptions]]
@@ -5846,7 +5846,7 @@ name = "rage"
 Power = 20
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 98
 [[move.descriptions]]
@@ -5904,7 +5904,7 @@ effect_text = "Inflicts regular damage.  Every time the user is hit after it use
 [[move]]
 name = "teleport"
 pp = 20
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 99
 [[move.descriptions]]
@@ -5963,7 +5963,7 @@ effect_text = "Does nothing.  Wild battles end immediately."
 name = "night-shade"
 pp = 15
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 100
 [[move.descriptions]]
@@ -6021,7 +6021,7 @@ effect_text = "Inflicts damage equal to the user's level.  Type immunity applies
 [[move]]
 name = "mimic"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 101
 [[move.descriptions]]
@@ -6080,7 +6080,7 @@ effect_text = "This move is replaced by the target's last successfully used move
 name = "screech"
 pp = 40
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 102
 [[move.descriptions]]
@@ -6138,7 +6138,7 @@ effect_text = "Lowers the target's Defense by two stages."
 [[move]]
 name = "double-team"
 pp = 15
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 103
 [[move.descriptions]]
@@ -6196,7 +6196,7 @@ effect_text = "Raises the user's evasion by one stage."
 [[move]]
 name = "recover"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 104
 [[move.descriptions]]
@@ -6254,7 +6254,7 @@ effect_text = "Heals the user for half its max HP."
 [[move]]
 name = "harden"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 105
 [[move.descriptions]]
@@ -6312,7 +6312,7 @@ effect_text = "Raises the user's Defense by one stage."
 [[move]]
 name = "minimize"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 106
 [[move.descriptions]]
@@ -6371,7 +6371,7 @@ effect_text = "Raises the user's evasion by two stages.\n\nstomp and steamroller
 name = "smokescreen"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 107
 [[move.descriptions]]
@@ -6430,7 +6430,7 @@ effect_text = "Lowers the target's accuracy by one stage."
 name = "confuse-ray"
 pp = 10
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "status"
 id = 108
 [[move.descriptions]]
@@ -6488,7 +6488,7 @@ effect_text = "Confuses the target."
 [[move]]
 name = "withdraw"
 pp = 40
-type = "<type-water>"
+type = "water"
 kind_of_move = "status"
 id = 109
 [[move.descriptions]]
@@ -6546,7 +6546,7 @@ effect_text = "Raises the user's Defense by one stage."
 [[move]]
 name = "defense-curl"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 110
 [[move.descriptions]]
@@ -6604,7 +6604,7 @@ effect_text = "Raises user's Defense by one stage.\n\nAfter this move is used, t
 [[move]]
 name = "barrier"
 pp = 20
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 111
 [[move.descriptions]]
@@ -6662,7 +6662,7 @@ effect_text = "Raises the user's Defense by two stages."
 [[move]]
 name = "light-screen"
 pp = 30
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 112
 [[move.descriptions]]
@@ -6720,7 +6720,7 @@ effect_text = "Erects a barrier around the user's side of the field that reduces
 [[move]]
 name = "haze"
 pp = 30
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "status"
 id = 113
 [[move.descriptions]]
@@ -6778,7 +6778,7 @@ effect_text = "Removes stat, accuracy, and evasion modifiers from every Pokémon
 [[move]]
 name = "reflect"
 pp = 20
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 114
 [[move.descriptions]]
@@ -6836,7 +6836,7 @@ effect_text = "Erects a barrier around the user's side of the field that reduces
 [[move]]
 name = "focus-energy"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 115
 [[move.descriptions]]
@@ -6894,7 +6894,7 @@ effect_text = "User's critical hit rate is two levels higher until it leaves the
 [[move]]
 name = "bide"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 116
 [[move.descriptions]]
@@ -6952,7 +6952,7 @@ effect_text = "User waits for two turns.  On the second turn, the user inflicts 
 [[move]]
 name = "metronome"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 117
 [[move.descriptions]]
@@ -7010,7 +7010,7 @@ effect_text = "Selects any move at random and uses it.  Moves the user already k
 [[move]]
 name = "mirror-move"
 pp = 20
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "status"
 id = 118
 [[move.descriptions]]
@@ -7070,7 +7070,7 @@ name = "self-destruct"
 Power = 200
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 119
 [[move.descriptions]]
@@ -7130,7 +7130,7 @@ name = "egg-bomb"
 Power = 100
 pp = 10
 accuracy = 75
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 120
 [[move.descriptions]]
@@ -7190,7 +7190,7 @@ name = "lick"
 Power = 30
 pp = 30
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 121
 [[move.descriptions]]
@@ -7250,7 +7250,7 @@ name = "smog"
 Power = 30
 pp = 20
 accuracy = 70
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 122
 [[move.descriptions]]
@@ -7310,7 +7310,7 @@ name = "sludge"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 123
 [[move.descriptions]]
@@ -7370,7 +7370,7 @@ name = "bone-club"
 Power = 65
 pp = 20
 accuracy = 85
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 124
 [[move.descriptions]]
@@ -7430,7 +7430,7 @@ name = "fire-blast"
 Power = 110
 pp = 5
 accuracy = 85
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 125
 [[move.descriptions]]
@@ -7490,7 +7490,7 @@ name = "waterfall"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 126
 [[move.descriptions]]
@@ -7550,7 +7550,7 @@ name = "clamp"
 Power = 35
 pp = 15
 accuracy = 85
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 127
 [[move.descriptions]]
@@ -7609,7 +7609,7 @@ effect_text = "Inflicts regular damage.  For the next 2–5 turns, the target ca
 name = "swift"
 Power = 60
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 128
 [[move.descriptions]]
@@ -7669,7 +7669,7 @@ name = "skull-bash"
 Power = 130
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 129
 [[move.descriptions]]
@@ -7729,7 +7729,7 @@ name = "spike-cannon"
 Power = 20
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 130
 [[move.descriptions]]
@@ -7789,7 +7789,7 @@ name = "constrict"
 Power = 10
 pp = 35
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 131
 [[move.descriptions]]
@@ -7847,7 +7847,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to lower the target's 
 [[move]]
 name = "amnesia"
 pp = 20
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 132
 [[move.descriptions]]
@@ -7906,7 +7906,7 @@ effect_text = "Raises the user's Special Defense by two stages."
 name = "kinesis"
 pp = 15
 accuracy = 80
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 133
 [[move.descriptions]]
@@ -7964,7 +7964,7 @@ effect_text = "Lowers the target's accuracy by one stage."
 [[move]]
 name = "soft-boiled"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 134
 [[move.descriptions]]
@@ -8024,7 +8024,7 @@ name = "high-jump-kick"
 Power = 130
 pp = 10
 accuracy = 90
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 135
 [[move.descriptions]]
@@ -8083,7 +8083,7 @@ effect_text = "Inflicts regular damage. If this move misses, is blocked by prote
 name = "glare"
 pp = 30
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 136
 [[move.descriptions]]
@@ -8143,7 +8143,7 @@ name = "dream-eater"
 Power = 100
 pp = 15
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 137
 [[move.descriptions]]
@@ -8202,7 +8202,7 @@ effect_text = "Fails if not used on a sleeping Pokémon.  Inflicts regular damag
 name = "poison-gas"
 pp = 40
 accuracy = 90
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 138
 [[move.descriptions]]
@@ -8262,7 +8262,7 @@ name = "barrage"
 Power = 15
 pp = 20
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 139
 [[move.descriptions]]
@@ -8322,7 +8322,7 @@ name = "leech-life"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 140
 [[move.descriptions]]
@@ -8381,7 +8381,7 @@ effect_text = "Inflicts regular damage.  Drains half the damage inflicted to hea
 name = "lovely-kiss"
 pp = 10
 accuracy = 75
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 141
 [[move.descriptions]]
@@ -8441,7 +8441,7 @@ name = "sky-attack"
 Power = 140
 pp = 5
 accuracy = 90
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 142
 [[move.descriptions]]
@@ -8499,7 +8499,7 @@ effect_text = "Inflicts regular damage.  User charges for one turn before attack
 [[move]]
 name = "transform"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 143
 [[move.descriptions]]
@@ -8559,7 +8559,7 @@ name = "bubble"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 144
 [[move.descriptions]]
@@ -8619,7 +8619,7 @@ name = "dizzy-punch"
 Power = 70
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 145
 [[move.descriptions]]
@@ -8678,7 +8678,7 @@ effect_text = "Inflicts regular damage.  Has a 20% chance to confuse the target.
 name = "spore"
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 146
 [[move.descriptions]]
@@ -8737,7 +8737,7 @@ effect_text = "Puts the target to sleep."
 name = "flash"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 147
 [[move.descriptions]]
@@ -8796,7 +8796,7 @@ effect_text = "Lowers the target's accuracy by one stage."
 name = "psywave"
 pp = 15
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 148
 [[move.descriptions]]
@@ -8854,7 +8854,7 @@ effect_text = "Inflicts typeless damage between 50% and 150% of the user's level
 [[move]]
 name = "splash"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 149
 [[move.descriptions]]
@@ -8912,7 +8912,7 @@ effect_text = "Does nothing.\n\nThis move cannot be used while gravity is in eff
 [[move]]
 name = "acid-armor"
 pp = 20
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 150
 [[move.descriptions]]
@@ -8972,7 +8972,7 @@ name = "crabhammer"
 Power = 100
 pp = 10
 accuracy = 90
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 151
 [[move.descriptions]]
@@ -9032,7 +9032,7 @@ name = "explosion"
 Power = 250
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 152
 [[move.descriptions]]
@@ -9092,7 +9092,7 @@ name = "fury-swipes"
 Power = 18
 pp = 15
 accuracy = 80
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 153
 [[move.descriptions]]
@@ -9152,7 +9152,7 @@ name = "bonemerang"
 Power = 50
 pp = 10
 accuracy = 90
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 154
 [[move.descriptions]]
@@ -9210,7 +9210,7 @@ effect_text = "Inflicts regular damage.  Hits twice in one turn."
 [[move]]
 name = "rest"
 pp = 5
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 155
 [[move.descriptions]]
@@ -9270,7 +9270,7 @@ name = "rock-slide"
 Power = 75
 pp = 10
 accuracy = 90
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 156
 [[move.descriptions]]
@@ -9330,7 +9330,7 @@ name = "hyper-fang"
 Power = 80
 pp = 15
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 157
 [[move.descriptions]]
@@ -9388,7 +9388,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to make the target fli
 [[move]]
 name = "sharpen"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 158
 [[move.descriptions]]
@@ -9446,7 +9446,7 @@ effect_text = "Raises the user's Attack by one stage."
 [[move]]
 name = "conversion"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 159
 [[move.descriptions]]
@@ -9506,7 +9506,7 @@ name = "tri-attack"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 160
 [[move.descriptions]]
@@ -9565,7 +9565,7 @@ effect_text = "Inflicts regular damage.  Has a 20% chance to burn, freeze, or pa
 name = "super-fang"
 pp = 10
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 161
 [[move.descriptions]]
@@ -9625,7 +9625,7 @@ name = "slash"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 162
 [[move.descriptions]]
@@ -9683,7 +9683,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 [[move]]
 name = "substitute"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 163
 [[move.descriptions]]
@@ -9742,7 +9742,7 @@ effect_text = "Transfers 1/4 the user's max HP into a doll that absorbs damage a
 name = "struggle"
 Power = 50
 pp = 1
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 164
 [[move.descriptions]]
@@ -9800,7 +9800,7 @@ effect_text = "Inflicts typeless regular damage.  User takes 1/4 its max HP in r
 [[move]]
 name = "sketch"
 pp = 1
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 165
 [[move.descriptions]]
@@ -9860,7 +9860,7 @@ name = "triple-kick"
 Power = 10
 pp = 10
 accuracy = 90
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 166
 [[move.descriptions]]
@@ -9920,7 +9920,7 @@ name = "thief"
 Power = 60
 pp = 25
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 167
 [[move.descriptions]]
@@ -9978,7 +9978,7 @@ effect_text = "Inflicts regular damage.  If the target is holding an item and th
 [[move]]
 name = "spider-web"
 pp = 10
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 168
 [[move.descriptions]]
@@ -10036,7 +10036,7 @@ effect_text = "The target cannot switch out normally.  Ignores accuracy and evas
 [[move]]
 name = "mind-reader"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 169
 [[move.descriptions]]
@@ -10095,7 +10095,7 @@ effect_text = "If the user targets the same target again before the end of the n
 name = "nightmare"
 pp = 15
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "status"
 id = 170
 [[move.descriptions]]
@@ -10155,7 +10155,7 @@ name = "flame-wheel"
 Power = 60
 pp = 25
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 171
 [[move.descriptions]]
@@ -10215,7 +10215,7 @@ name = "snore"
 Power = 50
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 172
 [[move.descriptions]]
@@ -10273,7 +10273,7 @@ effect_text = "Only usable if the user is sleeping.  Inflicts regular damage.  H
 [[move]]
 name = "curse"
 pp = 10
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "status"
 id = 173
 [[move.descriptions]]
@@ -10332,7 +10332,7 @@ effect_text = "If the user is a ghost: user pays half its max HP to place a curs
 name = "flail"
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 174
 [[move.descriptions]]
@@ -10390,7 +10390,7 @@ effect_text = "Inflicts regular damage.  Power varies inversely with the user's 
 [[move]]
 name = "conversion-2"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 175
 [[move.descriptions]]
@@ -10450,7 +10450,7 @@ name = "aeroblast"
 Power = 100
 pp = 5
 accuracy = 95
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 176
 [[move.descriptions]]
@@ -10509,7 +10509,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 name = "cotton-spore"
 pp = 40
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 177
 [[move.descriptions]]
@@ -10568,7 +10568,7 @@ effect_text = "Lowers the target's Speed by two stages."
 name = "reversal"
 pp = 15
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 178
 [[move.descriptions]]
@@ -10627,7 +10627,7 @@ effect_text = "Inflicts regular damage.  Power varies inversely with the user's 
 name = "spite"
 pp = 10
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "status"
 id = 179
 [[move.descriptions]]
@@ -10687,7 +10687,7 @@ name = "powder-snow"
 Power = 40
 pp = 25
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 180
 [[move.descriptions]]
@@ -10745,7 +10745,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to freeze the target."
 [[move]]
 name = "protect"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 181
 [[move.descriptions]]
@@ -10805,7 +10805,7 @@ name = "mach-punch"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 182
 [[move.descriptions]]
@@ -10864,7 +10864,7 @@ effect_text = "Inflicts regular damage."
 name = "scary-face"
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 183
 [[move.descriptions]]
@@ -10923,7 +10923,7 @@ effect_text = "Lowers the target's Speed by two stages."
 name = "feint-attack"
 Power = 60
 pp = 20
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 184
 [[move.descriptions]]
@@ -10982,7 +10982,7 @@ effect_text = "Inflicts regular damage.  Ignores accuracy and evasion modifiers.
 name = "sweet-kiss"
 pp = 10
 accuracy = 75
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 185
 [[move.descriptions]]
@@ -11040,7 +11040,7 @@ effect_text = "Confuses the target."
 [[move]]
 name = "belly-drum"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 186
 [[move.descriptions]]
@@ -11100,7 +11100,7 @@ name = "sludge-bomb"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 187
 [[move.descriptions]]
@@ -11160,7 +11160,7 @@ name = "mud-slap"
 Power = 20
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "special"
 id = 188
 [[move.descriptions]]
@@ -11220,7 +11220,7 @@ name = "octazooka"
 Power = 65
 pp = 10
 accuracy = 85
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 189
 [[move.descriptions]]
@@ -11278,7 +11278,7 @@ effect_text = "Inflicts regular damage.  Has a 50% chance to lower the target's 
 [[move]]
 name = "spikes"
 pp = 20
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "status"
 id = 190
 [[move.descriptions]]
@@ -11338,7 +11338,7 @@ name = "zap-cannon"
 Power = 120
 pp = 5
 accuracy = 50
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 191
 [[move.descriptions]]
@@ -11396,7 +11396,7 @@ effect_text = "Inflicts regular damage.  Has a 100% chance to paralyze the targe
 [[move]]
 name = "foresight"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 192
 [[move.descriptions]]
@@ -11454,7 +11454,7 @@ effect_text = "Resets the target's evasion to normal and prevents any further bo
 [[move]]
 name = "destiny-bond"
 pp = 5
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "status"
 id = 193
 [[move.descriptions]]
@@ -11512,7 +11512,7 @@ effect_text = "If the user faints before its next move, the Pokémon that fainte
 [[move]]
 name = "perish-song"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 194
 [[move.descriptions]]
@@ -11572,7 +11572,7 @@ name = "icy-wind"
 Power = 55
 pp = 15
 accuracy = 95
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 195
 [[move.descriptions]]
@@ -11630,7 +11630,7 @@ effect_text = "Inflicts regular damage.  Has a 100% chance to lower the target's
 [[move]]
 name = "detect"
 pp = 5
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 id = 196
 [[move.descriptions]]
@@ -11690,7 +11690,7 @@ name = "bone-rush"
 Power = 25
 pp = 10
 accuracy = 90
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 197
 [[move.descriptions]]
@@ -11748,7 +11748,7 @@ effect_text = "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 
 [[move]]
 name = "lock-on"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 198
 [[move.descriptions]]
@@ -11808,7 +11808,7 @@ name = "outrage"
 Power = 120
 pp = 10
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 199
 [[move.descriptions]]
@@ -11866,7 +11866,7 @@ effect_text = "Inflicts regular damage.  User is forced to attack with this move
 [[move]]
 name = "sandstorm"
 pp = 10
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "status"
 id = 200
 [[move.descriptions]]
@@ -11926,7 +11926,7 @@ name = "giga-drain"
 Power = 75
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 201
 [[move.descriptions]]
@@ -11984,7 +11984,7 @@ effect_text = "Inflicts regular damage.  Drains half the damage inflicted to hea
 [[move]]
 name = "endure"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 202
 [[move.descriptions]]
@@ -12043,7 +12043,7 @@ effect_text = "The user's HP cannot be lowered below 1 by any means for the rema
 name = "charm"
 pp = 20
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 203
 [[move.descriptions]]
@@ -12103,7 +12103,7 @@ name = "rollout"
 Power = 30
 pp = 20
 accuracy = 90
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 204
 [[move.descriptions]]
@@ -12163,7 +12163,7 @@ name = "false-swipe"
 Power = 40
 pp = 40
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 205
 [[move.descriptions]]
@@ -12222,7 +12222,7 @@ effect_text = "Inflicts regular damage.  Will not reduce the target's HP below 1
 name = "swagger"
 pp = 15
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 206
 [[move.descriptions]]
@@ -12280,7 +12280,7 @@ effect_text = "Raises the target's Attack by two stages, then confuses it.  If t
 [[move]]
 name = "milk-drink"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 207
 [[move.descriptions]]
@@ -12340,7 +12340,7 @@ name = "spark"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 208
 [[move.descriptions]]
@@ -12400,7 +12400,7 @@ name = "fury-cutter"
 Power = 40
 pp = 20
 accuracy = 95
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 209
 [[move.descriptions]]
@@ -12460,7 +12460,7 @@ name = "steel-wing"
 Power = 70
 pp = 25
 accuracy = 90
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 210
 [[move.descriptions]]
@@ -12518,7 +12518,7 @@ effect_text = "Inflicts regular damage. Has a 10% chance to raise the user's Def
 [[move]]
 name = "mean-look"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 211
 [[move.descriptions]]
@@ -12577,7 +12577,7 @@ effect_text = "The target cannot switch out normally.  Ignores accuracy and evas
 name = "attract"
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 212
 [[move.descriptions]]
@@ -12635,7 +12635,7 @@ effect_text = "Causes the target to fall in love with the user, giving it a 50% 
 [[move]]
 name = "sleep-talk"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 213
 [[move.descriptions]]
@@ -12693,7 +12693,7 @@ effect_text = "Only usable if the user is sleeping.  Randomly selects and uses o
 [[move]]
 name = "heal-bell"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 214
 [[move.descriptions]]
@@ -12752,7 +12752,7 @@ effect_text = "Removes major status effects and confusion from every Pokémon in
 name = "return"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 215
 [[move.descriptions]]
@@ -12811,7 +12811,7 @@ effect_text = "Inflicts regular damage.  Power increases with happiness, given b
 name = "present"
 pp = 15
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 216
 [[move.descriptions]]
@@ -12870,7 +12870,7 @@ effect_text = "Randomly uses one of the following effects.\n\nEffect            
 name = "frustration"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 217
 [[move.descriptions]]
@@ -12928,7 +12928,7 @@ effect_text = "Inflicts regular damage.  Power increases inversely with happines
 [[move]]
 name = "safeguard"
 pp = 25
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 218
 [[move.descriptions]]
@@ -12986,7 +12986,7 @@ effect_text = "Protects Pokémon on the user's side of the field from major stat
 [[move]]
 name = "pain-split"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 219
 [[move.descriptions]]
@@ -13046,7 +13046,7 @@ name = "sacred-fire"
 Power = 100
 pp = 5
 accuracy = 95
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 220
 [[move.descriptions]]
@@ -13105,7 +13105,7 @@ effect_text = "Inflicts regular damage.  Has a 50% chance to burn the target.  F
 name = "magnitude"
 pp = 30
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 221
 [[move.descriptions]]
@@ -13165,7 +13165,7 @@ name = "dynamic-punch"
 Power = 100
 pp = 5
 accuracy = 50
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 222
 [[move.descriptions]]
@@ -13225,7 +13225,7 @@ name = "megahorn"
 Power = 120
 pp = 10
 accuracy = 85
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 223
 [[move.descriptions]]
@@ -13285,7 +13285,7 @@ name = "dragon-breath"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 224
 [[move.descriptions]]
@@ -13343,7 +13343,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to paralyze the target
 [[move]]
 name = "baton-pass"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 225
 [[move.descriptions]]
@@ -13402,7 +13402,7 @@ effect_text = "User switches out, and the trainer selects a replacement Pokémon
 name = "encore"
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 226
 [[move.descriptions]]
@@ -13462,7 +13462,7 @@ name = "pursuit"
 Power = 40
 pp = 20
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 227
 [[move.descriptions]]
@@ -13522,7 +13522,7 @@ name = "rapid-spin"
 Power = 50
 pp = 40
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 228
 [[move.descriptions]]
@@ -13581,7 +13581,7 @@ effect_text = "Inflicts regular damage.  Removes leech seed from the user, frees
 name = "sweet-scent"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 229
 [[move.descriptions]]
@@ -13641,7 +13641,7 @@ name = "iron-tail"
 Power = 100
 pp = 15
 accuracy = 75
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 230
 [[move.descriptions]]
@@ -13701,7 +13701,7 @@ name = "metal-claw"
 Power = 50
 pp = 35
 accuracy = 95
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 231
 [[move.descriptions]]
@@ -13760,7 +13760,7 @@ effect_text = "Inflicts regular damage. Has a 10% chance to raise the user's Att
 name = "vital-throw"
 Power = 70
 pp = 10
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 232
 [[move.descriptions]]
@@ -13818,7 +13818,7 @@ effect_text = "Inflicts regular damage.  Ignores accuracy and evasion modifiers.
 [[move]]
 name = "morning-sun"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 233
 [[move.descriptions]]
@@ -13876,7 +13876,7 @@ effect_text = "Heals the user for half its max HP.\n\nDuring sunny day, the heal
 [[move]]
 name = "synthesis"
 pp = 5
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 234
 [[move.descriptions]]
@@ -13934,7 +13934,7 @@ effect_text = "Heals the user for half its max HP.\n\nDuring sunny day, the heal
 [[move]]
 name = "moonlight"
 pp = 5
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 235
 [[move.descriptions]]
@@ -13994,7 +13994,7 @@ name = "hidden-power"
 Power = 60
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 236
 [[move.descriptions]]
@@ -14054,7 +14054,7 @@ name = "cross-chop"
 Power = 100
 pp = 5
 accuracy = 80
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 237
 [[move.descriptions]]
@@ -14114,7 +14114,7 @@ name = "twister"
 Power = 40
 pp = 20
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 238
 [[move.descriptions]]
@@ -14172,7 +14172,7 @@ effect_text = "Inflicts regular damage.  Has a 20% chance to make each target fl
 [[move]]
 name = "rain-dance"
 pp = 5
-type = "<type-water>"
+type = "water"
 kind_of_move = "status"
 id = 239
 [[move.descriptions]]
@@ -14230,7 +14230,7 @@ effect_text = "Changes the weather to rain for five turns, during which water mo
 [[move]]
 name = "sunny-day"
 pp = 5
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "status"
 id = 240
 [[move.descriptions]]
@@ -14290,7 +14290,7 @@ name = "crunch"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 241
 [[move.descriptions]]
@@ -14349,7 +14349,7 @@ effect_text = "Inflicts regular damage.  Has a 20% chance to lower the target's 
 name = "mirror-coat"
 pp = 20
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 242
 [[move.descriptions]]
@@ -14407,7 +14407,7 @@ effect_text = "Targets the last opposing Pokémon to hit the user with a special
 [[move]]
 name = "psych-up"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 243
 [[move.descriptions]]
@@ -14467,7 +14467,7 @@ name = "extreme-speed"
 Power = 80
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 244
 [[move.descriptions]]
@@ -14527,7 +14527,7 @@ name = "ancient-power"
 Power = 60
 pp = 5
 accuracy = 100
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "special"
 id = 245
 [[move.descriptions]]
@@ -14587,7 +14587,7 @@ name = "shadow-ball"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 246
 [[move.descriptions]]
@@ -14647,7 +14647,7 @@ name = "future-sight"
 Power = 120
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 247
 [[move.descriptions]]
@@ -14707,7 +14707,7 @@ name = "rock-smash"
 Power = 40
 pp = 15
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 248
 [[move.descriptions]]
@@ -14767,7 +14767,7 @@ name = "whirlpool"
 Power = 35
 pp = 15
 accuracy = 85
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 249
 [[move.descriptions]]
@@ -14826,7 +14826,7 @@ effect_text = "Inflicts regular damage.  For the next 2–5 turns, the target ca
 name = "beat-up"
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 250
 [[move.descriptions]]
@@ -14886,7 +14886,7 @@ name = "fake-out"
 Power = 40
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 251
 [[move.descriptions]]
@@ -14940,7 +14940,7 @@ name = "uproar"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 252
 [[move.descriptions]]
@@ -14992,7 +14992,7 @@ effect_text = "Inflicts regular damage.  User is forced to use this move for 2�
 [[move]]
 name = "stockpile"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 253
 [[move.descriptions]]
@@ -15045,7 +15045,7 @@ effect_text = "Raises the user's Defense and Special Defense by one stage each. 
 name = "spit-up"
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 254
 [[move.descriptions]]
@@ -15097,7 +15097,7 @@ effect_text = "Inflicts regular damage.  Power is equal to 100 times the amount 
 [[move]]
 name = "swallow"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 255
 [[move.descriptions]]
@@ -15151,7 +15151,7 @@ name = "heat-wave"
 Power = 95
 pp = 10
 accuracy = 90
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 256
 [[move.descriptions]]
@@ -15203,7 +15203,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to burn the target."
 [[move]]
 name = "hail"
 pp = 10
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "status"
 id = 257
 [[move.descriptions]]
@@ -15256,7 +15256,7 @@ effect_text = "Changes the weather to hail for five turns, during which non-ice 
 name = "torment"
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 258
 [[move.descriptions]]
@@ -15309,7 +15309,7 @@ effect_text = "Prevents the target from attempting to use the same move twice in
 name = "flatter"
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 259
 [[move.descriptions]]
@@ -15362,7 +15362,7 @@ effect_text = "Raises the target's Special Attack by one stage, then confuses it
 name = "will-o-wisp"
 pp = 15
 accuracy = 85
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "status"
 id = 260
 [[move.descriptions]]
@@ -15415,7 +15415,7 @@ effect_text = "Burns the target."
 name = "memento"
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 261
 [[move.descriptions]]
@@ -15469,7 +15469,7 @@ name = "facade"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 262
 [[move.descriptions]]
@@ -15523,7 +15523,7 @@ name = "focus-punch"
 Power = 150
 pp = 20
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 263
 [[move.descriptions]]
@@ -15577,7 +15577,7 @@ name = "smelling-salts"
 Power = 70
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 264
 [[move.descriptions]]
@@ -15629,7 +15629,7 @@ effect_text = "Inflicts regular damage.  If the target is paralyzed, this move h
 [[move]]
 name = "follow-me"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 265
 [[move.descriptions]]
@@ -15681,7 +15681,7 @@ effect_text = "Until the end of this turn, any moves that opposing Pokémon targ
 [[move]]
 name = "nature-power"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 266
 [[move.descriptions]]
@@ -15733,7 +15733,7 @@ effect_text = "Uses another move chosen according to the terrain.\n\nTerrain    
 [[move]]
 name = "charge"
 pp = 20
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 267
 [[move.descriptions]]
@@ -15786,7 +15786,7 @@ effect_text = "Raises the user's Special Defense by one stage.  If the user uses
 name = "taunt"
 pp = 20
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 268
 [[move.descriptions]]
@@ -15838,7 +15838,7 @@ effect_text = "Target is forced to only use damaging moves for the next 3–5 tu
 [[move]]
 name = "helping-hand"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 269
 [[move.descriptions]]
@@ -15891,7 +15891,7 @@ effect_text = "Boosts the power of the target's moves by 50% until the end of th
 name = "trick"
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 270
 [[move.descriptions]]
@@ -15943,7 +15943,7 @@ effect_text = "User and target permanently swap held items.  Works even if one o
 [[move]]
 name = "role-play"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 271
 [[move.descriptions]]
@@ -15995,7 +15995,7 @@ effect_text = "User's ability is replaced with the target's until the user leave
 [[move]]
 name = "wish"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 272
 [[move.descriptions]]
@@ -16047,7 +16047,7 @@ effect_text = "At the end of the next turn, user will be healed for half its max
 [[move]]
 name = "assist"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 273
 [[move.descriptions]]
@@ -16099,7 +16099,7 @@ effect_text = "Uses a move from another Pokémon in the user's party, both selec
 [[move]]
 name = "ingrain"
 pp = 20
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 274
 [[move.descriptions]]
@@ -16153,7 +16153,7 @@ name = "superpower"
 Power = 120
 pp = 5
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 275
 [[move.descriptions]]
@@ -16205,7 +16205,7 @@ effect_text = "Inflicts regular damage, then lowers the user's Attack and Defens
 [[move]]
 name = "magic-coat"
 pp = 15
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 276
 [[move.descriptions]]
@@ -16257,7 +16257,7 @@ effect_text = "The first non-damaging move targeting the user this turn that inf
 [[move]]
 name = "recycle"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 277
 [[move.descriptions]]
@@ -16311,7 +16311,7 @@ name = "revenge"
 Power = 60
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 278
 [[move.descriptions]]
@@ -16365,7 +16365,7 @@ name = "brick-break"
 Power = 75
 pp = 15
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 279
 [[move.descriptions]]
@@ -16417,7 +16417,7 @@ effect_text = "Destroys any light screen or reflect on the target's side of the 
 [[move]]
 name = "yawn"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 280
 [[move.descriptions]]
@@ -16471,7 +16471,7 @@ name = "knock-off"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 281
 [[move.descriptions]]
@@ -16524,7 +16524,7 @@ effect_text = "Inflicts regular damage.  Target loses its held item.\n\nNeither 
 name = "endeavor"
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 282
 [[move.descriptions]]
@@ -16578,7 +16578,7 @@ name = "eruption"
 Power = 150
 pp = 5
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 283
 [[move.descriptions]]
@@ -16630,7 +16630,7 @@ effect_text = "Inflicts regular damage.  Power increases with the user's remaini
 [[move]]
 name = "skill-swap"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 284
 [[move.descriptions]]
@@ -16682,7 +16682,7 @@ effect_text = "User and target switch abilities.  Ignores accuracy and evasion m
 [[move]]
 name = "imprison"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 285
 [[move.descriptions]]
@@ -16734,7 +16734,7 @@ effect_text = "Prevents any Pokémon on the opposing side of the field from usin
 [[move]]
 name = "refresh"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 286
 [[move.descriptions]]
@@ -16786,7 +16786,7 @@ effect_text = "Removes a burn, paralysis, or poison from the user."
 [[move]]
 name = "grudge"
 pp = 5
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "status"
 id = 287
 [[move.descriptions]]
@@ -16838,7 +16838,7 @@ effect_text = "If the user faints before it next acts, the move that fainted it 
 [[move]]
 name = "snatch"
 pp = 10
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 288
 [[move.descriptions]]
@@ -16892,7 +16892,7 @@ name = "secret-power"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 289
 [[move.descriptions]]
@@ -16946,7 +16946,7 @@ name = "dive"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 290
 [[move.descriptions]]
@@ -17000,7 +17000,7 @@ name = "arm-thrust"
 Power = 15
 pp = 20
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 291
 [[move.descriptions]]
@@ -17052,7 +17052,7 @@ effect_text = "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 
 [[move]]
 name = "camouflage"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 292
 [[move.descriptions]]
@@ -17104,7 +17104,7 @@ effect_text = "User's type changes according to the terrain.\n\nTerrain        |
 [[move]]
 name = "tail-glow"
 pp = 20
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 293
 [[move.descriptions]]
@@ -17158,7 +17158,7 @@ name = "luster-purge"
 Power = 95
 pp = 5
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 294
 [[move.descriptions]]
@@ -17212,7 +17212,7 @@ name = "mist-ball"
 Power = 95
 pp = 5
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 295
 [[move.descriptions]]
@@ -17265,7 +17265,7 @@ effect_text = "Inflicts regular damage.  Has a 50% chance to lower the target's 
 name = "feather-dance"
 pp = 15
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "status"
 id = 296
 [[move.descriptions]]
@@ -17318,7 +17318,7 @@ effect_text = "Lowers the target's Attack by two stages."
 name = "teeter-dance"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 297
 [[move.descriptions]]
@@ -17372,7 +17372,7 @@ name = "blaze-kick"
 Power = 85
 pp = 10
 accuracy = 90
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 298
 [[move.descriptions]]
@@ -17424,7 +17424,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 [[move]]
 name = "mud-sport"
 pp = 15
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "status"
 id = 299
 [[move.descriptions]]
@@ -17478,7 +17478,7 @@ name = "ice-ball"
 Power = 30
 pp = 20
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 300
 [[move.descriptions]]
@@ -17532,7 +17532,7 @@ name = "needle-arm"
 Power = 60
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 301
 [[move.descriptions]]
@@ -17584,7 +17584,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to make the target fli
 [[move]]
 name = "slack-off"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 302
 [[move.descriptions]]
@@ -17638,7 +17638,7 @@ name = "hyper-voice"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 303
 [[move.descriptions]]
@@ -17692,7 +17692,7 @@ name = "poison-fang"
 Power = 50
 pp = 15
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 304
 [[move.descriptions]]
@@ -17746,7 +17746,7 @@ name = "crush-claw"
 Power = 75
 pp = 10
 accuracy = 95
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 305
 [[move.descriptions]]
@@ -17800,7 +17800,7 @@ name = "blast-burn"
 Power = 150
 pp = 5
 accuracy = 90
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 306
 [[move.descriptions]]
@@ -17854,7 +17854,7 @@ name = "hydro-cannon"
 Power = 150
 pp = 5
 accuracy = 90
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 307
 [[move.descriptions]]
@@ -17908,7 +17908,7 @@ name = "meteor-mash"
 Power = 90
 pp = 10
 accuracy = 90
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 308
 [[move.descriptions]]
@@ -17962,7 +17962,7 @@ name = "astonish"
 Power = 30
 pp = 15
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 309
 [[move.descriptions]]
@@ -18016,7 +18016,7 @@ name = "weather-ball"
 Power = 50
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 310
 [[move.descriptions]]
@@ -18068,7 +18068,7 @@ effect_text = "Inflicts regular damage.  If a weather move is active, this move 
 [[move]]
 name = "aromatherapy"
 pp = 5
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 311
 [[move.descriptions]]
@@ -18121,7 +18121,7 @@ effect_text = "Removes major status effects and confusion from every Pokémon in
 name = "fake-tears"
 pp = 20
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 312
 [[move.descriptions]]
@@ -18175,7 +18175,7 @@ name = "air-cutter"
 Power = 60
 pp = 25
 accuracy = 95
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 313
 [[move.descriptions]]
@@ -18229,7 +18229,7 @@ name = "overheat"
 Power = 130
 pp = 5
 accuracy = 90
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 314
 [[move.descriptions]]
@@ -18281,7 +18281,7 @@ effect_text = "Inflicts regular damage, then lowers the user's Special Attack by
 [[move]]
 name = "odor-sleuth"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 315
 [[move.descriptions]]
@@ -18335,7 +18335,7 @@ name = "rock-tomb"
 Power = 60
 pp = 15
 accuracy = 95
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 316
 [[move.descriptions]]
@@ -18389,7 +18389,7 @@ name = "silver-wind"
 Power = 60
 pp = 5
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "special"
 id = 317
 [[move.descriptions]]
@@ -18442,7 +18442,7 @@ effect_text = "Inflicts regular damage. Has a 10% chance to raise all of the use
 name = "metal-sound"
 pp = 40
 accuracy = 85
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "status"
 id = 318
 [[move.descriptions]]
@@ -18495,7 +18495,7 @@ effect_text = "Lowers the target's Special Defense by two stages."
 name = "grass-whistle"
 pp = 15
 accuracy = 55
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 319
 [[move.descriptions]]
@@ -18548,7 +18548,7 @@ effect_text = "Puts the target to sleep."
 name = "tickle"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 320
 [[move.descriptions]]
@@ -18600,7 +18600,7 @@ effect_text = "Lowers the target's Attack and Defense by one stage."
 [[move]]
 name = "cosmic-power"
 pp = 20
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 321
 [[move.descriptions]]
@@ -18654,7 +18654,7 @@ name = "water-spout"
 Power = 150
 pp = 5
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 322
 [[move.descriptions]]
@@ -18708,7 +18708,7 @@ name = "signal-beam"
 Power = 75
 pp = 15
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "special"
 id = 323
 [[move.descriptions]]
@@ -18761,7 +18761,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to confuse the target.
 name = "shadow-punch"
 Power = 60
 pp = 20
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 324
 [[move.descriptions]]
@@ -18815,7 +18815,7 @@ name = "extrasensory"
 Power = 80
 pp = 20
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 325
 [[move.descriptions]]
@@ -18869,7 +18869,7 @@ name = "sky-uppercut"
 Power = 85
 pp = 15
 accuracy = 90
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 326
 [[move.descriptions]]
@@ -18923,7 +18923,7 @@ name = "sand-tomb"
 Power = 35
 pp = 15
 accuracy = 85
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 327
 [[move.descriptions]]
@@ -18976,7 +18976,7 @@ effect_text = "Inflicts regular damage.  For the next 2–5 turns, the target ca
 name = "sheer-cold"
 pp = 5
 accuracy = 30
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 328
 [[move.descriptions]]
@@ -19030,7 +19030,7 @@ name = "muddy-water"
 Power = 90
 pp = 10
 accuracy = 85
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 329
 [[move.descriptions]]
@@ -19084,7 +19084,7 @@ name = "bullet-seed"
 Power = 25
 pp = 30
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 330
 [[move.descriptions]]
@@ -19137,7 +19137,7 @@ effect_text = "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 
 name = "aerial-ace"
 Power = 60
 pp = 20
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 331
 [[move.descriptions]]
@@ -19191,7 +19191,7 @@ name = "icicle-spear"
 Power = 25
 pp = 30
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 332
 [[move.descriptions]]
@@ -19243,7 +19243,7 @@ effect_text = "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 
 [[move]]
 name = "iron-defense"
 pp = 15
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "status"
 id = 333
 [[move.descriptions]]
@@ -19295,7 +19295,7 @@ effect_text = "Raises the user's Defense by two stages."
 [[move]]
 name = "block"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 334
 [[move.descriptions]]
@@ -19347,7 +19347,7 @@ effect_text = "The target cannot switch out normally.  Ignores accuracy and evas
 [[move]]
 name = "howl"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 335
 [[move.descriptions]]
@@ -19401,7 +19401,7 @@ name = "dragon-claw"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 336
 [[move.descriptions]]
@@ -19455,7 +19455,7 @@ name = "frenzy-plant"
 Power = 150
 pp = 5
 accuracy = 90
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 337
 [[move.descriptions]]
@@ -19507,7 +19507,7 @@ effect_text = "Inflicts regular damage.  User loses its next turn to \"recharge\
 [[move]]
 name = "bulk-up"
 pp = 20
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 id = 338
 [[move.descriptions]]
@@ -19561,7 +19561,7 @@ name = "bounce"
 Power = 85
 pp = 5
 accuracy = 85
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 339
 [[move.descriptions]]
@@ -19615,7 +19615,7 @@ name = "mud-shot"
 Power = 55
 pp = 15
 accuracy = 95
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "special"
 id = 340
 [[move.descriptions]]
@@ -19669,7 +19669,7 @@ name = "poison-tail"
 Power = 50
 pp = 25
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 341
 [[move.descriptions]]
@@ -19723,7 +19723,7 @@ name = "covet"
 Power = 60
 pp = 25
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 342
 [[move.descriptions]]
@@ -19777,7 +19777,7 @@ name = "volt-tackle"
 Power = 120
 pp = 15
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 343
 [[move.descriptions]]
@@ -19830,7 +19830,7 @@ effect_text = "Inflicts regular damage.  User takes 1/3 the damage it inflicts i
 name = "magical-leaf"
 Power = 60
 pp = 20
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 344
 [[move.descriptions]]
@@ -19882,7 +19882,7 @@ effect_text = "Inflicts regular damage.  Ignores accuracy and evasion modifiers.
 [[move]]
 name = "water-sport"
 pp = 15
-type = "<type-water>"
+type = "water"
 kind_of_move = "status"
 id = 345
 [[move.descriptions]]
@@ -19934,7 +19934,7 @@ effect_text = "fire moves inflict half damage, regardless of target.  If the use
 [[move]]
 name = "calm-mind"
 pp = 20
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 346
 [[move.descriptions]]
@@ -19988,7 +19988,7 @@ name = "leaf-blade"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 347
 [[move.descriptions]]
@@ -20040,7 +20040,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 [[move]]
 name = "dragon-dance"
 pp = 20
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "status"
 id = 348
 [[move.descriptions]]
@@ -20094,7 +20094,7 @@ name = "rock-blast"
 Power = 25
 pp = 10
 accuracy = 90
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 349
 [[move.descriptions]]
@@ -20147,7 +20147,7 @@ effect_text = "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 
 name = "shock-wave"
 Power = 60
 pp = 20
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 350
 [[move.descriptions]]
@@ -20201,7 +20201,7 @@ name = "water-pulse"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 351
 [[move.descriptions]]
@@ -20255,7 +20255,7 @@ name = "doom-desire"
 Power = 140
 pp = 5
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "special"
 id = 352
 [[move.descriptions]]
@@ -20309,7 +20309,7 @@ name = "psycho-boost"
 Power = 140
 pp = 5
 accuracy = 90
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 353
 [[move.descriptions]]
@@ -20361,7 +20361,7 @@ effect_text = "Inflicts regular damage, then lowers the user's Special Attack by
 [[move]]
 name = "roost"
 pp = 5
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "status"
 id = 354
 [[move.descriptions]]
@@ -20404,7 +20404,7 @@ effect_text = "Heals the user for half its max HP.  If the user is flying, its f
 [[move]]
 name = "gravity"
 pp = 5
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 355
 [[move.descriptions]]
@@ -20447,7 +20447,7 @@ effect_text = "For five turns (including this one), all immunities to ground mov
 [[move]]
 name = "miracle-eye"
 pp = 40
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 356
 [[move.descriptions]]
@@ -20492,7 +20492,7 @@ name = "wake-up-slap"
 Power = 70
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 357
 [[move.descriptions]]
@@ -20537,7 +20537,7 @@ name = "hammer-arm"
 Power = 100
 pp = 10
 accuracy = 90
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 358
 [[move.descriptions]]
@@ -20581,7 +20581,7 @@ effect_text = "Inflicts regular damage, then lowers the user's Speed by one stag
 name = "gyro-ball"
 pp = 5
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 359
 [[move.descriptions]]
@@ -20624,7 +20624,7 @@ effect_text = "Inflicts regular damage.  Power increases with the target's curre
 [[move]]
 name = "healing-wish"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 360
 [[move.descriptions]]
@@ -20669,7 +20669,7 @@ name = "brine"
 Power = 65
 pp = 10
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 361
 [[move.descriptions]]
@@ -20713,7 +20713,7 @@ effect_text = "Inflicts regular damage.  If the target has less than half its ma
 name = "natural-gift"
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 362
 [[move.descriptions]]
@@ -20758,7 +20758,7 @@ name = "feint"
 Power = 30
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 363
 [[move.descriptions]]
@@ -20803,7 +20803,7 @@ name = "pluck"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 364
 [[move.descriptions]]
@@ -20846,7 +20846,7 @@ effect_text = "Inflicts regular damage.  If the target is holding a berry, this 
 [[move]]
 name = "tailwind"
 pp = 15
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "status"
 id = 365
 [[move.descriptions]]
@@ -20889,7 +20889,7 @@ effect_text = "For the next three turns, all Pokémon on the user's side of the 
 [[move]]
 name = "acupressure"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 366
 [[move.descriptions]]
@@ -20933,7 +20933,7 @@ effect_text = "Raises one of the target's stats by two stages.  The raised stat 
 name = "metal-burst"
 pp = 10
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 367
 [[move.descriptions]]
@@ -20978,7 +20978,7 @@ name = "u-turn"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 368
 [[move.descriptions]]
@@ -21023,7 +21023,7 @@ name = "close-combat"
 Power = 120
 pp = 5
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 369
 [[move.descriptions]]
@@ -21068,7 +21068,7 @@ name = "payback"
 Power = 50
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 370
 [[move.descriptions]]
@@ -21113,7 +21113,7 @@ name = "assurance"
 Power = 60
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 371
 [[move.descriptions]]
@@ -21157,7 +21157,7 @@ effect_text = "Inflicts regular damage.  If the target takes damage this turn fo
 name = "embargo"
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 372
 [[move.descriptions]]
@@ -21201,7 +21201,7 @@ effect_text = "Target cannot use its held item for five turns.  If the target le
 name = "fling"
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 373
 [[move.descriptions]]
@@ -21245,7 +21245,7 @@ effect_text = "Inflicts regular damage.  Power and type are determined by the us
 name = "psycho-shift"
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 374
 [[move.descriptions]]
@@ -21288,7 +21288,7 @@ effect_text = "If the user has a major status effect and the target does not, th
 [[move]]
 name = "trump-card"
 pp = 5
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 375
 [[move.descriptions]]
@@ -21332,7 +21332,7 @@ effect_text = "Inflicts regular damage.  Power is determined by the PP remaining
 name = "heal-block"
 pp = 15
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 376
 [[move.descriptions]]
@@ -21376,7 +21376,7 @@ effect_text = "For the next five turns, the target may not use any moves that on
 name = "wring-out"
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 377
 [[move.descriptions]]
@@ -21419,7 +21419,7 @@ effect_text = "Inflicts regular damage.  Power directly relates to the target's 
 [[move]]
 name = "power-trick"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 378
 [[move.descriptions]]
@@ -21463,7 +21463,7 @@ effect_text = "The user's original Attack and Defense are swapped.\n\nThis effec
 name = "gastro-acid"
 pp = 10
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 379
 [[move.descriptions]]
@@ -21506,7 +21506,7 @@ effect_text = "The target's ability is disabled as long as it remains on the fie
 [[move]]
 name = "lucky-chant"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 380
 [[move.descriptions]]
@@ -21549,7 +21549,7 @@ effect_text = "For five turns, opposing Pokémon cannot score critical hits."
 [[move]]
 name = "me-first"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 381
 [[move.descriptions]]
@@ -21592,7 +21592,7 @@ effect_text = "If the target has selected a damaging move this turn, the user wi
 [[move]]
 name = "copycat"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 382
 [[move.descriptions]]
@@ -21635,7 +21635,7 @@ effect_text = "Uses the last move that was used successfully by any Pokémon, in
 [[move]]
 name = "power-swap"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 383
 [[move.descriptions]]
@@ -21678,7 +21678,7 @@ effect_text = "User swaps its Attack and Special Attack stat modifiers modifiers
 [[move]]
 name = "guard-swap"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 384
 [[move.descriptions]]
@@ -21722,7 +21722,7 @@ effect_text = "User swaps its Defense and Special Defense modifiers with the tar
 name = "punishment"
 pp = 5
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 385
 [[move.descriptions]]
@@ -21767,7 +21767,7 @@ name = "last-resort"
 Power = 140
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 386
 [[move.descriptions]]
@@ -21811,7 +21811,7 @@ effect_text = "Inflicts regular damage.  This move can only be used if each of t
 name = "worry-seed"
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 387
 [[move.descriptions]]
@@ -21856,7 +21856,7 @@ name = "sucker-punch"
 Power = 70
 pp = 5
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 388
 [[move.descriptions]]
@@ -21899,7 +21899,7 @@ effect_text = "Inflicts regular damage.  If the target has not selected a damagi
 [[move]]
 name = "toxic-spikes"
 pp = 20
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 389
 [[move.descriptions]]
@@ -21942,7 +21942,7 @@ effect_text = "Scatters poisoned spikes around the opposing field, which poison 
 [[move]]
 name = "heart-swap"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 390
 [[move.descriptions]]
@@ -21985,7 +21985,7 @@ effect_text = "User swaps its stat modifiers with the target."
 [[move]]
 name = "aqua-ring"
 pp = 20
-type = "<type-water>"
+type = "water"
 kind_of_move = "status"
 id = 391
 [[move.descriptions]]
@@ -22028,7 +22028,7 @@ effect_text = "Restores 1/16 of the user's max HP at the end of each turn.  If t
 [[move]]
 name = "magnet-rise"
 pp = 10
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 392
 [[move.descriptions]]
@@ -22073,7 +22073,7 @@ name = "flare-blitz"
 Power = 120
 pp = 15
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 393
 [[move.descriptions]]
@@ -22118,7 +22118,7 @@ name = "force-palm"
 Power = 60
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 394
 [[move.descriptions]]
@@ -22162,7 +22162,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to paralyze the target
 name = "aura-sphere"
 Power = 80
 pp = 20
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "special"
 id = 395
 [[move.descriptions]]
@@ -22205,7 +22205,7 @@ effect_text = "Inflicts regular damage.  Ignores accuracy and evasion modifiers.
 [[move]]
 name = "rock-polish"
 pp = 20
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "status"
 id = 396
 [[move.descriptions]]
@@ -22250,7 +22250,7 @@ name = "poison-jab"
 Power = 80
 pp = 20
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 397
 [[move.descriptions]]
@@ -22295,7 +22295,7 @@ name = "dark-pulse"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "special"
 id = 398
 [[move.descriptions]]
@@ -22340,7 +22340,7 @@ name = "night-slash"
 Power = 70
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 399
 [[move.descriptions]]
@@ -22385,7 +22385,7 @@ name = "aqua-tail"
 Power = 90
 pp = 10
 accuracy = 90
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 400
 [[move.descriptions]]
@@ -22430,7 +22430,7 @@ name = "seed-bomb"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 401
 [[move.descriptions]]
@@ -22475,7 +22475,7 @@ name = "air-slash"
 Power = 75
 pp = 15
 accuracy = 95
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 402
 [[move.descriptions]]
@@ -22520,7 +22520,7 @@ name = "x-scissor"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 403
 [[move.descriptions]]
@@ -22565,7 +22565,7 @@ name = "bug-buzz"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "special"
 id = 404
 [[move.descriptions]]
@@ -22610,7 +22610,7 @@ name = "dragon-pulse"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 405
 [[move.descriptions]]
@@ -22655,7 +22655,7 @@ name = "dragon-rush"
 Power = 100
 pp = 10
 accuracy = 75
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 406
 [[move.descriptions]]
@@ -22700,7 +22700,7 @@ name = "power-gem"
 Power = 80
 pp = 20
 accuracy = 100
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "special"
 id = 407
 [[move.descriptions]]
@@ -22745,7 +22745,7 @@ name = "drain-punch"
 Power = 75
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 408
 [[move.descriptions]]
@@ -22790,7 +22790,7 @@ name = "vacuum-wave"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "special"
 id = 409
 [[move.descriptions]]
@@ -22835,7 +22835,7 @@ name = "focus-blast"
 Power = 120
 pp = 5
 accuracy = 70
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "special"
 id = 410
 [[move.descriptions]]
@@ -22880,7 +22880,7 @@ name = "energy-ball"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 411
 [[move.descriptions]]
@@ -22925,7 +22925,7 @@ name = "brave-bird"
 Power = 120
 pp = 15
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 412
 [[move.descriptions]]
@@ -22970,7 +22970,7 @@ name = "earth-power"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "special"
 id = 413
 [[move.descriptions]]
@@ -23014,7 +23014,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to lower the target's 
 name = "switcheroo"
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 414
 [[move.descriptions]]
@@ -23059,7 +23059,7 @@ name = "giga-impact"
 Power = 150
 pp = 5
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 415
 [[move.descriptions]]
@@ -23102,7 +23102,7 @@ effect_text = "Inflicts regular damage.  User loses its next turn to \"recharge\
 [[move]]
 name = "nasty-plot"
 pp = 20
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 416
 [[move.descriptions]]
@@ -23147,7 +23147,7 @@ name = "bullet-punch"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 417
 [[move.descriptions]]
@@ -23192,7 +23192,7 @@ name = "avalanche"
 Power = 60
 pp = 10
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 418
 [[move.descriptions]]
@@ -23237,7 +23237,7 @@ name = "ice-shard"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 419
 [[move.descriptions]]
@@ -23282,7 +23282,7 @@ name = "shadow-claw"
 Power = 70
 pp = 15
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 420
 [[move.descriptions]]
@@ -23327,7 +23327,7 @@ name = "thunder-fang"
 Power = 65
 pp = 15
 accuracy = 95
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 421
 [[move.descriptions]]
@@ -23372,7 +23372,7 @@ name = "ice-fang"
 Power = 65
 pp = 15
 accuracy = 95
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 422
 [[move.descriptions]]
@@ -23417,7 +23417,7 @@ name = "fire-fang"
 Power = 65
 pp = 15
 accuracy = 95
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 423
 [[move.descriptions]]
@@ -23462,7 +23462,7 @@ name = "shadow-sneak"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 424
 [[move.descriptions]]
@@ -23507,7 +23507,7 @@ name = "mud-bomb"
 Power = 65
 pp = 10
 accuracy = 85
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "special"
 id = 425
 [[move.descriptions]]
@@ -23552,7 +23552,7 @@ name = "psycho-cut"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 id = 426
 [[move.descriptions]]
@@ -23597,7 +23597,7 @@ name = "zen-headbutt"
 Power = 80
 pp = 15
 accuracy = 90
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 id = 427
 [[move.descriptions]]
@@ -23642,7 +23642,7 @@ name = "mirror-shot"
 Power = 65
 pp = 10
 accuracy = 85
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "special"
 id = 428
 [[move.descriptions]]
@@ -23687,7 +23687,7 @@ name = "flash-cannon"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "special"
 id = 429
 [[move.descriptions]]
@@ -23732,7 +23732,7 @@ name = "rock-climb"
 Power = 90
 pp = 20
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 430
 [[move.descriptions]]
@@ -23775,7 +23775,7 @@ effect_text = "Inflicts regular damage.  Has a 20% chance to confuse the target.
 [[move]]
 name = "defog"
 pp = 15
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "status"
 id = 431
 [[move.descriptions]]
@@ -23818,7 +23818,7 @@ effect_text = "Lowers the target's evasion by one stage.  Clears away fog.  Remo
 [[move]]
 name = "trick-room"
 pp = 5
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 432
 [[move.descriptions]]
@@ -23863,7 +23863,7 @@ name = "draco-meteor"
 Power = 130
 pp = 5
 accuracy = 90
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 433
 [[move.descriptions]]
@@ -23908,7 +23908,7 @@ name = "discharge"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 434
 [[move.descriptions]]
@@ -23953,7 +23953,7 @@ name = "lava-plume"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 435
 [[move.descriptions]]
@@ -23998,7 +23998,7 @@ name = "leaf-storm"
 Power = 130
 pp = 5
 accuracy = 90
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 436
 [[move.descriptions]]
@@ -24043,7 +24043,7 @@ name = "power-whip"
 Power = 120
 pp = 10
 accuracy = 85
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 437
 [[move.descriptions]]
@@ -24088,7 +24088,7 @@ name = "rock-wrecker"
 Power = 150
 pp = 5
 accuracy = 90
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 438
 [[move.descriptions]]
@@ -24133,7 +24133,7 @@ name = "cross-poison"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 439
 [[move.descriptions]]
@@ -24178,7 +24178,7 @@ name = "gunk-shot"
 Power = 120
 pp = 5
 accuracy = 80
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 440
 [[move.descriptions]]
@@ -24223,7 +24223,7 @@ name = "iron-head"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 441
 [[move.descriptions]]
@@ -24267,7 +24267,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to make the target fli
 name = "magnet-bomb"
 Power = 60
 pp = 20
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 442
 [[move.descriptions]]
@@ -24312,7 +24312,7 @@ name = "stone-edge"
 Power = 100
 pp = 5
 accuracy = 80
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 443
 [[move.descriptions]]
@@ -24356,7 +24356,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 name = "captivate"
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 444
 [[move.descriptions]]
@@ -24399,7 +24399,7 @@ effect_text = "Lowers the target's Special Attack by two stages.  If the user an
 [[move]]
 name = "stealth-rock"
 pp = 20
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "status"
 id = 445
 [[move.descriptions]]
@@ -24443,7 +24443,7 @@ effect_text = "Spreads sharp rocks around the opposing field, damaging any Poké
 name = "grass-knot"
 pp = 20
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 446
 [[move.descriptions]]
@@ -24488,7 +24488,7 @@ name = "chatter"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 447
 [[move.descriptions]]
@@ -24533,7 +24533,7 @@ name = "judgment"
 Power = 100
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 448
 [[move.descriptions]]
@@ -24578,7 +24578,7 @@ name = "bug-bite"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 449
 [[move.descriptions]]
@@ -24623,7 +24623,7 @@ name = "charge-beam"
 Power = 50
 pp = 10
 accuracy = 90
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 450
 [[move.descriptions]]
@@ -24668,7 +24668,7 @@ name = "wood-hammer"
 Power = 120
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 451
 [[move.descriptions]]
@@ -24713,7 +24713,7 @@ name = "aqua-jet"
 Power = 40
 pp = 20
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 452
 [[move.descriptions]]
@@ -24758,7 +24758,7 @@ name = "attack-order"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 453
 [[move.descriptions]]
@@ -24801,7 +24801,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 [[move]]
 name = "defend-order"
 pp = 10
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 454
 [[move.descriptions]]
@@ -24844,7 +24844,7 @@ effect_text = "Raises the user's Defense and Special Defense by one stage."
 [[move]]
 name = "heal-order"
 pp = 10
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 455
 [[move.descriptions]]
@@ -24889,7 +24889,7 @@ name = "head-smash"
 Power = 150
 pp = 5
 accuracy = 80
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 456
 [[move.descriptions]]
@@ -24934,7 +24934,7 @@ name = "double-hit"
 Power = 35
 pp = 10
 accuracy = 90
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 457
 [[move.descriptions]]
@@ -24979,7 +24979,7 @@ name = "roar-of-time"
 Power = 150
 pp = 5
 accuracy = 90
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 458
 [[move.descriptions]]
@@ -25024,7 +25024,7 @@ name = "spacial-rend"
 Power = 100
 pp = 5
 accuracy = 95
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 459
 [[move.descriptions]]
@@ -25067,7 +25067,7 @@ effect_text = "Inflicts regular damage.  User's critical hit rate is one level h
 [[move]]
 name = "lunar-dance"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 460
 [[move.descriptions]]
@@ -25111,7 +25111,7 @@ effect_text = "User faints.  Its replacement's HP and PP are fully restored, and
 name = "crush-grip"
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 461
 [[move.descriptions]]
@@ -25156,7 +25156,7 @@ name = "magma-storm"
 Power = 100
 pp = 5
 accuracy = 75
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 462
 [[move.descriptions]]
@@ -25200,7 +25200,7 @@ effect_text = "Inflicts regular damage.  For the next 2–5 turns, the target ca
 name = "dark-void"
 pp = 10
 accuracy = 50
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 463
 [[move.descriptions]]
@@ -25245,7 +25245,7 @@ name = "seed-flare"
 Power = 120
 pp = 5
 accuracy = 85
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 464
 [[move.descriptions]]
@@ -25290,7 +25290,7 @@ name = "ominous-wind"
 Power = 60
 pp = 5
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 465
 [[move.descriptions]]
@@ -25335,7 +25335,7 @@ name = "shadow-force"
 Power = 120
 pp = 5
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 466
 [[move.descriptions]]
@@ -25378,7 +25378,7 @@ effect_text = "Inflicts regular damage.  User vanishes for one turn, becoming im
 [[move]]
 name = "hone-claws"
 pp = 15
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 467
 [[move.descriptions]]
@@ -25412,7 +25412,7 @@ effect_text = "Raises the user's Attack and accuracy by one stage."
 [[move]]
 name = "wide-guard"
 pp = 10
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "status"
 id = 468
 [[move.descriptions]]
@@ -25446,7 +25446,7 @@ effect_text = "Moves with multiple targets will not hit friendly Pokémon for th
 [[move]]
 name = "guard-split"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 469
 [[move.descriptions]]
@@ -25480,7 +25480,7 @@ effect_text = "Averages the user's unmodified Defense with the target's unmodifi
 [[move]]
 name = "power-split"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 470
 [[move.descriptions]]
@@ -25514,7 +25514,7 @@ effect_text = "Averages the user's unmodified Attack with the target's unmodifie
 [[move]]
 name = "wonder-room"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 471
 [[move.descriptions]]
@@ -25550,7 +25550,7 @@ name = "psyshock"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 472
 [[move.descriptions]]
@@ -25586,7 +25586,7 @@ name = "venoshock"
 Power = 65
 pp = 10
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 473
 [[move.descriptions]]
@@ -25620,7 +25620,7 @@ effect_text = "Inflicts regular damage.  If the target is poisoned, this move ha
 [[move]]
 name = "autotomize"
 pp = 15
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "status"
 id = 474
 [[move.descriptions]]
@@ -25654,7 +25654,7 @@ effect_text = "Raises the user's Speed by two stages.  Halves the user's weight;
 [[move]]
 name = "rage-powder"
 pp = 20
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 475
 [[move.descriptions]]
@@ -25688,7 +25688,7 @@ effect_text = "Until the end of this turn, any moves that opposing Pokémon targ
 [[move]]
 name = "telekinesis"
 pp = 15
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 476
 [[move.descriptions]]
@@ -25722,7 +25722,7 @@ effect_text = "For three turns (including this one), moves used against the targ
 [[move]]
 name = "magic-room"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 477
 [[move.descriptions]]
@@ -25758,7 +25758,7 @@ name = "smack-down"
 Power = 50
 pp = 15
 accuracy = 100
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 478
 [[move.descriptions]]
@@ -25794,7 +25794,7 @@ name = "storm-throw"
 Power = 60
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 479
 [[move.descriptions]]
@@ -25830,7 +25830,7 @@ name = "flame-burst"
 Power = 70
 pp = 15
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 480
 [[move.descriptions]]
@@ -25866,7 +25866,7 @@ name = "sludge-wave"
 Power = 95
 pp = 10
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 481
 [[move.descriptions]]
@@ -25900,7 +25900,7 @@ effect_text = "Inflicts regular damage.  Has a 10% chance to poison the target."
 [[move]]
 name = "quiver-dance"
 pp = 20
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 482
 [[move.descriptions]]
@@ -25935,7 +25935,7 @@ effect_text = "Raises the user's Special Attack, Special Defense, and Speed by o
 name = "heavy-slam"
 pp = 10
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 483
 [[move.descriptions]]
@@ -25971,7 +25971,7 @@ name = "synchronoise"
 Power = 120
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 484
 [[move.descriptions]]
@@ -26006,7 +26006,7 @@ effect_text = "Inflicts regular damage.  Only Pokémon that share a type with th
 name = "electro-ball"
 pp = 10
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 485
 [[move.descriptions]]
@@ -26041,7 +26041,7 @@ effect_text = "Inflicts regular damage.  The greater the user's Speed compared t
 name = "soak"
 pp = 20
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "status"
 id = 486
 [[move.descriptions]]
@@ -26077,7 +26077,7 @@ name = "flame-charge"
 Power = 50
 pp = 20
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 487
 [[move.descriptions]]
@@ -26111,7 +26111,7 @@ effect_text = "Inflicts regular damage.  Raises the user's Speed by one stage."
 [[move]]
 name = "coil"
 pp = 20
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 488
 [[move.descriptions]]
@@ -26147,7 +26147,7 @@ name = "low-sweep"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 489
 [[move.descriptions]]
@@ -26183,7 +26183,7 @@ name = "acid-spray"
 Power = 40
 pp = 20
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 490
 [[move.descriptions]]
@@ -26219,7 +26219,7 @@ name = "foul-play"
 Power = 95
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 491
 [[move.descriptions]]
@@ -26254,7 +26254,7 @@ effect_text = "Inflicts regular damage.  Damage is calculated using the target's
 name = "simple-beam"
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 492
 [[move.descriptions]]
@@ -26289,7 +26289,7 @@ effect_text = "Changes the target's ability to simple."
 name = "entrainment"
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 493
 [[move.descriptions]]
@@ -26323,7 +26323,7 @@ effect_text = "Changes the target's ability to match the user's.  This effect en
 [[move]]
 name = "after-you"
 pp = 15
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 494
 [[move.descriptions]]
@@ -26359,7 +26359,7 @@ name = "round"
 Power = 60
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 495
 [[move.descriptions]]
@@ -26395,7 +26395,7 @@ name = "echoed-voice"
 Power = 40
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 496
 [[move.descriptions]]
@@ -26431,7 +26431,7 @@ name = "chip-away"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 497
 [[move.descriptions]]
@@ -26466,7 +26466,7 @@ effect_text = "Inflicts regular damage.  Damage calculation ignores the target's
 name = "clear-smog"
 Power = 50
 pp = 15
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 498
 [[move.descriptions]]
@@ -26502,7 +26502,7 @@ name = "stored-power"
 Power = 20
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 499
 [[move.descriptions]]
@@ -26536,7 +26536,7 @@ effect_text = "Inflicts regular damage.  Power is increased by 100% its original
 [[move]]
 name = "quick-guard"
 pp = 15
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 id = 500
 [[move.descriptions]]
@@ -26570,7 +26570,7 @@ effect_text = "Moves with priority greater than 0 will not hit friendly Pokémon
 [[move]]
 name = "ally-switch"
 pp = 15
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 501
 [[move.descriptions]]
@@ -26606,7 +26606,7 @@ name = "scald"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 502
 [[move.descriptions]]
@@ -26640,7 +26640,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to burn the target."
 [[move]]
 name = "shell-smash"
 pp = 15
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 503
 [[move.descriptions]]
@@ -26674,7 +26674,7 @@ effect_text = "Raises the user's Attack, Special Attack, and Speed by two stages
 [[move]]
 name = "heal-pulse"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 504
 [[move.descriptions]]
@@ -26710,7 +26710,7 @@ name = "hex"
 Power = 65
 pp = 10
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 505
 [[move.descriptions]]
@@ -26746,7 +26746,7 @@ name = "sky-drop"
 Power = 60
 pp = 10
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 506
 [[move.descriptions]]
@@ -26780,7 +26780,7 @@ effect_text = "Inflicts regular damage.  User carries the target high into the a
 [[move]]
 name = "shift-gear"
 pp = 10
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "status"
 id = 507
 [[move.descriptions]]
@@ -26816,7 +26816,7 @@ name = "circle-throw"
 Power = 60
 pp = 10
 accuracy = 90
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 508
 [[move.descriptions]]
@@ -26852,7 +26852,7 @@ name = "incinerate"
 Power = 60
 pp = 15
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 509
 [[move.descriptions]]
@@ -26887,7 +26887,7 @@ effect_text = "Inflicts regular damage.  If the target is holding a berry, it's 
 name = "quash"
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 510
 [[move.descriptions]]
@@ -26923,7 +26923,7 @@ name = "acrobatics"
 Power = 55
 pp = 15
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 511
 [[move.descriptions]]
@@ -26957,7 +26957,7 @@ effect_text = "Inflicts regular damage.  If the user has no held item, this move
 [[move]]
 name = "reflect-type"
 pp = 15
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 512
 [[move.descriptions]]
@@ -26993,7 +26993,7 @@ name = "retaliate"
 Power = 70
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 513
 [[move.descriptions]]
@@ -27028,7 +27028,7 @@ effect_text = "Inflicts regular damage.  If a friendly Pokémon fainted on the p
 name = "final-gambit"
 pp = 5
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "special"
 id = 514
 [[move.descriptions]]
@@ -27062,7 +27062,7 @@ effect_text = "Inflicts damage equal to the user's remaining HP.  User faints."
 [[move]]
 name = "bestow"
 pp = 15
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 515
 [[move.descriptions]]
@@ -27098,7 +27098,7 @@ name = "inferno"
 Power = 100
 pp = 5
 accuracy = 50
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 516
 [[move.descriptions]]
@@ -27134,7 +27134,7 @@ name = "water-pledge"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 517
 [[move.descriptions]]
@@ -27170,7 +27170,7 @@ name = "fire-pledge"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 518
 [[move.descriptions]]
@@ -27206,7 +27206,7 @@ name = "grass-pledge"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 519
 [[move.descriptions]]
@@ -27242,7 +27242,7 @@ name = "volt-switch"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 520
 [[move.descriptions]]
@@ -27278,7 +27278,7 @@ name = "struggle-bug"
 Power = 50
 pp = 20
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "special"
 id = 521
 [[move.descriptions]]
@@ -27314,7 +27314,7 @@ name = "bulldoze"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 522
 [[move.descriptions]]
@@ -27350,7 +27350,7 @@ name = "frost-breath"
 Power = 60
 pp = 10
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 523
 [[move.descriptions]]
@@ -27386,7 +27386,7 @@ name = "dragon-tail"
 Power = 60
 pp = 10
 accuracy = 90
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 524
 [[move.descriptions]]
@@ -27420,7 +27420,7 @@ effect_text = "Inflicts regular damage, then switches the target out for another
 [[move]]
 name = "work-up"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 525
 [[move.descriptions]]
@@ -27456,7 +27456,7 @@ name = "electroweb"
 Power = 55
 pp = 15
 accuracy = 95
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 526
 [[move.descriptions]]
@@ -27492,7 +27492,7 @@ name = "wild-charge"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 527
 [[move.descriptions]]
@@ -27528,7 +27528,7 @@ name = "drill-run"
 Power = 80
 pp = 10
 accuracy = 95
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 528
 [[move.descriptions]]
@@ -27564,7 +27564,7 @@ name = "dual-chop"
 Power = 40
 pp = 15
 accuracy = 90
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 529
 [[move.descriptions]]
@@ -27600,7 +27600,7 @@ name = "heart-stamp"
 Power = 60
 pp = 25
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 id = 530
 [[move.descriptions]]
@@ -27636,7 +27636,7 @@ name = "horn-leech"
 Power = 75
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 531
 [[move.descriptions]]
@@ -27672,7 +27672,7 @@ name = "sacred-sword"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 532
 [[move.descriptions]]
@@ -27708,7 +27708,7 @@ name = "razor-shell"
 Power = 75
 pp = 10
 accuracy = 95
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 533
 [[move.descriptions]]
@@ -27743,7 +27743,7 @@ effect_text = "Inflicts regular damage.  Has a 50% chance to lower the target's 
 name = "heat-crash"
 pp = 10
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 534
 [[move.descriptions]]
@@ -27779,7 +27779,7 @@ name = "leaf-tornado"
 Power = 65
 pp = 10
 accuracy = 90
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 535
 [[move.descriptions]]
@@ -27815,7 +27815,7 @@ name = "steamroller"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 536
 [[move.descriptions]]
@@ -27849,7 +27849,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to make the target fli
 [[move]]
 name = "cotton-guard"
 pp = 10
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 537
 [[move.descriptions]]
@@ -27885,7 +27885,7 @@ name = "night-daze"
 Power = 85
 pp = 10
 accuracy = 95
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "special"
 id = 538
 [[move.descriptions]]
@@ -27921,7 +27921,7 @@ name = "psystrike"
 Power = 100
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 539
 [[move.descriptions]]
@@ -27957,7 +27957,7 @@ name = "tail-slap"
 Power = 25
 pp = 10
 accuracy = 85
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 540
 [[move.descriptions]]
@@ -27993,7 +27993,7 @@ name = "hurricane"
 Power = 110
 pp = 10
 accuracy = 70
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 541
 [[move.descriptions]]
@@ -28029,7 +28029,7 @@ name = "head-charge"
 Power = 120
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 542
 [[move.descriptions]]
@@ -28065,7 +28065,7 @@ name = "gear-grind"
 Power = 50
 pp = 15
 accuracy = 85
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 543
 [[move.descriptions]]
@@ -28101,7 +28101,7 @@ name = "searing-shot"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 544
 [[move.descriptions]]
@@ -28137,7 +28137,7 @@ name = "techno-blast"
 Power = 120
 pp = 5
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 545
 [[move.descriptions]]
@@ -28173,7 +28173,7 @@ name = "relic-song"
 Power = 75
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 546
 [[move.descriptions]]
@@ -28209,7 +28209,7 @@ name = "secret-sword"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "special"
 id = 547
 [[move.descriptions]]
@@ -28245,7 +28245,7 @@ name = "glaciate"
 Power = 65
 pp = 10
 accuracy = 95
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 548
 [[move.descriptions]]
@@ -28281,7 +28281,7 @@ name = "bolt-strike"
 Power = 130
 pp = 5
 accuracy = 85
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 549
 [[move.descriptions]]
@@ -28317,7 +28317,7 @@ name = "blue-flare"
 Power = 130
 pp = 5
 accuracy = 85
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 550
 [[move.descriptions]]
@@ -28353,7 +28353,7 @@ name = "fiery-dance"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 551
 [[move.descriptions]]
@@ -28389,7 +28389,7 @@ name = "freeze-shock"
 Power = 140
 pp = 5
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 552
 [[move.descriptions]]
@@ -28425,7 +28425,7 @@ name = "ice-burn"
 Power = 140
 pp = 5
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 553
 [[move.descriptions]]
@@ -28461,7 +28461,7 @@ name = "snarl"
 Power = 55
 pp = 15
 accuracy = 95
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "special"
 id = 554
 [[move.descriptions]]
@@ -28497,7 +28497,7 @@ name = "icicle-crash"
 Power = 85
 pp = 10
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 555
 [[move.descriptions]]
@@ -28533,7 +28533,7 @@ name = "v-create"
 Power = 180
 pp = 5
 accuracy = 95
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 556
 [[move.descriptions]]
@@ -28569,7 +28569,7 @@ name = "fusion-flare"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 557
 [[move.descriptions]]
@@ -28605,7 +28605,7 @@ name = "fusion-bolt"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 558
 [[move.descriptions]]
@@ -28641,7 +28641,7 @@ name = "flying-press"
 Power = 100
 pp = 10
 accuracy = 95
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 559
 [[move.descriptions]]
@@ -28669,7 +28669,7 @@ effect_text = "Inflicts regular damage.  For the purposes of type effectiveness,
 [[move]]
 name = "mat-block"
 pp = 10
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 id = 560
 [[move.descriptions]]
@@ -28699,7 +28699,7 @@ name = "belch"
 Power = 120
 pp = 10
 accuracy = 90
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 561
 [[move.descriptions]]
@@ -28727,7 +28727,7 @@ effect_text = "Inflicts regular damage.  Can only be used if the user has eaten 
 [[move]]
 name = "rototiller"
 pp = 10
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "status"
 id = 562
 [[move.descriptions]]
@@ -28755,7 +28755,7 @@ effect_text = "Raises the Attack and Special Attack of all grass Pokémon in bat
 [[move]]
 name = "sticky-web"
 pp = 20
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 563
 [[move.descriptions]]
@@ -28785,7 +28785,7 @@ name = "fell-stinger"
 Power = 50
 pp = 25
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 564
 [[move.descriptions]]
@@ -28815,7 +28815,7 @@ name = "phantom-force"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 565
 [[move.descriptions]]
@@ -28844,7 +28844,7 @@ effect_text = "Inflicts regular damage.  User vanishes for one turn, becoming im
 name = "trick-or-treat"
 pp = 20
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "status"
 id = 566
 [[move.descriptions]]
@@ -28873,7 +28873,7 @@ effect_text = "Adds ghost to the target's types."
 name = "noble-roar"
 pp = 30
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 567
 [[move.descriptions]]
@@ -28901,7 +28901,7 @@ effect_text = "Lowers the target's Attack and Special Attack by one stage."
 [[move]]
 name = "ion-deluge"
 pp = 25
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 568
 [[move.descriptions]]
@@ -28931,7 +28931,7 @@ name = "parabolic-charge"
 Power = 65
 pp = 20
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 569
 [[move.descriptions]]
@@ -28960,7 +28960,7 @@ effect_text = "Heals the user for half the total damage dealt to all targets."
 name = "forests-curse"
 pp = 20
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 570
 [[move.descriptions]]
@@ -28990,7 +28990,7 @@ name = "petal-blizzard"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 571
 [[move.descriptions]]
@@ -29020,7 +29020,7 @@ name = "freeze-dry"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 572
 [[move.descriptions]]
@@ -29049,7 +29049,7 @@ effect_text = "Inflicts regular damage.  This move is super-effective against th
 name = "disarming-voice"
 Power = 40
 pp = 15
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 573
 [[move.descriptions]]
@@ -29078,7 +29078,7 @@ effect_text = "Inflicts regular damage.  Ignores accuracy and evasion."
 name = "parting-shot"
 pp = 20
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 574
 [[move.descriptions]]
@@ -29106,7 +29106,7 @@ effect_text = "Lowers all targets' Attack and Special Attack by one stage.  Make
 [[move]]
 name = "topsy-turvy"
 pp = 20
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 id = 575
 [[move.descriptions]]
@@ -29136,7 +29136,7 @@ name = "draining-kiss"
 Power = 50
 pp = 10
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 576
 [[move.descriptions]]
@@ -29164,7 +29164,7 @@ effect_text = "Deals regular damage.  Drains 75% of the damage inflicted to heal
 [[move]]
 name = "crafty-shield"
 pp = 10
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 577
 [[move.descriptions]]
@@ -29192,7 +29192,7 @@ effect_text = "Protects all friendly Pokémon from non-damaging moves for the re
 [[move]]
 name = "flower-shield"
 pp = 10
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 578
 [[move.descriptions]]
@@ -29220,7 +29220,7 @@ effect_text = "Raises the Defense of all grass Pokémon in battle."
 [[move]]
 name = "grassy-terrain"
 pp = 10
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 579
 [[move.descriptions]]
@@ -29248,7 +29248,7 @@ effect_text = "For five turns, heals all Pokémon on the ground for 1/16 their m
 [[move]]
 name = "misty-terrain"
 pp = 10
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 580
 [[move.descriptions]]
@@ -29276,7 +29276,7 @@ effect_text = "For five turns, protects all Pokémon on the ground from major st
 [[move]]
 name = "electrify"
 pp = 20
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 581
 [[move.descriptions]]
@@ -29306,7 +29306,7 @@ name = "play-rough"
 Power = 90
 pp = 10
 accuracy = 90
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "physical"
 id = 582
 [[move.descriptions]]
@@ -29336,7 +29336,7 @@ name = "fairy-wind"
 Power = 40
 pp = 30
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 583
 [[move.descriptions]]
@@ -29366,7 +29366,7 @@ name = "moonblast"
 Power = 95
 pp = 15
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 584
 [[move.descriptions]]
@@ -29396,7 +29396,7 @@ name = "boomburst"
 Power = 140
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 585
 [[move.descriptions]]
@@ -29424,7 +29424,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "fairy-lock"
 pp = 10
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 586
 [[move.descriptions]]
@@ -29452,7 +29452,7 @@ effect_text = "Prevents all Pokémon from fleeing or switching out during the ne
 [[move]]
 name = "kings-shield"
 pp = 10
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "status"
 id = 587
 [[move.descriptions]]
@@ -29480,7 +29480,7 @@ effect_text = "Blocks damaging attacks and lowers attacking Pokémon's Attack by
 [[move]]
 name = "play-nice"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 588
 [[move.descriptions]]
@@ -29508,7 +29508,7 @@ effect_text = "Lowers the target's Attack by one stage."
 [[move]]
 name = "confide"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 589
 [[move.descriptions]]
@@ -29538,7 +29538,7 @@ name = "diamond-storm"
 Power = 100
 pp = 5
 accuracy = 95
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 590
 [[move.descriptions]]
@@ -29568,7 +29568,7 @@ name = "steam-eruption"
 Power = 110
 pp = 5
 accuracy = 95
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 591
 [[move.descriptions]]
@@ -29597,7 +29597,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to burn the target."
 name = "hyperspace-hole"
 Power = 80
 pp = 5
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 592
 [[move.descriptions]]
@@ -29627,7 +29627,7 @@ name = "water-shuriken"
 Power = 15
 pp = 20
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 593
 [[move.descriptions]]
@@ -29657,7 +29657,7 @@ name = "mystical-fire"
 Power = 75
 pp = 10
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 594
 [[move.descriptions]]
@@ -29685,7 +29685,7 @@ effect_text = "Inflicts regular damage.  Has a 100% chance to lower the target's
 [[move]]
 name = "spiky-shield"
 pp = 10
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 595
 [[move.descriptions]]
@@ -29713,7 +29713,7 @@ effect_text = "Blocks damaging attacks and damages attacking Pokémon for 1/8 th
 [[move]]
 name = "aromatic-mist"
 pp = 20
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 596
 [[move.descriptions]]
@@ -29742,7 +29742,7 @@ effect_text = "Raises a selected ally's Special Defense by one stage."
 name = "eerie-impulse"
 pp = 15
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 597
 [[move.descriptions]]
@@ -29771,7 +29771,7 @@ effect_text = "Lowers the target's Special Attack by two stages."
 name = "venom-drench"
 pp = 20
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 598
 [[move.descriptions]]
@@ -29800,7 +29800,7 @@ effect_text = "Lowers the target's Attack, Special Attack, and Speed by one stag
 name = "powder"
 pp = 20
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 id = 599
 [[move.descriptions]]
@@ -29828,7 +29828,7 @@ effect_text = "Explodes if the target uses a fire move this turn, damaging it fo
 [[move]]
 name = "geomancy"
 pp = 10
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 600
 [[move.descriptions]]
@@ -29856,7 +29856,7 @@ effect_text = "Takes one turn to charge, then raises the user's Special Attack, 
 [[move]]
 name = "magnetic-flux"
 pp = 20
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 601
 [[move.descriptions]]
@@ -29884,7 +29884,7 @@ effect_text = "Raises the Defense and Special Defense of all friendly Pokémon w
 [[move]]
 name = "happy-hour"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 602
 [[move.descriptions]]
@@ -29912,7 +29912,7 @@ effect_text = "Doubles prize money.\n\nStacks with a held item.  Only works once
 [[move]]
 name = "electric-terrain"
 pp = 10
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "status"
 id = 603
 [[move.descriptions]]
@@ -29942,7 +29942,7 @@ name = "dazzling-gleam"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 604
 [[move.descriptions]]
@@ -29970,7 +29970,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "celebrate"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 605
 [[move.descriptions]]
@@ -29998,7 +29998,7 @@ effect_text = "Does nothing."
 [[move]]
 name = "hold-hands"
 pp = 40
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 606
 [[move.descriptions]]
@@ -30027,7 +30027,7 @@ effect_text = "Does nothing."
 name = "baby-doll-eyes"
 pp = 30
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 607
 [[move.descriptions]]
@@ -30057,7 +30057,7 @@ name = "nuzzle"
 Power = 20
 pp = 20
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 608
 [[move.descriptions]]
@@ -30087,7 +30087,7 @@ name = "hold-back"
 Power = 40
 pp = 40
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 609
 [[move.descriptions]]
@@ -30117,7 +30117,7 @@ name = "infestation"
 Power = 20
 pp = 20
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "special"
 id = 610
 [[move.descriptions]]
@@ -30147,7 +30147,7 @@ name = "power-up-punch"
 Power = 40
 pp = 20
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 611
 [[move.descriptions]]
@@ -30177,7 +30177,7 @@ name = "oblivion-wing"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 612
 [[move.descriptions]]
@@ -30207,7 +30207,7 @@ name = "thousand-arrows"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 613
 [[move.descriptions]]
@@ -30237,7 +30237,7 @@ name = "thousand-waves"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 614
 [[move.descriptions]]
@@ -30267,7 +30267,7 @@ name = "lands-wrath"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 615
 [[move.descriptions]]
@@ -30297,7 +30297,7 @@ name = "light-of-ruin"
 Power = 140
 pp = 5
 accuracy = 90
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 616
 [[move.descriptions]]
@@ -30327,7 +30327,7 @@ name = "origin-pulse"
 Power = 110
 pp = 10
 accuracy = 85
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 617
 [[move.descriptions]]
@@ -30354,7 +30354,7 @@ name = "precipice-blades"
 Power = 120
 pp = 10
 accuracy = 85
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 618
 [[move.descriptions]]
@@ -30381,7 +30381,7 @@ name = "dragon-ascent"
 Power = 120
 pp = 5
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 619
 [[move.descriptions]]
@@ -30407,7 +30407,7 @@ effect_text = "Inflicts regular damage, then lowers the user's Defense and Speci
 name = "hyperspace-fury"
 Power = 100
 pp = 5
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 620
 [[move.descriptions]]
@@ -30432,7 +30432,7 @@ effect_text = "Inflicts regular damage.  Bypasses and removes any protection eff
 [[move]]
 name = "breakneck-blitz--physical"
 pp = 1
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 621
 [[move.descriptions]]
@@ -30454,7 +30454,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "breakneck-blitz--special"
 pp = 1
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 622
 [[move.descriptions]]
@@ -30476,7 +30476,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "all-out-pummeling--physical"
 pp = 1
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 623
 [[move.descriptions]]
@@ -30498,7 +30498,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "all-out-pummeling--special"
 pp = 1
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "special"
 id = 624
 [[move.descriptions]]
@@ -30520,7 +30520,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "supersonic-skystrike--physical"
 pp = 1
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 625
 [[move.descriptions]]
@@ -30542,7 +30542,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "supersonic-skystrike--special"
 pp = 1
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 id = 626
 [[move.descriptions]]
@@ -30564,7 +30564,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "acid-downpour--physical"
 pp = 1
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 627
 [[move.descriptions]]
@@ -30586,7 +30586,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "acid-downpour--special"
 pp = 1
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 628
 [[move.descriptions]]
@@ -30608,7 +30608,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "tectonic-rage--physical"
 pp = 1
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 629
 [[move.descriptions]]
@@ -30630,7 +30630,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "tectonic-rage--special"
 pp = 1
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "special"
 id = 630
 [[move.descriptions]]
@@ -30652,7 +30652,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "continental-crush--physical"
 pp = 1
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 631
 [[move.descriptions]]
@@ -30674,7 +30674,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "continental-crush--special"
 pp = 1
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "special"
 id = 632
 [[move.descriptions]]
@@ -30696,7 +30696,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "savage-spin-out--physical"
 pp = 1
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 633
 [[move.descriptions]]
@@ -30718,7 +30718,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "savage-spin-out--special"
 pp = 1
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "special"
 id = 634
 [[move.descriptions]]
@@ -30740,7 +30740,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "never-ending-nightmare--physical"
 pp = 1
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 635
 [[move.descriptions]]
@@ -30762,7 +30762,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "never-ending-nightmare--special"
 pp = 1
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 636
 [[move.descriptions]]
@@ -30784,7 +30784,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "corkscrew-crash--physical"
 pp = 1
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 637
 [[move.descriptions]]
@@ -30806,7 +30806,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "corkscrew-crash--special"
 pp = 1
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "special"
 id = 638
 [[move.descriptions]]
@@ -30828,7 +30828,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "inferno-overdrive--physical"
 pp = 1
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 639
 [[move.descriptions]]
@@ -30850,7 +30850,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "inferno-overdrive--special"
 pp = 1
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 640
 [[move.descriptions]]
@@ -30872,7 +30872,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "hydro-vortex--physical"
 pp = 1
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 641
 [[move.descriptions]]
@@ -30894,7 +30894,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "hydro-vortex--special"
 pp = 1
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 642
 [[move.descriptions]]
@@ -30916,7 +30916,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "bloom-doom--physical"
 pp = 1
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 643
 [[move.descriptions]]
@@ -30938,7 +30938,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "bloom-doom--special"
 pp = 1
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 id = 644
 [[move.descriptions]]
@@ -30960,7 +30960,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "gigavolt-havoc--physical"
 pp = 1
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 645
 [[move.descriptions]]
@@ -30982,7 +30982,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "gigavolt-havoc--special"
 pp = 1
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 646
 [[move.descriptions]]
@@ -31004,7 +31004,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "shattered-psyche--physical"
 pp = 1
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 id = 647
 [[move.descriptions]]
@@ -31026,7 +31026,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "shattered-psyche--special"
 pp = 1
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 648
 [[move.descriptions]]
@@ -31048,7 +31048,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "subzero-slammer--physical"
 pp = 1
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 649
 [[move.descriptions]]
@@ -31070,7 +31070,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "subzero-slammer--special"
 pp = 1
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 650
 [[move.descriptions]]
@@ -31092,7 +31092,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "devastating-drake--physical"
 pp = 1
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 651
 [[move.descriptions]]
@@ -31114,7 +31114,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "devastating-drake--special"
 pp = 1
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 652
 [[move.descriptions]]
@@ -31136,7 +31136,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "black-hole-eclipse--physical"
 pp = 1
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 653
 [[move.descriptions]]
@@ -31158,7 +31158,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "black-hole-eclipse--special"
 pp = 1
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "special"
 id = 654
 [[move.descriptions]]
@@ -31180,7 +31180,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "twinkle-tackle--physical"
 pp = 1
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "physical"
 id = 655
 [[move.descriptions]]
@@ -31202,7 +31202,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "twinkle-tackle--special"
 pp = 1
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 656
 [[move.descriptions]]
@@ -31225,7 +31225,7 @@ effect_text = "Inflicts regular damage."
 name = "catastropika"
 Power = 210
 pp = 1
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 657
 [[move.descriptions]]
@@ -31247,7 +31247,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "shore-up"
 pp = 5
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "status"
 id = 658
 [[move.descriptions]]
@@ -31271,7 +31271,7 @@ name = "first-impression"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 659
 [[move.descriptions]]
@@ -31293,7 +31293,7 @@ effect_text = "Inflicts regular damage. Can only be used on the user's first tur
 [[move]]
 name = "baneful-bunker"
 pp = 10
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 660
 [[move.descriptions]]
@@ -31317,7 +31317,7 @@ name = "spirit-shackle"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 661
 [[move.descriptions]]
@@ -31341,7 +31341,7 @@ name = "darkest-lariat"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 662
 [[move.descriptions]]
@@ -31365,7 +31365,7 @@ name = "sparkling-aria"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 663
 [[move.descriptions]]
@@ -31389,7 +31389,7 @@ name = "ice-hammer"
 Power = 100
 pp = 10
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 664
 [[move.descriptions]]
@@ -31411,7 +31411,7 @@ effect_text = "Inflicts regular damage, then lowers the user's Speed by one stag
 [[move]]
 name = "floral-healing"
 pp = 10
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 id = 665
 [[move.descriptions]]
@@ -31435,7 +31435,7 @@ name = "high-horsepower"
 Power = 95
 pp = 10
 accuracy = 95
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 666
 [[move.descriptions]]
@@ -31458,7 +31458,7 @@ effect_text = "Inflicts regular damage."
 name = "strength-sap"
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 667
 [[move.descriptions]]
@@ -31482,7 +31482,7 @@ name = "solar-blade"
 Power = 125
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 668
 [[move.descriptions]]
@@ -31506,7 +31506,7 @@ name = "leafage"
 Power = 40
 pp = 40
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 669
 [[move.descriptions]]
@@ -31528,7 +31528,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "spotlight"
 pp = 15
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 670
 [[move.descriptions]]
@@ -31551,7 +31551,7 @@ effect_text = "For the duration of the turn, if the target is also a valid targe
 name = "toxic-thread"
 pp = 20
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 671
 [[move.descriptions]]
@@ -31573,7 +31573,7 @@ effect_text = "Poisons the target and lowers its Speed by one stage."
 [[move]]
 name = "laser-focus"
 pp = 30
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 672
 [[move.descriptions]]
@@ -31595,7 +31595,7 @@ effect_text = "The user's next move will result in a critical hit."
 [[move]]
 name = "gear-up"
 pp = 20
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "status"
 id = 673
 [[move.descriptions]]
@@ -31619,7 +31619,7 @@ name = "throat-chop"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 674
 [[move.descriptions]]
@@ -31643,7 +31643,7 @@ name = "pollen-puff"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "special"
 id = 675
 [[move.descriptions]]
@@ -31667,7 +31667,7 @@ name = "anchor-shot"
 Power = 80
 pp = 20
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 676
 [[move.descriptions]]
@@ -31689,7 +31689,7 @@ effect_text = "Inflicts regular damage.  Traps the target."
 [[move]]
 name = "psychic-terrain"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 677
 [[move.descriptions]]
@@ -31713,7 +31713,7 @@ name = "lunge"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 678
 [[move.descriptions]]
@@ -31737,7 +31737,7 @@ name = "fire-lash"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 679
 [[move.descriptions]]
@@ -31761,7 +31761,7 @@ name = "power-trip"
 Power = 20
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 680
 [[move.descriptions]]
@@ -31785,7 +31785,7 @@ name = "burn-up"
 Power = 130
 pp = 5
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 681
 [[move.descriptions]]
@@ -31807,7 +31807,7 @@ effect_text = "Inflicts regular damage.  Removes the user's fire type after dama
 [[move]]
 name = "speed-swap"
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 682
 [[move.descriptions]]
@@ -31830,7 +31830,7 @@ effect_text = "Exchanges the original Speed stats of the user and target."
 name = "smart-strike"
 Power = 70
 pp = 10
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 683
 [[move.descriptions]]
@@ -31852,7 +31852,7 @@ effect_text = "Inflicts regular damage.  Ignores accuracy and evasion modifiers.
 [[move]]
 name = "purify"
 pp = 20
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 684
 [[move.descriptions]]
@@ -31876,7 +31876,7 @@ name = "revelation-dance"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 685
 [[move.descriptions]]
@@ -31900,7 +31900,7 @@ name = "core-enforcer"
 Power = 100
 pp = 10
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 686
 [[move.descriptions]]
@@ -31924,7 +31924,7 @@ name = "trop-kick"
 Power = 70
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 687
 [[move.descriptions]]
@@ -31946,7 +31946,7 @@ effect_text = "Inflicts regular damage.  Lowers the target's Attack by one stage
 [[move]]
 name = "instruct"
 pp = 15
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 id = 688
 [[move.descriptions]]
@@ -31970,7 +31970,7 @@ name = "beak-blast"
 Power = 100
 pp = 15
 accuracy = 100
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 689
 [[move.descriptions]]
@@ -31994,7 +31994,7 @@ name = "clanging-scales"
 Power = 110
 pp = 5
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 690
 [[move.descriptions]]
@@ -32018,7 +32018,7 @@ name = "dragon-hammer"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 691
 [[move.descriptions]]
@@ -32042,7 +32042,7 @@ name = "brutal-swing"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 692
 [[move.descriptions]]
@@ -32064,7 +32064,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "aurora-veil"
 pp = 20
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "status"
 id = 693
 [[move.descriptions]]
@@ -32087,7 +32087,7 @@ effect_text = "Places the Aurora Veil effect on the user's side of the field for
 name = "sinister-arrow-raid"
 Power = 180
 pp = 1
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 694
 [[move.descriptions]]
@@ -32110,7 +32110,7 @@ effect_text = "Inflicts regular damage."
 name = "malicious-moonsault"
 Power = 180
 pp = 1
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 695
 [[move.descriptions]]
@@ -32133,7 +32133,7 @@ effect_text = "Inflicts regular damage."
 name = "oceanic-operetta"
 Power = 195
 pp = 1
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 696
 [[move.descriptions]]
@@ -32155,7 +32155,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "guardian-of-alola"
 pp = 1
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 697
 [[move.descriptions]]
@@ -32178,7 +32178,7 @@ effect_text = "Inflicts direct damage equal to ¾ of the target's remaining HP."
 name = "soul-stealing-7-star-strike"
 Power = 195
 pp = 1
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 698
 [[move.descriptions]]
@@ -32201,7 +32201,7 @@ effect_text = "Inflicts regular damage."
 name = "stoked-sparksurfer"
 Power = 175
 pp = 1
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 699
 [[move.descriptions]]
@@ -32224,7 +32224,7 @@ effect_text = "Inflicts regular damage.  Has a 100% chance to paralyze the targe
 name = "pulverizing-pancake"
 Power = 210
 pp = 1
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 700
 [[move.descriptions]]
@@ -32246,7 +32246,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "extreme-evoboost"
 pp = 1
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 701
 [[move.descriptions]]
@@ -32269,7 +32269,7 @@ effect_text = "Raises the user's Attack, Defense, Special Attack, Special Defens
 name = "genesis-supernova"
 Power = 185
 pp = 1
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 702
 [[move.descriptions]]
@@ -32293,7 +32293,7 @@ name = "shell-trap"
 Power = 150
 pp = 5
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 703
 [[move.descriptions]]
@@ -32317,7 +32317,7 @@ name = "fleur-cannon"
 Power = 130
 pp = 5
 accuracy = 90
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 704
 [[move.descriptions]]
@@ -32341,7 +32341,7 @@ name = "psychic-fangs"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 id = 705
 [[move.descriptions]]
@@ -32365,7 +32365,7 @@ name = "stomping-tantrum"
 Power = 75
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 706
 [[move.descriptions]]
@@ -32389,7 +32389,7 @@ name = "shadow-bone"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 707
 [[move.descriptions]]
@@ -32413,7 +32413,7 @@ name = "accelerock"
 Power = 40
 pp = 20
 accuracy = 100
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 708
 [[move.descriptions]]
@@ -32437,7 +32437,7 @@ name = "liquidation"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 709
 [[move.descriptions]]
@@ -32461,7 +32461,7 @@ name = "prismatic-laser"
 Power = 160
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 710
 [[move.descriptions]]
@@ -32485,7 +32485,7 @@ name = "spectral-thief"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 711
 [[move.descriptions]]
@@ -32509,7 +32509,7 @@ name = "sunsteel-strike"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 712
 [[move.descriptions]]
@@ -32533,7 +32533,7 @@ name = "moongeist-beam"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 713
 [[move.descriptions]]
@@ -32555,7 +32555,7 @@ effect_text = "Inflicts regular damage.  Other Pokémon's abilities cannot activ
 [[move]]
 name = "tearful-look"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 714
 [[move.descriptions]]
@@ -32579,7 +32579,7 @@ name = "zing-zap"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 715
 [[move.descriptions]]
@@ -32602,7 +32602,7 @@ effect_text = "Inflicts regular damage.  Has a 30% chance to make the target fli
 name = "natures-madness"
 pp = 10
 accuracy = 90
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 716
 [[move.descriptions]]
@@ -32626,7 +32626,7 @@ name = "multi-attack"
 Power = 120
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 717
 [[move.descriptions]]
@@ -32649,7 +32649,7 @@ effect_text = "Inflicts regular damage.  If the user is holding a plate or a dri
 name = "10-000-000-volt-thunderbolt"
 Power = 195
 pp = 1
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 718
 [[move.descriptions]]
@@ -32673,7 +32673,7 @@ name = "mind-blown"
 Power = 150
 pp = 5
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 719
 [[move.descriptions]]
@@ -32694,7 +32694,7 @@ name = "plasma-fists"
 Power = 100
 pp = 15
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 720
 [[move.descriptions]]
@@ -32715,7 +32715,7 @@ name = "photon-geyser"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 721
 [[move.descriptions]]
@@ -32735,7 +32735,7 @@ effect_text = "Inflicts regular damage."
 name = "light-that-burns-the-sky"
 Power = 200
 pp = 1
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 722
 [[move.descriptions]]
@@ -32755,7 +32755,7 @@ effect_text = "Inflicts damage using either Attack or Special Attack stat, which
 name = "searing-sunraze-smash"
 Power = 200
 pp = 1
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 723
 [[move.descriptions]]
@@ -32775,7 +32775,7 @@ effect_text = "Inflicts regular damage.  Other Pokémon's abilities cannot activ
 name = "menacing-moonraze-maelstrom"
 Power = 200
 pp = 1
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 724
 [[move.descriptions]]
@@ -32795,7 +32795,7 @@ effect_text = "Inflicts regular damage.  Other Pokémon's abilities cannot activ
 name = "lets-snuggle-forever"
 Power = 190
 pp = 1
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "physical"
 id = 725
 [[move.descriptions]]
@@ -32815,7 +32815,7 @@ effect_text = "After inflicting damage, all Normal-type moves become Electric-ty
 name = "splintered-stormshards"
 Power = 190
 pp = 1
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 726
 [[move.descriptions]]
@@ -32835,7 +32835,7 @@ effect_text = "Inflicts damage and removes any terrain present on the battlefiel
 name = "clangorous-soulblaze"
 Power = 185
 pp = 1
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 727
 [[move.descriptions]]
@@ -32856,7 +32856,7 @@ name = "zippy-zap"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 728
 [[move.descriptions]]
@@ -32874,7 +32874,7 @@ name = "splishy-splash"
 Power = 90
 pp = 15
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 729
 [[move.descriptions]]
@@ -32892,7 +32892,7 @@ name = "floaty-fall"
 Power = 90
 pp = 15
 accuracy = 95
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 730
 [[move.descriptions]]
@@ -32908,7 +32908,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "pika-papow"
 pp = 20
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 731
 [[move.descriptions]]
@@ -32926,7 +32926,7 @@ name = "bouncy-bubble"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 732
 [[move.descriptions]]
@@ -32944,7 +32944,7 @@ name = "buzzy-buzz"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 733
 [[move.descriptions]]
@@ -32962,7 +32962,7 @@ name = "sizzly-slide"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 734
 [[move.descriptions]]
@@ -32980,7 +32980,7 @@ name = "glitzy-glow"
 Power = 80
 pp = 15
 accuracy = 95
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 735
 [[move.descriptions]]
@@ -32998,7 +32998,7 @@ name = "baddy-bad"
 Power = 80
 pp = 15
 accuracy = 95
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "special"
 id = 736
 [[move.descriptions]]
@@ -33016,7 +33016,7 @@ name = "sappy-seed"
 Power = 100
 pp = 10
 accuracy = 90
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 737
 [[move.descriptions]]
@@ -33034,7 +33034,7 @@ name = "freezy-frost"
 Power = 100
 pp = 10
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "special"
 id = 738
 [[move.descriptions]]
@@ -33052,7 +33052,7 @@ name = "sparkly-swirl"
 Power = 120
 pp = 5
 accuracy = 85
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 739
 [[move.descriptions]]
@@ -33068,7 +33068,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "veevee-volley"
 pp = 20
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 740
 [[move.descriptions]]
@@ -33086,7 +33086,7 @@ name = "double-iron-bash"
 Power = 60
 pp = 5
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 741
 [[move.descriptions]]
@@ -33102,7 +33102,7 @@ effect_text = "Inflicts regular damage.  Hits twice in one turn."
 [[move]]
 name = "max-guard"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 742
 [[move.descriptions]]
@@ -33117,7 +33117,7 @@ name = "dynamax-cannon"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 743
 [[move.descriptions]]
@@ -33132,7 +33132,7 @@ name = "snipe-shot"
 Power = 80
 pp = 15
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 id = 744
 [[move.descriptions]]
@@ -33147,7 +33147,7 @@ name = "jaw-lock"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 745
 [[move.descriptions]]
@@ -33160,7 +33160,7 @@ effect_text = "Inflicts regular damage, then (if successful) sets leech seed on 
 [[move]]
 name = "stuff-cheeks"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 id = 746
 [[move.descriptions]]
@@ -33173,7 +33173,7 @@ effect_text = "Inflicts regular damage, then (if successful) removes major statu
 [[move]]
 name = "no-retreat"
 pp = 5
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 id = 747
 [[move.descriptions]]
@@ -33187,7 +33187,7 @@ effect_text = "Inflicts regular damage.  Hits twice in one turn, with a 100% cha
 name = "tar-shot"
 pp = 15
 accuracy = 100
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "status"
 effects = []
 id = 748
@@ -33199,7 +33199,7 @@ description = "The user pours sticky tar over the target, lowering the\ntarget�
 name = "magic-powder"
 pp = 20
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 effects = []
 id = 749
@@ -33212,7 +33212,7 @@ name = "dragon-darts"
 Power = 50
 pp = 10
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 effects = []
 id = 750
@@ -33223,7 +33223,7 @@ description = "The user attacks twice using Dreepy. If there are two\ntargets, t
 [[move]]
 name = "teatime"
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 751
@@ -33235,7 +33235,7 @@ description = "The user has teatime with all the Pokémon in the battle.\nEach P
 name = "octolock"
 pp = 15
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 effects = []
 id = 752
@@ -33248,7 +33248,7 @@ name = "bolt-beak"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 effects = []
 id = 753
@@ -33261,7 +33261,7 @@ name = "fishious-rend"
 Power = 85
 pp = 10
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 effects = []
 id = 754
@@ -33273,7 +33273,7 @@ description = "The user rends the target with its hard gills.\nIf the user attac
 name = "court-change"
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 755
@@ -33285,7 +33285,7 @@ description = "With its mysterious power, the user swaps the effects on\neither 
 name = "max-flare"
 Power = 100
 pp = 10
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 756
 [[move.descriptions]]
@@ -33299,7 +33299,7 @@ effect_text = "Inflicts regular damage."
 name = "max-flutterby"
 Power = 10
 pp = 10
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 757
 [[move.descriptions]]
@@ -33313,7 +33313,7 @@ effect_text = "Inflicts regular damage."
 name = "max-lightning"
 Power = 10
 pp = 10
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 id = 758
 [[move.descriptions]]
@@ -33327,7 +33327,7 @@ effect_text = "Inflicts regular damage."
 name = "max-strike"
 Power = 10
 pp = 10
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 id = 759
 [[move.descriptions]]
@@ -33341,7 +33341,7 @@ effect_text = "Inflicts regular damage."
 name = "max-knuckle"
 Power = 10
 pp = 10
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 760
 [[move.descriptions]]
@@ -33355,7 +33355,7 @@ effect_text = "Inflicts regular damage."
 name = "max-phantasm"
 Power = 10
 pp = 10
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 761
 [[move.descriptions]]
@@ -33369,7 +33369,7 @@ effect_text = "Inflicts regular damage."
 name = "max-hailstorm"
 Power = 10
 pp = 10
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 762
 [[move.descriptions]]
@@ -33383,7 +33383,7 @@ effect_text = "Inflicts regular damage."
 name = "max-ooze"
 Power = 10
 pp = 10
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 id = 763
 [[move.descriptions]]
@@ -33397,7 +33397,7 @@ effect_text = "Inflicts regular damage."
 name = "max-geyser"
 Power = 10
 pp = 10
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 764
 [[move.descriptions]]
@@ -33411,7 +33411,7 @@ effect_text = "Inflicts regular damage."
 name = "max-airstream"
 Power = 10
 pp = 10
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 765
 [[move.descriptions]]
@@ -33425,7 +33425,7 @@ effect_text = "Inflicts regular damage."
 name = "max-starfall"
 Power = 10
 pp = 10
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "physical"
 id = 766
 [[move.descriptions]]
@@ -33439,7 +33439,7 @@ effect_text = "Inflicts regular damage."
 name = "max-wyrmwind"
 Power = 10
 pp = 10
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 767
 [[move.descriptions]]
@@ -33453,7 +33453,7 @@ effect_text = "Inflicts regular damage."
 name = "max-mindstorm"
 Power = 10
 pp = 10
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 id = 768
 [[move.descriptions]]
@@ -33467,7 +33467,7 @@ effect_text = "Inflicts regular damage."
 name = "max-rockfall"
 Power = 10
 pp = 10
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 id = 769
 [[move.descriptions]]
@@ -33481,7 +33481,7 @@ effect_text = "Inflicts regular damage."
 name = "max-quake"
 Power = 10
 pp = 10
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 id = 770
 [[move.descriptions]]
@@ -33495,7 +33495,7 @@ effect_text = "Inflicts regular damage."
 name = "max-darkness"
 Power = 10
 pp = 10
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 771
 [[move.descriptions]]
@@ -33509,7 +33509,7 @@ effect_text = "Inflicts regular damage."
 name = "max-overgrowth"
 Power = 10
 pp = 10
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 772
 [[move.descriptions]]
@@ -33523,7 +33523,7 @@ effect_text = "Inflicts regular damage."
 name = "max-steelspike"
 Power = 10
 pp = 10
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 773
 [[move.descriptions]]
@@ -33537,7 +33537,7 @@ effect_text = "Inflicts regular damage."
 name = "clangorous-soul"
 pp = 5
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "status"
 effects = []
 id = 774
@@ -33550,7 +33550,7 @@ name = "body-press"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 effects = []
 id = 775
@@ -33561,7 +33561,7 @@ description = "The user attacks by slamming its body into the target.\nThe highe
 [[move]]
 name = "decorate"
 pp = 15
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "status"
 effects = []
 id = 776
@@ -33574,7 +33574,7 @@ name = "drum-beating"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 777
 [[move.descriptions]]
@@ -33589,7 +33589,7 @@ name = "snap-trap"
 Power = 35
 pp = 15
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 778
 [[move.descriptions]]
@@ -33604,7 +33604,7 @@ name = "pyro-ball"
 Power = 120
 pp = 5
 accuracy = 90
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 id = 779
 [[move.descriptions]]
@@ -33619,7 +33619,7 @@ name = "behemoth-blade"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 effects = []
 id = 780
@@ -33632,7 +33632,7 @@ name = "behemoth-bash"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 effects = []
 id = 781
@@ -33645,7 +33645,7 @@ name = "aura-wheel"
 Power = 110
 pp = 10
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 effects = []
 id = 782
@@ -33658,7 +33658,7 @@ name = "breaking-swipe"
 Power = 60
 pp = 15
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 783
 [[move.descriptions]]
@@ -33673,7 +33673,7 @@ name = "branch-poke"
 Power = 40
 pp = 40
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 784
 [[move.descriptions]]
@@ -33688,7 +33688,7 @@ name = "overdrive"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 effects = []
 id = 785
@@ -33701,7 +33701,7 @@ name = "apple-acid"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 effects = []
 id = 786
@@ -33714,7 +33714,7 @@ name = "grav-apple"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 787
 [[move.descriptions]]
@@ -33729,7 +33729,7 @@ name = "spirit-break"
 Power = 75
 pp = 15
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "physical"
 id = 788
 [[move.descriptions]]
@@ -33744,7 +33744,7 @@ name = "strange-steam"
 Power = 90
 pp = 10
 accuracy = 95
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 789
 [[move.descriptions]]
@@ -33757,7 +33757,7 @@ effect_text = "Inflicts regular damage.  Has a 20% chance to confuse the target.
 [[move]]
 name = "life-dew"
 pp = 10
-type = "<type-water>"
+type = "water"
 kind_of_move = "status"
 effects = []
 id = 790
@@ -33769,7 +33769,7 @@ description = "The user scatters mysterious water around and restores\nthe HP of
 name = "obstruct"
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "status"
 effects = []
 id = 791
@@ -33781,7 +33781,7 @@ description = "This move enables the user to protect itself from all attacks.\nI
 name = "false-surrender"
 Power = 80
 pp = 10
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 792
 [[move.descriptions]]
@@ -33796,7 +33796,7 @@ name = "meteor-assault"
 Power = 150
 pp = 5
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 793
 [[move.descriptions]]
@@ -33811,7 +33811,7 @@ name = "eternabeam"
 Power = 160
 pp = 5
 accuracy = 90
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 794
 [[move.descriptions]]
@@ -33826,7 +33826,7 @@ name = "steel-beam"
 Power = 140
 pp = 5
 accuracy = 95
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "special"
 id = 795
 [[move.descriptions]]
@@ -33841,7 +33841,7 @@ name = "expanding-force"
 Power = 80
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 796
 [[move.descriptions]]
@@ -33856,7 +33856,7 @@ name = "steel-roller"
 Power = 130
 pp = 5
 accuracy = 100
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 id = 797
 [[move.descriptions]]
@@ -33871,7 +33871,7 @@ name = "scale-shot"
 Power = 25
 pp = 20
 accuracy = 90
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 id = 798
 [[move.descriptions]]
@@ -33886,7 +33886,7 @@ name = "meteor-beam"
 Power = 120
 pp = 10
 accuracy = 90
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "special"
 id = 799
 [[move.descriptions]]
@@ -33901,7 +33901,7 @@ name = "shell-side-arm"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 id = 800
 [[move.descriptions]]
@@ -33916,7 +33916,7 @@ name = "misty-explosion"
 Power = 100
 pp = 5
 accuracy = 100
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 id = 801
 [[move.descriptions]]
@@ -33931,7 +33931,7 @@ name = "grassy-glide"
 Power = 55
 pp = 20
 accuracy = 100
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 id = 802
 [[move.descriptions]]
@@ -33946,7 +33946,7 @@ name = "rising-voltage"
 Power = 70
 pp = 20
 accuracy = 100
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 803
 [[move.descriptions]]
@@ -33961,7 +33961,7 @@ name = "terrain-pulse"
 Power = 50
 pp = 10
 accuracy = 100
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 id = 804
 [[move.descriptions]]
@@ -33976,7 +33976,7 @@ name = "skitter-smack"
 Power = 70
 pp = 10
 accuracy = 90
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 id = 805
 [[move.descriptions]]
@@ -33991,7 +33991,7 @@ name = "burning-jealousy"
 Power = 70
 pp = 5
 accuracy = 100
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 id = 806
 [[move.descriptions]]
@@ -34006,7 +34006,7 @@ name = "lash-out"
 Power = 75
 pp = 5
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 807
 [[move.descriptions]]
@@ -34021,7 +34021,7 @@ name = "poltergeist"
 Power = 110
 pp = 5
 accuracy = 90
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 id = 808
 [[move.descriptions]]
@@ -34035,7 +34035,7 @@ effect_text = "Inflicts regular damage."
 name = "corrosive-gas"
 pp = 40
 accuracy = 100
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "status"
 id = 809
 [[move.descriptions]]
@@ -34048,7 +34048,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "coaching"
 pp = 10
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 id = 810
 [[move.descriptions]]
@@ -34063,7 +34063,7 @@ name = "flip-turn"
 Power = 60
 pp = 20
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 811
 [[move.descriptions]]
@@ -34078,7 +34078,7 @@ name = "triple-axel"
 Power = 20
 pp = 10
 accuracy = 90
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 812
 [[move.descriptions]]
@@ -34093,7 +34093,7 @@ name = "dual-wingbeat"
 Power = 40
 pp = 10
 accuracy = 90
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "physical"
 id = 813
 [[move.descriptions]]
@@ -34108,7 +34108,7 @@ name = "scorching-sands"
 Power = 70
 pp = 10
 accuracy = 100
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "special"
 id = 814
 [[move.descriptions]]
@@ -34121,7 +34121,7 @@ effect_text = "Inflicts regular damage."
 [[move]]
 name = "jungle-healing"
 pp = 10
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 id = 815
 [[move.descriptions]]
@@ -34136,7 +34136,7 @@ name = "wicked-blow"
 Power = 75
 pp = 5
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 id = 816
 [[move.descriptions]]
@@ -34151,7 +34151,7 @@ name = "surging-strikes"
 Power = 25
 pp = 5
 accuracy = 100
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 id = 817
 [[move.descriptions]]
@@ -34166,7 +34166,7 @@ name = "thunder-cage"
 Power = 80
 pp = 15
 accuracy = 90
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 id = 818
 [[move.descriptions]]
@@ -34181,7 +34181,7 @@ name = "dragon-energy"
 Power = 150
 pp = 5
 accuracy = 100
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 id = 819
 [[move.descriptions]]
@@ -34196,7 +34196,7 @@ name = "freezing-glare"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 820
 [[move.descriptions]]
@@ -34211,7 +34211,7 @@ name = "fiery-wrath"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "special"
 id = 821
 [[move.descriptions]]
@@ -34226,7 +34226,7 @@ name = "thunderous-kick"
 Power = 90
 pp = 10
 accuracy = 100
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 id = 822
 [[move.descriptions]]
@@ -34241,7 +34241,7 @@ name = "glacial-lance"
 Power = 120
 pp = 5
 accuracy = 100
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 id = 823
 [[move.descriptions]]
@@ -34256,7 +34256,7 @@ name = "astral-barrage"
 Power = 120
 pp = 5
 accuracy = 100
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 id = 824
 [[move.descriptions]]
@@ -34271,7 +34271,7 @@ name = "eerie-spell"
 Power = 80
 pp = 5
 accuracy = 100
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 id = 825
 [[move.descriptions]]
@@ -34287,7 +34287,7 @@ Power = 80
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 effects = []
 id = 826
@@ -34298,7 +34298,7 @@ Power = 70
 pp = 10
 accuracy = 90
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 effects = []
 id = 827
@@ -34308,7 +34308,7 @@ name = "power-shift"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 828
@@ -34319,7 +34319,7 @@ Power = 65
 pp = 15
 accuracy = 90
 descriptions = []
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 effects = []
 id = 829
@@ -34330,7 +34330,7 @@ Power = 100
 pp = 5
 accuracy = 80
 descriptions = []
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 effects = []
 id = 830
@@ -34341,7 +34341,7 @@ Power = 70
 pp = 10
 accuracy = 90
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 effects = []
 id = 831
@@ -34352,7 +34352,7 @@ Power = 120
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 effects = []
 id = 832
@@ -34363,7 +34363,7 @@ Power = 120
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 effects = []
 id = 833
@@ -34374,7 +34374,7 @@ Power = 150
 pp = 5
 accuracy = 95
 descriptions = []
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 effects = []
 id = 834
@@ -34385,7 +34385,7 @@ Power = 100
 pp = 10
 accuracy = 85
 descriptions = []
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 effects = []
 id = 835
@@ -34395,7 +34395,7 @@ name = "victory-dance"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "status"
 effects = []
 id = 836
@@ -34406,7 +34406,7 @@ Power = 120
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "physical"
 effects = []
 id = 837
@@ -34417,7 +34417,7 @@ Power = 60
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 effects = []
 id = 838
@@ -34428,7 +34428,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 effects = []
 id = 839
@@ -34439,7 +34439,7 @@ Power = 75
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 effects = []
 id = 840
@@ -34449,7 +34449,7 @@ name = "shelter"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "status"
 effects = []
 id = 841
@@ -34460,7 +34460,7 @@ Power = 90
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 effects = []
 id = 842
@@ -34471,7 +34471,7 @@ Power = 60
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "special"
 effects = []
 id = 843
@@ -34482,7 +34482,7 @@ Power = 65
 pp = 15
 accuracy = 90
 descriptions = []
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 effects = []
 id = 844
@@ -34493,7 +34493,7 @@ Power = 100
 pp = 10
 accuracy = 80
 descriptions = []
-type = "<type-flying>"
+type = "flying"
 kind_of_move = "special"
 effects = []
 id = 845
@@ -34504,7 +34504,7 @@ Power = 100
 pp = 10
 accuracy = 80
 descriptions = []
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 effects = []
 id = 846
@@ -34515,7 +34515,7 @@ Power = 100
 pp = 10
 accuracy = 80
 descriptions = []
-type = "<type-ground>"
+type = "ground"
 kind_of_move = "special"
 effects = []
 id = 847
@@ -34525,7 +34525,7 @@ name = "lunar-blessing"
 Power = 0
 pp = 5
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 effects = []
 id = 848
@@ -34535,7 +34535,7 @@ name = "take-heart"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "status"
 effects = []
 id = 849
@@ -34546,7 +34546,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 effects = []
 id = 850
@@ -34556,7 +34556,7 @@ name = "silk-trap"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "status"
 effects = []
 id = 851
@@ -34567,7 +34567,7 @@ Power = 120
 pp = 10
 accuracy = 90
 descriptions = []
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 effects = []
 id = 852
@@ -34578,7 +34578,7 @@ Power = 50
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 effects = []
 id = 853
@@ -34589,7 +34589,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 effects = []
 id = 854
@@ -34600,7 +34600,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 effects = []
 id = 855
@@ -34611,7 +34611,7 @@ Power = 60
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 effects = []
 id = 856
@@ -34621,7 +34621,7 @@ name = "spicy-extract"
 Power = 0
 pp = 15
 descriptions = []
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "status"
 effects = []
 id = 857
@@ -34632,7 +34632,7 @@ Power = 100
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 effects = []
 id = 858
@@ -34643,7 +34643,7 @@ Power = 20
 pp = 10
 accuracy = 90
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 effects = []
 id = 859
@@ -34654,7 +34654,7 @@ Power = 80
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "physical"
 effects = []
 id = 860
@@ -34665,7 +34665,7 @@ Power = 120
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "physical"
 effects = []
 id = 861
@@ -34675,7 +34675,7 @@ name = "revival-blessing"
 Power = 0
 pp = 1
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 862
@@ -34686,7 +34686,7 @@ Power = 40
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 effects = []
 id = 863
@@ -34697,7 +34697,7 @@ Power = 30
 pp = 10
 accuracy = 95
 descriptions = []
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 effects = []
 id = 864
@@ -34708,7 +34708,7 @@ Power = 30
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 effects = []
 id = 865
@@ -34719,7 +34719,7 @@ Power = 0
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 866
@@ -34729,7 +34729,7 @@ name = "fillet-away"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 867
@@ -34739,7 +34739,7 @@ name = "kowtow-cleave"
 Power = 85
 pp = 10
 descriptions = []
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 effects = []
 id = 868
@@ -34749,7 +34749,7 @@ name = "flower-trick"
 Power = 70
 pp = 10
 descriptions = []
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 effects = []
 id = 869
@@ -34760,7 +34760,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 effects = []
 id = 870
@@ -34771,7 +34771,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 effects = []
 id = 871
@@ -34782,7 +34782,7 @@ Power = 90
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 effects = []
 id = 872
@@ -34793,7 +34793,7 @@ Power = 120
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "special"
 effects = []
 id = 873
@@ -34804,7 +34804,7 @@ Power = 80
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "physical"
 effects = []
 id = 874
@@ -34815,7 +34815,7 @@ Power = 80
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 effects = []
 id = 875
@@ -34826,7 +34826,7 @@ Power = 1
 pp = 10
 accuracy = 90
 descriptions = []
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "special"
 effects = []
 id = 876
@@ -34837,7 +34837,7 @@ Power = 100
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 effects = []
 id = 877
@@ -34848,7 +34848,7 @@ Power = 100
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 effects = []
 id = 878
@@ -34858,7 +34858,7 @@ name = "shed-tail"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 879
@@ -34868,7 +34868,7 @@ name = "chilly-reception"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "status"
 effects = []
 id = 880
@@ -34878,7 +34878,7 @@ name = "tidy-up"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "status"
 effects = []
 id = 881
@@ -34888,7 +34888,7 @@ name = "snowscape"
 Power = 0
 pp = 10
 descriptions = []
-type = "<type-ice>"
+type = "ice"
 kind_of_move = "status"
 effects = []
 id = 882
@@ -34899,7 +34899,7 @@ Power = 50
 pp = 20
 accuracy = 100
 descriptions = []
-type = "<type-bug>"
+type = "bug"
 kind_of_move = "physical"
 effects = []
 id = 883
@@ -34910,7 +34910,7 @@ Power = 50
 pp = 20
 accuracy = 100
 descriptions = []
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 effects = []
 id = 884
@@ -34921,7 +34921,7 @@ Power = 50
 pp = 20
 accuracy = 100
 descriptions = []
-type = "<type-water>"
+type = "water"
 kind_of_move = "special"
 effects = []
 id = 885
@@ -34932,7 +34932,7 @@ Power = 100
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "physical"
 effects = []
 id = 886
@@ -34943,7 +34943,7 @@ Power = 40
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 effects = []
 id = 887
@@ -34954,7 +34954,7 @@ Power = 50
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-ghost>"
+type = "ghost"
 kind_of_move = "physical"
 effects = []
 id = 888
@@ -34965,7 +34965,7 @@ Power = 120
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "special"
 effects = []
 id = 889
@@ -34976,7 +34976,7 @@ Power = 90
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 effects = []
 id = 890
@@ -34987,7 +34987,7 @@ Power = 120
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 effects = []
 id = 891
@@ -34998,7 +34998,7 @@ Power = 160
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 effects = []
 id = 892
@@ -35009,7 +35009,7 @@ Power = 1
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 effects = []
 id = 893
@@ -35020,7 +35020,7 @@ Power = 70
 pp = 20
 accuracy = 100
 descriptions = []
-type = "<type-water>"
+type = "water"
 kind_of_move = "physical"
 effects = []
 id = 894
@@ -35031,7 +35031,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 effects = []
 id = 895
@@ -35042,7 +35042,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-dark>"
+type = "dark"
 kind_of_move = "physical"
 effects = []
 id = 896
@@ -35053,7 +35053,7 @@ Power = 100
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "physical"
 effects = []
 id = 897
@@ -35064,7 +35064,7 @@ Power = 100
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 effects = []
 id = 898
@@ -35075,7 +35075,7 @@ Power = 100
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "physical"
 effects = []
 id = 899
@@ -35086,7 +35086,7 @@ Power = 140
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 effects = []
 id = 900
@@ -35097,7 +35097,7 @@ Power = 80
 pp = 15
 accuracy = 90
 descriptions = []
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 effects = []
 id = 901
@@ -35108,7 +35108,7 @@ Power = 60
 pp = 10
 accuracy = 85
 descriptions = []
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "special"
 effects = []
 id = 902
@@ -35119,7 +35119,7 @@ Power = 100
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-grass>"
+type = "grass"
 kind_of_move = "physical"
 effects = []
 id = 903
@@ -35130,7 +35130,7 @@ Power = 130
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 effects = []
 id = 904
@@ -35141,7 +35141,7 @@ Power = 120
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-normal>"
+type = "normal"
 kind_of_move = "special"
 effects = []
 id = 905
@@ -35152,7 +35152,7 @@ Power = 80
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "special"
 effects = []
 id = 906
@@ -35163,7 +35163,7 @@ Power = 0
 pp = 10
 accuracy = 0
 descriptions = []
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "status"
 effects = []
 id = 907
@@ -35174,7 +35174,7 @@ Power = 70
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "special"
 effects = []
 id = 908
@@ -35185,7 +35185,7 @@ Power = 95
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-rock>"
+type = "rock"
 kind_of_move = "physical"
 effects = []
 id = 909
@@ -35196,7 +35196,7 @@ Power = 50
 pp = 10
 accuracy = 0
 descriptions = []
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "special"
 effects = []
 id = 910
@@ -35207,7 +35207,7 @@ Power = 0
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-steel>"
+type = "steel"
 kind_of_move = "physical"
 effects = []
 id = 911
@@ -35218,7 +35218,7 @@ Power = 0
 pp = 15
 accuracy = 0
 descriptions = []
-type = "<type-dragon>"
+type = "dragon"
 kind_of_move = "status"
 effects = []
 id = 912
@@ -35229,7 +35229,7 @@ Power = 80
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fairy>"
+type = "fairy"
 kind_of_move = "special"
 effects = []
 id = 913
@@ -35240,7 +35240,7 @@ Power = 75
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-fire>"
+type = "fire"
 kind_of_move = "physical"
 effects = []
 id = 914
@@ -35251,7 +35251,7 @@ Power = 100
 pp = 15
 accuracy = 95
 descriptions = []
-type = "<type-electric>"
+type = "electric"
 kind_of_move = "physical"
 effects = []
 id = 915
@@ -35262,7 +35262,7 @@ Power = 75
 pp = 10
 accuracy = 100
 descriptions = []
-type = "<type-psychic>"
+type = "psychic"
 kind_of_move = "special"
 effects = []
 id = 916
@@ -35273,7 +35273,7 @@ Power = 65
 pp = 15
 accuracy = 100
 descriptions = []
-type = "<type-fighting>"
+type = "fighting"
 kind_of_move = "physical"
 effects = []
 id = 917
@@ -35284,7 +35284,7 @@ Power = 100
 pp = 5
 accuracy = 100
 descriptions = []
-type = "<type-poison>"
+type = "poison"
 kind_of_move = "special"
 effects = []
 id = 918
@@ -35294,7 +35294,7 @@ name = "shadow-rush"
 Power = 55
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "physical"
 id = 919
 [[move.effects]]
@@ -35306,7 +35306,7 @@ name = "shadow-blast"
 Power = 80
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "physical"
 id = 920
 [[move.effects]]
@@ -35318,7 +35318,7 @@ name = "shadow-blitz"
 Power = 40
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "physical"
 id = 921
 [[move.effects]]
@@ -35330,7 +35330,7 @@ name = "shadow-bolt"
 Power = 75
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "special"
 id = 922
 [[move.effects]]
@@ -35342,7 +35342,7 @@ name = "shadow-break"
 Power = 75
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "physical"
 id = 923
 [[move.effects]]
@@ -35354,7 +35354,7 @@ name = "shadow-chill"
 Power = 75
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "special"
 id = 924
 [[move.effects]]
@@ -35366,7 +35366,7 @@ name = "shadow-end"
 Power = 120
 accuracy = 60
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "physical"
 id = 925
 [[move.effects]]
@@ -35378,7 +35378,7 @@ name = "shadow-fire"
 Power = 75
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "special"
 id = 926
 [[move.effects]]
@@ -35390,7 +35390,7 @@ name = "shadow-rave"
 Power = 70
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "special"
 id = 927
 [[move.effects]]
@@ -35402,7 +35402,7 @@ name = "shadow-storm"
 Power = 95
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "special"
 id = 928
 [[move.effects]]
@@ -35414,7 +35414,7 @@ name = "shadow-wave"
 Power = 50
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "special"
 id = 929
 [[move.effects]]
@@ -35425,7 +35425,7 @@ effect_text = "Inflicts regular damage."
 name = "shadow-down"
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "status"
 id = 930
 [[move.effects]]
@@ -35436,7 +35436,7 @@ effect_text = "Lowers the target's Defense by two stages."
 name = "shadow-half"
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "special"
 id = 931
 [[move.effects]]
@@ -35446,7 +35446,7 @@ effect_text = "Halves HP of all Pokémon on the field.  User loses its next turn
 [[move]]
 name = "shadow-hold"
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "status"
 id = 932
 [[move.effects]]
@@ -35457,7 +35457,7 @@ effect_text = "The target cannot switch out normally.  Ignores accuracy and evas
 name = "shadow-mist"
 accuracy = 100
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "status"
 id = 933
 [[move.effects]]
@@ -35468,7 +35468,7 @@ effect_text = "Lowers the target's evasion by two stages."
 name = "shadow-panic"
 accuracy = 90
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "status"
 id = 934
 [[move.effects]]
@@ -35478,7 +35478,7 @@ effect_text = "Confuses the target."
 [[move]]
 name = "shadow-shed"
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "status"
 id = 935
 [[move.effects]]
@@ -35488,7 +35488,7 @@ effect_text = "Removes the effects of light screen, reflect, and safeguard."
 [[move]]
 name = "shadow-sky"
 descriptions = []
-type = "<type-shadow>"
+type = "shadow"
 kind_of_move = "status"
 id = 936
 [[move.effects]]
