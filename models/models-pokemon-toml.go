@@ -45,7 +45,7 @@ type Pokemon struct {
 }
 
 type AllMoves struct {
-	Move []Move `toml:"move"`
+	Moves []Move `toml:"move"`
 }
 type Descriptions struct {
 	Description string `toml:"description"`
