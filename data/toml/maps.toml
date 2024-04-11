@@ -1,0 +1,11 @@
+[map]
+name = ""
+filepath = ""
+tilesetpath = ""
+description = ""
+typeOfMap = ""
+bgMusic = ""
+id = ""
+
+[map.encounter]
+pokemon = {species = "", maxLevel = "", minLevel = "", priorityTile= ""}

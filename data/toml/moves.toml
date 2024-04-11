@@ -35493,5 +35493,3 @@ kind_of_move = "status"
 id = 936
 [[move.effects]]
 effect_text = "Changes the weather to Shadow Sky for five turns.  Pokémon other than shadow Pokémon take 1/16 their max HP at the end of every turn.  This move is typeless for the purposes of weather ball."
-
-

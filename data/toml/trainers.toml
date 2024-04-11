@@ -5,7 +5,7 @@ id = '049a5649-8f58-4121-895b-c09f2f51b2bd'
 classType = 'elite4'
 
 [[trainers.pokemon]]
-species = 'Ninetales'
+species = 'Blastoise'
 level = 100
 moves = ['headbutt', 'body-slam', 'take-down', 'swords-dance']
 heldItem = 'Oran Berry'
@@ -15,5 +15,4 @@ defense = 49
 speed = 45
 specialAttack = 65
 specialDefense = 65
-id = '038'
-
+id = '009'
