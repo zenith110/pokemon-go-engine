@@ -1,9 +1,9 @@
 package models
 
 type MysteryGift struct {
-	Name     string `toml:"Name"`
-	GiftType string `toml:"GiftType"`
-	FileName string `toml:"FileName"`
+	Name     string `toml:"name"`
+	GiftType string `toml:"giftType"`
+	FileName string `toml:"fileName"`
 }
 type PokemonGift struct {
 	Name             string      `toml:"name"`
