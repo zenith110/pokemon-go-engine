@@ -9,4 +9,5 @@ type Project struct {
 	VersionOfEngine string `toml:"versionOfEngine"`
 	CreatedDateTime string `toml:"createdDateTime"`
 	LastUsed        string `toml:"lastedUsed"`
+	ID              string `toml:"id"`
 }
