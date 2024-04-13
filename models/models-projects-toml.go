@@ -8,4 +8,5 @@ type Project struct {
 	FolderLocation  string `toml:"folderLocation"`
 	VersionOfEngine string `toml:"versionOfEngine"`
 	CreatedDateTime string `toml:"createdDateTime"`
+	LastUsed        string `toml:"lastedUsed"`
 }
