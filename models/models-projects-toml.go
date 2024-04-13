@@ -1,7 +1,7 @@
 package models
 
 type Projects struct {
-	Project Project `toml:"project"`
+	Project []Project `toml:"project"`
 }
 type Project struct {
 	Name            string `toml:"name"`

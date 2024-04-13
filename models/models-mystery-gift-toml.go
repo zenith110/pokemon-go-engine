@@ -6,10 +6,10 @@ type MysteryGift struct {
 	FileName string `toml:"FileName"`
 }
 type PokemonGift struct {
-	Name             string      `toml:"Name"`
-	OriginalTrainer  string      `toml:"OriginalTrainer"`
-	BeginningDate    string      `toml:"BeginningDate"`
-	EndDate          string      `toml:"EndDate"`
+	Name             string      `toml:"name"`
+	OriginalTrainer  string      `toml:"originalTrainer"`
+	BeginningDate    string      `toml:"beginningDate"`
+	EndDate          string      `toml:"endDate"`
 	ID               string      `toml:"id"`
 	Species          string      `toml:"species"`
 	Types            []string    `toml:"types"`
@@ -17,7 +17,7 @@ type PokemonGift struct {
 	Moves            []Moves     `toml:"moves"`
 	Stats            Stats       `toml:"stats"`
 	AssetData        AssetData   `toml:"assetData"`
-	Nickname         string      `toml:"Nickname"`
-	LocationOfOrigin string      `toml:"LocationOfOrigin"`
-	Shiny            bool        `toml:"Shiny"`
+	Nickname         string      `toml:"nickname"`
+	LocationOfOrigin string      `toml:"locationOfOrigin"`
+	Shiny            bool        `toml:"shiny"`
 }

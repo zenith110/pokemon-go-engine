@@ -1,7 +1,7 @@
 package models
 
 type Maps struct {
-	Map Map `toml:"map"`
+	Map []Map `toml:"map"`
 }
 type MapPokemon struct {
 	Species      string `toml:"species"`
