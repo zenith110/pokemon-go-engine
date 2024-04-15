@@ -1,6 +1,6 @@
 package models
 
-type OverworldData struct {
+type OverworldsHolder struct {
 	Overworlds []Overworld `toml:"overworld"`
 }
 type Up struct {
@@ -40,6 +40,7 @@ type Running struct {
 type Overworld struct {
 	Name     string   `toml:"name"`
 	ID       string   `toml:"id"`
+	IsPlayer bool     `toml:"isPlayer"`
 	Swimming Swimming `toml:"swimming"`
 	Walking  Walking  `toml:"walking"`
 	Running  Running  `toml:"running"`
