@@ -25,6 +25,14 @@ type Swimming struct {
 	Right []Right `toml:"right"`
 	Left  []Left  `toml:"left"`
 }
+
+type Surfing struct {
+	Up    []Up    `toml:"up"`
+	Down  []Down  `toml:"down"`
+	Right []Right `toml:"right"`
+	Left  []Left  `toml:"left"`
+}
+
 type Walking struct {
 	Up    []Up    `toml:"up"`
 	Down  []Down  `toml:"down"`
@@ -44,4 +52,5 @@ type Overworld struct {
 	Swimming Swimming `toml:"swimming"`
 	Walking  Walking  `toml:"walking"`
 	Running  Running  `toml:"running"`
+	Surfing  Surfing  `toml:"surfing"`
 }
