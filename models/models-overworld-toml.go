@@ -3,47 +3,25 @@ package models
 type OverworldsHolder struct {
 	Overworlds []Overworld `toml:"overworld"`
 }
-type Up struct {
-	ID        int    `toml:"id"`
-	FrameName string `toml:"frameName"`
-}
-type Down struct {
-	ID        int    `toml:"id"`
-	FrameName string `toml:"frameName"`
-}
-type Right struct {
-	ID        int    `toml:"id"`
-	FrameName string `toml:"frameName"`
-}
-type Left struct {
-	ID        int    `toml:"id"`
-	FrameName string `toml:"frameName"`
+type OverworldDirectionFrame struct {
+	Direction   string `toml:"direction"`
+	FrameNumber string `toml:"frameNumber"`
+	Path        string `toml:"path"`
+	Sprite      string `toml:"sprite"`
 }
 type Swimming struct {
-	Up    []Up    `toml:"up"`
-	Down  []Down  `toml:"down"`
-	Right []Right `toml:"right"`
-	Left  []Left  `toml:"left"`
+	OverworldDirectionFrames []OverworldDirectionFrame `toml:"OverworldDirectionFrames"`
 }
 
 type Surfing struct {
-	Up    []Up    `toml:"up"`
-	Down  []Down  `toml:"down"`
-	Right []Right `toml:"right"`
-	Left  []Left  `toml:"left"`
+	OverworldDirectionFrames []OverworldDirectionFrame `toml:"OverworldDirectionFrames"`
 }
 
 type Walking struct {
-	Up    []Up    `toml:"up"`
-	Down  []Down  `toml:"down"`
-	Left  []Left  `toml:"left"`
-	Right []Right `toml:"right"`
+	OverworldDirectionFrames []OverworldDirectionFrame `toml:"OverworldDirectionFrames"`
 }
 type Running struct {
-	Up    []Up    `toml:"up"`
-	Down  []Down  `toml:"down"`
-	Left  []Left  `toml:"left"`
-	Right []Right `toml:"right"`
+	OverworldDirectionFrames []OverworldDirectionFrame `toml:"OverworldDirectionFrames"`
 }
 type Overworld struct {
 	Name     string   `toml:"name"`
