@@ -8,15 +8,14 @@ import (
 	input "github.com/quasilyte/ebitengine-input"
 )
 
+type DiscordRichPresence struct {
+}
 type Game struct {
 	p           *player
 	inputSystem input.System
 }
 
 func (g *Game) Update() error {
-	// g.inputSystem.Update()
-	// g.p.Update()
-	// PlayMusic("data/assets/music/main_menu.ogg")
 	return nil
 }
 
@@ -31,7 +30,12 @@ func (g *Game) Layout(outsideWidth int, outsideHeight int) (screenWidth, screenH
 }
 
 func CreateGame(title string, width int, height int) {
+
 	game := &Game{}
+	var drp DiscordRichPresence
+	drp.SetupRichPresence()
+	data := map[string]string{"state": "Idle", "details": "In home screen", "largeImage": "", "largeText": "", "inBattle": "false"}
+	drp.UpdateRichPresence(data)
 	// SetUpControls(game)
 	ebiten.SetWindowSize(width, height)
 	ebiten.SetWindowTitle("Pokemon Go Engine")
