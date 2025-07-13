@@ -880,8 +880,8 @@ method = "machine"
 
 [[pokemon.evolutions]]
 name = "ivysaur"
-methods = [ "level-up", "16"]
-id = "00002"
+methods = [ "level-up", "32"]
+id = "003"
 
 
 [pokemon.stats]
@@ -1389,16 +1389,6 @@ method = "machine"
 name = "trailblaze"
 level = 0
 method = "machine"
-
-[[pokemon.evolutions]]
-name = "ivysaur"
-methods = [ "level-up", "32"]
-id = "002"
-
-[[pokemon.evolutions]]
-name = "bulbasaur"
-methods = [ "level-up", "16"]
-id = "002"
 
 
 [pokemon.stats]
@@ -3191,10 +3181,6 @@ name = "temper-flare"
 level = 0
 method = "machine"
 
-[[pokemon.evolutions]]
-name = "charmeleon"
-methods = [ "level-up", "16"]
-id = "00006"
 
 
 [pokemon.stats]
@@ -4927,10 +4913,6 @@ name = "chilling-water"
 level = 0
 method = "machine"
 
-[[pokemon.evolutions]]
-name = "wartortle"
-methods = [ "level-up", "16"]
-id = "00009"
 
 
 [pokemon.stats]
