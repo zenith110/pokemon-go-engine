@@ -1,11 +1,13 @@
-[map]
-name = ""
-filepath = ""
-tilesetpath = ""
-description = ""
-typeOfMap = ""
-bgMusic = ""
-id = ""
+[[map]]
+name = 'test'
+id = 1752283420781
+width = 20
+height = 20
+tileSize = 16
 
-[map.encounter]
-pokemon = {species = "", maxLevel = "", minLevel = "", priorityTile= ""}
+[[map.properties]]
+tilesetImagePath = 'data/assets/tilesets/test_1.png'
+filePath = 'data/assets/maps/test.json'
+typeOfMap = 'overworld'
+bgMusic = 'main_menu.ogg'
+description = 'test'

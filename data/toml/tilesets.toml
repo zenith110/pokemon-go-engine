@@ -1,0 +1,7 @@
+[[tilesets]]
+name = 'test'
+tilesetWidth = 16
+tilesetHeight = 16
+typeOfTileSet = 'Overworld'
+path = 'data/assets/tilesets/test_1.png'
+tilesetDescription = 'test'

@@ -1,4 +1,4 @@
 [[music]]
-name = "first-town"
+name = "intro-song"
 id = 1
-src = ""
+src = "data/assets/music/main_menu.ogg"
