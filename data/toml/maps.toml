@@ -1,0 +1,17 @@
+[[map]]
+name = 'test345'
+id = 1753028060448
+width = 20
+height = 20
+tileSize = 16
+grassEncounters = []
+waterEncounters = []
+caveEncounters = []
+fishingEncounters = []
+
+[[map.properties]]
+tilesetImagePath = 'data/assets/tilesets/test_1.png'
+filePath = 'data/assets/maps/test345.json'
+typeOfMap = 'overworld'
+bgMusic = 'main_menu.ogg'
+description = 'test'

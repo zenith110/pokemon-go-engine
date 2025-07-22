@@ -1,0 +1,27 @@
+{
+  "id": 1753028060448,
+  "name": "test345",
+  "width": 20,
+  "height": 20,
+  "tileSize": 16,
+  "type": "overworld",
+  "tilesetPath": "data/assets/tilesets/test_1.png",
+  "layers": [
+    {
+      "id": 1,
+      "name": "Base Layer",
+      "visible": true,
+      "tiles": []
+    }
+  ],
+  "currentlySelectedLayer": "Base Layer",
+  "mapEncounters": {
+    "grass": [],
+    "fishing": [],
+    "cave": [],
+    "diving": []
+  },
+  "properties": {
+    "music": "main_menu.ogg"
+  }
+}
