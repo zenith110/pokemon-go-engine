@@ -19,11 +19,16 @@ type Game struct {
 }
 
 func (g *Game) Update() error {
+	if g.p != nil {
+		g.p.Update()
+	}
 	return nil
 }
 
 func (g *Game) Draw(screen *ebiten.Image) {
-	// g.p.Draw(screen)
+	if g.p != nil {
+		g.p.Draw(screen)
+	}
 	ebitenutil.DebugPrintAt(screen, "New Game", 160, 120)
 	ebitenutil.DebugPrintAt(screen, "Options", 160, 140)
 }
@@ -38,7 +43,7 @@ func CreateGame(title string, width int, height int) {
 	drp.SetupRichPresence()
 	data := map[string]string{"state": "Idle", "details": "In home screen", "largeImage": "", "largeText": "", "inBattle": "false"}
 	drp.UpdateRichPresence(data)
-	// SetUpControls(game)
+	SetUpControls(game)
 	ebiten.SetWindowSize(width, height)
 	ebiten.SetWindowTitle("Pokemon Go Engine")
 	if err := ebiten.RunGame(game); err != nil {

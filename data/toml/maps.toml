@@ -4,7 +4,6 @@ id = 1753028060448
 width = 20
 height = 20
 tileSize = 16
-grassEncounters = []
 waterEncounters = []
 caveEncounters = []
 fishingEncounters = []
@@ -15,3 +14,30 @@ filePath = 'data/assets/maps/test345.json'
 typeOfMap = 'overworld'
 bgMusic = 'main_menu.ogg'
 description = 'test'
+
+[[map.grassEncounters]]
+name = 'Bulbasaur'
+id = '001'
+minLevel = 5
+maxLevel = 10
+rarity = 100
+shiny = false
+timeOfDayToCatch = 'Morning'
+
+[[map.grassEncounters]]
+name = 'Butterfree'
+id = '012'
+minLevel = 5
+maxLevel = 10
+rarity = 100
+shiny = false
+timeOfDayToCatch = 'Afternoon'
+
+[[map.grassEncounters]]
+name = 'Wartortle'
+id = '008'
+minLevel = 5
+maxLevel = 10
+rarity = 100
+shiny = false
+timeOfDayToCatch = 'Night'

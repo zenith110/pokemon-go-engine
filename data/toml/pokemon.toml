@@ -437,7 +437,7 @@
     name = "Venusaur"
     methods = ["level-up", "32"]
     pokemonId = "003"
-    evolutionId = "0e92234c-0d80-4f03-9e47-ed3ddfdccf33"
+    evolutionId = "d935ca37-592a-4d39-9805-c9c7de8ca17b"
   [pokemon.stats]
     hp = 45
     attack = 49
